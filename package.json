@@ -1,0 +1,11 @@
+{
+  "name": "nutribolt-ifct-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local API for NutriBolt IFCT nutrient JSON data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

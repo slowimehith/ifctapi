@@ -1,0 +1,4543 @@
+{
+"Sheet1":[
+ null,
+ {
+  "FOOD CODE": "A001",
+  "FOOD NAME": "Amaranth seed, black (Amaranthus cruentus)",
+  "Total Oxalate (mg)": 226,
+  "Soluble Oxalate (mg)": 37.43,
+  "Insoluble Oxalate (mg)": 188,
+  "Citric Acid (mg)": 8.64,
+  "Fumaric Acid (mg)": 0.15,
+  "Mallic Acid (mg)": 45.78,
+  "Quinic Acid (mg)": 75.53,
+  "Succinic Acid (mg)": 1.47
+ },
+ {
+  "FOOD CODE": "A002",
+  "FOOD NAME": "Amaranth seed, pale brown (Amaranthus cruentus)",
+  "Total Oxalate (mg)": 209,
+  "Soluble Oxalate (mg)": 32.3,
+  "Insoluble Oxalate (mg)": 177,
+  "Cis-Aconitic Acid (mg)": 0.14,
+  "Citric Acid (mg)": 7.93,
+  "Fumaric Acid (mg)": 0.14,
+  "Mallic Acid (mg)": 47.16,
+  "Quinic Acid (mg)": 75.06,
+  "Succinic Acid (mg)": 1.89
+ },
+ {
+  "FOOD CODE": "A003",
+  "FOOD NAME": "Bajra (Pennisetum typhoideum)",
+  "Total Oxalate (mg)": 53.13,
+  "Soluble Oxalate (mg)": 43.49,
+  "Insoluble Oxalate (mg)": 9.88,
+  "Cis-Aconitic Acid (mg)": 0.08,
+  "Fumaric Acid (mg)": 1.99,
+  "Mallic Acid (mg)": 0.86,
+  "Succinic Acid (mg)": 0.02
+ },
+ {
+  "FOOD CODE": "A004",
+  "FOOD NAME": "Barley (Hordeum vulgare)",
+  "Total Oxalate (mg)": 10.98,
+  "Soluble Oxalate (mg)": 8.73,
+  "Insoluble Oxalate (mg)": 2.04,
+  "Cis-Aconitic Acid (mg)": 1.43,
+  "Mallic Acid (mg)": 0.9,
+  "Quinic Acid (mg)": 0.52,
+  "Succinic Acid (mg)": 0.17,
+  "Tartaric Acid (mg)": 3.24
+ },
+ {
+  "FOOD CODE": "A005",
+  "FOOD NAME": "Jowar (Sorghum vulgare)",
+  "Total Oxalate (mg)": 28.38,
+  "Soluble Oxalate (mg)": 24.62,
+  "Insoluble Oxalate (mg)": 1.72,
+  "Fumaric Acid (mg)": 1.84,
+  "Mallic Acid (mg)": 0.51,
+  "Succinic Acid (mg)": 3.88
+ },
+ {
+  "FOOD CODE": "A006",
+  "FOOD NAME": "Maize, dry (Zea mays)",
+  "Total Oxalate (mg)": 15.26,
+  "Soluble Oxalate (mg)": 14.19,
+  "Insoluble Oxalate (mg)": 2.73,
+  "Fumaric Acid (mg)": 0.66,
+  "Mallic Acid (mg)": 0.93,
+  "Quinic Acid (mg)": 0.84,
+  "Succinic Acid (mg)": 1.5,
+  "Tartaric Acid (mg)": 0.94
+ },
+ {
+  "FOOD CODE": "A007",
+  "FOOD NAME": "Maize, tender, local (Zea mays)",
+  "Total Oxalate (mg)": 5.2,
+  "Soluble Oxalate (mg)": 3.98,
+  "Insoluble Oxalate (mg)": 0.92,
+  "Cis-Aconitic Acid (mg)": 0.29,
+  "Fumaric Acid (mg)": 0.46,
+  "Mallic Acid (mg)": 0.73,
+  "Quinic Acid (mg)": 1.83,
+  "Succinic Acid (mg)": 1.22,
+  "Tartaric Acid (mg)": 4.35
+ },
+ {
+  "FOOD CODE": "A008",
+  "FOOD NAME": "Maize, tender, sweet (Zea mays)",
+  "Total Oxalate (mg)": 1.67,
+  "Soluble Oxalate (mg)": 1.45,
+  "Insoluble Oxalate (mg)": 0.34,
+  "Cis-Aconitic Acid (mg)": 0.26,
+  "Fumaric Acid (mg)": 0.78,
+  "Mallic Acid (mg)": 0.64,
+  "Quinic Acid (mg)": 4.56,
+  "Succinic Acid (mg)": 1.9,
+  "Tartaric Acid (mg)": 2.24
+ },
+ {
+  "FOOD CODE": "A009",
+  "FOOD NAME": "Quinoa (Chenopodium quinoa)",
+  "Total Oxalate (mg)": 82.94,
+  "Soluble Oxalate (mg)": 42.22,
+  "Insoluble Oxalate (mg)": 40.72,
+  "Fumaric Acid (mg)": 25.07,
+  "Mallic Acid (mg)": 0.23,
+  "Succinic Acid (mg)": 2.07
+ },
+ {
+  "FOOD CODE": "A010",
+  "FOOD NAME": "Ragi (Eleusine coracana)",
+  "Total Oxalate (mg)": 39.58,
+  "Soluble Oxalate (mg)": 31.16,
+  "Insoluble Oxalate (mg)": 8.58,
+  "Fumaric Acid (mg)": 0.2,
+  "Mallic Acid (mg)": 0.75,
+  "Succinic Acid (mg)": 1.89,
+  "Tartaric Acid (mg)": 1.6
+ },
+ {
+  "FOOD CODE": "A011",
+  "FOOD NAME": "Rice flakes (Oryza sativa )",
+  "Total Oxalate (mg)": 10.97,
+  "Soluble Oxalate (mg)": 8.52,
+  "Insoluble Oxalate (mg)": 2.45,
+  "Fumaric Acid (mg)": 1.28,
+  "Mallic Acid (mg)": 0.48,
+  "Succinic Acid (mg)": 1.35
+ },
+ {
+  "FOOD CODE": "A012",
+  "FOOD NAME": "Rice puffed (Oryza sativa )",
+  "Total Oxalate (mg)": 6.27,
+  "Soluble Oxalate (mg)": 5.59,
+  "Insoluble Oxalate (mg)": 0.68,
+  "Fumaric Acid (mg)": 0.49,
+  "Mallic Acid (mg)": 0.45,
+  "Succinic Acid (mg)": 1.3
+ },
+ {
+  "FOOD CODE": "A013",
+  "FOOD NAME": "Rice, raw, brown (Oryza sativa )",
+  "Total Oxalate (mg)": 12.06,
+  "Soluble Oxalate (mg)": 9.3,
+  "Insoluble Oxalate (mg)": 1.96,
+  "Fumaric Acid (mg)": 1.72,
+  "Mallic Acid (mg)": 0.5,
+  "Succinic Acid (mg)": 1.85
+ },
+ {
+  "FOOD CODE": "A014",
+  "FOOD NAME": "Rice, parboiled, milled (Oryza sativa )",
+  "Total Oxalate (mg)": 5.02,
+  "Soluble Oxalate (mg)": 3.7,
+  "Insoluble Oxalate (mg)": 1.1,
+  "Fumaric Acid (mg)": 0.05,
+  "Mallic Acid (mg)": 0.49,
+  "Succinic Acid (mg)": 1.61
+ },
+ {
+  "FOOD CODE": "A015",
+  "FOOD NAME": "Rice, raw, milled (Oryza sativa )",
+  "Total Oxalate (mg)": 1.92,
+  "Soluble Oxalate (mg)": 1.58,
+  "Insoluble Oxalate (mg)": 0.35,
+  "Fumaric Acid (mg)": 0.07,
+  "Mallic Acid (mg)": 0.48,
+  "Succinic Acid (mg)": 1.54
+ },
+ {
+  "FOOD CODE": "A016",
+  "FOOD NAME": "Samai (Panicum miliare)",
+  "Total Oxalate (mg)": 6.74,
+  "Soluble Oxalate (mg)": 5.4,
+  "Insoluble Oxalate (mg)": 1.61,
+  "Fumaric Acid (mg)": 0.37,
+  "Mallic Acid (mg)": 0.51,
+  "Succinic Acid (mg)": 2.35,
+  "Tartaric Acid (mg)": 6.07
+ },
+ {
+  "FOOD CODE": "A017",
+  "FOOD NAME": "Varagu (Setaria italica)",
+  "Total Oxalate (mg)": 3.48,
+  "Soluble Oxalate (mg)": 2.57,
+  "Insoluble Oxalate (mg)": 0.65,
+  "Cis-Aconitic Acid (mg)": 0.21,
+  "Fumaric Acid (mg)": 0.26,
+  "Mallic Acid (mg)": 0.45,
+  "Succinic Acid (mg)": 1.87
+ },
+ {
+  "FOOD CODE": "A018",
+  "FOOD NAME": "Wheat flour, refined (Triticum aestivum)",
+  "Total Oxalate (mg)": 20.22,
+  "Soluble Oxalate (mg)": 11.02,
+  "Insoluble Oxalate (mg)": 9.2,
+  "Fumaric Acid (mg)": 1.07,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 5.57,
+  "Succinic Acid (mg)": 1.05,
+  "Tartaric Acid (mg)": 1.07
+ },
+ {
+  "FOOD CODE": "A019",
+  "FOOD NAME": "Wheat flour, atta (Triticum aestivum)",
+  "Total Oxalate (mg)": 52.38,
+  "Soluble Oxalate (mg)": 26.2,
+  "Insoluble Oxalate (mg)": 24.18,
+  "Fumaric Acid (mg)": 1.5,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 6.49,
+  "Succinic Acid (mg)": 1.15,
+  "Tartaric Acid (mg)": 1.41
+ },
+ {
+  "FOOD CODE": "A020",
+  "FOOD NAME": "Wheat, whole (Triticum aestivum)",
+  "Total Oxalate (mg)": 52.46,
+  "Soluble Oxalate (mg)": 25.55,
+  "Insoluble Oxalate (mg)": 26.96,
+  "Fumaric Acid (mg)": 1.61,
+  "Mallic Acid (mg)": 0.03,
+  "Quinic Acid (mg)": 6.16,
+  "Succinic Acid (mg)": 1.48,
+  "Tartaric Acid (mg)": 1.72
+ },
+ {
+  "FOOD CODE": "A021",
+  "FOOD NAME": "Wheat, bulgur (Triticum aestivum)",
+  "Total Oxalate (mg)": 40.23,
+  "Soluble Oxalate (mg)": 25.27,
+  "Insoluble Oxalate (mg)": 14.96,
+  "Fumaric Acid (mg)": 1.57,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 6.42,
+  "Succinic Acid (mg)": 1.54,
+  "Tartaric Acid (mg)": 1.43
+ },
+ {
+  "FOOD CODE": "A022",
+  "FOOD NAME": "Wheat, semolina (Triticum aestivum)",
+  "Total Oxalate (mg)": 28.43,
+  "Soluble Oxalate (mg)": 22.74,
+  "Insoluble Oxalate (mg)": 5.9,
+  "Fumaric Acid (mg)": 1.04,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 5.81,
+  "Succinic Acid (mg)": 1.09,
+  "Tartaric Acid (mg)": 1.21
+ },
+ {
+  "FOOD CODE": "A023",
+  "FOOD NAME": "Wheat, vermicelli (Triticum aestivum)",
+  "Total Oxalate (mg)": 23.84,
+  "Soluble Oxalate (mg)": 18.86,
+  "Insoluble Oxalate (mg)": 5.57,
+  "Cis-Aconitic Acid (mg)": 4.2,
+  "Fumaric Acid (mg)": 1.2,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 4.86,
+  "Succinic Acid (mg)": 0.97,
+  "Tartaric Acid (mg)": 0.62
+ },
+ {
+  "FOOD CODE": "A024",
+  "FOOD NAME": "Wheat, vermicelli, roasted (Triticum aestivum)",
+  "Total Oxalate (mg)": 21.91,
+  "Soluble Oxalate (mg)": 17.55,
+  "Insoluble Oxalate (mg)": 5.66,
+  "Cis-Aconitic Acid (mg)": 2.89,
+  "Fumaric Acid (mg)": 1.05,
+  "Mallic Acid (mg)": 0.02,
+  "Quinic Acid (mg)": 4.13,
+  "Succinic Acid (mg)": 0.83,
+  "Tartaric Acid (mg)": 0.64
+ },
+ {
+  "FOOD CODE": "B001",
+  "FOOD NAME": "Bengal gram, dal (Cicer arietinum)",
+  "Total Oxalate (mg)": 6.49,
+  "Soluble Oxalate (mg)": 5.29,
+  "Insoluble Oxalate (mg)": 1.2,
+  "Fumaric Acid (mg)": 55.58,
+  "Mallic Acid (mg)": 0.52,
+  "Succinic Acid (mg)": 0.74
+ },
+ {
+  "FOOD CODE": "B002",
+  "FOOD NAME": "Bengal gram, whole (Cicer arietinum)",
+  "Total Oxalate (mg)": 7.14,
+  "Soluble Oxalate (mg)": 5.57,
+  "Insoluble Oxalate (mg)": 1.7,
+  "Fumaric Acid (mg)": 81.17,
+  "Mallic Acid (mg)": 0.71,
+  "Succinic Acid (mg)": 1.56
+ },
+ {
+  "FOOD CODE": "B003",
+  "FOOD NAME": "Black gram, dal (Phaseolus mungo)",
+  "Total Oxalate (mg)": 43.78,
+  "Soluble Oxalate (mg)": 24.5,
+  "Insoluble Oxalate (mg)": 19.68,
+  "Fumaric Acid (mg)": 1.65,
+  "Mallic Acid (mg)": 0.54,
+  "Succinic Acid (mg)": 0.79
+ },
+ {
+  "FOOD CODE": "B004",
+  "FOOD NAME": "Black gram, whole (Phaseolus mungo)",
+  "Total Oxalate (mg)": 56.25,
+  "Soluble Oxalate (mg)": 34.17,
+  "Insoluble Oxalate (mg)": 22.09,
+  "Fumaric Acid (mg)": 18.01,
+  "Mallic Acid (mg)": 0.6,
+  "Succinic Acid (mg)": 2.16
+ },
+ {
+  "FOOD CODE": "B005",
+  "FOOD NAME": "Cowpea, brown (Vigna catjang)",
+  "Total Oxalate (mg)": 14.34,
+  "Soluble Oxalate (mg)": 10.83,
+  "Insoluble Oxalate (mg)": 2.55,
+  "Cis-Aconitic Acid (mg)": 0.02,
+  "Fumaric Acid (mg)": 1.54,
+  "Mallic Acid (mg)": 0.68,
+  "Succinic Acid (mg)": 5.38
+ },
+ {
+  "FOOD CODE": "B006",
+  "FOOD NAME": "Cowpea, white (Vigna catjang)",
+  "Total Oxalate (mg)": 17.23,
+  "Soluble Oxalate (mg)": 1.29,
+  "Insoluble Oxalate (mg)": 15.94,
+  "Cis-Aconitic Acid (mg)": 0.02,
+  "Fumaric Acid (mg)": 1.21,
+  "Mallic Acid (mg)": 0.82,
+  "Succinic Acid (mg)": 1.35
+ },
+ {
+  "FOOD CODE": "B007",
+  "FOOD NAME": "Field bean, black (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 1.28,
+  "Soluble Oxalate (mg)": 1.1,
+  "Insoluble Oxalate (mg)": 0.18,
+  "Fumaric Acid (mg)": 3.83,
+  "Mallic Acid (mg)": 0.44,
+  "Succinic Acid (mg)": 6.84
+ },
+ {
+  "FOOD CODE": "B008",
+  "FOOD NAME": "Field bean, brown (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 1.26,
+  "Soluble Oxalate (mg)": 1.1,
+  "Insoluble Oxalate (mg)": 0.16,
+  "Fumaric Acid (mg)": 2.24,
+  "Mallic Acid (mg)": 0.52,
+  "Succinic Acid (mg)": 4.52
+ },
+ {
+  "FOOD CODE": "B009",
+  "FOOD NAME": "Field bean, white (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 1.23,
+  "Soluble Oxalate (mg)": 0.97,
+  "Insoluble Oxalate (mg)": 0.31,
+  "Fumaric Acid (mg)": 3.12,
+  "Mallic Acid (mg)": 0.89,
+  "Succinic Acid (mg)": 1.67
+ },
+ {
+  "FOOD CODE": "B010",
+  "FOOD NAME": "Green gram, dal (Phaseolus aureus)",
+  "Total Oxalate (mg)": 2.46,
+  "Soluble Oxalate (mg)": 1.94,
+  "Insoluble Oxalate (mg)": 0.52,
+  "Fumaric Acid (mg)": 2.16,
+  "Mallic Acid (mg)": 1.5,
+  "Succinic Acid (mg)": 1.33
+ },
+ {
+  "FOOD CODE": "B011",
+  "FOOD NAME": "Green gram, whole (Phaseolus aureus)",
+  "Total Oxalate (mg)": 12.29,
+  "Soluble Oxalate (mg)": 10.57,
+  "Insoluble Oxalate (mg)": 1.72,
+  "Fumaric Acid (mg)": 5.98,
+  "Mallic Acid (mg)": 1.84,
+  "Succinic Acid (mg)": 1.34
+ },
+ {
+  "FOOD CODE": "B012",
+  "FOOD NAME": "Horse gram, whole (Dolicus biflorus)",
+  "Total Oxalate (mg)": 181,
+  "Soluble Oxalate (mg)": 144,
+  "Insoluble Oxalate (mg)": 38.36,
+  "Fumaric Acid (mg)": 37.04,
+  "Mallic Acid (mg)": 0.37,
+  "Succinic Acid (mg)": 0.68
+ },
+ {
+  "FOOD CODE": "B013",
+  "FOOD NAME": "Lentil dal (Lens culinaris)",
+  "Total Oxalate (mg)": 10.46,
+  "Soluble Oxalate (mg)": 8.42,
+  "Insoluble Oxalate (mg)": 2.04,
+  "Fumaric Acid (mg)": 2.77,
+  "Mallic Acid (mg)": 0.18,
+  "Quinic Acid (mg)": 21.37,
+  "Succinic Acid (mg)": 0.7,
+  "Tartaric Acid (mg)": 0.12
+ },
+ {
+  "FOOD CODE": "B014",
+  "FOOD NAME": "Lentil whole, brown (Lens culinaris)",
+  "Total Oxalate (mg)": 10.74,
+  "Soluble Oxalate (mg)": 8.71,
+  "Insoluble Oxalate (mg)": 3.04,
+  "Cis-Aconitic Acid (mg)": 1.56,
+  "Fumaric Acid (mg)": 0.04,
+  "Mallic Acid (mg)": 0.5,
+  "Quinic Acid (mg)": 25.17,
+  "Succinic Acid (mg)": 1.57,
+  "Tartaric Acid (mg)": 10.13
+ },
+ {
+  "FOOD CODE": "B015",
+  "FOOD NAME": "Lentil whole, yellowish (Lens culinaris)",
+  "Total Oxalate (mg)": 13.88,
+  "Soluble Oxalate (mg)": 10.76,
+  "Insoluble Oxalate (mg)": 3.38,
+  "Cis-Aconitic Acid (mg)": 1.35,
+  "Fumaric Acid (mg)": 0.1,
+  "Mallic Acid (mg)": 0.68,
+  "Quinic Acid (mg)": 23.29,
+  "Succinic Acid (mg)": 1.31,
+  "Tartaric Acid (mg)": 12.95
+ },
+ {
+  "FOOD CODE": "B016",
+  "FOOD NAME": "Moth bean (Vigna aconitifolia)",
+  "Total Oxalate (mg)": 36.11,
+  "Soluble Oxalate (mg)": 28.72,
+  "Insoluble Oxalate (mg)": 10.15,
+  "Fumaric Acid (mg)": 2.25,
+  "Mallic Acid (mg)": 0.71,
+  "Succinic Acid (mg)": 4.25
+ },
+ {
+  "FOOD CODE": "B017",
+  "FOOD NAME": "Peas, dry (Pisum sativum)",
+  "Total Oxalate (mg)": 8.89,
+  "Soluble Oxalate (mg)": 6.75,
+  "Insoluble Oxalate (mg)": 2.35,
+  "Cis-Aconitic Acid (mg)": 2.98,
+  "Fumaric Acid (mg)": 1.32,
+  "Mallic Acid (mg)": 0.82,
+  "Quinic Acid (mg)": 83.15,
+  "Succinic Acid (mg)": 3.48
+ },
+ {
+  "FOOD CODE": "B018",
+  "FOOD NAME": "Rajmah, black (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 48.66,
+  "Soluble Oxalate (mg)": 45.46,
+  "Insoluble Oxalate (mg)": 3.2,
+  "Fumaric Acid (mg)": 2.72,
+  "Mallic Acid (mg)": 1.2,
+  "Succinic Acid (mg)": 3.71
+ },
+ {
+  "FOOD CODE": "B019",
+  "FOOD NAME": "Rajmah, brown (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 43.41,
+  "Soluble Oxalate (mg)": 33.48,
+  "Insoluble Oxalate (mg)": 8.16,
+  "Fumaric Acid (mg)": 2.4,
+  "Mallic Acid (mg)": 0.73,
+  "Succinic Acid (mg)": 3.48
+ },
+ {
+  "FOOD CODE": "B020",
+  "FOOD NAME": "Rajmah, red (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 41.44,
+  "Soluble Oxalate (mg)": 38.84,
+  "Insoluble Oxalate (mg)": 2.6,
+  "Fumaric Acid (mg)": 2.19,
+  "Mallic Acid (mg)": 0.67,
+  "Succinic Acid (mg)": 3.76
+ },
+ {
+  "FOOD CODE": "B021",
+  "FOOD NAME": "Red gram, dal (Cajanus cajan)",
+  "Total Oxalate (mg)": 1.41,
+  "Soluble Oxalate (mg)": 1.2,
+  "Insoluble Oxalate (mg)": 0.22,
+  "Fumaric Acid (mg)": 0.48,
+  "Mallic Acid (mg)": 0.56,
+  "Quinic Acid (mg)": 3.28,
+  "Succinic Acid (mg)": 0.55,
+  "Tartaric Acid (mg)": 2.02
+ },
+ {
+  "FOOD CODE": "B022",
+  "FOOD NAME": "Red gram, whole (Cajanus cajan)",
+  "Total Oxalate (mg)": 1.65,
+  "Soluble Oxalate (mg)": 1.33,
+  "Insoluble Oxalate (mg)": 0.32,
+  "Fumaric Acid (mg)": 4.13,
+  "Mallic Acid (mg)": 1.53,
+  "Quinic Acid (mg)": 4.03,
+  "Succinic Acid (mg)": 1.55,
+  "Tartaric Acid (mg)": 2.2
+ },
+ {
+  "FOOD CODE": "B023",
+  "FOOD NAME": "Ricebean (Vigna umbellata )",
+  "Total Oxalate (mg)": 391,
+  "Soluble Oxalate (mg)": 70.36,
+  "Insoluble Oxalate (mg)": 321,
+  "Fumaric Acid (mg)": 20.05,
+  "Mallic Acid (mg)": 3.86,
+  "Succinic Acid (mg)": 0.4
+ },
+ {
+  "FOOD CODE": "B024",
+  "FOOD NAME": "Soya bean, brown (Glycine max)",
+  "Total Oxalate (mg)": 122,
+  "Soluble Oxalate (mg)": 8.19,
+  "Insoluble Oxalate (mg)": 114,
+  "Fumaric Acid (mg)": 31.91,
+  "Mallic Acid (mg)": 1.34,
+  "Succinic Acid (mg)": 0.82
+ },
+ {
+  "FOOD CODE": "B025",
+  "FOOD NAME": "Soya bean, white (Glycine max)",
+  "Total Oxalate (mg)": 119,
+  "Soluble Oxalate (mg)": 8.18,
+  "Insoluble Oxalate (mg)": 111,
+  "Citric Acid (mg)": 0.08,
+  "Fumaric Acid (mg)": 33.52,
+  "Mallic Acid (mg)": 1.32,
+  "Succinic Acid (mg)": 0.89
+ },
+ {
+  "FOOD CODE": "C001",
+  "FOOD NAME": "Agathi leaves (Sesbania grandiflora)",
+  "Total Oxalate (mg)": 179,
+  "Soluble Oxalate (mg)": 8.06,
+  "Insoluble Oxalate (mg)": 171,
+  "Citric Acid (mg)": 2.46,
+  "Fumaric Acid (mg)": 7.26,
+  "Mallic Acid (mg)": 7.59,
+  "Succinic Acid (mg)": 3.27
+ },
+ {
+  "FOOD CODE": "C002",
+  "FOOD NAME": "Amaranth leaves, green (Amaranthus gangeticus)",
+  "Total Oxalate (mg)": 779,
+  "Soluble Oxalate (mg)": 198,
+  "Insoluble Oxalate (mg)": 582,
+  "Citric Acid (mg)": 2.7,
+  "Fumaric Acid (mg)": 3.64,
+  "Mallic Acid (mg)": 5.03,
+  "Succinic Acid (mg)": 3.78
+ },
+ {
+  "FOOD CODE": "C003",
+  "FOOD NAME": "Amaranth leaves, red (Amaranthus gangeticus)",
+  "Total Oxalate (mg)": 823,
+  "Soluble Oxalate (mg)": 185,
+  "Insoluble Oxalate (mg)": 438,
+  "Citric Acid (mg)": 2.79,
+  "Fumaric Acid (mg)": 2.99,
+  "Mallic Acid (mg)": 4.52,
+  "Succinic Acid (mg)": 2.98
+ },
+ {
+  "FOOD CODE": "C004",
+  "FOOD NAME": "Amaranth leaves, red and green (Amaranthus gangeticus)",
+  "Total Oxalate (mg)": 676,
+  "Soluble Oxalate (mg)": 188,
+  "Insoluble Oxalate (mg)": 489,
+  "Citric Acid (mg)": 2.76,
+  "Fumaric Acid (mg)": 2.87,
+  "Mallic Acid (mg)": 5.97,
+  "Succinic Acid (mg)": 2.39
+ },
+ {
+  "FOOD CODE": "C005",
+  "FOOD NAME": "Amaranth spinosus, leaves, green (Amaranthus spinosus)",
+  "Total Oxalate (mg)": 1073,
+  "Soluble Oxalate (mg)": 81.78,
+  "Insoluble Oxalate (mg)": 991,
+  "Cis-Aconitic Acid (mg)": 6.11,
+  "Citric Acid (mg)": 2.58,
+  "Fumaric Acid (mg)": 11.15,
+  "Mallic Acid (mg)": 3.84
+ },
+ {
+  "FOOD CODE": "C006",
+  "FOOD NAME": "Amaranth spinosus, leaves, red and green (Amaranthus spinosus)",
+  "Total Oxalate (mg)": 1045,
+  "Soluble Oxalate (mg)": 90.2,
+  "Insoluble Oxalate (mg)": 955,
+  "Cis-Aconitic Acid (mg)": 6.19,
+  "Citric Acid (mg)": 2.52,
+  "Fumaric Acid (mg)": 15.45,
+  "Mallic Acid (mg)": 4.67,
+  "Succinic Acid (mg)": 3.39
+ },
+ {
+  "FOOD CODE": "C007",
+  "FOOD NAME": "Basella leaves (Basella alba)",
+  "Total Oxalate (mg)": 170,
+  "Soluble Oxalate (mg)": 35.47,
+  "Insoluble Oxalate (mg)": 133,
+  "Citric Acid (mg)": 8.18,
+  "Fumaric Acid (mg)": 0.33,
+  "Mallic Acid (mg)": 1.4,
+  "Succinic Acid (mg)": 4.72
+ },
+ {
+  "FOOD CODE": "C008",
+  "FOOD NAME": "Bathua leaves (Chenopodium album)",
+  "Total Oxalate (mg)": 1077,
+  "Soluble Oxalate (mg)": 228,
+  "Insoluble Oxalate (mg)": 850,
+  "Cis-Aconitic Acid (mg)": 3.08,
+  "Citric Acid (mg)": 8.64,
+  "Fumaric Acid (mg)": 0.46,
+  "Mallic Acid (mg)": 5.53,
+  "Succinic Acid (mg)": 1.32
+ },
+ {
+  "FOOD CODE": "C009",
+  "FOOD NAME": "Beet greens (Beta vulgaris)",
+  "Total Oxalate (mg)": 127,
+  "Soluble Oxalate (mg)": 34.98,
+  "Insoluble Oxalate (mg)": 92.38,
+  "Citric Acid (mg)": 2.27,
+  "Fumaric Acid (mg)": 0.32,
+  "Mallic Acid (mg)": 3.17,
+  "Succinic Acid (mg)": 62.38
+ },
+ {
+  "FOOD CODE": "C010",
+  "FOOD NAME": "Betel leaves, big (kolkata) (Piper betle)",
+  "Total Oxalate (mg)": 493,
+  "Soluble Oxalate (mg)": 151,
+  "Insoluble Oxalate (mg)": 342,
+  "Citric Acid (mg)": 2.27,
+  "Fumaric Acid (mg)": 0.58,
+  "Mallic Acid (mg)": 6.25,
+  "Quinic Acid (mg)": 0.27,
+  "Succinic Acid (mg)": 10.74,
+  "Tartaric Acid (mg)": 145
+ },
+ {
+  "FOOD CODE": "C011",
+  "FOOD NAME": "Betel leaves, small (Piper betle)",
+  "Total Oxalate (mg)": 577,
+  "Soluble Oxalate (mg)": 183,
+  "Insoluble Oxalate (mg)": 393,
+  "Citric Acid (mg)": 1.65,
+  "Fumaric Acid (mg)": 0.27,
+  "Mallic Acid (mg)": 5.39,
+  "Quinic Acid (mg)": 0.32,
+  "Succinic Acid (mg)": 12.62,
+  "Tartaric Acid (mg)": 51.07
+ },
+ {
+  "FOOD CODE": "C012",
+  "FOOD NAME": "Brussels sprouts (Brassica oleracea var. gemmifera)",
+  "Total Oxalate (mg)": 12.4,
+  "Soluble Oxalate (mg)": 4.67,
+  "Insoluble Oxalate (mg)": 7.73,
+  "Citric Acid (mg)": 2.63,
+  "Fumaric Acid (mg)": 2.24,
+  "Mallic Acid (mg)": 4.07,
+  "Succinic Acid (mg)": 11.56
+ },
+ {
+  "FOOD CODE": "C013",
+  "FOOD NAME": "Cabbage, Chinese (Brassica rupa)",
+  "Total Oxalate (mg)": 16.55,
+  "Soluble Oxalate (mg)": 1.85,
+  "Insoluble Oxalate (mg)": 14.77,
+  "Citric Acid (mg)": 67.54,
+  "Fumaric Acid (mg)": 0.41,
+  "Mallic Acid (mg)": 5.65,
+  "Quinic Acid (mg)": 88.3,
+  "Succinic Acid (mg)": 85
+ },
+ {
+  "FOOD CODE": "C014",
+  "FOOD NAME": "Cabbage, collard greens (Brassica oleracea var. viridis)",
+  "Total Oxalate (mg)": 9.42,
+  "Soluble Oxalate (mg)": 0.8,
+  "Insoluble Oxalate (mg)": 8.62,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 45.82,
+  "Fumaric Acid (mg)": 0.81,
+  "Mallic Acid (mg)": 0.55,
+  "Quinic Acid (mg)": 58.3,
+  "Succinic Acid (mg)": 89.66,
+  "Tartaric Acid (mg)": 2.98
+ },
+ {
+  "FOOD CODE": "C015",
+  "FOOD NAME": "Cabbage, green (Brassica oleracea var. capitata f. alba)",
+  "Total Oxalate (mg)": 2.88,
+  "Soluble Oxalate (mg)": 0.53,
+  "Insoluble Oxalate (mg)": 2.35,
+  "Cis-Aconitic Acid (mg)": 0.04,
+  "Citric Acid (mg)": 64.87,
+  "Fumaric Acid (mg)": 0.82,
+  "Mallic Acid (mg)": 0.22,
+  "Quinic Acid (mg)": 90.09,
+  "Succinic Acid (mg)": 90,
+  "Tartaric Acid (mg)": 2.04
+ },
+ {
+  "FOOD CODE": "C016",
+  "FOOD NAME": "Cabbage, violet (Brassica oleracea var. capitata f. rubra)",
+  "Total Oxalate (mg)": 2.7,
+  "Soluble Oxalate (mg)": 0.26,
+  "Insoluble Oxalate (mg)": 2.45,
+  "Cis-Aconitic Acid (mg)": 0.02,
+  "Citric Acid (mg)": 61.73,
+  "Fumaric Acid (mg)": 0.78,
+  "Mallic Acid (mg)": 0.62,
+  "Quinic Acid (mg)": 37.25,
+  "Succinic Acid (mg)": 88.78,
+  "Tartaric Acid (mg)": 2.43
+ },
+ {
+  "FOOD CODE": "C017",
+  "FOOD NAME": "Cauliflower leaves (Brassica oleracea var. botrytis)",
+  "Total Oxalate (mg)": 172,
+  "Soluble Oxalate (mg)": 10.1,
+  "Insoluble Oxalate (mg)": 162,
+  "Citric Acid (mg)": 62.21,
+  "Fumaric Acid (mg)": 0.35,
+  "Mallic Acid (mg)": 1.82,
+  "Quinic Acid (mg)": 3.45,
+  "Succinic Acid (mg)": 48.86,
+  "Tartaric Acid (mg)": 4.2
+ },
+ {
+  "FOOD CODE": "C018",
+  "FOOD NAME": "Colocasia leaves, green (Colocasia anti-quorum)",
+  "Total Oxalate (mg)": 701,
+  "Soluble Oxalate (mg)": 208,
+  "Insoluble Oxalate (mg)": 492,
+  "Citric Acid (mg)": 19.37,
+  "Fumaric Acid (mg)": 3.95,
+  "Mallic Acid (mg)": 56.27,
+  "Succinic Acid (mg)": 212
+ },
+ {
+  "FOOD CODE": "C019",
+  "FOOD NAME": "Drumstick leaves (Moringa oleifera)",
+  "Total Oxalate (mg)": 120,
+  "Soluble Oxalate (mg)": 13.69,
+  "Insoluble Oxalate (mg)": 107,
+  "Citric Acid (mg)": 19.22,
+  "Mallic Acid (mg)": 88.4,
+  "Quinic Acid (mg)": 105,
+  "Succinic Acid (mg)": 101
+ },
+ {
+  "FOOD CODE": "C020",
+  "FOOD NAME": "Fenugreek leaves (Trigonella foenum graecum)",
+  "Total Oxalate (mg)": 34.29,
+  "Soluble Oxalate (mg)": 9.08,
+  "Insoluble Oxalate (mg)": 25.21,
+  "Citric Acid (mg)": 32.26,
+  "Fumaric Acid (mg)": 8.41,
+  "Mallic Acid (mg)": 130,
+  "Quinic Acid (mg)": 189,
+  "Succinic Acid (mg)": 16.47
+ },
+ {
+  "FOOD CODE": "C021",
+  "FOOD NAME": "Garden cress (Lepidium sativum)",
+  "Total Oxalate (mg)": 115,
+  "Soluble Oxalate (mg)": 30.47,
+  "Insoluble Oxalate (mg)": 84.15,
+  "Citric Acid (mg)": 7.13,
+  "Fumaric Acid (mg)": 5.64,
+  "Mallic Acid (mg)": 85.23,
+  "Succinic Acid (mg)": 152
+ },
+ {
+  "FOOD CODE": "C022",
+  "FOOD NAME": "Gogu leaves, green (Hibiscus cannabinus)",
+  "Total Oxalate (mg)": 177,
+  "Soluble Oxalate (mg)": 33.01,
+  "Insoluble Oxalate (mg)": 144,
+  "Cis-Aconitic Acid (mg)": 7.51,
+  "Citric Acid (mg)": 3.99,
+  "Fumaric Acid (mg)": 11.56,
+  "Mallic Acid (mg)": 40.77,
+  "Quinic Acid (mg)": 102,
+  "Succinic Acid (mg)": 25.25
+ },
+ {
+  "FOOD CODE": "C023",
+  "FOOD NAME": "Gogu leaves, red (Hibiscus cannabinus)",
+  "Total Oxalate (mg)": 187,
+  "Soluble Oxalate (mg)": 31.86,
+  "Insoluble Oxalate (mg)": 155,
+  "Cis-Aconitic Acid (mg)": 6.86,
+  "Citric Acid (mg)": 3.42,
+  "Fumaric Acid (mg)": 11.82,
+  "Mallic Acid (mg)": 34.63,
+  "Quinic Acid (mg)": 105,
+  "Succinic Acid (mg)": 22.4
+ },
+ {
+  "FOOD CODE": "C024",
+  "FOOD NAME": "Knol-Khol, leaves (Brassica oleracea var. gongylodes)",
+  "Total Oxalate (mg)": 2.92,
+  "Soluble Oxalate (mg)": 1.88,
+  "Insoluble Oxalate (mg)": 1.04,
+  "Citric Acid (mg)": 5.47,
+  "Fumaric Acid (mg)": 3.87,
+  "Mallic Acid (mg)": 38.98,
+  "Succinic Acid (mg)": 26.96
+ },
+ {
+  "FOOD CODE": "C025",
+  "FOOD NAME": "Lettuce (Lactuca sativa)",
+  "Total Oxalate (mg)": 364,
+  "Soluble Oxalate (mg)": 72.08,
+  "Insoluble Oxalate (mg)": 292,
+  "Citric Acid (mg)": 9.24,
+  "Fumaric Acid (mg)": 1.99,
+  "Mallic Acid (mg)": 63.28,
+  "Quinic Acid (mg)": 12.74,
+  "Succinic Acid (mg)": 60
+ },
+ {
+  "FOOD CODE": "C026",
+  "FOOD NAME": "Mustard leaves (Brassica juncea)",
+  "Total Oxalate (mg)": 1.69,
+  "Soluble Oxalate (mg)": 1.49,
+  "Insoluble Oxalate (mg)": 0.2,
+  "Citric Acid (mg)": 4.62,
+  "Fumaric Acid (mg)": 4.07,
+  "Mallic Acid (mg)": 0.68,
+  "Succinic Acid (mg)": 22.73
+ },
+ {
+  "FOOD CODE": "C027",
+  "FOOD NAME": "Pak Choi leaves (Brassica rapa Chinensis)",
+  "Total Oxalate (mg)": 14.35,
+  "Soluble Oxalate (mg)": 2.15,
+  "Insoluble Oxalate (mg)": 12.2,
+  "Citric Acid (mg)": 35.85,
+  "Fumaric Acid (mg)": 1.01,
+  "Mallic Acid (mg)": 1.82,
+  "Quinic Acid (mg)": 4.75,
+  "Succinic Acid (mg)": 79.88,
+  "Tartaric Acid (mg)": 3.14
+ },
+ {
+  "FOOD CODE": "C028",
+  "FOOD NAME": "Parsley (Petroselinum crispum)",
+  "Total Oxalate (mg)": 128,
+  "Soluble Oxalate (mg)": 11.5,
+  "Insoluble Oxalate (mg)": 116,
+  "Cis-Aconitic Acid (mg)": 113,
+  "Citric Acid (mg)": 1.36,
+  "Fumaric Acid (mg)": 0.83,
+  "Mallic Acid (mg)": 113,
+  "Succinic Acid (mg)": 104
+ },
+ {
+  "FOOD CODE": "C029",
+  "FOOD NAME": "Ponnaganni (Alternanthera sessilis)",
+  "Total Oxalate (mg)": 465,
+  "Soluble Oxalate (mg)": 165,
+  "Insoluble Oxalate (mg)": 299,
+  "Citric Acid (mg)": 5.82,
+  "Fumaric Acid (mg)": 0.83,
+  "Succinic Acid (mg)": 246
+ },
+ {
+  "FOOD CODE": "C030",
+  "FOOD NAME": "Pumpkin leaves, tender (Cucurbita maxima)",
+  "Total Oxalate (mg)": 13.61,
+  "Soluble Oxalate (mg)": 5.06,
+  "Insoluble Oxalate (mg)": 8.55,
+  "Cis-Aconitic Acid (mg)": 30.67,
+  "Citric Acid (mg)": 7.74,
+  "Fumaric Acid (mg)": 14.35,
+  "Mallic Acid (mg)": 30.67,
+  "Quinic Acid (mg)": 20.22,
+  "Succinic Acid (mg)": 54.07
+ },
+ {
+  "FOOD CODE": "C031",
+  "FOOD NAME": "Radish leaves (Raphanus sativus)",
+  "Total Oxalate (mg)": 53.83,
+  "Soluble Oxalate (mg)": 23.46,
+  "Insoluble Oxalate (mg)": 30.37,
+  "Cis-Aconitic Acid (mg)": 6.04,
+  "Citric Acid (mg)": 3.15,
+  "Fumaric Acid (mg)": 1.66,
+  "Mallic Acid (mg)": 6.04,
+  "Quinic Acid (mg)": 22.96,
+  "Succinic Acid (mg)": 139
+ },
+ {
+  "FOOD CODE": "C032",
+  "FOOD NAME": "Rumex leaves (Rumex patientia )",
+  "Total Oxalate (mg)": 93.76,
+  "Soluble Oxalate (mg)": 45.96,
+  "Insoluble Oxalate (mg)": 47.81,
+  "Cis-Aconitic Acid (mg)": 1.64,
+  "Citric Acid (mg)": 9.68,
+  "Fumaric Acid (mg)": 3.91,
+  "Mallic Acid (mg)": 1.64,
+  "Succinic Acid (mg)": 2.58,
+  "Tartaric Acid (mg)": 4.06
+ },
+ {
+  "FOOD CODE": "C033",
+  "FOOD NAME": "Spinach (Spinacia oleracea)",
+  "Total Oxalate (mg)": 592,
+  "Soluble Oxalate (mg)": 241,
+  "Insoluble Oxalate (mg)": 351,
+  "Cis-Aconitic Acid (mg)": 15.79,
+  "Citric Acid (mg)": 67.34,
+  "Fumaric Acid (mg)": 5.44,
+  "Mallic Acid (mg)": 15.79,
+  "Quinic Acid (mg)": 254,
+  "Succinic Acid (mg)": 1.64
+ },
+ {
+  "FOOD CODE": "C034",
+  "FOOD NAME": "Tamarind leaves, tender (Tamarindus indica)",
+  "Total Oxalate (mg)": 150,
+  "Soluble Oxalate (mg)": 72.63,
+  "Insoluble Oxalate (mg)": 77.44,
+  "Fumaric Acid (mg)": 6.46,
+  "Succinic Acid (mg)": 195,
+  "Tartaric Acid (mg)": 44.76
+ },
+ {
+  "FOOD CODE": "D001",
+  "FOOD NAME": "Ash gourd (Benincasa hispida)",
+  "Total Oxalate (mg)": 4.89,
+  "Soluble Oxalate (mg)": 3.28,
+  "Insoluble Oxalate (mg)": 1.61,
+  "Citric Acid (mg)": 36.91,
+  "Fumaric Acid (mg)": 0.57
+ },
+ {
+  "FOOD CODE": "D002",
+  "FOOD NAME": "Bamboo shoot, tender (Bambusa vulgaris)",
+  "Total Oxalate (mg)": 85.7,
+  "Soluble Oxalate (mg)": 75.01,
+  "Insoluble Oxalate (mg)": 10.69,
+  "Cis-Aconitic Acid (mg)": 2.6,
+  "Citric Acid (mg)": 12.53,
+  "Fumaric Acid (mg)": 0.1,
+  "Mallic Acid (mg)": 2.6,
+  "Quinic Acid (mg)": 30.26,
+  "Succinic Acid (mg)": 103
+ },
+ {
+  "FOOD CODE": "D003",
+  "FOOD NAME": "Bean scarlet, tender (Phaseolus coccineus)",
+  "Total Oxalate (mg)": 20.97,
+  "Soluble Oxalate (mg)": 5.72,
+  "Insoluble Oxalate (mg)": 16.88,
+  "Cis-Aconitic Acid (mg)": 35.7,
+  "Citric Acid (mg)": 21.45,
+  "Fumaric Acid (mg)": 1.79,
+  "Mallic Acid (mg)": 35.91,
+  "Succinic Acid (mg)": 174
+ },
+ {
+  "FOOD CODE": "D004",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, elongate (Momordica charantia)",
+  "Total Oxalate (mg)": 45.4,
+  "Soluble Oxalate (mg)": 17.53,
+  "Insoluble Oxalate (mg)": 27.87,
+  "Citric Acid (mg)": 59.33,
+  "Fumaric Acid (mg)": 1.41,
+  "Succinic Acid (mg)": 7.49
+ },
+ {
+  "FOOD CODE": "D005",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, short (Momordica charantia)",
+  "Total Oxalate (mg)": 48.83,
+  "Soluble Oxalate (mg)": 16.28,
+  "Insoluble Oxalate (mg)": 32.55,
+  "Citric Acid (mg)": 66.42,
+  "Fumaric Acid (mg)": 1.51,
+  "Succinic Acid (mg)": 7.44
+ },
+ {
+  "FOOD CODE": "D006",
+  "FOOD NAME": "Bitter gourd, jagged, smooth ridges, elongate (Momordica charantia)",
+  "Total Oxalate (mg)": 43.37,
+  "Soluble Oxalate (mg)": 15.33,
+  "Insoluble Oxalate (mg)": 28.04,
+  "Citric Acid (mg)": 65.68,
+  "Fumaric Acid (mg)": 1.42,
+  "Succinic Acid (mg)": 9.15
+ },
+ {
+  "FOOD CODE": "D007",
+  "FOOD NAME": "Bottle gourd, elongate, pale green (Lagenaria vulgaris)",
+  "Total Oxalate (mg)": 3.75,
+  "Soluble Oxalate (mg)": 2.67,
+  "Insoluble Oxalate (mg)": 1.08,
+  "Citric Acid (mg)": 31.16,
+  "Fumaric Acid (mg)": 0.16,
+  "Succinic Acid (mg)": 64.96
+ },
+ {
+  "FOOD CODE": "D008",
+  "FOOD NAME": "Bottle gourd, round, pale green (Lagenaria vulgaris)",
+  "Total Oxalate (mg)": 2.53,
+  "Soluble Oxalate (mg)": 1.38,
+  "Insoluble Oxalate (mg)": 1.15,
+  "Citric Acid (mg)": 31.12,
+  "Fumaric Acid (mg)": 0.14,
+  "Succinic Acid (mg)": 65.18
+ },
+ {
+  "FOOD CODE": "D009",
+  "FOOD NAME": "Bottle gourd, elongate, dark green (Lagenaria vulgaris)",
+  "Total Oxalate (mg)": 1.7,
+  "Soluble Oxalate (mg)": 1.32,
+  "Insoluble Oxalate (mg)": 0.38,
+  "Citric Acid (mg)": 33.41,
+  "Fumaric Acid (mg)": 0.12,
+  "Succinic Acid (mg)": 64.8
+ },
+ {
+  "FOOD CODE": "D010",
+  "FOOD NAME": "Brinjal-1 (Solanum melongena)",
+  "Total Oxalate (mg)": 34,
+  "Soluble Oxalate (mg)": 31.26,
+  "Insoluble Oxalate (mg)": 2.75,
+  "Cis-Aconitic Acid (mg)": 1.63,
+  "Citric Acid (mg)": 8.21,
+  "Fumaric Acid (mg)": 81.83,
+  "Mallic Acid (mg)": 22.88,
+  "Tartaric Acid (mg)": 14.71
+ },
+ {
+  "FOOD CODE": "D011",
+  "FOOD NAME": "Brinjal-2 (Solanum melongena)",
+  "Total Oxalate (mg)": 35.87,
+  "Soluble Oxalate (mg)": 33.45,
+  "Insoluble Oxalate (mg)": 2.42,
+  "Cis-Aconitic Acid (mg)": 0.23,
+  "Citric Acid (mg)": 7.31,
+  "Fumaric Acid (mg)": 47.27,
+  "Mallic Acid (mg)": 26.76,
+  "Tartaric Acid (mg)": 17.75
+ },
+ {
+  "FOOD CODE": "D012",
+  "FOOD NAME": "Brinjal-3 (Solanum melongena)",
+  "Total Oxalate (mg)": 32.4,
+  "Soluble Oxalate (mg)": 30.44,
+  "Insoluble Oxalate (mg)": 1.96,
+  "Cis-Aconitic Acid (mg)": 1.53,
+  "Citric Acid (mg)": 10.49,
+  "Fumaric Acid (mg)": 48.35,
+  "Mallic Acid (mg)": 36.97,
+  "Tartaric Acid (mg)": 17.94
+ },
+ {
+  "FOOD CODE": "D013",
+  "FOOD NAME": "Brinjal-4 (Solanum melongena)",
+  "Total Oxalate (mg)": 29.37,
+  "Soluble Oxalate (mg)": 25.15,
+  "Insoluble Oxalate (mg)": 4.22,
+  "Cis-Aconitic Acid (mg)": 1.5,
+  "Citric Acid (mg)": 9.54,
+  "Fumaric Acid (mg)": 39.27,
+  "Mallic Acid (mg)": 66.55,
+  "Tartaric Acid (mg)": 14.92
+ },
+ {
+  "FOOD CODE": "D014",
+  "FOOD NAME": "Brinjal-5 (Solanum melongena)",
+  "Total Oxalate (mg)": 33.5,
+  "Soluble Oxalate (mg)": 29.75,
+  "Insoluble Oxalate (mg)": 3.75,
+  "Cis-Aconitic Acid (mg)": 2.03,
+  "Citric Acid (mg)": 7.75,
+  "Fumaric Acid (mg)": 18.75,
+  "Mallic Acid (mg)": 45.24,
+  "Tartaric Acid (mg)": 15.48
+ },
+ {
+  "FOOD CODE": "D015",
+  "FOOD NAME": "Brinjal-6 (Solanum melongena)",
+  "Total Oxalate (mg)": 36.8,
+  "Soluble Oxalate (mg)": 30.16,
+  "Insoluble Oxalate (mg)": 6.64,
+  "Cis-Aconitic Acid (mg)": 2.64,
+  "Citric Acid (mg)": 10.49,
+  "Fumaric Acid (mg)": 16.82,
+  "Mallic Acid (mg)": 87.21,
+  "Tartaric Acid (mg)": 12.95
+ },
+ {
+  "FOOD CODE": "D016",
+  "FOOD NAME": "Brinjal-7 (Solanum melongena)",
+  "Total Oxalate (mg)": 33.68,
+  "Soluble Oxalate (mg)": 28.92,
+  "Insoluble Oxalate (mg)": 4.76,
+  "Cis-Aconitic Acid (mg)": 1.82,
+  "Citric Acid (mg)": 8.88,
+  "Fumaric Acid (mg)": 92.63,
+  "Mallic Acid (mg)": 25.26,
+  "Tartaric Acid (mg)": 10.18
+ },
+ {
+  "FOOD CODE": "D017",
+  "FOOD NAME": "Brinjal-8 (Solanum melongena)",
+  "Total Oxalate (mg)": 37.86,
+  "Soluble Oxalate (mg)": 27.54,
+  "Insoluble Oxalate (mg)": 10.31,
+  "Cis-Aconitic Acid (mg)": 2.2,
+  "Citric Acid (mg)": 9.44,
+  "Fumaric Acid (mg)": 21.92,
+  "Mallic Acid (mg)": 66.28,
+  "Tartaric Acid (mg)": 16.85
+ },
+ {
+  "FOOD CODE": "D018",
+  "FOOD NAME": "Brinjal-9 (Solanum melongena)",
+  "Total Oxalate (mg)": 43.33,
+  "Soluble Oxalate (mg)": 29.17,
+  "Insoluble Oxalate (mg)": 14.16,
+  "Cis-Aconitic Acid (mg)": 1.22,
+  "Citric Acid (mg)": 10.41,
+  "Fumaric Acid (mg)": 43.53,
+  "Mallic Acid (mg)": 71.11,
+  "Tartaric Acid (mg)": 18.9
+ },
+ {
+  "FOOD CODE": "D019",
+  "FOOD NAME": "Brinjal-10 (Solanum melongena)",
+  "Total Oxalate (mg)": 34.8,
+  "Soluble Oxalate (mg)": 31.32,
+  "Insoluble Oxalate (mg)": 3.48,
+  "Cis-Aconitic Acid (mg)": 0.84,
+  "Citric Acid (mg)": 8.45,
+  "Fumaric Acid (mg)": 75.35,
+  "Mallic Acid (mg)": 44.41,
+  "Tartaric Acid (mg)": 8.59
+ },
+ {
+  "FOOD CODE": "D020",
+  "FOOD NAME": "Brinjal-11 (Solanum melongena)",
+  "Total Oxalate (mg)": 32.83,
+  "Soluble Oxalate (mg)": 28.92,
+  "Insoluble Oxalate (mg)": 3.91,
+  "Cis-Aconitic Acid (mg)": 1.47,
+  "Citric Acid (mg)": 11.27,
+  "Fumaric Acid (mg)": 82.7,
+  "Mallic Acid (mg)": 43.85,
+  "Tartaric Acid (mg)": 17.63
+ },
+ {
+  "FOOD CODE": "D021",
+  "FOOD NAME": "Brinjal-12 (Solanum melongena)",
+  "Total Oxalate (mg)": 31.81,
+  "Soluble Oxalate (mg)": 26.14,
+  "Insoluble Oxalate (mg)": 5.67,
+  "Cis-Aconitic Acid (mg)": 1.17,
+  "Citric Acid (mg)": 10.49,
+  "Fumaric Acid (mg)": 61.07,
+  "Mallic Acid (mg)": 64.57,
+  "Tartaric Acid (mg)": 12.76
+ },
+ {
+  "FOOD CODE": "D022",
+  "FOOD NAME": "Brinjal-13 (Solanum melongena)",
+  "Total Oxalate (mg)": 29.12,
+  "Soluble Oxalate (mg)": 25.33,
+  "Insoluble Oxalate (mg)": 3.79,
+  "Cis-Aconitic Acid (mg)": 0.3,
+  "Citric Acid (mg)": 9.12,
+  "Fumaric Acid (mg)": 68.87,
+  "Mallic Acid (mg)": 44.26,
+  "Tartaric Acid (mg)": 10.81
+ },
+ {
+  "FOOD CODE": "D023",
+  "FOOD NAME": "Brinjal-14 (Solanum melongena)",
+  "Total Oxalate (mg)": 32.95,
+  "Soluble Oxalate (mg)": 27.09,
+  "Insoluble Oxalate (mg)": 5.86,
+  "Cis-Aconitic Acid (mg)": 1.81,
+  "Citric Acid (mg)": 8.63,
+  "Fumaric Acid (mg)": 66.96,
+  "Mallic Acid (mg)": 48.93,
+  "Tartaric Acid (mg)": 15.19
+ },
+ {
+  "FOOD CODE": "D024",
+  "FOOD NAME": "Brinjal-15 (Solanum melongena)",
+  "Total Oxalate (mg)": 29.74,
+  "Soluble Oxalate (mg)": 21.77,
+  "Insoluble Oxalate (mg)": 7.97,
+  "Cis-Aconitic Acid (mg)": 0.85,
+  "Citric Acid (mg)": 10.85,
+  "Fumaric Acid (mg)": 47.43,
+  "Mallic Acid (mg)": 48.77,
+  "Tartaric Acid (mg)": 16.71
+ },
+ {
+  "FOOD CODE": "D025",
+  "FOOD NAME": "Brinjal-16 (Solanum melongena)",
+  "Total Oxalate (mg)": 32.81,
+  "Soluble Oxalate (mg)": 28.76,
+  "Insoluble Oxalate (mg)": 4.05,
+  "Cis-Aconitic Acid (mg)": 1.36,
+  "Citric Acid (mg)": 8.65,
+  "Fumaric Acid (mg)": 91.48,
+  "Mallic Acid (mg)": 35.19,
+  "Tartaric Acid (mg)": 16.57
+ },
+ {
+  "FOOD CODE": "D026",
+  "FOOD NAME": "Brinjal-17 (Solanum melongena)",
+  "Total Oxalate (mg)": 37.14,
+  "Soluble Oxalate (mg)": 32.46,
+  "Insoluble Oxalate (mg)": 4.68,
+  "Cis-Aconitic Acid (mg)": 1.72,
+  "Citric Acid (mg)": 10.12,
+  "Fumaric Acid (mg)": 23.51,
+  "Mallic Acid (mg)": 98.93,
+  "Tartaric Acid (mg)": 12.86
+ },
+ {
+  "FOOD CODE": "D027",
+  "FOOD NAME": "Brinjal-18 (Solanum melongena)",
+  "Total Oxalate (mg)": 37.58,
+  "Soluble Oxalate (mg)": 31.76,
+  "Insoluble Oxalate (mg)": 5.82,
+  "Cis-Aconitic Acid (mg)": 1.68,
+  "Citric Acid (mg)": 8.79,
+  "Fumaric Acid (mg)": 51.6,
+  "Mallic Acid (mg)": 52.7,
+  "Tartaric Acid (mg)": 17.75
+ },
+ {
+  "FOOD CODE": "D028",
+  "FOOD NAME": "Brinjal-19 (Solanum melongena)",
+  "Total Oxalate (mg)": 37.84,
+  "Soluble Oxalate (mg)": 27.09,
+  "Insoluble Oxalate (mg)": 10.75,
+  "Citric Acid (mg)": 9.02,
+  "Fumaric Acid (mg)": 47.69,
+  "Mallic Acid (mg)": 23.76,
+  "Tartaric Acid (mg)": 15.11
+ },
+ {
+  "FOOD CODE": "D029",
+  "FOOD NAME": "Brinjal-20 (Solanum melongena)",
+  "Total Oxalate (mg)": 35.39,
+  "Soluble Oxalate (mg)": 28.44,
+  "Insoluble Oxalate (mg)": 6.94,
+  "Cis-Aconitic Acid (mg)": 2.99,
+  "Citric Acid (mg)": 9.29,
+  "Fumaric Acid (mg)": 63.9,
+  "Mallic Acid (mg)": 22.64,
+  "Succinic Acid (mg)": 9.26,
+  "Tartaric Acid (mg)": 13.08
+ },
+ {
+  "FOOD CODE": "D030",
+  "FOOD NAME": "Brinjal-21 (Solanum melongena)",
+  "Total Oxalate (mg)": 34.6,
+  "Soluble Oxalate (mg)": 25.48,
+  "Insoluble Oxalate (mg)": 9.13,
+  "Cis-Aconitic Acid (mg)": 2.08,
+  "Citric Acid (mg)": 9.01,
+  "Fumaric Acid (mg)": 48.9,
+  "Mallic Acid (mg)": 50.74,
+  "Tartaric Acid (mg)": 15.1
+ },
+ {
+  "FOOD CODE": "D031",
+  "FOOD NAME": "Brinjal - all varieties (Solanum melongena)",
+  "Total Oxalate (mg)": 34.31,
+  "Soluble Oxalate (mg)": 28.17,
+  "Insoluble Oxalate (mg)": 6.14,
+  "Cis-Aconitic Acid (mg)": 1.66,
+  "Citric Acid (mg)": 9.76,
+  "Fumaric Acid (mg)": 56.02,
+  "Mallic Acid (mg)": 47.84,
+  "Succinic Acid (mg)": 9.26,
+  "Tartaric Acid (mg)": 15.52
+ },
+ {
+  "FOOD CODE": "D032",
+  "FOOD NAME": "Broad beans (Vicia faba)",
+  "Total Oxalate (mg)": 20.25,
+  "Soluble Oxalate (mg)": 5.81,
+  "Insoluble Oxalate (mg)": 13,
+  "Citric Acid (mg)": 124,
+  "Fumaric Acid (mg)": 1.12,
+  "Mallic Acid (mg)": 4.99
+ },
+ {
+  "FOOD CODE": "D033",
+  "FOOD NAME": "Capsicum, green (Capsicum annuum)",
+  "Total Oxalate (mg)": 19.12,
+  "Soluble Oxalate (mg)": 6.83,
+  "Insoluble Oxalate (mg)": 2.29,
+  "Citric Acid (mg)": 103,
+  "Fumaric Acid (mg)": 0.26,
+  "Mallic Acid (mg)": 185,
+  "Succinic Acid (mg)": 250
+ },
+ {
+  "FOOD CODE": "D034",
+  "FOOD NAME": "Capsicum, red (Capsicum annuum)",
+  "Total Oxalate (mg)": 16.28,
+  "Soluble Oxalate (mg)": 10.73,
+  "Insoluble Oxalate (mg)": 5.54,
+  "Citric Acid (mg)": 33.39,
+  "Fumaric Acid (mg)": 0.41,
+  "Mallic Acid (mg)": 116,
+  "Quinic Acid (mg)": 5.1,
+  "Succinic Acid (mg)": 151
+ },
+ {
+  "FOOD CODE": "D035",
+  "FOOD NAME": "Capsicum, yellow (Capsicum annuum)",
+  "Total Oxalate (mg)": 18.07,
+  "Soluble Oxalate (mg)": 11.03,
+  "Insoluble Oxalate (mg)": 7.04,
+  "Citric Acid (mg)": 56.43,
+  "Fumaric Acid (mg)": 1.03,
+  "Mallic Acid (mg)": 115,
+  "Succinic Acid (mg)": 127
+ },
+ {
+  "FOOD CODE": "D036",
+  "FOOD NAME": "Cauliflower (Brassica oleracea)",
+  "Total Oxalate (mg)": 9.82,
+  "Soluble Oxalate (mg)": 1.88,
+  "Insoluble Oxalate (mg)": 7.95,
+  "Cis-Aconitic Acid (mg)": 0.25,
+  "Citric Acid (mg)": 104,
+  "Fumaric Acid (mg)": 4.6,
+  "Mallic Acid (mg)": 11.04,
+  "Quinic Acid (mg)": 4.94,
+  "Succinic Acid (mg)": 282,
+  "Tartaric Acid (mg)": 4.25
+ },
+ {
+  "FOOD CODE": "D037",
+  "FOOD NAME": "Celery stalk (Apium graveolens)",
+  "Total Oxalate (mg)": 54.23,
+  "Soluble Oxalate (mg)": 23.18,
+  "Insoluble Oxalate (mg)": 31.04,
+  "Citric Acid (mg)": 158,
+  "Mallic Acid (mg)": 5.96,
+  "Quinic Acid (mg)": 51.46,
+  "Succinic Acid (mg)": 9.36
+ },
+ {
+  "FOOD CODE": "D038",
+  "FOOD NAME": "Cho-cho-marrow (Sechium edule)",
+  "Total Oxalate (mg)": 1.55,
+  "Soluble Oxalate (mg)": 1.14,
+  "Insoluble Oxalate (mg)": 0.41,
+  "Cis-Aconitic Acid (mg)": 0.13,
+  "Citric Acid (mg)": 60.1,
+  "Quinic Acid (mg)": 37.3,
+  "Succinic Acid (mg)": 32.49,
+  "Tartaric Acid (mg)": 0.51
+ },
+ {
+  "FOOD CODE": "D039",
+  "FOOD NAME": "Cluster beans (Cyamopsis tetragonobola)",
+  "Total Oxalate (mg)": 16.49,
+  "Soluble Oxalate (mg)": 8.55,
+  "Insoluble Oxalate (mg)": 8.58,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 92.19,
+  "Fumaric Acid (mg)": 1.36,
+  "Mallic Acid (mg)": 6.02,
+  "Quinic Acid (mg)": 45.46,
+  "Succinic Acid (mg)": 227
+ },
+ {
+  "FOOD CODE": "D040",
+  "FOOD NAME": "Colocasia, stem, black (Colocasia antiquorum)",
+  "Total Oxalate (mg)": 250,
+  "Soluble Oxalate (mg)": 177,
+  "Insoluble Oxalate (mg)": 73.74,
+  "Citric Acid (mg)": 20.3,
+  "Fumaric Acid (mg)": 4.65,
+  "Mallic Acid (mg)": 296,
+  "Succinic Acid (mg)": 62.6
+ },
+ {
+  "FOOD CODE": "D041",
+  "FOOD NAME": "Colocasia, stem, green (Colocasia antiquorum)",
+  "Total Oxalate (mg)": 229,
+  "Soluble Oxalate (mg)": 172,
+  "Insoluble Oxalate (mg)": 64.37,
+  "Citric Acid (mg)": 24.01,
+  "Fumaric Acid (mg)": 0.15,
+  "Mallic Acid (mg)": 156,
+  "Succinic Acid (mg)": 96.99
+ },
+ {
+  "FOOD CODE": "D042",
+  "FOOD NAME": "Corn, Baby (Zea mays)",
+  "Total Oxalate (mg)": 9.22,
+  "Soluble Oxalate (mg)": 4.94,
+  "Insoluble Oxalate (mg)": 4.27,
+  "Cis-Aconitic Acid (mg)": 0.29,
+  "Citric Acid (mg)": 21.14,
+  "Fumaric Acid (mg)": 4.15,
+  "Quinic Acid (mg)": 5.57,
+  "Succinic Acid (mg)": 60.48,
+  "Tartaric Acid (mg)": 4.38
+ },
+ {
+  "FOOD CODE": "D043",
+  "FOOD NAME": "Cucumber, green, elongate (Cucumis sativus)",
+  "Total Oxalate (mg)": 12.13,
+  "Soluble Oxalate (mg)": 2.28,
+  "Insoluble Oxalate (mg)": 9.84,
+  "Citric Acid (mg)": 81.51,
+  "Fumaric Acid (mg)": 4.13,
+  "Mallic Acid (mg)": 68.75,
+  "Quinic Acid (mg)": 4.97,
+  "Succinic Acid (mg)": 40.7
+ },
+ {
+  "FOOD CODE": "D044",
+  "FOOD NAME": "Cucumber, green, short (Cucumis sativus)",
+  "Total Oxalate (mg)": 10.49,
+  "Soluble Oxalate (mg)": 2.27,
+  "Insoluble Oxalate (mg)": 8.22,
+  "Citric Acid (mg)": 60.82,
+  "Fumaric Acid (mg)": 3.5,
+  "Mallic Acid (mg)": 67.07,
+  "Quinic Acid (mg)": 3.38,
+  "Succinic Acid (mg)": 47.4
+ },
+ {
+  "FOOD CODE": "D045",
+  "FOOD NAME": "Cucumber, orange, round (Cucumis sativus)",
+  "Total Oxalate (mg)": 11.55,
+  "Soluble Oxalate (mg)": 2.31,
+  "Insoluble Oxalate (mg)": 9.24,
+  "Citric Acid (mg)": 37.31,
+  "Fumaric Acid (mg)": 4.4,
+  "Mallic Acid (mg)": 64.48,
+  "Quinic Acid (mg)": 5.7,
+  "Succinic Acid (mg)": 50.82
+ },
+ {
+  "FOOD CODE": "D046",
+  "FOOD NAME": "Drumstick (Moringa oleifera)",
+  "Total Oxalate (mg)": 123,
+  "Soluble Oxalate (mg)": 66.98,
+  "Insoluble Oxalate (mg)": 55.82,
+  "Cis-Aconitic Acid (mg)": 16.31,
+  "Citric Acid (mg)": 72.33,
+  "Fumaric Acid (mg)": 44.83,
+  "Mallic Acid (mg)": 406,
+  "Quinic Acid (mg)": 29.95,
+  "Succinic Acid (mg)": 60.96,
+  "Tartaric Acid (mg)": 130
+ },
+ {
+  "FOOD CODE": "D047",
+  "FOOD NAME": "Field beans, tender, broad (Vicia faba)",
+  "Total Oxalate (mg)": 34.83,
+  "Soluble Oxalate (mg)": 8.82,
+  "Insoluble Oxalate (mg)": 26.02,
+  "Cis-Aconitic Acid (mg)": 16.2,
+  "Citric Acid (mg)": 52.58,
+  "Fumaric Acid (mg)": 5.26,
+  "Mallic Acid (mg)": 59.82
+ },
+ {
+  "FOOD CODE": "D048",
+  "FOOD NAME": "Field beans, tender, lean (Vicia faba)",
+  "Total Oxalate (mg)": 35.12,
+  "Soluble Oxalate (mg)": 8.81,
+  "Insoluble Oxalate (mg)": 26.31,
+  "Cis-Aconitic Acid (mg)": 12.43,
+  "Citric Acid (mg)": 58.47,
+  "Fumaric Acid (mg)": 4.45,
+  "Mallic Acid (mg)": 54.81
+ },
+ {
+  "FOOD CODE": "D049",
+  "FOOD NAME": "French beans, country (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 36.01,
+  "Soluble Oxalate (mg)": 4.02,
+  "Insoluble Oxalate (mg)": 31.99,
+  "Cis-Aconitic Acid (mg)": 14.4,
+  "Citric Acid (mg)": 92.41,
+  "Fumaric Acid (mg)": 13.53,
+  "Mallic Acid (mg)": 67.01
+ },
+ {
+  "FOOD CODE": "D050",
+  "FOOD NAME": "French beans, hybrid (Phaseolus vulgaris)",
+  "Total Oxalate (mg)": 36.97,
+  "Soluble Oxalate (mg)": 4.88,
+  "Insoluble Oxalate (mg)": 32.09,
+  "Cis-Aconitic Acid (mg)": 12.6,
+  "Citric Acid (mg)": 81.1,
+  "Fumaric Acid (mg)": 14.4,
+  "Mallic Acid (mg)": 68.6
+ },
+ {
+  "FOOD CODE": "D051",
+  "FOOD NAME": "Jack fruit, raw (Artocarpus heterophyllus)",
+  "Total Oxalate (mg)": 9.6,
+  "Soluble Oxalate (mg)": 7.24,
+  "Insoluble Oxalate (mg)": 2.37,
+  "Cis-Aconitic Acid (mg)": 4.81,
+  "Citric Acid (mg)": 35.4,
+  "Fumaric Acid (mg)": 7.8,
+  "Mallic Acid (mg)": 82.78,
+  "Quinic Acid (mg)": 450
+ },
+ {
+  "FOOD CODE": "D052",
+  "FOOD NAME": "Jack fruit, seed, mature (Artocarpus heterophyllus)",
+  "Total Oxalate (mg)": 38.51,
+  "Soluble Oxalate (mg)": 31.03,
+  "Insoluble Oxalate (mg)": 7.48,
+  "Cis-Aconitic Acid (mg)": 1.72,
+  "Citric Acid (mg)": 19.76,
+  "Fumaric Acid (mg)": 7.51,
+  "Mallic Acid (mg)": 82.47,
+  "Quinic Acid (mg)": 427
+ },
+ {
+  "FOOD CODE": "D053",
+  "FOOD NAME": "Knol - Khol (Brassica oleracea)",
+  "Total Oxalate (mg)": 2.92,
+  "Soluble Oxalate (mg)": 1.88,
+  "Insoluble Oxalate (mg)": 1.04,
+  "Citric Acid (mg)": 14.19,
+  "Fumaric Acid (mg)": 5.9,
+  "Mallic Acid (mg)": 5.57,
+  "Quinic Acid (mg)": 248,
+  "Succinic Acid (mg)": 6.42
+ },
+ {
+  "FOOD CODE": "D054",
+  "FOOD NAME": "Kovai, big (Coccinia cordifolia)",
+  "Total Oxalate (mg)": 7.72,
+  "Soluble Oxalate (mg)": 4.76,
+  "Insoluble Oxalate (mg)": 2.96,
+  "Cis-Aconitic Acid (mg)": 5.38,
+  "Citric Acid (mg)": 22.68,
+  "Fumaric Acid (mg)": 0.56,
+  "Mallic Acid (mg)": 46.41,
+  "Quinic Acid (mg)": 90.46,
+  "Succinic Acid (mg)": 254
+ },
+ {
+  "FOOD CODE": "D055",
+  "FOOD NAME": "Kovai, small (Coccinia cordifolia)",
+  "Total Oxalate (mg)": 8.15,
+  "Soluble Oxalate (mg)": 5.01,
+  "Insoluble Oxalate (mg)": 3.14,
+  "Cis-Aconitic Acid (mg)": 5.63,
+  "Citric Acid (mg)": 25.89,
+  "Fumaric Acid (mg)": 0.41,
+  "Mallic Acid (mg)": 51.63,
+  "Quinic Acid (mg)": 92.82,
+  "Succinic Acid (mg)": 239.14
+ },
+ {
+  "FOOD CODE": "D056",
+  "FOOD NAME": "Ladies finger (Abelmoschus esculentus)",
+  "Total Oxalate (mg)": 83.87,
+  "Soluble Oxalate (mg)": 5.99,
+  "Insoluble Oxalate (mg)": 77.88,
+  "Cis-Aconitic Acid (mg)": 3.65,
+  "Citric Acid (mg)": 21.66,
+  "Fumaric Acid (mg)": 64.57,
+  "Mallic Acid (mg)": 16.24,
+  "Quinic Acid (mg)": 151,
+  "Succinic Acid (mg)": 120
+ },
+ {
+  "FOOD CODE": "D057",
+  "FOOD NAME": "Mango, green, raw (Mangifera indica)",
+  "Total Oxalate (mg)": 7.51,
+  "Soluble Oxalate (mg)": 3.92,
+  "Insoluble Oxalate (mg)": 3.6,
+  "Cis-Aconitic Acid (mg)": 0.47,
+  "Citric Acid (mg)": 32.73,
+  "Fumaric Acid (mg)": 1.38,
+  "Mallic Acid (mg)": 84.39,
+  "Tartaric Acid (mg)": 85.92
+ },
+ {
+  "FOOD CODE": "D058",
+  "FOOD NAME": "Onion, stalk (Allium cepa)",
+  "Total Oxalate (mg)": 29.72,
+  "Soluble Oxalate (mg)": 22.72,
+  "Insoluble Oxalate (mg)": 7,
+  "Citric Acid (mg)": 839,
+  "Fumaric Acid (mg)": 1.41,
+  "Mallic Acid (mg)": 76.23,
+  "Quinic Acid (mg)": 82.32
+ },
+ {
+  "FOOD CODE": "D059",
+  "FOOD NAME": "Papaya, raw (Carica papaya)",
+  "Total Oxalate (mg)": 9.38,
+  "Soluble Oxalate (mg)": 4.77,
+  "Insoluble Oxalate (mg)": 4.69,
+  "Cis-Aconitic Acid (mg)": 2.51,
+  "Citric Acid (mg)": 28.85,
+  "Fumaric Acid (mg)": 2.05,
+  "Mallic Acid (mg)": 57.46,
+  "Quinic Acid (mg)": 31.63,
+  "Succinic Acid (mg)": 22.61
+ },
+ {
+  "FOOD CODE": "D060",
+  "FOOD NAME": "Parwar (Trichosanthes dioica)",
+  "Total Oxalate (mg)": 3.24,
+  "Soluble Oxalate (mg)": 1.56,
+  "Insoluble Oxalate (mg)": 1.58,
+  "Citric Acid (mg)": 28.36,
+  "Fumaric Acid (mg)": 3.26,
+  "Mallic Acid (mg)": 1.61,
+  "Quinic Acid (mg)": 3.29,
+  "Succinic Acid (mg)": 31.1,
+  "Tartaric Acid (mg)": 3.13
+ },
+ {
+  "FOOD CODE": "D061",
+  "FOOD NAME": "Peas, fresh (Pisum sativum)",
+  "Total Oxalate (mg)": 18.42,
+  "Soluble Oxalate (mg)": 14.18,
+  "Insoluble Oxalate (mg)": 4.65,
+  "Cis-Aconitic Acid (mg)": 0.15,
+  "Citric Acid (mg)": 17.69,
+  "Mallic Acid (mg)": 0.84,
+  "Quinic Acid (mg)": 160,
+  "Succinic Acid (mg)": 2.39
+ },
+ {
+  "FOOD CODE": "D062",
+  "FOOD NAME": "Plantain, flower (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 169,
+  "Soluble Oxalate (mg)": 129,
+  "Insoluble Oxalate (mg)": 39.91,
+  "Cis-Aconitic Acid (mg)": 0.05,
+  "Citric Acid (mg)": 57.65,
+  "Fumaric Acid (mg)": 2.04,
+  "Mallic Acid (mg)": 13.04
+ },
+ {
+  "FOOD CODE": "D063",
+  "FOOD NAME": "Plantain, green (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 85.25,
+  "Soluble Oxalate (mg)": 49.83,
+  "Insoluble Oxalate (mg)": 35.42,
+  "Cis-Aconitic Acid (mg)": 0.13,
+  "Citric Acid (mg)": 35.87,
+  "Fumaric Acid (mg)": 1.27,
+  "Mallic Acid (mg)": 33.35,
+  "Quinic Acid (mg)": 12.62
+ },
+ {
+  "FOOD CODE": "D064",
+  "FOOD NAME": "Plantain, stem (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 213,
+  "Soluble Oxalate (mg)": 159,
+  "Insoluble Oxalate (mg)": 53.28,
+  "Cis-Aconitic Acid (mg)": 0.13,
+  "Citric Acid (mg)": 14.29,
+  "Fumaric Acid (mg)": 0.11,
+  "Mallic Acid (mg)": 34.47
+ },
+ {
+  "FOOD CODE": "D065",
+  "FOOD NAME": "Pumpkin, green, cylindrical (Cucurbita maxima)",
+  "Total Oxalate (mg)": 57.33,
+  "Soluble Oxalate (mg)": 49.61,
+  "Insoluble Oxalate (mg)": 7.72,
+  "Cis-Aconitic Acid (mg)": 1.13,
+  "Citric Acid (mg)": 159,
+  "Fumaric Acid (mg)": 1.13,
+  "Mallic Acid (mg)": 13.51,
+  "Quinic Acid (mg)": 37.98
+ },
+ {
+  "FOOD CODE": "D066",
+  "FOOD NAME": "Pumpkin, orange, round (Cucurbita maxima)",
+  "Total Oxalate (mg)": 41.22,
+  "Soluble Oxalate (mg)": 35.84,
+  "Insoluble Oxalate (mg)": 5.38,
+  "Cis-Aconitic Acid (mg)": 1.59,
+  "Citric Acid (mg)": 33.32,
+  "Fumaric Acid (mg)": 1.35,
+  "Mallic Acid (mg)": 3.34,
+  "Succinic Acid (mg)": 4.56
+ },
+ {
+  "FOOD CODE": "D067",
+  "FOOD NAME": "Red gram, tender, fresh (Cajanus cajan)",
+  "Total Oxalate (mg)": 19.83,
+  "Soluble Oxalate (mg)": 19.29,
+  "Insoluble Oxalate (mg)": 0.54,
+  "Fumaric Acid (mg)": 28.36,
+  "Mallic Acid (mg)": 0.77,
+  "Quinic Acid (mg)": 5.19,
+  "Succinic Acid (mg)": 0.76,
+  "Tartaric Acid (mg)": 5.6
+ },
+ {
+  "FOOD CODE": "D068",
+  "FOOD NAME": "Ridge gourd (Luffa acutangula)",
+  "Total Oxalate (mg)": 29.55,
+  "Soluble Oxalate (mg)": 1.22,
+  "Insoluble Oxalate (mg)": 28.33,
+  "Cis-Aconitic Acid (mg)": 0.07,
+  "Citric Acid (mg)": 152,
+  "Fumaric Acid (mg)": 11.35,
+  "Mallic Acid (mg)": 12.36,
+  "Quinic Acid (mg)": 32.05
+ },
+ {
+  "FOOD CODE": "D069",
+  "FOOD NAME": "Ridge gourd, smooth skin (Luffa acutangula)",
+  "Total Oxalate (mg)": 35.85,
+  "Soluble Oxalate (mg)": 1.15,
+  "Insoluble Oxalate (mg)": 34.7,
+  "Cis-Aconitic Acid (mg)": 0.07,
+  "Citric Acid (mg)": 112,
+  "Fumaric Acid (mg)": 10.13,
+  "Mallic Acid (mg)": 45.56
+ },
+ {
+  "FOOD CODE": "D070",
+  "FOOD NAME": "Snake gourd, long, pale green (Trichosanthes anguina)",
+  "Total Oxalate (mg)": 24.22,
+  "Soluble Oxalate (mg)": 3.88,
+  "Insoluble Oxalate (mg)": 20.34,
+  "Cis-Aconitic Acid (mg)": 2.53,
+  "Citric Acid (mg)": 110,
+  "Fumaric Acid (mg)": 1.67,
+  "Mallic Acid (mg)": 54.35
+ },
+ {
+  "FOOD CODE": "D071",
+  "FOOD NAME": "Snake gourd, long, dark green (Trichosanthes anguina)",
+  "Total Oxalate (mg)": 13.44,
+  "Soluble Oxalate (mg)": 3.53,
+  "Insoluble Oxalate (mg)": 9.9,
+  "Cis-Aconitic Acid (mg)": 1.29,
+  "Citric Acid (mg)": 123,
+  "Fumaric Acid (mg)": 1.91,
+  "Mallic Acid (mg)": 68.18,
+  "Quinic Acid (mg)": 36.82
+ },
+ {
+  "FOOD CODE": "D072",
+  "FOOD NAME": "Snake gourd, short (Trichosanthes anguina)",
+  "Total Oxalate (mg)": 14.25,
+  "Soluble Oxalate (mg)": 3.4,
+  "Insoluble Oxalate (mg)": 10.85,
+  "Cis-Aconitic Acid (mg)": 1.82,
+  "Citric Acid (mg)": 126,
+  "Fumaric Acid (mg)": 1.89,
+  "Mallic Acid (mg)": 63.86,
+  "Quinic Acid (mg)": 33.48
+ },
+ {
+  "FOOD CODE": "D073",
+  "FOOD NAME": "Tinda, tender (Praecitrullus fistulosus)",
+  "Total Oxalate (mg)": 3.36,
+  "Soluble Oxalate (mg)": 1.91,
+  "Insoluble Oxalate (mg)": 1.26,
+  "Citric Acid (mg)": 119,
+  "Fumaric Acid (mg)": 15.51,
+  "Mallic Acid (mg)": 62.38,
+  "Quinic Acid (mg)": 33.36
+ },
+ {
+  "FOOD CODE": "D074",
+  "FOOD NAME": "Tomato, green (Lycopersicon esculentum)",
+  "Total Oxalate (mg)": 8.47,
+  "Soluble Oxalate (mg)": 6.95,
+  "Insoluble Oxalate (mg)": 1.52,
+  "Citric Acid (mg)": 135,
+  "Fumaric Acid (mg)": 0.31,
+  "Mallic Acid (mg)": 6.77
+ },
+ {
+  "FOOD CODE": "D075",
+  "FOOD NAME": "Tomato, ripe, hybrid (Lycopersicon esculentum)",
+  "Total Oxalate (mg)": 2.89,
+  "Soluble Oxalate (mg)": 2.12,
+  "Insoluble Oxalate (mg)": 0.77,
+  "Citric Acid (mg)": 288,
+  "Fumaric Acid (mg)": 0.06,
+  "Mallic Acid (mg)": 11.58,
+  "Succinic Acid (mg)": 58.82,
+  "Tartaric Acid (mg)": 2.86
+ },
+ {
+  "FOOD CODE": "D076",
+  "FOOD NAME": "Tomato, ripe, local (Lycopersicon esculentum)",
+  "Total Oxalate (mg)": 5.58,
+  "Soluble Oxalate (mg)": 4.32,
+  "Insoluble Oxalate (mg)": 1.27,
+  "Citric Acid (mg)": 278,
+  "Fumaric Acid (mg)": 0.07,
+  "Mallic Acid (mg)": 7.15,
+  "Succinic Acid (mg)": 6.77,
+  "Tartaric Acid (mg)": 2.65
+ },
+ {
+  "FOOD CODE": "D077",
+  "FOOD NAME": "Zucchini, green (Cucurbita pepo)",
+  "Total Oxalate (mg)": 17.83,
+  "Soluble Oxalate (mg)": 2.8,
+  "Insoluble Oxalate (mg)": 15.03,
+  "Citric Acid (mg)": 47.81,
+  "Fumaric Acid (mg)": 49.65,
+  "Mallic Acid (mg)": 2.32,
+  "Succinic Acid (mg)": 55.3
+ },
+ {
+  "FOOD CODE": "D078",
+  "FOOD NAME": "Zucchini, yellow (Cucurbita pepo)",
+  "Total Oxalate (mg)": 16.06,
+  "Soluble Oxalate (mg)": 2.8,
+  "Insoluble Oxalate (mg)": 13.26,
+  "Citric Acid (mg)": 47.81,
+  "Fumaric Acid (mg)": 45.17,
+  "Mallic Acid (mg)": 2.32,
+  "Succinic Acid (mg)": 55.3
+ },
+ {
+  "FOOD CODE": "E001",
+  "FOOD NAME": "Apple, big (Malus domestica)",
+  "Total Oxalate (mg)": 13.19,
+  "Soluble Oxalate (mg)": 6.84,
+  "Insoluble Oxalate (mg)": 6.35,
+  "Citric Acid (mg)": 49.87,
+  "Fumaric Acid (mg)": 3.73,
+  "Mallic Acid (mg)": 436,
+  "Succinic Acid (mg)": 74.13,
+  "Tartaric Acid (mg)": 4.04
+ },
+ {
+  "FOOD CODE": "E002",
+  "FOOD NAME": "Apple, green (Malus domestica)",
+  "Total Oxalate (mg)": 17.63,
+  "Soluble Oxalate (mg)": 7.28,
+  "Insoluble Oxalate (mg)": 10.34,
+  "Citric Acid (mg)": 30.98,
+  "Fumaric Acid (mg)": 2.6,
+  "Mallic Acid (mg)": 124,
+  "Succinic Acid (mg)": 29.22,
+  "Tartaric Acid (mg)": 5.49
+ },
+ {
+  "FOOD CODE": "E003",
+  "FOOD NAME": "Apple, small (Malus domestica)",
+  "Total Oxalate (mg)": 15.51,
+  "Soluble Oxalate (mg)": 6.17,
+  "Insoluble Oxalate (mg)": 9.34,
+  "Citric Acid (mg)": 34.22,
+  "Fumaric Acid (mg)": 4.17,
+  "Mallic Acid (mg)": 291,
+  "Succinic Acid (mg)": 67.88,
+  "Tartaric Acid (mg)": 5.71
+ },
+ {
+  "FOOD CODE": "E004",
+  "FOOD NAME": "Apple, small, Kashmir (Malus domestica)",
+  "Total Oxalate (mg)": 14.35,
+  "Soluble Oxalate (mg)": 7.55,
+  "Insoluble Oxalate (mg)": 6.8,
+  "Citric Acid (mg)": 41.58,
+  "Fumaric Acid (mg)": 4.98,
+  "Mallic Acid (mg)": 298,
+  "Succinic Acid (mg)": 71.52,
+  "Tartaric Acid (mg)": 5.6
+ },
+ {
+  "FOOD CODE": "E005",
+  "FOOD NAME": "Apricot, dried (Prunus armeniaca)",
+  "Total Oxalate (mg)": 113,
+  "Soluble Oxalate (mg)": 20.04,
+  "Insoluble Oxalate (mg)": 90.54,
+  "Citric Acid (mg)": 119,
+  "Fumaric Acid (mg)": 8.67,
+  "Mallic Acid (mg)": 422,
+  "Quinic Acid (mg)": 156,
+  "Succinic Acid (mg)": 5.42
+ },
+ {
+  "FOOD CODE": "E006",
+  "FOOD NAME": "Apricot, processed (Prunus armeniaca)",
+  "Total Oxalate (mg)": 44.87,
+  "Soluble Oxalate (mg)": 15.22,
+  "Insoluble Oxalate (mg)": 29.65,
+  "Citric Acid (mg)": 295,
+  "Fumaric Acid (mg)": 2.36,
+  "Mallic Acid (mg)": 170,
+  "Quinic Acid (mg)": 212,
+  "Succinic Acid (mg)": 2.61
+ },
+ {
+  "FOOD CODE": "E007",
+  "FOOD NAME": "Avocado fruit (Persea americana)",
+  "Total Oxalate (mg)": 2.78,
+  "Soluble Oxalate (mg)": 2.02,
+  "Insoluble Oxalate (mg)": 0.76,
+  "Citric Acid (mg)": 0.12,
+  "Fumaric Acid (mg)": 111,
+  "Mallic Acid (mg)": 1.02,
+  "Succinic Acid (mg)": 111
+ },
+ {
+  "FOOD CODE": "E008",
+  "FOOD NAME": "Bael fruit (Aegle marmelos)",
+  "Total Oxalate (mg)": 3.87,
+  "Soluble Oxalate (mg)": 3.11,
+  "Insoluble Oxalate (mg)": 0.76,
+  "Citric Acid (mg)": 0.21,
+  "Fumaric Acid (mg)": 1.32,
+  "Mallic Acid (mg)": 0.33
+ },
+ {
+  "FOOD CODE": "E009",
+  "FOOD NAME": "Banana, ripe, montham (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 2.8,
+  "Soluble Oxalate (mg)": 1.33,
+  "Insoluble Oxalate (mg)": 1.47,
+  "Citric Acid (mg)": 290,
+  "Fumaric Acid (mg)": 0.67,
+  "Mallic Acid (mg)": 2.32,
+  "Tartaric Acid (mg)": 5.12
+ },
+ {
+  "FOOD CODE": "E010",
+  "FOOD NAME": "Banana, ripe, poovam (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 2.38,
+  "Soluble Oxalate (mg)": 2.05,
+  "Insoluble Oxalate (mg)": 0.34,
+  "Cis-Aconitic Acid (mg)": 0.77,
+  "Citric Acid (mg)": 285,
+  "Fumaric Acid (mg)": 0.9,
+  "Mallic Acid (mg)": 2.87,
+  "Tartaric Acid (mg)": 4.05
+ },
+ {
+  "FOOD CODE": "E011",
+  "FOOD NAME": "Banana, ripe, red (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 4.15,
+  "Soluble Oxalate (mg)": 3.97,
+  "Insoluble Oxalate (mg)": 0.18,
+  "Cis-Aconitic Acid (mg)": 1.69,
+  "Citric Acid (mg)": 296,
+  "Fumaric Acid (mg)": 1.92,
+  "Mallic Acid (mg)": 4.15,
+  "Tartaric Acid (mg)": 4.15
+ },
+ {
+  "FOOD CODE": "E012",
+  "FOOD NAME": "Banana, ripe, robusta (Musa x paradisiaca)",
+  "Total Oxalate (mg)": 3.24,
+  "Soluble Oxalate (mg)": 2.13,
+  "Insoluble Oxalate (mg)": 1.11,
+  "Cis-Aconitic Acid (mg)": 0.91,
+  "Citric Acid (mg)": 293,
+  "Fumaric Acid (mg)": 1.83,
+  "Mallic Acid (mg)": 3.54,
+  "Tartaric Acid (mg)": 3.2
+ },
+ {
+  "FOOD CODE": "E013",
+  "FOOD NAME": "Black berry (Rubus fruticosus)",
+  "Total Oxalate (mg)": 5.33,
+  "Soluble Oxalate (mg)": 0.98,
+  "Insoluble Oxalate (mg)": 4.35,
+  "Cis-Aconitic Acid (mg)": 0.05,
+  "Citric Acid (mg)": 396,
+  "Fumaric Acid (mg)": 1.44,
+  "Mallic Acid (mg)": 262,
+  "Quinic Acid (mg)": 2.59
+ },
+ {
+  "FOOD CODE": "E014",
+  "FOOD NAME": "Cherries, red (Prunus cerasus)",
+  "Total Oxalate (mg)": 6.15,
+  "Soluble Oxalate (mg)": 4.44,
+  "Insoluble Oxalate (mg)": 1.71,
+  "Cis-Aconitic Acid (mg)": 0.28,
+  "Citric Acid (mg)": 18.84,
+  "Fumaric Acid (mg)": 0.33,
+  "Mallic Acid (mg)": 289,
+  "Quinic Acid (mg)": 5.53,
+  "Succinic Acid (mg)": 30.22,
+  "Tartaric Acid (mg)": 3.25
+ },
+ {
+  "FOOD CODE": "E015",
+  "FOOD NAME": "Currants, black (Ribes nigrum)",
+  "Total Oxalate (mg)": 10.8,
+  "Soluble Oxalate (mg)": 1.95,
+  "Insoluble Oxalate (mg)": 8.84,
+  "Citric Acid (mg)": 421,
+  "Fumaric Acid (mg)": 2.76,
+  "Mallic Acid (mg)": 389,
+  "Tartaric Acid (mg)": 382
+ },
+ {
+  "FOOD CODE": "E016",
+  "FOOD NAME": "Custard apple (Annona squamosa)",
+  "Total Oxalate (mg)": 35.1,
+  "Soluble Oxalate (mg)": 22.28,
+  "Insoluble Oxalate (mg)": 13.35,
+  "Citric Acid (mg)": 11.23,
+  "Fumaric Acid (mg)": 12.81,
+  "Mallic Acid (mg)": 1.11,
+  "Succinic Acid (mg)": 6.53
+ },
+ {
+  "FOOD CODE": "E017",
+  "FOOD NAME": "Dates, dry, pale brown (Phoenix dactylifera)",
+  "Total Oxalate (mg)": 2.11,
+  "Soluble Oxalate (mg)": 1.63,
+  "Insoluble Oxalate (mg)": 0.29,
+  "Citric Acid (mg)": 58.61,
+  "Fumaric Acid (mg)": 3.55,
+  "Mallic Acid (mg)": 34.17,
+  "Quinic Acid (mg)": 16.04,
+  "Succinic Acid (mg)": 1.75
+ },
+ {
+  "FOOD CODE": "E018",
+  "FOOD NAME": "Dates, dry, dark brown (Phoenix dactylifera)",
+  "Total Oxalate (mg)": 1.98,
+  "Soluble Oxalate (mg)": 0.99,
+  "Insoluble Oxalate (mg)": 0.98,
+  "Citric Acid (mg)": 3.01,
+  "Fumaric Acid (mg)": 3.21,
+  "Mallic Acid (mg)": 33.23,
+  "Quinic Acid (mg)": 3.02,
+  "Succinic Acid (mg)": 2.17
+ },
+ {
+  "FOOD CODE": "E019",
+  "FOOD NAME": "Dates, processed (Phoenix dactylifera)",
+  "Total Oxalate (mg)": 1.96,
+  "Soluble Oxalate (mg)": 1.56,
+  "Insoluble Oxalate (mg)": 0.4,
+  "Citric Acid (mg)": 4.98,
+  "Fumaric Acid (mg)": 7.62,
+  "Mallic Acid (mg)": 29.08,
+  "Quinic Acid (mg)": 5.84,
+  "Succinic Acid (mg)": 3.99
+ },
+ {
+  "FOOD CODE": "E020",
+  "FOOD NAME": "Fig (Ficus carica)",
+  "Total Oxalate (mg)": 46.71,
+  "Soluble Oxalate (mg)": 5.26,
+  "Insoluble Oxalate (mg)": 41.69,
+  "Citric Acid (mg)": 216,
+  "Fumaric Acid (mg)": 1.51,
+  "Mallic Acid (mg)": 23.51,
+  "Quinic Acid (mg)": 134,
+  "Succinic Acid (mg)": 132
+ },
+ {
+  "FOOD CODE": "E021",
+  "FOOD NAME": "Goosberry (Emblica officinalis)",
+  "Total Oxalate (mg)": 7.96,
+  "Soluble Oxalate (mg)": 5.4,
+  "Insoluble Oxalate (mg)": 2.81,
+  "Citric Acid (mg)": 751,
+  "Fumaric Acid (mg)": 1.65,
+  "Mallic Acid (mg)": 7.58,
+  "Succinic Acid (mg)": 44.33,
+  "Tartaric Acid (mg)": 14.06
+ },
+ {
+  "FOOD CODE": "E022",
+  "FOOD NAME": "Grapes, seeded, round, black (Vitis vinifera)",
+  "Total Oxalate (mg)": 26.12,
+  "Soluble Oxalate (mg)": 12.96,
+  "Insoluble Oxalate (mg)": 10.53,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 3.12,
+  "Fumaric Acid (mg)": 1.14,
+  "Mallic Acid (mg)": 288,
+  "Tartaric Acid (mg)": 280
+ },
+ {
+  "FOOD CODE": "E023",
+  "FOOD NAME": "Grapes, seeded, round, green (Vitis vinifera)",
+  "Total Oxalate (mg)": 25.74,
+  "Soluble Oxalate (mg)": 18.79,
+  "Insoluble Oxalate (mg)": 7.09,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 3.36,
+  "Fumaric Acid (mg)": 1.47,
+  "Mallic Acid (mg)": 286,
+  "Tartaric Acid (mg)": 276
+ },
+ {
+  "FOOD CODE": "E024",
+  "FOOD NAME": "Grapes, seeded, round, red (Vitis vinifera)",
+  "Total Oxalate (mg)": 23.92,
+  "Soluble Oxalate (mg)": 12.77,
+  "Insoluble Oxalate (mg)": 11.15,
+  "Cis-Aconitic Acid (mg)": 0.06,
+  "Citric Acid (mg)": 1.82,
+  "Fumaric Acid (mg)": 1.57,
+  "Mallic Acid (mg)": 291,
+  "Tartaric Acid (mg)": 272
+ },
+ {
+  "FOOD CODE": "E025",
+  "FOOD NAME": "Grapes, seedless, oval, black (Vitis vinifera)",
+  "Total Oxalate (mg)": 19.07,
+  "Soluble Oxalate (mg)": 9.21,
+  "Insoluble Oxalate (mg)": 9.86,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 3.06,
+  "Fumaric Acid (mg)": 1.77,
+  "Mallic Acid (mg)": 282,
+  "Tartaric Acid (mg)": 268
+ },
+ {
+  "FOOD CODE": "E026",
+  "FOOD NAME": "Grapes, seedless, round, green (Vitis vinifera)",
+  "Total Oxalate (mg)": 20.06,
+  "Soluble Oxalate (mg)": 13.79,
+  "Insoluble Oxalate (mg)": 6.27,
+  "Cis-Aconitic Acid (mg)": 0.04,
+  "Citric Acid (mg)": 3.47,
+  "Fumaric Acid (mg)": 1.56,
+  "Mallic Acid (mg)": 290,
+  "Tartaric Acid (mg)": 288
+ },
+ {
+  "FOOD CODE": "E027",
+  "FOOD NAME": "Grapes, seedless, round, black (Vitis vinifera)",
+  "Total Oxalate (mg)": 22.11,
+  "Soluble Oxalate (mg)": 16.09,
+  "Insoluble Oxalate (mg)": 6.02,
+  "Cis-Aconitic Acid (mg)": 0.27,
+  "Citric Acid (mg)": 3.98,
+  "Fumaric Acid (mg)": 1.42,
+  "Mallic Acid (mg)": 282,
+  "Tartaric Acid (mg)": 274
+ },
+ {
+  "FOOD CODE": "E028",
+  "FOOD NAME": "Guava, white flesh (Psidium guajava)",
+  "Total Oxalate (mg)": 13.05,
+  "Soluble Oxalate (mg)": 0.32,
+  "Insoluble Oxalate (mg)": 10.61,
+  "Cis-Aconitic Acid (mg)": 0.62,
+  "Citric Acid (mg)": 384,
+  "Fumaric Acid (mg)": 1.83,
+  "Mallic Acid (mg)": 77.02,
+  "Succinic Acid (mg)": 2.83,
+  "Tartaric Acid (mg)": 1.39
+ },
+ {
+  "FOOD CODE": "E029",
+  "FOOD NAME": "Guava, pink flesh (Psidium guajava)",
+  "Total Oxalate (mg)": 9.57,
+  "Soluble Oxalate (mg)": 0.64,
+  "Insoluble Oxalate (mg)": 7.44,
+  "Citric Acid (mg)": 87.07,
+  "Fumaric Acid (mg)": 0.46,
+  "Mallic Acid (mg)": 25.94,
+  "Quinic Acid (mg)": 24.71,
+  "Succinic Acid (mg)": 15.47,
+  "Tartaric Acid (mg)": 1.43
+ },
+ {
+  "FOOD CODE": "E030",
+  "FOOD NAME": "Jack fruit, ripe (Artocarpus heterophyllus)",
+  "Total Oxalate (mg)": 8.45,
+  "Soluble Oxalate (mg)": 5.49,
+  "Insoluble Oxalate (mg)": 2.96,
+  "Cis-Aconitic Acid (mg)": 2.57,
+  "Citric Acid (mg)": 35.4,
+  "Fumaric Acid (mg)": 11.19,
+  "Mallic Acid (mg)": 219,
+  "Quinic Acid (mg)": 347
+ },
+ {
+  "FOOD CODE": "E031",
+  "FOOD NAME": "Jambu fruit, ripe (Syzygium cumini)",
+  "Total Oxalate (mg)": 9.6,
+  "Soluble Oxalate (mg)": 7.24,
+  "Insoluble Oxalate (mg)": 2.37,
+  "Cis-Aconitic Acid (mg)": 0.16,
+  "Citric Acid (mg)": 72.26,
+  "Fumaric Acid (mg)": 0.42,
+  "Mallic Acid (mg)": 23.69
+ },
+ {
+  "FOOD CODE": "E032",
+  "FOOD NAME": "Karonda fruit (Carissa carandas)",
+  "Total Oxalate (mg)": 5.88,
+  "Soluble Oxalate (mg)": 3.18,
+  "Insoluble Oxalate (mg)": 2.4,
+  "Citric Acid (mg)": 2.13,
+  "Fumaric Acid (mg)": 0.66,
+  "Quinic Acid (mg)": 0.55,
+  "Succinic Acid (mg)": 1.07
+ },
+ {
+  "FOOD CODE": "E033",
+  "FOOD NAME": "Lemon, juice (Citrus limon)",
+  "Cis-Aconitic Acid (mg)": 0.8,
+  "Citric Acid (mg)": 3490,
+  "Fumaric Acid (mg)": 0.04,
+  "Mallic Acid (mg)": 243,
+  "Succinic Acid (mg)": 338,
+  "Tartaric Acid (mg)": 2.36
+ },
+ {
+  "FOOD CODE": "E034",
+  "FOOD NAME": "Lime, sweet,pulp (Citrus limetta)",
+  "Total Oxalate (mg)": 0.57,
+  "Soluble Oxalate (mg)": 0.24,
+  "Insoluble Oxalate (mg)": 0.34,
+  "Citric Acid (mg)": 3416,
+  "Fumaric Acid (mg)": 0.48,
+  "Mallic Acid (mg)": 125,
+  "Succinic Acid (mg)": 418
+ },
+ {
+  "FOOD CODE": "E035",
+  "FOOD NAME": "Litchi (Nephelium litchi)",
+  "Total Oxalate (mg)": 15.28,
+  "Soluble Oxalate (mg)": 11.12,
+  "Insoluble Oxalate (mg)": 4.16,
+  "Citric Acid (mg)": 24.21,
+  "Fumaric Acid (mg)": 6.06,
+  "Mallic Acid (mg)": 97.11,
+  "Quinic Acid (mg)": 46.55,
+  "Succinic Acid (mg)": 13.53
+ },
+ {
+  "FOOD CODE": "E036",
+  "FOOD NAME": "Mango, ripe, banganapalli (Mangifera indica)",
+  "Total Oxalate (mg)": 7.94,
+  "Soluble Oxalate (mg)": 4.72,
+  "Insoluble Oxalate (mg)": 3.23,
+  "Cis-Aconitic Acid (mg)": 0.29,
+  "Citric Acid (mg)": 446,
+  "Fumaric Acid (mg)": 0.43,
+  "Mallic Acid (mg)": 76.71,
+  "Succinic Acid (mg)": 2.95
+ },
+ {
+  "FOOD CODE": "E037",
+  "FOOD NAME": "Mango, ripe, gulabkhas (Mangifera indica)",
+  "Total Oxalate (mg)": 7.7,
+  "Soluble Oxalate (mg)": 4.34,
+  "Insoluble Oxalate (mg)": 3.36,
+  "Cis-Aconitic Acid (mg)": 0.59,
+  "Citric Acid (mg)": 432,
+  "Fumaric Acid (mg)": 0.7,
+  "Mallic Acid (mg)": 75.46,
+  "Succinic Acid (mg)": 2.34
+ },
+ {
+  "FOOD CODE": "E038",
+  "FOOD NAME": "Mango, ripe, himsagar (Mangifera indica)",
+  "Total Oxalate (mg)": 8.09,
+  "Soluble Oxalate (mg)": 6.94,
+  "Insoluble Oxalate (mg)": 1.71,
+  "Cis-Aconitic Acid (mg)": 0.3,
+  "Citric Acid (mg)": 448,
+  "Fumaric Acid (mg)": 0.58,
+  "Mallic Acid (mg)": 73.58,
+  "Succinic Acid (mg)": 3.15
+ },
+ {
+  "FOOD CODE": "E039",
+  "FOOD NAME": "Mango, ripe, kesar (Mangifera indica)",
+  "Total Oxalate (mg)": 8.31,
+  "Soluble Oxalate (mg)": 5.92,
+  "Insoluble Oxalate (mg)": 2.39,
+  "Cis-Aconitic Acid (mg)": 0.32,
+  "Citric Acid (mg)": 445,
+  "Fumaric Acid (mg)": 0.48,
+  "Mallic Acid (mg)": 75.34,
+  "Succinic Acid (mg)": 3.7
+ },
+ {
+  "FOOD CODE": "E040",
+  "FOOD NAME": "Mango, ripe, neelam (Mangifera indica)",
+  "Total Oxalate (mg)": 8.46,
+  "Soluble Oxalate (mg)": 6.9,
+  "Insoluble Oxalate (mg)": 1.56,
+  "Cis-Aconitic Acid (mg)": 0.49,
+  "Citric Acid (mg)": 430,
+  "Fumaric Acid (mg)": 0.58,
+  "Mallic Acid (mg)": 75.86,
+  "Succinic Acid (mg)": 3.56
+ },
+ {
+  "FOOD CODE": "E041",
+  "FOOD NAME": "Mango, ripe, paheri (Mangifera indica)",
+  "Total Oxalate (mg)": 9.71,
+  "Soluble Oxalate (mg)": 7.79,
+  "Insoluble Oxalate (mg)": 1.92,
+  "Cis-Aconitic Acid (mg)": 0.44,
+  "Citric Acid (mg)": 445,
+  "Fumaric Acid (mg)": 0.45,
+  "Mallic Acid (mg)": 74.5,
+  "Succinic Acid (mg)": 3.51
+ },
+ {
+  "FOOD CODE": "E042",
+  "FOOD NAME": "Mango, ripe, totapari (Mangifera indica)",
+  "Total Oxalate (mg)": 11.5,
+  "Soluble Oxalate (mg)": 7.23,
+  "Insoluble Oxalate (mg)": 4.28,
+  "Cis-Aconitic Acid (mg)": 0.45,
+  "Citric Acid (mg)": 442,
+  "Fumaric Acid (mg)": 0.81,
+  "Mallic Acid (mg)": 75.48,
+  "Succinic Acid (mg)": 2.68
+ },
+ {
+  "FOOD CODE": "E043",
+  "FOOD NAME": "Mangosteen (Garcinia mangostana)",
+  "Total Oxalate (mg)": 8.44,
+  "Soluble Oxalate (mg)": 5.32,
+  "Insoluble Oxalate (mg)": 3.07,
+  "Citric Acid (mg)": 127,
+  "Mallic Acid (mg)": 22.07,
+  "Succinic Acid (mg)": 1.07
+ },
+ {
+  "FOOD CODE": "E044",
+  "FOOD NAME": "Manila tamarind (Pithecellobium dulce)",
+  "Total Oxalate (mg)": 4.32,
+  "Soluble Oxalate (mg)": 0.98,
+  "Insoluble Oxalate (mg)": 3.35,
+  "Citric Acid (mg)": 10.52,
+  "Fumaric Acid (mg)": 0.34,
+  "Mallic Acid (mg)": 135,
+  "Succinic Acid (mg)": 79.06,
+  "Tartaric Acid (mg)": 6.5
+ },
+ {
+  "FOOD CODE": "E045",
+  "FOOD NAME": "Musk melon, orange flesh (Cucumis melon)",
+  "Total Oxalate (mg)": 2.62,
+  "Soluble Oxalate (mg)": 2.17,
+  "Insoluble Oxalate (mg)": 0.44,
+  "Cis-Aconitic Acid (mg)": 0.41,
+  "Citric Acid (mg)": 5.71,
+  "Fumaric Acid (mg)": 0.42,
+  "Mallic Acid (mg)": 1.32,
+  "Succinic Acid (mg)": 82.54,
+  "Tartaric Acid (mg)": 2.06
+ },
+ {
+  "FOOD CODE": "E046",
+  "FOOD NAME": "Musk melon, yellow flesh (Cucumis melon)",
+  "Total Oxalate (mg)": 1.88,
+  "Soluble Oxalate (mg)": 1.3,
+  "Insoluble Oxalate (mg)": 0.58,
+  "Cis-Aconitic Acid (mg)": 0.44,
+  "Citric Acid (mg)": 9.08,
+  "Fumaric Acid (mg)": 0.55,
+  "Mallic Acid (mg)": 2.94,
+  "Succinic Acid (mg)": 63.45,
+  "Tartaric Acid (mg)": 10.14
+ },
+ {
+  "FOOD CODE": "E047",
+  "FOOD NAME": "Orange, pulp (Citrus aurantium)",
+  "Total Oxalate (mg)": 8.06,
+  "Soluble Oxalate (mg)": 5.59,
+  "Insoluble Oxalate (mg)": 2.47,
+  "Citric Acid (mg)": 1281,
+  "Fumaric Acid (mg)": 0.28,
+  "Mallic Acid (mg)": 122,
+  "Quinic Acid (mg)": 25.51,
+  "Succinic Acid (mg)": 45.04
+ },
+ {
+  "FOOD CODE": "E048",
+  "FOOD NAME": "Palm fruit, tender (Borassus flabellifer)",
+  "Total Oxalate (mg)": 1.05,
+  "Soluble Oxalate (mg)": 0.64,
+  "Insoluble Oxalate (mg)": 0.41,
+  "Citric Acid (mg)": 1.31,
+  "Fumaric Acid (mg)": 3.73,
+  "Succinic Acid (mg)": 3.73
+ },
+ {
+  "FOOD CODE": "E049",
+  "FOOD NAME": "Papaya, ripe (Carcia papaya)",
+  "Total Oxalate (mg)": 5.96,
+  "Soluble Oxalate (mg)": 2.27,
+  "Insoluble Oxalate (mg)": 3.7,
+  "Cis-Aconitic Acid (mg)": 0.03,
+  "Citric Acid (mg)": 146,
+  "Fumaric Acid (mg)": 0.52,
+  "Mallic Acid (mg)": 43.4,
+  "Quinic Acid (mg)": 3.73,
+  "Succinic Acid (mg)": 39.37
+ },
+ {
+  "FOOD CODE": "E050",
+  "FOOD NAME": "Peach (Prunus communis)",
+  "Total Oxalate (mg)": 6.35,
+  "Soluble Oxalate (mg)": 4.05,
+  "Insoluble Oxalate (mg)": 2.3,
+  "Citric Acid (mg)": 127,
+  "Fumaric Acid (mg)": 1.65,
+  "Mallic Acid (mg)": 267.01
+ },
+ {
+  "FOOD CODE": "E051",
+  "FOOD NAME": "Pear (Pyrus sp.)",
+  "Total Oxalate (mg)": 2.41,
+  "Soluble Oxalate (mg)": 1.35,
+  "Insoluble Oxalate (mg)": 1.27,
+  "Cis-Aconitic Acid (mg)": 5.05,
+  "Citric Acid (mg)": 81,
+  "Fumaric Acid (mg)": 0.04,
+  "Mallic Acid (mg)": 63.72,
+  "Quinic Acid (mg)": 68.62,
+  "Succinic Acid (mg)": 5.05
+ },
+ {
+  "FOOD CODE": "E052",
+  "FOOD NAME": "Phalsa (Grewia asiatica)",
+  "Total Oxalate (mg)": 352,
+  "Soluble Oxalate (mg)": 24.41,
+  "Insoluble Oxalate (mg)": 326,
+  "Cis-Aconitic Acid (mg)": 279,
+  "Citric Acid (mg)": 319,
+  "Fumaric Acid (mg)": 1.7,
+  "Mallic Acid (mg)": 270,
+  "Succinic Acid (mg)": 279
+ },
+ {
+  "FOOD CODE": "E053",
+  "FOOD NAME": "Pineapple (Ananas comosus)",
+  "Total Oxalate (mg)": 3.39,
+  "Soluble Oxalate (mg)": 2.55,
+  "Insoluble Oxalate (mg)": 0.84,
+  "Cis-Aconitic Acid (mg)": 4.89,
+  "Citric Acid (mg)": 605,
+  "Fumaric Acid (mg)": 0.04,
+  "Mallic Acid (mg)": 92.39,
+  "Quinic Acid (mg)": 3.71,
+  "Succinic Acid (mg)": 4.89
+ },
+ {
+  "FOOD CODE": "E054",
+  "FOOD NAME": "Plum (Prunus domestica)",
+  "Total Oxalate (mg)": 0.74,
+  "Soluble Oxalate (mg)": 0.19,
+  "Insoluble Oxalate (mg)": 0.7,
+  "Cis-Aconitic Acid (mg)": 87.64,
+  "Citric Acid (mg)": 62.32,
+  "Fumaric Acid (mg)": 0.83,
+  "Mallic Acid (mg)": 96.33,
+  "Succinic Acid (mg)": 87.64
+ },
+ {
+  "FOOD CODE": "E055",
+  "FOOD NAME": "Pomegranate, maroon seeds (Punica granatum)",
+  "Total Oxalate (mg)": 253,
+  "Soluble Oxalate (mg)": 178,
+  "Insoluble Oxalate (mg)": 75.75,
+  "Citric Acid (mg)": 1239,
+  "Fumaric Acid (mg)": 0.05,
+  "Mallic Acid (mg)": 123,
+  "Quinic Acid (mg)": 5.94,
+  "Tartaric Acid (mg)": 0.39
+ },
+ {
+  "FOOD CODE": "E056",
+  "FOOD NAME": "Pummelo (Citrus maxima)",
+  "Total Oxalate (mg)": 16.25,
+  "Soluble Oxalate (mg)": 8.78,
+  "Insoluble Oxalate (mg)": 7.47,
+  "Citric Acid (mg)": 2013,
+  "Fumaric Acid (mg)": 0.84,
+  "Mallic Acid (mg)": 74.78
+ },
+ {
+  "FOOD CODE": "E057",
+  "FOOD NAME": "Raisins, dried, black (Vitis vinifera)",
+  "Total Oxalate (mg)": 10.71,
+  "Soluble Oxalate (mg)": 5.24,
+  "Insoluble Oxalate (mg)": 5.47,
+  "Cis-Aconitic Acid (mg)": 5.89,
+  "Citric Acid (mg)": 24.92,
+  "Fumaric Acid (mg)": 1.13,
+  "Mallic Acid (mg)": 61,
+  "Quinic Acid (mg)": 63.62,
+  "Succinic Acid (mg)": 5.89
+ },
+ {
+  "FOOD CODE": "E058",
+  "FOOD NAME": "Raisins, dried, golden (Vitis vinifera)",
+  "Total Oxalate (mg)": 10.9,
+  "Soluble Oxalate (mg)": 5.32,
+  "Insoluble Oxalate (mg)": 5.86,
+  "Cis-Aconitic Acid (mg)": 5.43,
+  "Citric Acid (mg)": 17.47,
+  "Fumaric Acid (mg)": 0.23,
+  "Mallic Acid (mg)": 33.86,
+  "Quinic Acid (mg)": 338,
+  "Succinic Acid (mg)": 5.43
+ },
+ {
+  "FOOD CODE": "E059",
+  "FOOD NAME": "Rambutan (Nephelium lappaceum)",
+  "Total Oxalate (mg)": 1.89,
+  "Soluble Oxalate (mg)": 1.24,
+  "Insoluble Oxalate (mg)": 0.65,
+  "Citric Acid (mg)": 12.65,
+  "Fumaric Acid (mg)": 1.77
+ },
+ {
+  "FOOD CODE": "E060",
+  "FOOD NAME": "Sapota (Achras sapota)",
+  "Total Oxalate (mg)": 8.97,
+  "Soluble Oxalate (mg)": 6.68,
+  "Insoluble Oxalate (mg)": 2.28,
+  "Cis-Aconitic Acid (mg)": 440,
+  "Citric Acid (mg)": 355,
+  "Fumaric Acid (mg)": 3.26,
+  "Mallic Acid (mg)": 17.94,
+  "Quinic Acid (mg)": 44,
+  "Succinic Acid (mg)": 440
+ },
+ {
+  "FOOD CODE": "E061",
+  "FOOD NAME": "Soursop ( Annona muricata )",
+  "Total Oxalate (mg)": 1.07,
+  "Soluble Oxalate (mg)": 0.31,
+  "Insoluble Oxalate (mg)": 0.76,
+  "Citric Acid (mg)": 12.33,
+  "Tartaric Acid (mg)": 2.25
+ },
+ {
+  "FOOD CODE": "E062",
+  "FOOD NAME": "Star fruit (Averrhoa carambola)",
+  "Total Oxalate (mg)": 1.23,
+  "Soluble Oxalate (mg)": 0.97,
+  "Insoluble Oxalate (mg)": 0.26,
+  "Cis-Aconitic Acid (mg)": 0.15,
+  "Citric Acid (mg)": 886,
+  "Fumaric Acid (mg)": 1.23,
+  "Succinic Acid (mg)": 0.15
+ },
+ {
+  "FOOD CODE": "E063",
+  "FOOD NAME": "Strawberry (Fragaria ananassa)",
+  "Total Oxalate (mg)": 2.04,
+  "Soluble Oxalate (mg)": 1.5,
+  "Insoluble Oxalate (mg)": 0.52,
+  "Citric Acid (mg)": 0.11,
+  "Fumaric Acid (mg)": 0.19,
+  "Mallic Acid (mg)": 2.55,
+  "Succinic Acid (mg)": 0.82
+ },
+ {
+  "FOOD CODE": "E064",
+  "FOOD NAME": "Tamarind, pulp (Tamarindus indicus)",
+  "Total Oxalate (mg)": 48.91,
+  "Soluble Oxalate (mg)": 21.42,
+  "Insoluble Oxalate (mg)": 27.5,
+  "Citric Acid (mg)": 0.06,
+  "Fumaric Acid (mg)": 0.18,
+  "Mallic Acid (mg)": 2.81,
+  "Succinic Acid (mg)": 0.8,
+  "Tartaric Acid (mg)": 12.25
+ },
+ {
+  "FOOD CODE": "E065",
+  "FOOD NAME": "Water melon, dark green (sugar baby) (Citrullus vulgaris)",
+  "Total Oxalate (mg)": 0.72,
+  "Soluble Oxalate (mg)": 0.47,
+  "Insoluble Oxalate (mg)": 0.25,
+  "Cis-Aconitic Acid (mg)": 0.92,
+  "Citric Acid (mg)": 47.35,
+  "Fumaric Acid (mg)": 14.58,
+  "Mallic Acid (mg)": 7.27
+ },
+ {
+  "FOOD CODE": "E066",
+  "FOOD NAME": "Water melon, pale green (Citrullus vulgaris)",
+  "Total Oxalate (mg)": 0.55,
+  "Soluble Oxalate (mg)": 0.31,
+  "Insoluble Oxalate (mg)": 0.24,
+  "Cis-Aconitic Acid (mg)": 0.86,
+  "Citric Acid (mg)": 52.65,
+  "Fumaric Acid (mg)": 15.18,
+  "Mallic Acid (mg)": 7.55
+ },
+ {
+  "FOOD CODE": "E067",
+  "FOOD NAME": "Wood Apple (Limonia acidissima)",
+  "Total Oxalate (mg)": 55.8,
+  "Soluble Oxalate (mg)": 7.91,
+  "Insoluble Oxalate (mg)": 47.88,
+  "Cis-Aconitic Acid (mg)": 0.26,
+  "Citric Acid (mg)": 257,
+  "Fumaric Acid (mg)": 0.65,
+  "Mallic Acid (mg)": 13.83,
+  "Quinic Acid (mg)": 4.86,
+  "Succinic Acid (mg)": 18.49,
+  "Tartaric Acid (mg)": 2.9
+ },
+ {
+  "FOOD CODE": "E068",
+  "FOOD NAME": "Zizyphus (Zizyphus jujube)",
+  "Total Oxalate (mg)": 2.89,
+  "Soluble Oxalate (mg)": 1.33,
+  "Insoluble Oxalate (mg)": 1.56,
+  "Citric Acid (mg)": 19.93,
+  "Fumaric Acid (mg)": 1.37,
+  "Mallic Acid (mg)": 1.21,
+  "Quinic Acid (mg)": 141,
+  "Succinic Acid (mg)": 89.7,
+  "Tartaric Acid (mg)": 129
+ },
+ {
+  "FOOD CODE": "F001",
+  "FOOD NAME": "Beet root (Beta vulgaris)",
+  "Total Oxalate (mg)": 71.37,
+  "Soluble Oxalate (mg)": 30.15,
+  "Insoluble Oxalate (mg)": 41.21,
+  "Cis-Aconitic Acid (mg)": 45.43,
+  "Citric Acid (mg)": 134,
+  "Fumaric Acid (mg)": 0.02,
+  "Mallic Acid (mg)": 0.33,
+  "Succinic Acid (mg)": 0.29
+ },
+ {
+  "FOOD CODE": "F002",
+  "FOOD NAME": "Carrot, orange (Dacus carota)",
+  "Total Oxalate (mg)": 17.45,
+  "Soluble Oxalate (mg)": 12.63,
+  "Insoluble Oxalate (mg)": 4.82,
+  "Cis-Aconitic Acid (mg)": 37.5,
+  "Citric Acid (mg)": 222,
+  "Fumaric Acid (mg)": 5.62,
+  "Mallic Acid (mg)": 4.83,
+  "Succinic Acid (mg)": 5.58
+ },
+ {
+  "FOOD CODE": "F003",
+  "FOOD NAME": "Carrot, red (Dacus carota)",
+  "Total Oxalate (mg)": 16.41,
+  "Soluble Oxalate (mg)": 15.43,
+  "Insoluble Oxalate (mg)": 0.98,
+  "Cis-Aconitic Acid (mg)": 39.15,
+  "Citric Acid (mg)": 105,
+  "Mallic Acid (mg)": 5.01,
+  "Succinic Acid (mg)": 5.13
+ },
+ {
+  "FOOD CODE": "F004",
+  "FOOD NAME": "Colocasia (Colocasia antiquorum)",
+  "Total Oxalate (mg)": 48.73,
+  "Soluble Oxalate (mg)": 26.6,
+  "Insoluble Oxalate (mg)": 22.13,
+  "Cis-Aconitic Acid (mg)": 0.44,
+  "Citric Acid (mg)": 12.17,
+  "Fumaric Acid (mg)": 7.03,
+  "Mallic Acid (mg)": 3.69,
+  "Quinic Acid (mg)": 42.18
+ },
+ {
+  "FOOD CODE": "F005",
+  "FOOD NAME": "Lotus root (Nelumbium nelumbo)",
+  "Total Oxalate (mg)": 364,
+  "Soluble Oxalate (mg)": 26.03,
+  "Insoluble Oxalate (mg)": 116,
+  "Cis-Aconitic Acid (mg)": 0.85,
+  "Citric Acid (mg)": 55.38,
+  "Fumaric Acid (mg)": 1.48,
+  "Mallic Acid (mg)": 84.39,
+  "Succinic Acid (mg)": 4.89,
+  "Tartaric Acid (mg)": 85.92
+ },
+ {
+  "FOOD CODE": "F006",
+  "FOOD NAME": "Potato, brown skin, big (Solanum tuberosum)",
+  "Total Oxalate (mg)": 12.24,
+  "Soluble Oxalate (mg)": 9.71,
+  "Insoluble Oxalate (mg)": 2.64,
+  "Cis-Aconitic Acid (mg)": 10.97,
+  "Citric Acid (mg)": 55.38,
+  "Fumaric Acid (mg)": 1.48,
+  "Mallic Acid (mg)": 84.1,
+  "Succinic Acid (mg)": 4.89
+ },
+ {
+  "FOOD CODE": "F007",
+  "FOOD NAME": "Potato, brown skin, small (Solanum tuberosum)",
+  "Total Oxalate (mg)": 13.63,
+  "Soluble Oxalate (mg)": 10.71,
+  "Insoluble Oxalate (mg)": 2.92,
+  "Cis-Aconitic Acid (mg)": 15.63,
+  "Citric Acid (mg)": 56.81,
+  "Fumaric Acid (mg)": 1.82,
+  "Mallic Acid (mg)": 94.52,
+  "Succinic Acid (mg)": 7.11
+ },
+ {
+  "FOOD CODE": "F008",
+  "FOOD NAME": "Potato, red skin (Solanum tuberosum)",
+  "Total Oxalate (mg)": 12.37,
+  "Soluble Oxalate (mg)": 10.21,
+  "Insoluble Oxalate (mg)": 2.16,
+  "Cis-Aconitic Acid (mg)": 14.52,
+  "Citric Acid (mg)": 57.82,
+  "Fumaric Acid (mg)": 1.52,
+  "Mallic Acid (mg)": 93.8,
+  "Succinic Acid (mg)": 6.81
+ },
+ {
+  "FOOD CODE": "F009",
+  "FOOD NAME": "Radish, elongate, red skin (Raphanus sativus)",
+  "Total Oxalate (mg)": 12.73,
+  "Soluble Oxalate (mg)": 5.37,
+  "Insoluble Oxalate (mg)": 7.36,
+  "Cis-Aconitic Acid (mg)": 4.2,
+  "Citric Acid (mg)": 2.94,
+  "Fumaric Acid (mg)": 1.34,
+  "Mallic Acid (mg)": 4.53,
+  "Succinic Acid (mg)": 2.59
+ },
+ {
+  "FOOD CODE": "F010",
+  "FOOD NAME": "Radish, elongate, white skin (Raphanus sativus)",
+  "Total Oxalate (mg)": 12.72,
+  "Soluble Oxalate (mg)": 8.06,
+  "Insoluble Oxalate (mg)": 4.66,
+  "Cis-Aconitic Acid (mg)": 4.35,
+  "Citric Acid (mg)": 3.65,
+  "Fumaric Acid (mg)": 1.35,
+  "Mallic Acid (mg)": 4.9,
+  "Succinic Acid (mg)": 1.84
+ },
+ {
+  "FOOD CODE": "F011",
+  "FOOD NAME": "Radish, round, red skin (Raphanus sativus)",
+  "Total Oxalate (mg)": 12.27,
+  "Soluble Oxalate (mg)": 9.12,
+  "Insoluble Oxalate (mg)": 3.15,
+  "Cis-Aconitic Acid (mg)": 3.27,
+  "Citric Acid (mg)": 6.12,
+  "Fumaric Acid (mg)": 1.36,
+  "Mallic Acid (mg)": 6.41,
+  "Succinic Acid (mg)": 2.82
+ },
+ {
+  "FOOD CODE": "F012",
+  "FOOD NAME": "Radish, round, white skin (Raphanus sativus)",
+  "Total Oxalate (mg)": 15.49,
+  "Soluble Oxalate (mg)": 8.88,
+  "Insoluble Oxalate (mg)": 6.61,
+  "Cis-Aconitic Acid (mg)": 3.49,
+  "Citric Acid (mg)": 2.97,
+  "Fumaric Acid (mg)": 1.61,
+  "Mallic Acid (mg)": 5.58,
+  "Succinic Acid (mg)": 2.07
+ },
+ {
+  "FOOD CODE": "F013",
+  "FOOD NAME": "Sweet potato, brown skin (Ipomoes batatas)",
+  "Total Oxalate (mg)": 14.39,
+  "Soluble Oxalate (mg)": 6.56,
+  "Insoluble Oxalate (mg)": 6.27,
+  "Citric Acid (mg)": 15.66,
+  "Fumaric Acid (mg)": 1.92,
+  "Mallic Acid (mg)": 127,
+  "Succinic Acid (mg)": 652,
+  "Tartaric Acid (mg)": 6.42
+ },
+ {
+  "FOOD CODE": "F014",
+  "FOOD NAME": "Sweet potato, pink skin (Ipomoes batatas)",
+  "Total Oxalate (mg)": 14.14,
+  "Soluble Oxalate (mg)": 9.04,
+  "Insoluble Oxalate (mg)": 5.1,
+  "Citric Acid (mg)": 25.69,
+  "Fumaric Acid (mg)": 0.23,
+  "Mallic Acid (mg)": 147,
+  "Quinic Acid (mg)": 0.08,
+  "Succinic Acid (mg)": 334,
+  "Tartaric Acid (mg)": 17.95
+ },
+ {
+  "FOOD CODE": "F015",
+  "FOOD NAME": "Tapioca (Manihot esculenta)",
+  "Total Oxalate (mg)": 16.86,
+  "Soluble Oxalate (mg)": 10.93,
+  "Insoluble Oxalate (mg)": 5.93,
+  "Cis-Aconitic Acid (mg)": 1.21,
+  "Citric Acid (mg)": 8.83,
+  "Fumaric Acid (mg)": 1.87,
+  "Mallic Acid (mg)": 8.82,
+  "Quinic Acid (mg)": 167,
+  "Succinic Acid (mg)": 18.23
+ },
+ {
+  "FOOD CODE": "F016",
+  "FOOD NAME": "Water Chestnut (Eleocharis dulcis)",
+  "Total Oxalate (mg)": 16.54,
+  "Soluble Oxalate (mg)": 8.66,
+  "Insoluble Oxalate (mg)": 7.88,
+  "Citric Acid (mg)": 4.86,
+  "Fumaric Acid (mg)": 1.05,
+  "Mallic Acid (mg)": 2.07,
+  "Quinic Acid (mg)": 15.07,
+  "Succinic Acid (mg)": 17.22
+ },
+ {
+  "FOOD CODE": "F017",
+  "FOOD NAME": "Yam, elephant (Amorphophallus campanulatus)",
+  "Total Oxalate (mg)": 15.58,
+  "Soluble Oxalate (mg)": 12.39,
+  "Insoluble Oxalate (mg)": 3.18,
+  "Cis-Aconitic Acid (mg)": 1.63,
+  "Citric Acid (mg)": 354,
+  "Fumaric Acid (mg)": 5.92,
+  "Mallic Acid (mg)": 122,
+  "Quinic Acid (mg)": 15.88,
+  "Succinic Acid (mg)": 16.18
+ },
+ {
+  "FOOD CODE": "F018",
+  "FOOD NAME": "Yam, ordinary (Amorphophallus campanulatus)",
+  "Total Oxalate (mg)": 13.99,
+  "Soluble Oxalate (mg)": 11.21,
+  "Insoluble Oxalate (mg)": 2.78,
+  "Cis-Aconitic Acid (mg)": 4.55,
+  "Citric Acid (mg)": 556,
+  "Fumaric Acid (mg)": 1.62,
+  "Mallic Acid (mg)": 50.48,
+  "Quinic Acid (mg)": 13.37,
+  "Succinic Acid (mg)": 18.56
+ },
+ {
+  "FOOD CODE": "F019",
+  "FOOD NAME": "Yam, wild (Dioscorea versicolor)",
+  "Total Oxalate (mg)": 13.45,
+  "Soluble Oxalate (mg)": 3.63,
+  "Insoluble Oxalate (mg)": 9.82,
+  "Citric Acid (mg)": 286,
+  "Fumaric Acid (mg)": 1.11,
+  "Mallic Acid (mg)": 138,
+  "Quinic Acid (mg)": 10.48,
+  "Succinic Acid (mg)": 20.65
+ },
+ {
+  "FOOD CODE": "G001",
+  "FOOD NAME": "Chillies, green-1 (Capsicum annum)",
+  "Total Oxalate (mg)": 28.86,
+  "Soluble Oxalate (mg)": 24.35,
+  "Insoluble Oxalate (mg)": 4.94,
+  "Cis-Aconitic Acid (mg)": 1.48,
+  "Citric Acid (mg)": 4.85,
+  "Fumaric Acid (mg)": 3.12,
+  "Mallic Acid (mg)": 27.49,
+  "Succinic Acid (mg)": 131,
+  "Tartaric Acid (mg)": 15.81
+ },
+ {
+  "FOOD CODE": "G002",
+  "FOOD NAME": "Chillies, green-2 (Capsicum annum)",
+  "Total Oxalate (mg)": 26.32,
+  "Soluble Oxalate (mg)": 20.87,
+  "Insoluble Oxalate (mg)": 5.45,
+  "Cis-Aconitic Acid (mg)": 1.43,
+  "Citric Acid (mg)": 5.89,
+  "Fumaric Acid (mg)": 3.19,
+  "Mallic Acid (mg)": 29.52,
+  "Succinic Acid (mg)": 127,
+  "Tartaric Acid (mg)": 18.15
+ },
+ {
+  "FOOD CODE": "G003",
+  "FOOD NAME": "Chillies, green-3 (Capsicum annum)",
+  "Total Oxalate (mg)": 27.68,
+  "Soluble Oxalate (mg)": 22.1,
+  "Insoluble Oxalate (mg)": 5.58,
+  "Cis-Aconitic Acid (mg)": 1.33,
+  "Citric Acid (mg)": 6.44,
+  "Fumaric Acid (mg)": 3.43,
+  "Mallic Acid (mg)": 31.64,
+  "Succinic Acid (mg)": 123,
+  "Tartaric Acid (mg)": 19.99
+ },
+ {
+  "FOOD CODE": "G004",
+  "FOOD NAME": "Chillies, green-4 (Capsicum annum)",
+  "Total Oxalate (mg)": 23.85,
+  "Soluble Oxalate (mg)": 20.5,
+  "Insoluble Oxalate (mg)": 3.35,
+  "Cis-Aconitic Acid (mg)": 1.92,
+  "Citric Acid (mg)": 4.43,
+  "Fumaric Acid (mg)": 3.52,
+  "Mallic Acid (mg)": 33.22,
+  "Succinic Acid (mg)": 118,
+  "Tartaric Acid (mg)": 16.24
+ },
+ {
+  "FOOD CODE": "G005",
+  "FOOD NAME": "Chillies, green-5 (Capsicum annum)",
+  "Total Oxalate (mg)": 38.3,
+  "Soluble Oxalate (mg)": 22.73,
+  "Insoluble Oxalate (mg)": 4.33,
+  "Cis-Aconitic Acid (mg)": 1.37,
+  "Citric Acid (mg)": 4.86,
+  "Fumaric Acid (mg)": 3.94,
+  "Mallic Acid (mg)": 33.47,
+  "Succinic Acid (mg)": 129,
+  "Tartaric Acid (mg)": 24.64
+ },
+ {
+  "FOOD CODE": "G006",
+  "FOOD NAME": "Chillies, green-6 (Capsicum annum)",
+  "Total Oxalate (mg)": 30.12,
+  "Soluble Oxalate (mg)": 24.31,
+  "Insoluble Oxalate (mg)": 5.82,
+  "Cis-Aconitic Acid (mg)": 0.73,
+  "Citric Acid (mg)": 1.13,
+  "Fumaric Acid (mg)": 3.28,
+  "Mallic Acid (mg)": 30.79,
+  "Succinic Acid (mg)": 121,
+  "Tartaric Acid (mg)": 20.91
+ },
+ {
+  "FOOD CODE": "G007",
+  "FOOD NAME": "Chillies, green-7 (Capsicum annum)",
+  "Total Oxalate (mg)": 29.37,
+  "Soluble Oxalate (mg)": 25.4,
+  "Insoluble Oxalate (mg)": 3.97,
+  "Cis-Aconitic Acid (mg)": 1.57,
+  "Citric Acid (mg)": 5.69,
+  "Fumaric Acid (mg)": 4.04,
+  "Mallic Acid (mg)": 34.69,
+  "Succinic Acid (mg)": 131,
+  "Tartaric Acid (mg)": 19.55
+ },
+ {
+  "FOOD CODE": "G008",
+  "FOOD NAME": "Chillies, green - all varieties (Capsicum annum)",
+  "Total Oxalate (mg)": 28.54,
+  "Soluble Oxalate (mg)": 22.66,
+  "Insoluble Oxalate (mg)": 4.92,
+  "Cis-Aconitic Acid (mg)": 1.43,
+  "Citric Acid (mg)": 5.13,
+  "Fumaric Acid (mg)": 3.42,
+  "Mallic Acid (mg)": 30.91,
+  "Succinic Acid (mg)": 126,
+  "Tartaric Acid (mg)": 18.88
+ },
+ {
+  "FOOD CODE": "G009",
+  "FOOD NAME": "Coriander leaves (Coriandrum sativum)",
+  "Total Oxalate (mg)": 20.42,
+  "Soluble Oxalate (mg)": 15.75,
+  "Insoluble Oxalate (mg)": 4.68,
+  "Cis-Aconitic Acid (mg)": 11.59,
+  "Citric Acid (mg)": 546,
+  "Fumaric Acid (mg)": 23.95,
+  "Mallic Acid (mg)": 65.96,
+  "Quinic Acid (mg)": 16.17
+ },
+ {
+  "FOOD CODE": "G010",
+  "FOOD NAME": "Curry leaves (Murraya koenigii)",
+  "Total Oxalate (mg)": 154,
+  "Soluble Oxalate (mg)": 10.93,
+  "Insoluble Oxalate (mg)": 143,
+  "Cis-Aconitic Acid (mg)": 0.73,
+  "Citric Acid (mg)": 65.27,
+  "Fumaric Acid (mg)": 1.62,
+  "Mallic Acid (mg)": 7.45,
+  "Quinic Acid (mg)": 13.66,
+  "Succinic Acid (mg)": 37.87,
+  "Tartaric Acid (mg)": 7.21
+ },
+ {
+  "FOOD CODE": "G011",
+  "FOOD NAME": "Garlic, big clove (Allium sativum)",
+  "Total Oxalate (mg)": 159,
+  "Soluble Oxalate (mg)": 130,
+  "Insoluble Oxalate (mg)": 28.47,
+  "Citric Acid (mg)": 0.64,
+  "Fumaric Acid (mg)": 0.05,
+  "Succinic Acid (mg)": 20.73
+ },
+ {
+  "FOOD CODE": "G012",
+  "FOOD NAME": "Garlic, small clove (Allium sativum)",
+  "Total Oxalate (mg)": 143,
+  "Soluble Oxalate (mg)": 115,
+  "Insoluble Oxalate (mg)": 27.98,
+  "Citric Acid (mg)": 1.15,
+  "Fumaric Acid (mg)": 0.07,
+  "Succinic Acid (mg)": 23.11
+ },
+ {
+  "FOOD CODE": "G013",
+  "FOOD NAME": "Garlic, single clove, Kashmir (Allium sativum)",
+  "Total Oxalate (mg)": 127,
+  "Soluble Oxalate (mg)": 119,
+  "Insoluble Oxalate (mg)": 7.33,
+  "Citric Acid (mg)": 0.12,
+  "Succinic Acid (mg)": 20.11
+ },
+ {
+  "FOOD CODE": "G014",
+  "FOOD NAME": "Ginger, fresh (Zinziber officinale)",
+  "Total Oxalate (mg)": 259,
+  "Soluble Oxalate (mg)": 18.26,
+  "Insoluble Oxalate (mg)": 241,
+  "Citric Acid (mg)": 5.95,
+  "Fumaric Acid (mg)": 1.43,
+  "Succinic Acid (mg)": 2.16
+ },
+ {
+  "FOOD CODE": "G015",
+  "FOOD NAME": "Mango ginger (Curcuma amada)",
+  "Total Oxalate (mg)": 307,
+  "Soluble Oxalate (mg)": 228,
+  "Insoluble Oxalate (mg)": 79.22,
+  "Citric Acid (mg)": 53.42,
+  "Fumaric Acid (mg)": 0.4,
+  "Mallic Acid (mg)": 33.2,
+  "Quinic Acid (mg)": 3.13,
+  "Succinic Acid (mg)": 3.8
+ },
+ {
+  "FOOD CODE": "G016",
+  "FOOD NAME": "Mint leaves (Mentha spicata )",
+  "Total Oxalate (mg)": 97.07,
+  "Soluble Oxalate (mg)": 8.3,
+  "Insoluble Oxalate (mg)": 88.76,
+  "Citric Acid (mg)": 25.86,
+  "Fumaric Acid (mg)": 3.83,
+  "Mallic Acid (mg)": 14.8,
+  "Quinic Acid (mg)": 26.33,
+  "Succinic Acid (mg)": 27.22
+ },
+ {
+  "FOOD CODE": "G017",
+  "FOOD NAME": "Onion, big (Allium cepa)",
+  "Total Oxalate (mg)": 4.03,
+  "Soluble Oxalate (mg)": 3.42,
+  "Insoluble Oxalate (mg)": 0.61,
+  "Cis-Aconitic Acid (mg)": 43.05,
+  "Citric Acid (mg)": 33.89,
+  "Fumaric Acid (mg)": 0.63,
+  "Mallic Acid (mg)": 392,
+  "Succinic Acid (mg)": 105,
+  "Tartaric Acid (mg)": 12.21
+ },
+ {
+  "FOOD CODE": "G018",
+  "FOOD NAME": "Onion, small (Allium cepa)",
+  "Total Oxalate (mg)": 11.11,
+  "Soluble Oxalate (mg)": 9.69,
+  "Insoluble Oxalate (mg)": 1.27,
+  "Citric Acid (mg)": 76.07,
+  "Fumaric Acid (mg)": 0.04,
+  "Mallic Acid (mg)": 117,
+  "Quinic Acid (mg)": 165,
+  "Succinic Acid (mg)": 135
+ },
+ {
+  "FOOD CODE": "G019",
+  "FOOD NAME": "Asafoetida (Ferula assa-foetida)",
+  "Total Oxalate (mg)": 23.82,
+  "Soluble Oxalate (mg)": 3.27,
+  "Insoluble Oxalate (mg)": 20.55,
+  "Cis-Aconitic Acid (mg)": 1.66,
+  "Citric Acid (mg)": 6.35,
+  "Fumaric Acid (mg)": 0.02,
+  "Mallic Acid (mg)": 0.46,
+  "Quinic Acid (mg)": 4.72,
+  "Tartaric Acid (mg)": 1.64
+ },
+ {
+  "FOOD CODE": "G020",
+  "FOOD NAME": "Cardamom, green (Elettaria cardamomum)",
+  "Total Oxalate (mg)": 1961,
+  "Soluble Oxalate (mg)": 1191,
+  "Insoluble Oxalate (mg)": 770,
+  "Citric Acid (mg)": 73.83,
+  "Fumaric Acid (mg)": 0.85,
+  "Mallic Acid (mg)": 22.21,
+  "Quinic Acid (mg)": 4.85,
+  "Succinic Acid (mg)": 5.41
+ },
+ {
+  "FOOD CODE": "G021",
+  "FOOD NAME": "Cardamom, black (Elettaria cardamomum)",
+  "Total Oxalate (mg)": 2472,
+  "Soluble Oxalate (mg)": 1471,
+  "Insoluble Oxalate (mg)": 1001,
+  "Citric Acid (mg)": 156,
+  "Fumaric Acid (mg)": 0.81,
+  "Mallic Acid (mg)": 36.77,
+  "Quinic Acid (mg)": 4.28,
+  "Succinic Acid (mg)": 6.11
+ },
+ {
+  "FOOD CODE": "G022",
+  "FOOD NAME": "Chillies, red (Capsicum annum)",
+  "Total Oxalate (mg)": 87.17,
+  "Soluble Oxalate (mg)": 65.69,
+  "Insoluble Oxalate (mg)": 21.48,
+  "Citric Acid (mg)": 0.62,
+  "Fumaric Acid (mg)": 13.67,
+  "Mallic Acid (mg)": 68.38,
+  "Succinic Acid (mg)": 22
+ },
+ {
+  "FOOD CODE": "G023",
+  "FOOD NAME": "Cloves (Syzygium aromaticum)",
+  "Total Oxalate (mg)": 1845,
+  "Soluble Oxalate (mg)": 353,
+  "Insoluble Oxalate (mg)": 1492,
+  "Cis-Aconitic Acid (mg)": 1.54,
+  "Citric Acid (mg)": 427,
+  "Fumaric Acid (mg)": 0.46,
+  "Mallic Acid (mg)": 177,
+  "Tartaric Acid (mg)": 20.28
+ },
+ {
+  "FOOD CODE": "G024",
+  "FOOD NAME": "Coriander seeds (Coriandrum sativum)",
+  "Total Oxalate (mg)": 809,
+  "Soluble Oxalate (mg)": 118,
+  "Insoluble Oxalate (mg)": 692,
+  "Cis-Aconitic Acid (mg)": 1.41,
+  "Citric Acid (mg)": 53.84,
+  "Fumaric Acid (mg)": 6.53,
+  "Mallic Acid (mg)": 13.51
+ },
+ {
+  "FOOD CODE": "G025",
+  "FOOD NAME": "Cumin seeds (Cuminum cyminum)",
+  "Total Oxalate (mg)": 817,
+  "Soluble Oxalate (mg)": 40.43,
+  "Insoluble Oxalate (mg)": 777,
+  "Cis-Aconitic Acid (mg)": 2.43,
+  "Citric Acid (mg)": 47,
+  "Fumaric Acid (mg)": 2.38,
+  "Mallic Acid (mg)": 40.76
+ },
+ {
+  "FOOD CODE": "G026",
+  "FOOD NAME": "Fenugreek seeds (Trigonella foenum graecum)",
+  "Total Oxalate (mg)": 31.75,
+  "Soluble Oxalate (mg)": 10.55,
+  "Insoluble Oxalate (mg)": 21.2,
+  "Cis-Aconitic Acid (mg)": 0.24,
+  "Citric Acid (mg)": 4.99,
+  "Quinic Acid (mg)": 2.47,
+  "Tartaric Acid (mg)": 2.19
+ },
+ {
+  "FOOD CODE": "G027",
+  "FOOD NAME": "Mace (Myristica fragrans)",
+  "Total Oxalate (mg)": 28.22,
+  "Soluble Oxalate (mg)": 0.28,
+  "Insoluble Oxalate (mg)": 27.94,
+  "Citric Acid (mg)": 98.68,
+  "Fumaric Acid (mg)": 2.36,
+  "Mallic Acid (mg)": 173,
+  "Quinic Acid (mg)": 345
+ },
+ {
+  "FOOD CODE": "G028",
+  "FOOD NAME": "Nutmeg (Myristica fragrans)",
+  "Total Oxalate (mg)": 194,
+  "Soluble Oxalate (mg)": 48.2,
+  "Insoluble Oxalate (mg)": 146,
+  "Citric Acid (mg)": 59.31,
+  "Fumaric Acid (mg)": 55.9,
+  "Mallic Acid (mg)": 15.7,
+  "Quinic Acid (mg)": 231,
+  "Succinic Acid (mg)": 16.52
+ },
+ {
+  "FOOD CODE": "G029",
+  "FOOD NAME": "Omum (Trachyspermum ammi)",
+  "Total Oxalate (mg)": 1020,
+  "Soluble Oxalate (mg)": 34.19,
+  "Insoluble Oxalate (mg)": 985,
+  "Citric Acid (mg)": 47.73,
+  "Mallic Acid (mg)": 199,
+  "Quinic Acid (mg)": 26.16,
+  "Succinic Acid (mg)": 5.55
+ },
+ {
+  "FOOD CODE": "G030",
+  "FOOD NAME": "Pippali (Piper longum)",
+  "Total Oxalate (mg)": 367,
+  "Soluble Oxalate (mg)": 21.22,
+  "Insoluble Oxalate (mg)": 346,
+  "Cis-Aconitic Acid (mg)": 0.16,
+  "Citric Acid (mg)": 37.97,
+  "Fumaric Acid (mg)": 0.05,
+  "Mallic Acid (mg)": 0.52,
+  "Succinic Acid (mg)": 121,
+  "Tartaric Acid (mg)": 154
+ },
+ {
+  "FOOD CODE": "G031",
+  "FOOD NAME": "Pepper, black (Piper nigrum)",
+  "Total Oxalate (mg)": 431,
+  "Soluble Oxalate (mg)": 33.74,
+  "Insoluble Oxalate (mg)": 398,
+  "Cis-Aconitic Acid (mg)": 4.39,
+  "Citric Acid (mg)": 136,
+  "Fumaric Acid (mg)": 1.65,
+  "Mallic Acid (mg)": 13.93,
+  "Succinic Acid (mg)": 119,
+  "Tartaric Acid (mg)": 1.92
+ },
+ {
+  "FOOD CODE": "G032",
+  "FOOD NAME": "Poppy seeds (Papaver somniferum)",
+  "Total Oxalate (mg)": 1631,
+  "Soluble Oxalate (mg)": 32.08,
+  "Insoluble Oxalate (mg)": 1599,
+  "Cis-Aconitic Acid (mg)": 3.92,
+  "Citric Acid (mg)": 21.79,
+  "Mallic Acid (mg)": 24.18,
+  "Quinic Acid (mg)": 557,
+  "Succinic Acid (mg)": 24.4
+ },
+ {
+  "FOOD CODE": "G033",
+  "FOOD NAME": "Turmeric powder (Curcuma domestica)",
+  "Total Oxalate (mg)": 1531,
+  "Soluble Oxalate (mg)": 1221,
+  "Insoluble Oxalate (mg)": 310,
+  "Citric Acid (mg)": 2.63,
+  "Fumaric Acid (mg)": 0.17,
+  "Mallic Acid (mg)": 40.62,
+  "Succinic Acid (mg)": 33.24
+ },
+ {
+  "FOOD CODE": "H001",
+  "FOOD NAME": "Almond (Prunus amygdalus)",
+  "Total Oxalate (mg)": 344,
+  "Soluble Oxalate (mg)": 110,
+  "Insoluble Oxalate (mg)": 235,
+  "Citric Acid (mg)": 11.88,
+  "Fumaric Acid (mg)": 0.29,
+  "Mallic Acid (mg)": 97.52,
+  "Succinic Acid (mg)": 1.31,
+  "Tartaric Acid (mg)": 1.18
+ },
+ {
+  "FOOD CODE": "H002",
+  "FOOD NAME": "Arecanut, dried, brown (Areca catechu)",
+  "Citric Acid (mg)": 7.93,
+  "Fumaric Acid (mg)": 0.14,
+  "Mallic Acid (mg)": 47.16,
+  "Quinic Acid (mg)": 75.06,
+  "Succinic Acid (mg)": 1.89
+ },
+ {
+  "FOOD CODE": "H003",
+  "FOOD NAME": "Arecanut, dried, red color (Areca catechu)",
+  "Citric Acid (mg)": 8.76,
+  "Fumaric Acid (mg)": 0.2,
+  "Mallic Acid (mg)": 45.71,
+  "Quinic Acid (mg)": 74.62,
+  "Succinic Acid (mg)": 2.03
+ },
+ {
+  "FOOD CODE": "H004",
+  "FOOD NAME": "Arecanut, fresh (Areca catechu)",
+  "Citric Acid (mg)": 12.56,
+  "Fumaric Acid (mg)": 24.8,
+  "Succinic Acid (mg)": 26.62
+ },
+ {
+  "FOOD CODE": "H005",
+  "FOOD NAME": "Cashew nut (Anacardium occidentale)",
+  "Total Oxalate (mg)": 189,
+  "Soluble Oxalate (mg)": 149,
+  "Insoluble Oxalate (mg)": 39.52,
+  "Citric Acid (mg)": 7.73,
+  "Fumaric Acid (mg)": 34.66,
+  "Succinic Acid (mg)": 27.73
+ },
+ {
+  "FOOD CODE": "H006",
+  "FOOD NAME": "Coconut, kernal, dry (Cocos nucifera)",
+  "Total Oxalate (mg)": 6.83,
+  "Soluble Oxalate (mg)": 3.1,
+  "Insoluble Oxalate (mg)": 3.73,
+  "Citric Acid (mg)": 117,
+  "Fumaric Acid (mg)": 0.41,
+  "Mallic Acid (mg)": 1.83,
+  "Quinic Acid (mg)": 13.84,
+  "Succinic Acid (mg)": 10.17,
+  "Tartaric Acid (mg)": 6.38
+ },
+ {
+  "FOOD CODE": "H007",
+  "FOOD NAME": "Coconut, kernel, fresh (Cocos nucifera)",
+  "Total Oxalate (mg)": 3.44,
+  "Soluble Oxalate (mg)": 1.68,
+  "Insoluble Oxalate (mg)": 1.76,
+  "Cis-Aconitic Acid (mg)": 1.71,
+  "Citric Acid (mg)": 1.82,
+  "Mallic Acid (mg)": 15.15,
+  "Succinic Acid (mg)": 119
+ },
+ {
+  "FOOD CODE": "H008",
+  "FOOD NAME": "Garden cress, seeds (Lepidium sativum)",
+  "Total Oxalate (mg)": 60.04,
+  "Soluble Oxalate (mg)": 33.3,
+  "Insoluble Oxalate (mg)": 26.74,
+  "Citric Acid (mg)": 2.08,
+  "Fumaric Acid (mg)": 1.73,
+  "Mallic Acid (mg)": 94.12,
+  "Succinic Acid (mg)": 25.42,
+  "Tartaric Acid (mg)": 0.84
+ },
+ {
+  "FOOD CODE": "H009",
+  "FOOD NAME": "Gingelly seeds, black (Sesamum indicum)",
+  "Total Oxalate (mg)": 2156,
+  "Soluble Oxalate (mg)": 78.58,
+  "Insoluble Oxalate (mg)": 2078,
+  "Cis-Aconitic Acid (mg)": 0.22,
+  "Citric Acid (mg)": 4.56,
+  "Fumaric Acid (mg)": 1.77,
+  "Quinic Acid (mg)": 10.45,
+  "Succinic Acid (mg)": 104,
+  "Tartaric Acid (mg)": 3.84
+ },
+ {
+  "FOOD CODE": "H010",
+  "FOOD NAME": "Gingelly seeds, brown (Sesamum indicum)",
+  "Total Oxalate (mg)": 2030,
+  "Soluble Oxalate (mg)": 83.13,
+  "Insoluble Oxalate (mg)": 1947,
+  "Cis-Aconitic Acid (mg)": 0.64,
+  "Citric Acid (mg)": 54.18,
+  "Fumaric Acid (mg)": 3.27,
+  "Mallic Acid (mg)": 34.68,
+  "Quinic Acid (mg)": 11.9,
+  "Succinic Acid (mg)": 10.72,
+  "Tartaric Acid (mg)": 139
+ },
+ {
+  "FOOD CODE": "H011",
+  "FOOD NAME": "Gingelly seeds, white (Sesamum indicum)",
+  "Total Oxalate (mg)": 2004,
+  "Soluble Oxalate (mg)": 73.51,
+  "Insoluble Oxalate (mg)": 1931,
+  "Cis-Aconitic Acid (mg)": 0.77,
+  "Citric Acid (mg)": 56.42,
+  "Fumaric Acid (mg)": 0.42,
+  "Mallic Acid (mg)": 0.12,
+  "Tartaric Acid (mg)": 93.82
+ },
+ {
+  "FOOD CODE": "H012",
+  "FOOD NAME": "Ground nut (Arachis hypogea)",
+  "Total Oxalate (mg)": 60.98,
+  "Soluble Oxalate (mg)": 39.67,
+  "Insoluble Oxalate (mg)": 21.31,
+  "Citric Acid (mg)": 61.34,
+  "Fumaric Acid (mg)": 1.05,
+  "Mallic Acid (mg)": 6.21,
+  "Quinic Acid (mg)": 12.48,
+  "Succinic Acid (mg)": 9.7,
+  "Tartaric Acid (mg)": 154
+ },
+ {
+  "FOOD CODE": "H013",
+  "FOOD NAME": "Mustard seeds (Brassica juncea)",
+  "Total Oxalate (mg)": 6.92,
+  "Soluble Oxalate (mg)": 5.28,
+  "Insoluble Oxalate (mg)": 1.64,
+  "Citric Acid (mg)": 67.49,
+  "Fumaric Acid (mg)": 0.39,
+  "Mallic Acid (mg)": 16.04,
+  "Quinic Acid (mg)": 14.12,
+  "Succinic Acid (mg)": 5.95,
+  "Tartaric Acid (mg)": 149
+ },
+ {
+  "FOOD CODE": "H014",
+  "FOOD NAME": "Linseeds (Linum usitatissimum)",
+  "Total Oxalate (mg)": 5.85,
+  "Soluble Oxalate (mg)": 1.91,
+  "Insoluble Oxalate (mg)": 3.95,
+  "Citric Acid (mg)": 9.73,
+  "Fumaric Acid (mg)": 7.06,
+  "Mallic Acid (mg)": 11.46,
+  "Succinic Acid (mg)": 1.87
+ },
+ {
+  "FOOD CODE": "H015",
+  "FOOD NAME": "Niger seeds, black (Guizotia abyssinica)",
+  "Total Oxalate (mg)": 1913,
+  "Soluble Oxalate (mg)": 93.94,
+  "Insoluble Oxalate (mg)": 1819,
+  "Cis-Aconitic Acid (mg)": 0.35,
+  "Citric Acid (mg)": 102,
+  "Mallic Acid (mg)": 41.54,
+  "Succinic Acid (mg)": 41.73,
+  "Tartaric Acid (mg)": 371
+ },
+ {
+  "FOOD CODE": "H016",
+  "FOOD NAME": "Niger seeds, gray (Guizotia abyssinica)",
+  "Total Oxalate (mg)": 1544,
+  "Soluble Oxalate (mg)": 90.22,
+  "Insoluble Oxalate (mg)": 1453,
+  "Cis-Aconitic Acid (mg)": 0.74,
+  "Citric Acid (mg)": 343,
+  "Mallic Acid (mg)": 13.8
+ },
+ {
+  "FOOD CODE": "H017",
+  "FOOD NAME": "Pine seed (Pinus gerardiana)",
+  "Total Oxalate (mg)": 159,
+  "Soluble Oxalate (mg)": 94,
+  "Insoluble Oxalate (mg)": 64.99,
+  "Citric Acid (mg)": 15.26,
+  "Fumaric Acid (mg)": 23.06,
+  "Succinic Acid (mg)": 34.32
+ },
+ {
+  "FOOD CODE": "H018",
+  "FOOD NAME": "Pistachio nuts (Pistacla vera)",
+  "Total Oxalate (mg)": 46.42,
+  "Soluble Oxalate (mg)": 22.88,
+  "Insoluble Oxalate (mg)": 23.54,
+  "Citric Acid (mg)": 3.24,
+  "Fumaric Acid (mg)": 1.22,
+  "Mallic Acid (mg)": 139,
+  "Quinic Acid (mg)": 53.79,
+  "Succinic Acid (mg)": 6.12,
+  "Tartaric Acid (mg)": 4.21
+ },
+ {
+  "FOOD CODE": "H019",
+  "FOOD NAME": "Safflower seeds (Carthamus tinctorius)",
+  "Total Oxalate (mg)": 215,
+  "Soluble Oxalate (mg)": 92.57,
+  "Insoluble Oxalate (mg)": 122,
+  "Citric Acid (mg)": 1.95,
+  "Fumaric Acid (mg)": 1.94,
+  "Mallic Acid (mg)": 133,
+  "Quinic Acid (mg)": 25.63,
+  "Succinic Acid (mg)": 9.02,
+  "Tartaric Acid (mg)": 5.67
+ },
+ {
+  "FOOD CODE": "H020",
+  "FOOD NAME": "Sunflower seeds (Helianthus annuus)",
+  "Total Oxalate (mg)": 23.7,
+  "Soluble Oxalate (mg)": 6.13,
+  "Insoluble Oxalate (mg)": 17.57,
+  "Citric Acid (mg)": 33.42,
+  "Fumaric Acid (mg)": 1.46,
+  "Mallic Acid (mg)": 7.47,
+  "Succinic Acid (mg)": 0.6,
+  "Tartaric Acid (mg)": 57.95
+ },
+ {
+  "FOOD CODE": "H021",
+  "FOOD NAME": "Walnut (Juglans regia)",
+  "Total Oxalate (mg)": 37.03,
+  "Soluble Oxalate (mg)": 27.31,
+  "Insoluble Oxalate (mg)": 9.72,
+  "Cis-Aconitic Acid (mg)": 3.33,
+  "Citric Acid (mg)": 15.32,
+  "Mallic Acid (mg)": 24.59,
+  "Succinic Acid (mg)": 279,
+  "Tartaric Acid (mg)": 81.29
+ },
+ {
+  "FOOD CODE": "I001",
+  "FOOD NAME": "Jaggery, cane (Saccharum officinarum)",
+  "Citric Acid (mg)": 5.24,
+  "Fumaric Acid (mg)": 3.31,
+  "Mallic Acid (mg)": 36.91,
+  "Quinic Acid (mg)": 60.69,
+  "Succinic Acid (mg)": 46.62,
+  "Tartaric Acid (mg)": 3.21
+ },
+ {
+  "FOOD CODE": "I002",
+  "FOOD NAME": "Sugarcane, juice (Saccharum officinarum)",
+  "Citric Acid (mg)": 3.55,
+  "Mallic Acid (mg)": 2.04,
+  "Quinic Acid (mg)": 132,
+  "Succinic Acid (mg)": 459
+ },
+ {
+  "FOOD CODE": "J001",
+  "FOOD NAME": "Button mushroom, fresh (Agaricus sp.)",
+  "Total Oxalate (mg)": 10.23,
+  "Soluble Oxalate (mg)": 2.46,
+  "Insoluble Oxalate (mg)": 7.77,
+  "Citric Acid (mg)": 5.61,
+  "Fumaric Acid (mg)": 0.81,
+  "Mallic Acid (mg)": 3.5
+ },
+ {
+  "FOOD CODE": "J002",
+  "FOOD NAME": "Chicken mushroom, fresh (Lactiporus sp.)",
+  "Total Oxalate (mg)": 12.56,
+  "Soluble Oxalate (mg)": 3.55,
+  "Insoluble Oxalate (mg)": 9.01,
+  "Citric Acid (mg)": 6.48,
+  "Fumaric Acid (mg)": 0.97,
+  "Mallic Acid (mg)": 3.96
+ },
+ {
+  "FOOD CODE": "J003",
+  "FOOD NAME": "Shiitake mushroom, fresh (Lentinula sp.)",
+  "Total Oxalate (mg)": 15.84,
+  "Soluble Oxalate (mg)": 4.12,
+  "Insoluble Oxalate (mg)": 11.72,
+  "Citric Acid (mg)": 6.25,
+  "Fumaric Acid (mg)": 0.76,
+  "Mallic Acid (mg)": 3.25
+ },
+ {
+  "FOOD CODE": "J004",
+  "FOOD NAME": "Oyster mushroom, dried (Pleurotus sp.)",
+  "Total Oxalate (mg)": 20.65,
+  "Soluble Oxalate (mg)": 6.34,
+  "Insoluble Oxalate (mg)": 14.31,
+  "Citric Acid (mg)": 6.97,
+  "Fumaric Acid (mg)": 0.86,
+  "Mallic Acid (mg)": 3.04
+ },
+ {
+  "FOOD CODE": "K001",
+  "FOOD NAME": "Toddy",
+  "Fumaric Acid (mg)": 0.03
+ },
+ {
+  "FOOD CODE": "K002",
+  "FOOD NAME": "Coconut Water",
+  "Cis-Aconitic Acid (mg)": 0.82,
+  "Fumaric Acid (mg)": 1.74,
+  "Succinic Acid (mg)": 124,
+  "Tartaric Acid (mg)": 4.2
+ },
+ {
+  "FOOD CODE": "L001",
+  "FOOD NAME": "Milk, whole, Buffalo"
+ },
+ {
+  "FOOD CODE": "L002",
+  "FOOD NAME": "Milk, whole, Cow"
+ },
+ {
+  "FOOD CODE": "L003",
+  "FOOD NAME": "Paneer",
+  "Citric Acid (mg)": 5.21,
+  "Quinic Acid (mg)": 64.28,
+  "Succinic Acid (mg)": 1.42
+ },
+ {
+  "FOOD CODE": "L004",
+  "FOOD NAME": "Khoa",
+  "Citric Acid (mg)": 25.26,
+  "Fumaric Acid (mg)": 1.12,
+  "Mallic Acid (mg)": 1.43,
+  "Quinic Acid (mg)": 651,
+  "Succinic Acid (mg)": 6.99
+ },
+ {
+  "FOOD CODE": "M001",
+  "FOOD NAME": "Egg, poultry, whole, raw"
+ },
+ {
+  "FOOD CODE": "M002",
+  "FOOD NAME": "Egg, poultry, white, raw"
+ },
+ {
+  "FOOD CODE": "M003",
+  "FOOD NAME": "Egg, poultry, yolk, raw"
+ },
+ {
+  "FOOD CODE": "M004",
+  "FOOD NAME": "Egg, poultry, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M005",
+  "FOOD NAME": "Egg, poultry, white, boiled"
+ },
+ {
+  "FOOD CODE": "M006",
+  "FOOD NAME": "Egg, poultry, yolk, boiled"
+ },
+ {
+  "FOOD CODE": "M007",
+  "FOOD NAME": "Egg, poultry, omlet"
+ },
+ {
+  "FOOD CODE": "M008",
+  "FOOD NAME": "Egg, country hen, whole, raw"
+ },
+ {
+  "FOOD CODE": "M009",
+  "FOOD NAME": "Egg, country hen, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M010",
+  "FOOD NAME": "Egg, country hen, omlet"
+ },
+ {
+  "FOOD CODE": "M011",
+  "FOOD NAME": "Egg, duck, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M012",
+  "FOOD NAME": "Egg, duck, whole, raw"
+ },
+ {
+  "FOOD CODE": "M013",
+  "FOOD NAME": "Egg, duck, whole, omlet"
+ },
+ {
+  "FOOD CODE": "M014",
+  "FOOD NAME": "Egg, quial, whole, raw"
+ },
+ {
+  "FOOD CODE": "M015",
+  "FOOD NAME": "Egg, quial, whole, boiled"
+ },
+ {
+  "FOOD CODE": "N001",
+  "FOOD NAME": "Chicken, poultry, leg, skinless"
+ },
+ {
+  "FOOD CODE": "N002",
+  "FOOD NAME": "Chicken, poultry, thigh, skinless"
+ },
+ {
+  "FOOD CODE": "N003",
+  "FOOD NAME": "Chicken, poultry, breast, skinless"
+ },
+ {
+  "FOOD CODE": "N004",
+  "FOOD NAME": "Chicken, poultry, wing, skinless"
+ },
+ {
+  "FOOD CODE": "N005",
+  "FOOD NAME": "Poultry, chicken, liver"
+ },
+ {
+  "FOOD CODE": "N006",
+  "FOOD NAME": "Poultry, chicken, gizzard"
+ },
+ {
+  "FOOD CODE": "N007",
+  "FOOD NAME": "Country hen, leg, with skin"
+ },
+ {
+  "FOOD CODE": "N008",
+  "FOOD NAME": "Country hen, thigh, with skin"
+ },
+ {
+  "FOOD CODE": "N009",
+  "FOOD NAME": "Country hen, breast, with skin"
+ },
+ {
+  "FOOD CODE": "N010",
+  "FOOD NAME": "Country hen, wing, with skin"
+ },
+ {
+  "FOOD CODE": "N011",
+  "FOOD NAME": "Duck, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N012",
+  "FOOD NAME": "Emu, meat, skinless"
+ },
+ {
+  "FOOD CODE": "N013",
+  "FOOD NAME": "Guinea fowl, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N014",
+  "FOOD NAME": "Pigeon, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N015",
+  "FOOD NAME": "Quail, meat, skinless"
+ },
+ {
+  "FOOD CODE": "N016",
+  "FOOD NAME": "Turkey, leg, with skin"
+ },
+ {
+  "FOOD CODE": "N017",
+  "FOOD NAME": "Turkey, thigh, with skin"
+ },
+ {
+  "FOOD CODE": "N018",
+  "FOOD NAME": "Turkey, breast, with skin"
+ },
+ {
+  "FOOD CODE": "N019",
+  "FOOD NAME": "Turkey, wing, with skin"
+ },
+ {
+  "FOOD CODE": "O001",
+  "FOOD NAME": "Goat, shoulder"
+ },
+ {
+  "FOOD CODE": "O002",
+  "FOOD NAME": "Goat, chops"
+ },
+ {
+  "FOOD CODE": "O003",
+  "FOOD NAME": "Goat, legs"
+ },
+ {
+  "FOOD CODE": "O004",
+  "FOOD NAME": "Goat, brain"
+ },
+ {
+  "FOOD CODE": "O005",
+  "FOOD NAME": "Goat, tongue"
+ },
+ {
+  "FOOD CODE": "O006",
+  "FOOD NAME": "Goat, lungs"
+ },
+ {
+  "FOOD CODE": "O007",
+  "FOOD NAME": "Goat, heart"
+ },
+ {
+  "FOOD CODE": "O008",
+  "FOOD NAME": "Goat, liver"
+ },
+ {
+  "FOOD CODE": "O009",
+  "FOOD NAME": "Goat, tripe"
+ },
+ {
+  "FOOD CODE": "O010",
+  "FOOD NAME": "Goat, spleen"
+ },
+ {
+  "FOOD CODE": "O011",
+  "FOOD NAME": "Goat, kidneys"
+ },
+ {
+  "FOOD CODE": "O012",
+  "FOOD NAME": "Goat, tube (small intestine)"
+ },
+ {
+  "FOOD CODE": "O013",
+  "FOOD NAME": "Goat, testis"
+ },
+ {
+  "FOOD CODE": "O014",
+  "FOOD NAME": "Sheep, shoulder"
+ },
+ {
+  "FOOD CODE": "O015",
+  "FOOD NAME": "Sheep, chops"
+ },
+ {
+  "FOOD CODE": "O016",
+  "FOOD NAME": "Sheep, leg"
+ },
+ {
+  "FOOD CODE": "O017",
+  "FOOD NAME": "Sheep, brain"
+ },
+ {
+  "FOOD CODE": "O018",
+  "FOOD NAME": "Sheep, tongue"
+ },
+ {
+  "FOOD CODE": "O019",
+  "FOOD NAME": "Sheep, lungs"
+ },
+ {
+  "FOOD CODE": "O020",
+  "FOOD NAME": "Sheep, heart"
+ },
+ {
+  "FOOD CODE": "O021",
+  "FOOD NAME": "Sheep, liver"
+ },
+ {
+  "FOOD CODE": "O022",
+  "FOOD NAME": "Sheep, tripe"
+ },
+ {
+  "FOOD CODE": "O023",
+  "FOOD NAME": "Sheep, spleen"
+ },
+ {
+  "FOOD CODE": "O024",
+  "FOOD NAME": "Sheep, kidneys"
+ },
+ {
+  "FOOD CODE": "O025",
+  "FOOD NAME": "Beef, shoulder"
+ },
+ {
+  "FOOD CODE": "O026",
+  "FOOD NAME": "Beef, chops"
+ },
+ {
+  "FOOD CODE": "O027",
+  "FOOD NAME": "Beef, round (leg)"
+ },
+ {
+  "FOOD CODE": "O028",
+  "FOOD NAME": "Beef, brain"
+ },
+ {
+  "FOOD CODE": "O029",
+  "FOOD NAME": "Beef, tongue"
+ },
+ {
+  "FOOD CODE": "O030",
+  "FOOD NAME": "Beef, lungs"
+ },
+ {
+  "FOOD CODE": "O031",
+  "FOOD NAME": "Beef, heart"
+ },
+ {
+  "FOOD CODE": "O032",
+  "FOOD NAME": "Beef, liver"
+ },
+ {
+  "FOOD CODE": "O033",
+  "FOOD NAME": "Beef, tripe"
+ },
+ {
+  "FOOD CODE": "O034",
+  "FOOD NAME": "Beef, spleen"
+ },
+ {
+  "FOOD CODE": "O035",
+  "FOOD NAME": "Beef, kidneys"
+ },
+ {
+  "FOOD CODE": "O036",
+  "FOOD NAME": "Calf, shoulder"
+ },
+ {
+  "FOOD CODE": "O037",
+  "FOOD NAME": "Calf, chops"
+ },
+ {
+  "FOOD CODE": "O038",
+  "FOOD NAME": "Calf, round (leg)"
+ },
+ {
+  "FOOD CODE": "O039",
+  "FOOD NAME": "Calf, brain"
+ },
+ {
+  "FOOD CODE": "O040",
+  "FOOD NAME": "Calf, tongue"
+ },
+ {
+  "FOOD CODE": "O041",
+  "FOOD NAME": "Calf, heart"
+ },
+ {
+  "FOOD CODE": "O042",
+  "FOOD NAME": "Calf, liver"
+ },
+ {
+  "FOOD CODE": "O043",
+  "FOOD NAME": "Calf, spleen"
+ },
+ {
+  "FOOD CODE": "O044",
+  "FOOD NAME": "Calf, kidneys"
+ },
+ {
+  "FOOD CODE": "O045",
+  "FOOD NAME": "Mithun, shoulder"
+ },
+ {
+  "FOOD CODE": "O046",
+  "FOOD NAME": "Mithun, chops"
+ },
+ {
+  "FOOD CODE": "O047",
+  "FOOD NAME": "Mithun, round (leg)"
+ },
+ {
+  "FOOD CODE": "O048",
+  "FOOD NAME": "Pork, shoulder"
+ },
+ {
+  "FOOD CODE": "O049",
+  "FOOD NAME": "Pork, chops"
+ },
+ {
+  "FOOD CODE": "O050",
+  "FOOD NAME": "Pork, ham"
+ },
+ {
+  "FOOD CODE": "O051",
+  "FOOD NAME": "Pork, lungs"
+ },
+ {
+  "FOOD CODE": "O052",
+  "FOOD NAME": "Pork, heart"
+ },
+ {
+  "FOOD CODE": "O053",
+  "FOOD NAME": "Pork, liver"
+ },
+ {
+  "FOOD CODE": "O054",
+  "FOOD NAME": "Pork, stomach"
+ },
+ {
+  "FOOD CODE": "O055",
+  "FOOD NAME": "Pork, spleen"
+ },
+ {
+  "FOOD CODE": "O056",
+  "FOOD NAME": "Pork, kidneys"
+ },
+ {
+  "FOOD CODE": "O057",
+  "FOOD NAME": "Pork, tube (small intestine)"
+ },
+ {
+  "FOOD CODE": "O058",
+  "FOOD NAME": "Hare, shoulder"
+ },
+ {
+  "FOOD CODE": "O059",
+  "FOOD NAME": "Hare, chops"
+ },
+ {
+  "FOOD CODE": "O060",
+  "FOOD NAME": "Hare, leg"
+ },
+ {
+  "FOOD CODE": "O061",
+  "FOOD NAME": "Rabbit, shoulder"
+ },
+ {
+  "FOOD CODE": "O062",
+  "FOOD NAME": "Rabbit, chops"
+ },
+ {
+  "FOOD CODE": "O063",
+  "FOOD NAME": "Rabbit, leg"
+ },
+ {
+  "FOOD CODE": "P001",
+  "FOOD NAME": "Allathi (Elops machnata)"
+ },
+ {
+  "FOOD CODE": "P002",
+  "FOOD NAME": "Aluva (Parastromateus niger)"
+ },
+ {
+  "FOOD CODE": "P003",
+  "FOOD NAME": "Anchovy (Stolephorus indicus)"
+ },
+ {
+  "FOOD CODE": "P004",
+  "FOOD NAME": "Ari fish (Aprion virescens )"
+ },
+ {
+  "FOOD CODE": "P005",
+  "FOOD NAME": "Betki (Lates calcarifer)"
+ },
+ {
+  "FOOD CODE": "P006",
+  "FOOD NAME": "Black snapper (Macolor niger)"
+ },
+ {
+  "FOOD CODE": "P007",
+  "FOOD NAME": "Bombay duck (Harpadon nehereus)"
+ },
+ {
+  "FOOD CODE": "P008",
+  "FOOD NAME": "Bommuralu (Muraenesox cinerius)"
+ },
+ {
+  "FOOD CODE": "P009",
+  "FOOD NAME": "Cat fish (Tachysurus thalassinus)"
+ },
+ {
+  "FOOD CODE": "P010",
+  "FOOD NAME": "Chakla (Rachycentron canadum)"
+ },
+ {
+  "FOOD CODE": "P011",
+  "FOOD NAME": "Chappal (Aluterus monoceros )"
+ },
+ {
+  "FOOD CODE": "P012",
+  "FOOD NAME": "Chelu (Elagatis bipinnulata)"
+ },
+ {
+  "FOOD CODE": "P013",
+  "FOOD NAME": "Chembali (Lutjanus quinquelineatus)"
+ },
+ {
+  "FOOD CODE": "P014",
+  "FOOD NAME": "Eri meen (Pristipomoides filamentosus)"
+ },
+ {
+  "FOOD CODE": "P015",
+  "FOOD NAME": "Gobro (Epinephelus diacanthus)"
+ },
+ {
+  "FOOD CODE": "P016",
+  "FOOD NAME": "Guitar fish (Rhinobatus prahli)"
+ },
+ {
+  "FOOD CODE": "P017",
+  "FOOD NAME": "Hilsa (Tenualosa ilisha)"
+ },
+ {
+  "FOOD CODE": "P018",
+  "FOOD NAME": "Jallal (Arius sp.)"
+ },
+ {
+  "FOOD CODE": "P019",
+  "FOOD NAME": "Jathi vela meen (Lethrinus lentjan)"
+ },
+ {
+  "FOOD CODE": "P020",
+  "FOOD NAME": "Kadal bral (Synodus indicus)"
+ },
+ {
+  "FOOD CODE": "P021",
+  "FOOD NAME": "Kadali (Nemipterus mesoprion)"
+ },
+ {
+  "FOOD CODE": "P022",
+  "FOOD NAME": "Kalamaara (Leptomelanosoma indicum)"
+ },
+ {
+  "FOOD CODE": "P023",
+  "FOOD NAME": "Kalava (Epinephelus coioides)"
+ },
+ {
+  "FOOD CODE": "P024",
+  "FOOD NAME": "Kanamayya (Lutjanus rivulatus)"
+ },
+ {
+  "FOOD CODE": "P025",
+  "FOOD NAME": "Kannadi paarai (Alectis indicus)"
+ },
+ {
+  "FOOD CODE": "P026",
+  "FOOD NAME": "Karimeen (Etroplus suratensis)"
+ },
+ {
+  "FOOD CODE": "P027",
+  "FOOD NAME": "Karnagawala (Anchoa hepsetus)"
+ },
+ {
+  "FOOD CODE": "P028",
+  "FOOD NAME": "Kayrai (Thunnus albacores)"
+ },
+ {
+  "FOOD CODE": "P029",
+  "FOOD NAME": "Kiriyan (Atule mate)"
+ },
+ {
+  "FOOD CODE": "P030",
+  "FOOD NAME": "Kite fish (Mobula kuhlii)"
+ },
+ {
+  "FOOD CODE": "P031",
+  "FOOD NAME": "Korka (Terapon jarbua)"
+ },
+ {
+  "FOOD CODE": "P032",
+  "FOOD NAME": "Kulam paarai (Carangoides fulvoguttatus)"
+ },
+ {
+  "FOOD CODE": "P033",
+  "FOOD NAME": "Maagaa (Polynemus plebeius)"
+ },
+ {
+  "FOOD CODE": "P034",
+  "FOOD NAME": "Mackerel (Rastrelliger kanagurta)"
+ },
+ {
+  "FOOD CODE": "P035",
+  "FOOD NAME": "Manda clathi (Naso reticulatus)"
+ },
+ {
+  "FOOD CODE": "P036",
+  "FOOD NAME": "Matha (Acanthurus mata)"
+ },
+ {
+  "FOOD CODE": "P037",
+  "FOOD NAME": "Milk fish (Chanos chanos)"
+ },
+ {
+  "FOOD CODE": "P038",
+  "FOOD NAME": "Moon fish (Mene maculata)"
+ },
+ {
+  "FOOD CODE": "P039",
+  "FOOD NAME": "Mullet (Mugil cephalus)"
+ },
+ {
+  "FOOD CODE": "P040",
+  "FOOD NAME": "Mural (Tylosurus crocodilus crocodilus)"
+ },
+ {
+  "FOOD CODE": "P041",
+  "FOOD NAME": "Myil meen (Istiophorus platypterus)"
+ },
+ {
+  "FOOD CODE": "P042",
+  "FOOD NAME": "Nalla bontha (Epinephelus sp.)"
+ },
+ {
+  "FOOD CODE": "P043",
+  "FOOD NAME": "Narba (Caranx sexfasciatus)"
+ },
+ {
+  "FOOD CODE": "P044",
+  "FOOD NAME": "Paarai (Caranx heberi)"
+ },
+ {
+  "FOOD CODE": "P045",
+  "FOOD NAME": "Padayappa (Canthidermis maculata)"
+ },
+ {
+  "FOOD CODE": "P046",
+  "FOOD NAME": "Pali kora (Panna microdon)"
+ },
+ {
+  "FOOD CODE": "P047",
+  "FOOD NAME": "Pambada (Lepturacanthus savala)"
+ },
+ {
+  "FOOD CODE": "P048",
+  "FOOD NAME": "Pandukopa (Pseudosciaena manchurica)"
+ },
+ {
+  "FOOD CODE": "P049",
+  "FOOD NAME": "Parava (Lactarius lactarius)"
+ },
+ {
+  "FOOD CODE": "P050",
+  "FOOD NAME": "Parcus (Psettodes erumei)"
+ },
+ {
+  "FOOD CODE": "P051",
+  "FOOD NAME": "Parrot fish (Scarus ghobban)"
+ },
+ {
+  "FOOD CODE": "P052",
+  "FOOD NAME": "Perinkilichai (Pinjalo pinjalo)"
+ },
+ {
+  "FOOD CODE": "P053",
+  "FOOD NAME": "Phopat (Coryphaena hippurus)"
+ },
+ {
+  "FOOD CODE": "P054",
+  "FOOD NAME": "Piranha (Pygopritis sp.)"
+ },
+ {
+  "FOOD CODE": "P055",
+  "FOOD NAME": "Pomfret, black (Parastromateus niger)"
+ },
+ {
+  "FOOD CODE": "P056",
+  "FOOD NAME": "Pomfret, snub nose (Trachinotus blochii)"
+ },
+ {
+  "FOOD CODE": "P057",
+  "FOOD NAME": "Pomfret, white (Pampus argenteus)"
+ },
+ {
+  "FOOD CODE": "P058",
+  "FOOD NAME": "Pranel (Gerres sp.)"
+ },
+ {
+  "FOOD CODE": "P059",
+  "FOOD NAME": "Pulli paarai (Gnathanodon speciosus)"
+ },
+ {
+  "FOOD CODE": "P060",
+  "FOOD NAME": "Queen fish (Scomberoides commersonianus)"
+ },
+ {
+  "FOOD CODE": "P061",
+  "FOOD NAME": "Raai fish (Lobotes surinamensis)"
+ },
+ {
+  "FOOD CODE": "P062",
+  "FOOD NAME": "Raai vanthu (Epinephelus chlorostigma)"
+ },
+ {
+  "FOOD CODE": "P063",
+  "FOOD NAME": "Rani (Pink perch)"
+ },
+ {
+  "FOOD CODE": "P064",
+  "FOOD NAME": "Ray fish, bow head, spotted (Rhina ancylostoma)"
+ },
+ {
+  "FOOD CODE": "P065",
+  "FOOD NAME": "Red snapper (Lutjanus argentimaculatus)"
+ },
+ {
+  "FOOD CODE": "P066",
+  "FOOD NAME": "Red snapper, small (Priacanthus hamrur)"
+ },
+ {
+  "FOOD CODE": "P067",
+  "FOOD NAME": "Sadaya (Platax orbicularis )"
+ },
+ {
+  "FOOD CODE": "P068",
+  "FOOD NAME": "Salmon (Salmo salar)"
+ },
+ {
+  "FOOD CODE": "P069",
+  "FOOD NAME": "Sangada (Nemipterus japonicus)"
+ },
+ {
+  "FOOD CODE": "P070",
+  "FOOD NAME": "Sankata paarai (Caranx ignobilis)"
+ },
+ {
+  "FOOD CODE": "P071",
+  "FOOD NAME": "Sardine (Sardinella longiceps)"
+ },
+ {
+  "FOOD CODE": "P072",
+  "FOOD NAME": "Shark (Carcharhinus sorrah)"
+ },
+ {
+  "FOOD CODE": "P073",
+  "FOOD NAME": "Shark, hammer head (Sphyrna mokarran)"
+ },
+ {
+  "FOOD CODE": "P074",
+  "FOOD NAME": "Shark, spotted (Stegostoma fasciatum)"
+ },
+ {
+  "FOOD CODE": "P075",
+  "FOOD NAME": "Shelavu (Sphyraena jello)"
+ },
+ {
+  "FOOD CODE": "P076",
+  "FOOD NAME": "Silan (Silonia silondia)"
+ },
+ {
+  "FOOD CODE": "P077",
+  "FOOD NAME": "Silk fish (Beryx sp.)"
+ },
+ {
+  "FOOD CODE": "P078",
+  "FOOD NAME": "Silver carp (Hypophthalmichthys molitrix)"
+ },
+ {
+  "FOOD CODE": "P079",
+  "FOOD NAME": "Sole fish (Cynoglossus arel)"
+ },
+ {
+  "FOOD CODE": "P080",
+  "FOOD NAME": "Stingray (Dasyatis pastinaca)"
+ },
+ {
+  "FOOD CODE": "P081",
+  "FOOD NAME": "Tarlava (Drepane punctata)"
+ },
+ {
+  "FOOD CODE": "P082",
+  "FOOD NAME": "Tholam (Plectorhinchus schotaf)"
+ },
+ {
+  "FOOD CODE": "P083",
+  "FOOD NAME": "Tilapia (Oreochromis niloticus)"
+ },
+ {
+  "FOOD CODE": "P084",
+  "FOOD NAME": "Tuna (Euthynnus affinis)"
+ },
+ {
+  "FOOD CODE": "P085",
+  "FOOD NAME": "Tuna, striped (Katsuwonus pelamis)"
+ },
+ {
+  "FOOD CODE": "P086",
+  "FOOD NAME": "Valava (Chirocentrus nudus)"
+ },
+ {
+  "FOOD CODE": "P087",
+  "FOOD NAME": "Vanjaram (Scomberomorus commerson )"
+ },
+ {
+  "FOOD CODE": "P088",
+  "FOOD NAME": "Vela meen (Aprion virescens)"
+ },
+ {
+  "FOOD CODE": "P089",
+  "FOOD NAME": "Vora (Siganus javus)"
+ },
+ {
+  "FOOD CODE": "P090",
+  "FOOD NAME": "Whale shark (Galeocerdo cuvier)"
+ },
+ {
+  "FOOD CODE": "P091",
+  "FOOD NAME": "Xiphinis (Xiphias gladius)"
+ },
+ {
+  "FOOD CODE": "P092",
+  "FOOD NAME": "Eggs, Cat fish (Ompok bimaculatus)"
+ },
+ {
+  "FOOD CODE": "Q001",
+  "FOOD NAME": "Crab (Menippe mercenaria)"
+ },
+ {
+  "FOOD CODE": "Q002",
+  "FOOD NAME": "Crab, sea (Portunus sanguinolentus)"
+ },
+ {
+  "FOOD CODE": "Q003",
+  "FOOD NAME": "Lobster, brown (Thenus orientalis)"
+ },
+ {
+  "FOOD CODE": "Q004",
+  "FOOD NAME": "Lobster, king size (Thenus orientalis)"
+ },
+ {
+  "FOOD CODE": "Q005",
+  "FOOD NAME": "Mud crab (Scylla tranquebarica)"
+ },
+ {
+  "FOOD CODE": "Q006",
+  "FOOD NAME": "Oyster (Crassostrea sp.)"
+ },
+ {
+  "FOOD CODE": "Q007",
+  "FOOD NAME": "Tiger prawns, brown (Solenocera crassicornis)"
+ },
+ {
+  "FOOD CODE": "Q008",
+  "FOOD NAME": "Tiger Prawns, orange (Penaeus monodon)"
+ },
+ {
+  "FOOD CODE": "R001",
+  "FOOD NAME": "Clam, green shell (Perna viridis)"
+ },
+ {
+  "FOOD CODE": "R002",
+  "FOOD NAME": "Clam, white shell, ribbed (Meretrix meretrix)"
+ },
+ {
+  "FOOD CODE": "R003",
+  "FOOD NAME": "Octopus (Octopus vulgaris)"
+ },
+ {
+  "FOOD CODE": "R004",
+  "FOOD NAME": "Squid, black (Loligo sp.)"
+ },
+ {
+  "FOOD CODE": "R005",
+  "FOOD NAME": "Squid, hard shell (Sepia pharaonis)"
+ },
+ {
+  "FOOD CODE": "R006",
+  "FOOD NAME": "Squid, red (Loligo duvauceli)"
+ },
+ {
+  "FOOD CODE": "R007",
+  "FOOD NAME": "Squid, white, small (Uroteuthis duvauceli )"
+ },
+ {
+  "FOOD CODE": "S001",
+  "FOOD NAME": "Cat fish (Tandanus tandanus)"
+ },
+ {
+  "FOOD CODE": "S002",
+  "FOOD NAME": "Catla (Catla catla)"
+ },
+ {
+  "FOOD CODE": "S003",
+  "FOOD NAME": "Freshwater Eel (Anguilla anguilla)"
+ },
+ {
+  "FOOD CODE": "S004",
+  "FOOD NAME": "Gold fish (Carassius auratus)"
+ },
+ {
+  "FOOD CODE": "S005",
+  "FOOD NAME": "Pangas (Pangasianodon hypophthalmus)"
+ },
+ {
+  "FOOD CODE": "S006",
+  "FOOD NAME": "Rohu (Labeo rohita)"
+ },
+ {
+  "FOOD CODE": "S007",
+  "FOOD NAME": "Crab (Pachygrapsus sp.)"
+ },
+ {
+  "FOOD CODE": "S008",
+  "FOOD NAME": "Prawns, big (Macrobrachium rosenbergii)"
+ },
+ {
+  "FOOD CODE": "S009",
+  "FOOD NAME": "Prawns, small (Macrobrachium sp.)"
+ },
+ {
+  "FOOD CODE": "S010",
+  "FOOD NAME": "Tiger prawns (Macrobrachium sp.)"
+ },
+ {
+  "FOOD CODE": "T001",
+  "FOOD NAME": "Coconut oil"
+ },
+ {
+  "FOOD CODE": "T002",
+  "FOOD NAME": "Corn oil"
+ },
+ {
+  "FOOD CODE": "T003",
+  "FOOD NAME": "Cotton seed oil"
+ },
+ {
+  "FOOD CODE": "T004",
+  "FOOD NAME": "Gingelly oil"
+ },
+ {
+  "FOOD CODE": "T005",
+  "FOOD NAME": "Groundnut oil"
+ },
+ {
+  "FOOD CODE": "T006",
+  "FOOD NAME": "Mustard oil"
+ },
+ {
+  "FOOD CODE": "T007",
+  "FOOD NAME": "Palm oil"
+ },
+ {
+  "FOOD CODE": "T008",
+  "FOOD NAME": "Rice bran oil"
+ },
+ {
+  "FOOD CODE": "T009",
+  "FOOD NAME": "Safflower oil"
+ },
+ {
+  "FOOD CODE": "T010",
+  "FOOD NAME": "Safflower oil (blended)"
+ },
+ {
+  "FOOD CODE": "T011",
+  "FOOD NAME": "Soyabean oil"
+ },
+ {
+  "FOOD CODE": "T012",
+  "FOOD NAME": "Sunflower oil"
+ },
+ {
+  "FOOD CODE": "T013",
+  "FOOD NAME": "Ghee"
+ },
+ {
+  "FOOD CODE": "T014",
+  "FOOD NAME": "Vanaspati"
+ }
+]
+}

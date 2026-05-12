@@ -1,0 +1,2757 @@
+{
+"Sheet1":[
+ null,
+ {
+  "FOOD CODE": "A001",
+  "FOOD NAME": "Amaranth seed, black (Amaranthus cruentus)",
+  "Campesterol (mg)": 1.75,
+  "Stigmasterol (mg)": 8.24,
+  "β-Sitosterol (mg)": 61.36,
+  "Phytate (mg)": 393,
+  "Total Saponin (g)": 1.42
+ },
+ {
+  "FOOD CODE": "A002",
+  "FOOD NAME": "Amaranth seed, pale brown (Amaranthus cruentus)",
+  "Campesterol (mg)": 1.58,
+  "Stigmasterol (mg)": 8.51,
+  "β-Sitosterol (mg)": 60.15,
+  "Phytate (mg)": 341,
+  "Total Saponin (g)": 1.28
+ },
+ {
+  "FOOD CODE": "A003",
+  "FOOD NAME": "Bajra (Pennisetum typhoideum)",
+  "Raffinose (g)": 0.08,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 15.84,
+  "Stigmasterol (mg)": 4.97,
+  "β-Sitosterol (mg)": 75.87,
+  "Phytate (mg)": 485
+ },
+ {
+  "FOOD CODE": "A004",
+  "FOOD NAME": "Barley (Hordeum vulgare)",
+  "Raffinose (g)": 0.06,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 6.16,
+  "Stigmasterol (mg)": 1.17,
+  "β-Sitosterol (mg)": 42.83,
+  "Phytate (mg)": 386
+ },
+ {
+  "FOOD CODE": "A005",
+  "FOOD NAME": "Jowar (Sorghum vulgare)",
+  "Raffinose (g)": 0.02,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 21.59,
+  "Stigmasterol (mg)": 5.31,
+  "β-Sitosterol (mg)": 38.27,
+  "Phytate (mg)": 549
+ },
+ {
+  "FOOD CODE": "A006",
+  "FOOD NAME": "Maize, dry (Zea mays)",
+  "Campesterol (mg)": 12.49,
+  "Stigmasterol (mg)": 4.22,
+  "β-Sitosterol (mg)": 87.7,
+  "Phytate (mg)": 646
+ },
+ {
+  "FOOD CODE": "A007",
+  "FOOD NAME": "Maize, tender, local (Zea mays)",
+  "Campesterol (mg)": 5.78,
+  "Stigmasterol (mg)": 2.91,
+  "β-Sitosterol (mg)": 43.81,
+  "Phytate (mg)": 148
+ },
+ {
+  "FOOD CODE": "A008",
+  "FOOD NAME": "Maize, tender, sweet (Zea mays)",
+  "Campesterol (mg)": 5.63,
+  "Stigmasterol (mg)": 2.63,
+  "β-Sitosterol (mg)": 41.71,
+  "Phytate (mg)": 221
+ },
+ {
+  "FOOD CODE": "A009",
+  "FOOD NAME": "Quinoa (Chenopodium quinoa)",
+  "Campesterol (mg)": 0.91,
+  "Stigmasterol (mg)": 1.89,
+  "β-Sitosterol (mg)": 46.1,
+  "Phytate (mg)": 120
+ },
+ {
+  "FOOD CODE": "A010",
+  "FOOD NAME": "Ragi (Eleusine coracana)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 5.67,
+  "Stigmasterol (mg)": 2.55,
+  "β-Sitosterol (mg)": 57.36,
+  "Phytate (mg)": 306
+ },
+ {
+  "FOOD CODE": "A011",
+  "FOOD NAME": "Rice flakes (Oryza sativa )",
+  "Campesterol (mg)": 3.48,
+  "Stigmasterol (mg)": 2.15,
+  "β-Sitosterol (mg)": 21.26,
+  "Phytate (mg)": 474
+ },
+ {
+  "FOOD CODE": "A012",
+  "FOOD NAME": "Rice puffed (Oryza sativa )",
+  "Campesterol (mg)": 2.72,
+  "Stigmasterol (mg)": 1.52,
+  "β-Sitosterol (mg)": 16.61,
+  "Phytate (mg)": 115
+ },
+ {
+  "FOOD CODE": "A013",
+  "FOOD NAME": "Rice, raw, brown (Oryza sativa )",
+  "Raffinose (g)": 0.08,
+  "Campesterol (mg)": 3.22,
+  "Stigmasterol (mg)": 1.73,
+  "β-Sitosterol (mg)": 17.21,
+  "Phytate (mg)": 742
+ },
+ {
+  "FOOD CODE": "A014",
+  "FOOD NAME": "Rice, parboiled, milled (Oryza sativa )",
+  "Raffinose (g)": 0.08,
+  "Campesterol (mg)": 2.83,
+  "Stigmasterol (mg)": 1.85,
+  "β-Sitosterol (mg)": 20.68,
+  "Phytate (mg)": 274
+ },
+ {
+  "FOOD CODE": "A015",
+  "FOOD NAME": "Rice, raw, milled (Oryza sativa )",
+  "Campesterol (mg)": 2.68,
+  "Stigmasterol (mg)": 1.75,
+  "β-Sitosterol (mg)": 21.86,
+  "Phytate (mg)": 266
+ },
+ {
+  "FOOD CODE": "A016",
+  "FOOD NAME": "Samai (Panicum miliare)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 10.7,
+  "Stigmasterol (mg)": 3.07,
+  "β-Sitosterol (mg)": 73.44,
+  "Phytate (mg)": 265,
+  "Total Saponin (g)": 0.44
+ },
+ {
+  "FOOD CODE": "A017",
+  "FOOD NAME": "Varagu (Setaria italica)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 3.08,
+  "Stigmasterol (mg)": 4.4,
+  "β-Sitosterol (mg)": 37.03,
+  "Phytate (mg)": 452
+ },
+ {
+  "FOOD CODE": "A018",
+  "FOOD NAME": "Wheat flour, refined (Triticum aestivum)",
+  "Raffinose (g)": 0.35,
+  "Campesterol (mg)": 3.77,
+  "Stigmasterol (mg)": 0.53,
+  "β-Sitosterol (mg)": 25.63,
+  "Phytate (mg)": 123
+ },
+ {
+  "FOOD CODE": "A019",
+  "FOOD NAME": "Wheat flour, atta (Triticum aestivum)",
+  "Raffinose (g)": 0.47,
+  "Stachyose (g)": 0.04,
+  "Campesterol (mg)": 6.21,
+  "Stigmasterol (mg)": 0.77,
+  "β-Sitosterol (mg)": 36.6,
+  "Phytate (mg)": 632
+ },
+ {
+  "FOOD CODE": "A020",
+  "FOOD NAME": "Wheat, whole (Triticum aestivum)",
+  "Raffinose (g)": 0.47,
+  "Stachyose (g)": 0.05,
+  "Campesterol (mg)": 9.73,
+  "Stigmasterol (mg)": 1.42,
+  "β-Sitosterol (mg)": 55.25,
+  "Phytate (mg)": 638
+ },
+ {
+  "FOOD CODE": "A021",
+  "FOOD NAME": "Wheat, bulgur (Triticum aestivum)",
+  "Raffinose (g)": 0.35,
+  "Campesterol (mg)": 4.14,
+  "Stigmasterol (mg)": 0.75,
+  "β-Sitosterol (mg)": 25.41,
+  "Phytate (mg)": 679
+ },
+ {
+  "FOOD CODE": "A022",
+  "FOOD NAME": "Wheat, semolina (Triticum aestivum)",
+  "Raffinose (g)": 0.47,
+  "Stachyose (g)": 0.05,
+  "Campesterol (mg)": 10.36,
+  "Stigmasterol (mg)": 1.36,
+  "β-Sitosterol (mg)": 54.28,
+  "Phytate (mg)": 549
+ },
+ {
+  "FOOD CODE": "A023",
+  "FOOD NAME": "Wheat, vermicelli (Triticum aestivum)",
+  "Campesterol (mg)": 2.8,
+  "Stigmasterol (mg)": 0.4,
+  "β-Sitosterol (mg)": 22.37,
+  "Phytate (mg)": 168
+ },
+ {
+  "FOOD CODE": "A024",
+  "FOOD NAME": "Wheat, vermicelli, roasted (Triticum aestivum)",
+  "Campesterol (mg)": 3.23,
+  "Stigmasterol (mg)": 0.47,
+  "β-Sitosterol (mg)": 25.58,
+  "Phytate (mg)": 165
+ },
+ {
+  "FOOD CODE": "B001",
+  "FOOD NAME": "Bengal gram, dal (Cicer arietinum)",
+  "Raffinose (g)": 0.23,
+  "Stachyose (g)": 0.61,
+  "Campesterol (mg)": 8.03,
+  "Stigmasterol (mg)": 3.61,
+  "β-Sitosterol (mg)": 90.28,
+  "Phytate (mg)": 450,
+  "Total Saponin (g)": 1.1
+ },
+ {
+  "FOOD CODE": "B002",
+  "FOOD NAME": "Bengal gram, whole (Cicer arietinum)",
+  "Raffinose (g)": 0.23,
+  "Stachyose (g)": 0.58,
+  "Campesterol (mg)": 7.1,
+  "Stigmasterol (mg)": 6.26,
+  "β-Sitosterol (mg)": 85.27,
+  "Phytate (mg)": 578,
+  "Total Saponin (g)": 1.7
+ },
+ {
+  "FOOD CODE": "B003",
+  "FOOD NAME": "Black gram, dal (Phaseolus mungo)",
+  "Raffinose (g)": 0.03,
+  "Stachyose (g)": 0.17,
+  "Verbascose (g)": 1.13,
+  "Ajugose (g)": 0.06,
+  "Campesterol (mg)": 3.45,
+  "Stigmasterol (mg)": 11.21,
+  "β-Sitosterol (mg)": 42.37,
+  "Phytate (mg)": 579,
+  "Total Saponin (g)": 1.2
+ },
+ {
+  "FOOD CODE": "B004",
+  "FOOD NAME": "Black gram, whole (Phaseolus mungo)",
+  "Raffinose (g)": 0.02,
+  "Stachyose (g)": 0.17,
+  "Verbascose (g)": 1,
+  "Ajugose (g)": 0.04,
+  "Campesterol (mg)": 3.08,
+  "Stigmasterol (mg)": 13.39,
+  "β-Sitosterol (mg)": 41.57,
+  "Phytate (mg)": 679,
+  "Total Saponin (g)": 1.82
+ },
+ {
+  "FOOD CODE": "B005",
+  "FOOD NAME": "Cowpea, brown (Vigna catjang)",
+  "Raffinose (g)": 0.14,
+  "Stachyose (g)": 1.24,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 6.56,
+  "Stigmasterol (mg)": 32.19,
+  "β-Sitosterol (mg)": 62.19,
+  "Phytate (mg)": 550,
+  "Total Saponin (g)": 2.99
+ },
+ {
+  "FOOD CODE": "B006",
+  "FOOD NAME": "Cowpea, white (Vigna catjang)",
+  "Raffinose (g)": 0.12,
+  "Stachyose (g)": 1.13,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 6.86,
+  "Stigmasterol (mg)": 32.64,
+  "β-Sitosterol (mg)": 65.43,
+  "Phytate (mg)": 573,
+  "Total Saponin (g)": 2.98
+ },
+ {
+  "FOOD CODE": "B007",
+  "FOOD NAME": "Field bean, black (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.12,
+  "Stachyose (g)": 0.38,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.51,
+  "Stigmasterol (mg)": 42.15,
+  "β-Sitosterol (mg)": 51.63,
+  "Phytate (mg)": 759,
+  "Total Saponin (g)": 1.63
+ },
+ {
+  "FOOD CODE": "B008",
+  "FOOD NAME": "Field bean, brown (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.16,
+  "Stachyose (g)": 0.31,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.8,
+  "Stigmasterol (mg)": 46.17,
+  "β-Sitosterol (mg)": 51.14,
+  "Phytate (mg)": 773,
+  "Total Saponin (g)": 1.71
+ },
+ {
+  "FOOD CODE": "B009",
+  "FOOD NAME": "Field bean, white (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.13,
+  "Stachyose (g)": 0.33,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.47,
+  "Stigmasterol (mg)": 43.19,
+  "β-Sitosterol (mg)": 53.83,
+  "Phytate (mg)": 791,
+  "Total Saponin (g)": 1.75
+ },
+ {
+  "FOOD CODE": "B010",
+  "FOOD NAME": "Green gram, dal (Phaseolus aureus)",
+  "Raffinose (g)": 0.07,
+  "Stachyose (g)": 0.32,
+  "Verbascose (g)": 0.9,
+  "Ajugose (g)": 0.02,
+  "Campesterol (mg)": 3.29,
+  "Stigmasterol (mg)": 12.19,
+  "β-Sitosterol (mg)": 55.33,
+  "Phytate (mg)": 170,
+  "Total Saponin (g)": 1.08
+ },
+ {
+  "FOOD CODE": "B011",
+  "FOOD NAME": "Green gram, whole (Phaseolus aureus)",
+  "Raffinose (g)": 0.11,
+  "Stachyose (g)": 0.3,
+  "Verbascose (g)": 1.57,
+  "Ajugose (g)": 0.03,
+  "Campesterol (mg)": 3.03,
+  "Stigmasterol (mg)": 12.38,
+  "β-Sitosterol (mg)": 51.77,
+  "Phytate (mg)": 375,
+  "Total Saponin (g)": 1.28
+ },
+ {
+  "FOOD CODE": "B012",
+  "FOOD NAME": "Horse gram, whole (Dolicus biflorus)",
+  "Raffinose (g)": 0.04,
+  "Stachyose (g)": 1.59,
+  "Campesterol (mg)": 3.41,
+  "Stigmasterol (mg)": 11.57,
+  "β-Sitosterol (mg)": 47.56,
+  "Phytate (mg)": 339,
+  "Total Saponin (g)": 2.3
+ },
+ {
+  "FOOD CODE": "B013",
+  "FOOD NAME": "Lentil dal (Lens culinaris)",
+  "Raffinose (g)": 0.07,
+  "Stachyose (g)": 0.57,
+  "Verbascose (g)": 0.08,
+  "Campesterol (mg)": 5.74,
+  "Stigmasterol (mg)": 3.32,
+  "β-Sitosterol (mg)": 75.75,
+  "Phytate (mg)": 218,
+  "Total Saponin (g)": 1.63
+ },
+ {
+  "FOOD CODE": "B014",
+  "FOOD NAME": "Lentil whole, brown (Lens culinaris)",
+  "Raffinose (g)": 0.21,
+  "Stachyose (g)": 0.92,
+  "Verbascose (g)": 0.02,
+  "Campesterol (mg)": 4.66,
+  "Stigmasterol (mg)": 4.94,
+  "β-Sitosterol (mg)": 74.08,
+  "Phytate (mg)": 564,
+  "Total Saponin (g)": 1.95
+ },
+ {
+  "FOOD CODE": "B015",
+  "FOOD NAME": "Lentil whole, yellowish (Lens culinaris)",
+  "Raffinose (g)": 0.24,
+  "Stachyose (g)": 0.96,
+  "Verbascose (g)": 0.04,
+  "Campesterol (mg)": 4.47,
+  "Stigmasterol (mg)": 4.96,
+  "β-Sitosterol (mg)": 73.59,
+  "Phytate (mg)": 585,
+  "Total Saponin (g)": 0.89
+ },
+ {
+  "FOOD CODE": "B016",
+  "FOOD NAME": "Moth bean (Vigna aconitifolia)",
+  "Raffinose (g)": 0.18,
+  "Stachyose (g)": 1.62,
+  "Verbascose (g)": 0.02,
+  "Campesterol (mg)": 10.4,
+  "Stigmasterol (mg)": 27.32,
+  "β-Sitosterol (mg)": 93.84,
+  "Phytate (mg)": 609,
+  "Total Saponin (g)": 3.12
+ },
+ {
+  "FOOD CODE": "B017",
+  "FOOD NAME": "Peas, dry (Pisum sativum)",
+  "Raffinose (g)": 0.1,
+  "Stachyose (g)": 0.61,
+  "Verbascose (g)": 0.17,
+  "Campesterol (mg)": 6.13,
+  "Stigmasterol (mg)": 2.91,
+  "β-Sitosterol (mg)": 84.85,
+  "Phytate (mg)": 413,
+  "Total Saponin (g)": 1.4
+ },
+ {
+  "FOOD CODE": "B018",
+  "FOOD NAME": "Rajmah, black (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.1,
+  "Stachyose (g)": 1.44,
+  "Verbascose (g)": 0.02,
+  "Campesterol (mg)": 2.59,
+  "Stigmasterol (mg)": 16.5,
+  "β-Sitosterol (mg)": 63.2,
+  "Phytate (mg)": 470,
+  "Total Saponin (g)": 2.3
+ },
+ {
+  "FOOD CODE": "B019",
+  "FOOD NAME": "Rajmah, brown (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.05,
+  "Stachyose (g)": 1.41,
+  "Verbascose (g)": 0.02,
+  "Campesterol (mg)": 2.5,
+  "Stigmasterol (mg)": 16.44,
+  "β-Sitosterol (mg)": 64.18,
+  "Phytate (mg)": 481,
+  "Total Saponin (g)": 2.85
+ },
+ {
+  "FOOD CODE": "B020",
+  "FOOD NAME": "Rajmah, red (Phaseolus vulgaris)",
+  "Raffinose (g)": 0.07,
+  "Stachyose (g)": 1.42,
+  "Verbascose (g)": 0.03,
+  "Campesterol (mg)": 2.6,
+  "Stigmasterol (mg)": 16.23,
+  "β-Sitosterol (mg)": 64.67,
+  "Phytate (mg)": 465,
+  "Total Saponin (g)": 2.79
+ },
+ {
+  "FOOD CODE": "B021",
+  "FOOD NAME": "Red gram, dal (Cajanus cajan)",
+  "Raffinose (g)": 0.33,
+  "Stachyose (g)": 0.81,
+  "Verbascose (g)": 0.67,
+  "Campesterol (mg)": 7.39,
+  "Stigmasterol (mg)": 9.46,
+  "β-Sitosterol (mg)": 68.59,
+  "Phytate (mg)": 277,
+  "Total Saponin (g)": 1.56
+ },
+ {
+  "FOOD CODE": "B022",
+  "FOOD NAME": "Red gram, whole (Cajanus cajan)",
+  "Raffinose (g)": 0.24,
+  "Stachyose (g)": 0.64,
+  "Verbascose (g)": 0.61,
+  "Campesterol (mg)": 6.6,
+  "Stigmasterol (mg)": 10.49,
+  "β-Sitosterol (mg)": 69.1,
+  "Phytate (mg)": 604,
+  "Total Saponin (g)": 1.89
+ },
+ {
+  "FOOD CODE": "B023",
+  "FOOD NAME": "Ricebean (Vigna umbellata )",
+  "Raffinose (g)": 0.05,
+  "Stachyose (g)": 5,
+  "Campesterol (mg)": 0.85,
+  "Stigmasterol (mg)": 3.13,
+  "β-Sitosterol (mg)": 25.45,
+  "Phytate (mg)": 486
+ },
+ {
+  "FOOD CODE": "B024",
+  "FOOD NAME": "Soya bean, brown (Glycine max)",
+  "Raffinose (g)": 0.33,
+  "Stachyose (g)": 2.01,
+  "Verbascose (g)": 0.04,
+  "Campesterol (mg)": 14.48,
+  "Stigmasterol (mg)": 10.38,
+  "β-Sitosterol (mg)": 88.47,
+  "Phytate (mg)": 443,
+  "Total Saponin (g)": 7.39
+ },
+ {
+  "FOOD CODE": "B025",
+  "FOOD NAME": "Soya bean, white (Glycine max)",
+  "Raffinose (g)": 0.31,
+  "Stachyose (g)": 1.81,
+  "Verbascose (g)": 0.05,
+  "Campesterol (mg)": 14.4,
+  "Stigmasterol (mg)": 10.4,
+  "β-Sitosterol (mg)": 88.09,
+  "Phytate (mg)": 460,
+  "Total Saponin (g)": 7.51
+ },
+ {
+  "FOOD CODE": "C001",
+  "FOOD NAME": "Agathi leaves (Sesbania grandiflora)",
+  "Campesterol (mg)": 4.42,
+  "Stigmasterol (mg)": 1.37,
+  "β-Sitosterol (mg)": 5.94,
+  "Phytate (mg)": 63.33,
+  "Total Saponin (g)": 0.69
+ },
+ {
+  "FOOD CODE": "C002",
+  "FOOD NAME": "Amaranth leaves, green (Amaranthus gangeticus)",
+  "Campesterol (mg)": 1.07,
+  "Stigmasterol (mg)": 2.69,
+  "β-Sitosterol (mg)": 16.76,
+  "Phytate (mg)": 5.42
+ },
+ {
+  "FOOD CODE": "C003",
+  "FOOD NAME": "Amaranth leaves, red (Amaranthus gangeticus)",
+  "Campesterol (mg)": 1.08,
+  "Stigmasterol (mg)": 2.85,
+  "β-Sitosterol (mg)": 16.34,
+  "Phytate (mg)": 4.9
+ },
+ {
+  "FOOD CODE": "C004",
+  "FOOD NAME": "Amaranth leaves, red and green mix (Amaranthus gangeticus)",
+  "Campesterol (mg)": 1.06,
+  "Stigmasterol (mg)": 2.71,
+  "β-Sitosterol (mg)": 16.91,
+  "Phytate (mg)": 4.89
+ },
+ {
+  "FOOD CODE": "C005",
+  "FOOD NAME": "Amaranth spinosus, leaves, green (Amaranthus spinosus)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 5.71,
+  "β-Sitosterol (mg)": 33.33,
+  "Phytate (mg)": 7.4
+ },
+ {
+  "FOOD CODE": "C006",
+  "FOOD NAME": "Amaranth spinosus, leaves, red and green mix (Amaranthus spinosus)",
+  "Campesterol (mg)": 0.77,
+  "Stigmasterol (mg)": 5.54,
+  "β-Sitosterol (mg)": 32.38,
+  "Phytate (mg)": 7.15
+ },
+ {
+  "FOOD CODE": "C007",
+  "FOOD NAME": "Basella leaves (Basella alba)",
+  "Campesterol (mg)": 1.17,
+  "Stigmasterol (mg)": 2.25,
+  "β-Sitosterol (mg)": 9.91,
+  "Phytate (mg)": 49.57,
+  "Total Saponin (g)": 0.06
+ },
+ {
+  "FOOD CODE": "C008",
+  "FOOD NAME": "Bathua leaves (Chenopodium album)",
+  "Campesterol (mg)": 0.57,
+  "Stigmasterol (mg)": 3.01,
+  "β-Sitosterol (mg)": 8.99,
+  "Phytate (mg)": 18.48,
+  "Total Saponin (g)": 0.63
+ },
+ {
+  "FOOD CODE": "C009",
+  "FOOD NAME": "Beet greens (Beta vulgaris)",
+  "Campesterol (mg)": 0.86,
+  "Stigmasterol (mg)": 3.21,
+  "β-Sitosterol (mg)": 15.56,
+  "Phytate (mg)": 19.01,
+  "Total Saponin (g)": 0.43
+ },
+ {
+  "FOOD CODE": "C010",
+  "FOOD NAME": "Betel leaves, big (kolkata) (Piper betle)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 4.09,
+  "Stigmasterol (mg)": 3.53,
+  "β-Sitosterol (mg)": 32.83,
+  "Phytate (mg)": 57.98,
+  "Total Saponin (g)": 0.42
+ },
+ {
+  "FOOD CODE": "C011",
+  "FOOD NAME": "Betel leaves, small (Piper betle)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 3.86,
+  "Stigmasterol (mg)": 3.39,
+  "β-Sitosterol (mg)": 31.61,
+  "Phytate (mg)": 45.34,
+  "Total Saponin (g)": 0.4
+ },
+ {
+  "FOOD CODE": "C012",
+  "FOOD NAME": "Brussels sprouts (Brassica oleracea var. gemmifera)",
+  "Campesterol (mg)": 4.01,
+  "Stigmasterol (mg)": 0.93,
+  "β-Sitosterol (mg)": 38.2,
+  "Phytate (mg)": 18.32,
+  "Total Saponin (g)": 0.25
+ },
+ {
+  "FOOD CODE": "C013",
+  "FOOD NAME": "Cabbage, Chinese (Brassica rupa)",
+  "Campesterol (mg)": 2.06,
+  "Stigmasterol (mg)": 0.13,
+  "β-Sitosterol (mg)": 17.27,
+  "Phytate (mg)": 16.85
+ },
+ {
+  "FOOD CODE": "C014",
+  "FOOD NAME": "Cabbage, collard greens (Brassica oleracea var. viridis)",
+  "Raffinose (g)": 0.06,
+  "Campesterol (mg)": 2.55,
+  "Stigmasterol (mg)": 0.28,
+  "β-Sitosterol (mg)": 16.43,
+  "Phytate (mg)": 12.08
+ },
+ {
+  "FOOD CODE": "C015",
+  "FOOD NAME": "Cabbage, green (Brassica oleracea var. capitata f. alba)",
+  "Campesterol (mg)": 2.46,
+  "Stigmasterol (mg)": 0.27,
+  "β-Sitosterol (mg)": 16.1,
+  "Phytate (mg)": 11.77
+ },
+ {
+  "FOOD CODE": "C016",
+  "FOOD NAME": "Cabbage, violet (Brassica oleracea var. capitata f. rubra)",
+  "Campesterol (mg)": 2.54,
+  "Stigmasterol (mg)": 0.25,
+  "β-Sitosterol (mg)": 15.8,
+  "Phytate (mg)": 12.81
+ },
+ {
+  "FOOD CODE": "C017",
+  "FOOD NAME": "Cauliflower leaves (Brassica oleracea var. botrytis)",
+  "Raffinose (g)": 0.04,
+  "Campesterol (mg)": 1.96,
+  "Stigmasterol (mg)": 0.44,
+  "β-Sitosterol (mg)": 15.55,
+  "Phytate (mg)": 13.6
+ },
+ {
+  "FOOD CODE": "C018",
+  "FOOD NAME": "Colocasia leaves, green (Colocasia anti-quorum)",
+  "Campesterol (mg)": 3.66,
+  "Stigmasterol (mg)": 10.5,
+  "β-Sitosterol (mg)": 23.67,
+  "Phytate (mg)": 14.41,
+  "Total Saponin (g)": 0.39
+ },
+ {
+  "FOOD CODE": "C019",
+  "FOOD NAME": "Drumstick leaves (Moringa oleifera)",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.03,
+  "Campesterol (mg)": 4.27,
+  "Stigmasterol (mg)": 2.02,
+  "β-Sitosterol (mg)": 28.92,
+  "Phytate (mg)": 128,
+  "Total Saponin (g)": 0.48
+ },
+ {
+  "FOOD CODE": "C020",
+  "FOOD NAME": "Fenugreek leaves (Trigonella foenum graecum)",
+  "Raffinose (g)": 0.03,
+  "Campesterol (mg)": 1.39,
+  "Stigmasterol (mg)": 2.37,
+  "β-Sitosterol (mg)": 28.31,
+  "Phytate (mg)": 18.67
+ },
+ {
+  "FOOD CODE": "C021",
+  "FOOD NAME": "Garden cress (Lepidium sativum)",
+  "Campesterol (mg)": 1.77,
+  "Stigmasterol (mg)": 12.14,
+  "β-Sitosterol (mg)": 13.48,
+  "Phytate (mg)": 16.64,
+  "Total Saponin (g)": 0.62
+ },
+ {
+  "FOOD CODE": "C022",
+  "FOOD NAME": "Gogu leaves, green (Hibiscus cannabinus)",
+  "Campesterol (mg)": 4.55,
+  "Stigmasterol (mg)": 6.25,
+  "β-Sitosterol (mg)": 72.17,
+  "Phytate (mg)": 48.43
+ },
+ {
+  "FOOD CODE": "C023",
+  "FOOD NAME": "Gogu leaves, red (Hibiscus cannabinus)",
+  "Campesterol (mg)": 4.04,
+  "Stigmasterol (mg)": 5.94,
+  "β-Sitosterol (mg)": 75.89,
+  "Phytate (mg)": 43.17
+ },
+ {
+  "FOOD CODE": "C024",
+  "FOOD NAME": "Knol-Khol, leaves (Brassica oleracea var. gongylodes)",
+  "Campesterol (mg)": 3.9,
+  "Stigmasterol (mg)": 0.29,
+  "β-Sitosterol (mg)": 23.38,
+  "Phytate (mg)": 47.33,
+  "Total Saponin (g)": 0.88
+ },
+ {
+  "FOOD CODE": "C025",
+  "FOOD NAME": "Lettuce (Lactuca sativa)",
+  "Campesterol (mg)": 0.42,
+  "Stigmasterol (mg)": 1.73,
+  "β-Sitosterol (mg)": 6.39,
+  "Phytate (mg)": 42.28,
+  "Total Saponin (g)": 0.11
+ },
+ {
+  "FOOD CODE": "C026",
+  "FOOD NAME": "Mustard leaves (Brassica juncea)",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.01,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.05,
+  "Stigmasterol (mg)": 0.57,
+  "β-Sitosterol (mg)": 16.16,
+  "Phytate (mg)": 34.69,
+  "Total Saponin (g)": 0.48
+ },
+ {
+  "FOOD CODE": "C027",
+  "FOOD NAME": "Pak Choi leaves (Brassica rapa var. Chinensis)",
+  "Campesterol (mg)": 2.02,
+  "Stigmasterol (mg)": 0.93,
+  "β-Sitosterol (mg)": 14.35,
+  "Phytate (mg)": 18.05
+ },
+ {
+  "FOOD CODE": "C028",
+  "FOOD NAME": "Parsley (Petroselinum crispum)",
+  "Campesterol (mg)": 2.08,
+  "Stigmasterol (mg)": 16.48,
+  "β-Sitosterol (mg)": 13.64,
+  "Phytate (mg)": 54.32,
+  "Total Saponin (g)": 1.03
+ },
+ {
+  "FOOD CODE": "C029",
+  "FOOD NAME": "Ponnaganni (Alternanthera sessilis)",
+  "Campesterol (mg)": 1.07,
+  "Stigmasterol (mg)": 6.11,
+  "β-Sitosterol (mg)": 24.72,
+  "Phytate (mg)": 32.02,
+  "Total Saponin (g)": 0.88
+ },
+ {
+  "FOOD CODE": "C030",
+  "FOOD NAME": "Pumpkin leaves, tender (Cucurbita maxima)",
+  "Raffinose (g)": 0.03,
+  "Campesterol (mg)": 0.33,
+  "Stigmasterol (mg)": 2.52,
+  "β-Sitosterol (mg)": 18.32,
+  "Phytate (mg)": 38.27
+ },
+ {
+  "FOOD CODE": "C031",
+  "FOOD NAME": "Radish leaves (Raphanus sativus)",
+  "Campesterol (mg)": 2.15,
+  "Stigmasterol (mg)": 0.94,
+  "β-Sitosterol (mg)": 17.44,
+  "Phytate (mg)": 56.23,
+  "Total Saponin (g)": 0.08
+ },
+ {
+  "FOOD CODE": "C032",
+  "FOOD NAME": "Rumex leaves (Rumex patientia)",
+  "Campesterol (mg)": 0.13,
+  "Stigmasterol (mg)": 7.47,
+  "β-Sitosterol (mg)": 3.81,
+  "Phytate (mg)": 30.07,
+  "Total Saponin (g)": 0.31
+ },
+ {
+  "FOOD CODE": "C033",
+  "FOOD NAME": "Spinach (Spinacia oleracea)",
+  "Campesterol (mg)": 0.77,
+  "Stigmasterol (mg)": 5.44,
+  "β-Sitosterol (mg)": 17.39,
+  "Phytate (mg)": 12.01
+ },
+ {
+  "FOOD CODE": "C034",
+  "FOOD NAME": "Tamarind leaves, tender (Tamarindus indica)",
+  "Campesterol (mg)": 4.81,
+  "Stigmasterol (mg)": 0.64,
+  "β-Sitosterol (mg)": 46.05,
+  "Phytate (mg)": 33.87
+ },
+ {
+  "FOOD CODE": "D001",
+  "FOOD NAME": "Ash gourd (Benincasa hispida)",
+  "Campesterol (mg)": 0.16,
+  "Stigmasterol (mg)": 0.45,
+  "β-Sitosterol (mg)": 2.38,
+  "Phytate (mg)": 14.6
+ },
+ {
+  "FOOD CODE": "D002",
+  "FOOD NAME": "Bamboo shoot, tender (Bambusa vulgaris)",
+  "Stachyose (g)": 0.01,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.44,
+  "Stigmasterol (mg)": 1.27,
+  "β-Sitosterol (mg)": 15.49,
+  "Phytate (mg)": 19.78,
+  "Total Saponin (g)": 0.05
+ },
+ {
+  "FOOD CODE": "D003",
+  "FOOD NAME": "Bean scarlet, tender (Phaseolus coccineus)",
+  "Campesterol (mg)": 1.64,
+  "Stigmasterol (mg)": 5.9,
+  "β-Sitosterol (mg)": 19.2,
+  "Phytate (mg)": 17.33,
+  "Total Saponin (g)": 0.17
+ },
+ {
+  "FOOD CODE": "D004",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, elongate (Momordica charantia)",
+  "Campesterol (mg)": 0.45,
+  "Stigmasterol (mg)": 1.62,
+  "β-Sitosterol (mg)": 11.88,
+  "Phytate (mg)": 13.84
+ },
+ {
+  "FOOD CODE": "D005",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, short (Momordica charantia)",
+  "Campesterol (mg)": 0.45,
+  "Stigmasterol (mg)": 1.71,
+  "β-Sitosterol (mg)": 12.26,
+  "Phytate (mg)": 14.39
+ },
+ {
+  "FOOD CODE": "D006",
+  "FOOD NAME": "Bitter gourd, jagged, smooth ridges, elongate (Momordica charantia)",
+  "Campesterol (mg)": 0.43,
+  "Stigmasterol (mg)": 1.39,
+  "β-Sitosterol (mg)": 12.24,
+  "Phytate (mg)": 12.68
+ },
+ {
+  "FOOD CODE": "D007",
+  "FOOD NAME": "Bottle gourd, elongate, pale green (Lagenaria vulgaris)",
+  "Campesterol (mg)": 0.22,
+  "Stigmasterol (mg)": 0.92,
+  "β-Sitosterol (mg)": 6.4,
+  "Phytate (mg)": 10.64
+ },
+ {
+  "FOOD CODE": "D008",
+  "FOOD NAME": "Bottle gourd, round, pale green (Lagenaria vulgaris)",
+  "Campesterol (mg)": 0.21,
+  "Stigmasterol (mg)": 1,
+  "β-Sitosterol (mg)": 6.02,
+  "Phytate (mg)": 11.83
+ },
+ {
+  "FOOD CODE": "D009",
+  "FOOD NAME": "Bottle gourd, elongate, dark green (Lagenaria vulgaris)",
+  "Campesterol (mg)": 0.25,
+  "Stigmasterol (mg)": 1.08,
+  "β-Sitosterol (mg)": 6.61,
+  "Phytate (mg)": 10.86
+ },
+ {
+  "FOOD CODE": "D010",
+  "FOOD NAME": "Brinjal-1 (Solanum melongena)",
+  "Campesterol (mg)": 0.68,
+  "Stigmasterol (mg)": 1.6,
+  "β-Sitosterol (mg)": 8.44,
+  "Phytate (mg)": 14.63
+ },
+ {
+  "FOOD CODE": "D011",
+  "FOOD NAME": "Brinjal-2 (Solanum melongena)",
+  "Campesterol (mg)": 0.74,
+  "Stigmasterol (mg)": 1.96,
+  "β-Sitosterol (mg)": 7.01,
+  "Phytate (mg)": 15.46
+ },
+ {
+  "FOOD CODE": "D012",
+  "FOOD NAME": "Brinjal-3 (Solanum melongena)",
+  "Campesterol (mg)": 0.78,
+  "Stigmasterol (mg)": 1.3,
+  "β-Sitosterol (mg)": 7.97,
+  "Phytate (mg)": 12.79
+ },
+ {
+  "FOOD CODE": "D013",
+  "FOOD NAME": "Brinjal-4 (Solanum melongena)",
+  "Campesterol (mg)": 0.73,
+  "Stigmasterol (mg)": 1.52,
+  "β-Sitosterol (mg)": 7.82,
+  "Phytate (mg)": 14.43
+ },
+ {
+  "FOOD CODE": "D014",
+  "FOOD NAME": "Brinjal-5 (Solanum melongena)",
+  "Campesterol (mg)": 0.69,
+  "Stigmasterol (mg)": 1.71,
+  "β-Sitosterol (mg)": 7.85,
+  "Phytate (mg)": 12.55
+ },
+ {
+  "FOOD CODE": "D015",
+  "FOOD NAME": "Brinjal-6 (Solanum melongena)",
+  "Campesterol (mg)": 0.73,
+  "Stigmasterol (mg)": 1.83,
+  "β-Sitosterol (mg)": 7.13,
+  "Phytate (mg)": 9.51
+ },
+ {
+  "FOOD CODE": "D016",
+  "FOOD NAME": "Brinjal-7 (Solanum melongena)",
+  "Campesterol (mg)": 0.76,
+  "Stigmasterol (mg)": 1.65,
+  "β-Sitosterol (mg)": 8.13,
+  "Phytate (mg)": 18.39
+ },
+ {
+  "FOOD CODE": "D017",
+  "FOOD NAME": "Brinjal-8 (Solanum melongena)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 1.73,
+  "β-Sitosterol (mg)": 8.42,
+  "Phytate (mg)": 11.29
+ },
+ {
+  "FOOD CODE": "D018",
+  "FOOD NAME": "Brinjal-9 (Solanum melongena)",
+  "Campesterol (mg)": 0.69,
+  "Stigmasterol (mg)": 1.51,
+  "β-Sitosterol (mg)": 8.57,
+  "Phytate (mg)": 11.49
+ },
+ {
+  "FOOD CODE": "D019",
+  "FOOD NAME": "Brinjal-10 (Solanum melongena)",
+  "Campesterol (mg)": 0.71,
+  "Stigmasterol (mg)": 1.78,
+  "β-Sitosterol (mg)": 7.86,
+  "Phytate (mg)": 15.03
+ },
+ {
+  "FOOD CODE": "D020",
+  "FOOD NAME": "Brinjal-11 (Solanum melongena)",
+  "Campesterol (mg)": 0.7,
+  "Stigmasterol (mg)": 1.6,
+  "β-Sitosterol (mg)": 8.24,
+  "Phytate (mg)": 13.32
+ },
+ {
+  "FOOD CODE": "D021",
+  "FOOD NAME": "Brinjal-12 (Solanum melongena)",
+  "Campesterol (mg)": 0.68,
+  "Stigmasterol (mg)": 1.66,
+  "β-Sitosterol (mg)": 8.01,
+  "Phytate (mg)": 13.41
+ },
+ {
+  "FOOD CODE": "D022",
+  "FOOD NAME": "Brinjal-13 (Solanum melongena)",
+  "Campesterol (mg)": 0.76,
+  "Stigmasterol (mg)": 1.8,
+  "β-Sitosterol (mg)": 8.1,
+  "Phytate (mg)": 7
+ },
+ {
+  "FOOD CODE": "D023",
+  "FOOD NAME": "Brinjal-14 (Solanum melongena)",
+  "Campesterol (mg)": 0.68,
+  "Stigmasterol (mg)": 1.68,
+  "β-Sitosterol (mg)": 7.83,
+  "Phytate (mg)": 15.75
+ },
+ {
+  "FOOD CODE": "D024",
+  "FOOD NAME": "Brinjal-15 (Solanum melongena)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 1.58,
+  "β-Sitosterol (mg)": 8.59,
+  "Phytate (mg)": 11.01
+ },
+ {
+  "FOOD CODE": "D025",
+  "FOOD NAME": "Brinjal-16 (Solanum melongena)",
+  "Campesterol (mg)": 0.66,
+  "Stigmasterol (mg)": 1.58,
+  "β-Sitosterol (mg)": 8.13,
+  "Phytate (mg)": 5.82
+ },
+ {
+  "FOOD CODE": "D026",
+  "FOOD NAME": "Brinjal-17 (Solanum melongena)",
+  "Campesterol (mg)": 0.75,
+  "Stigmasterol (mg)": 1.81,
+  "β-Sitosterol (mg)": 7.08,
+  "Phytate (mg)": 15.41
+ },
+ {
+  "FOOD CODE": "D027",
+  "FOOD NAME": "Brinjal-18 (Solanum melongena)",
+  "Campesterol (mg)": 0.71,
+  "Stigmasterol (mg)": 1.81,
+  "β-Sitosterol (mg)": 8.15,
+  "Phytate (mg)": 9.42
+ },
+ {
+  "FOOD CODE": "D028",
+  "FOOD NAME": "Brinjal-19 (Solanum melongena)",
+  "Campesterol (mg)": 0.73,
+  "Stigmasterol (mg)": 1.84,
+  "β-Sitosterol (mg)": 8.54,
+  "Phytate (mg)": 10.96
+ },
+ {
+  "FOOD CODE": "D029",
+  "FOOD NAME": "Brinjal-20 (Solanum melongena)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 1.82,
+  "β-Sitosterol (mg)": 8.21,
+  "Phytate (mg)": 10.55
+ },
+ {
+  "FOOD CODE": "D030",
+  "FOOD NAME": "Brinjal-21 (Solanum melongena)",
+  "Campesterol (mg)": 0.71,
+  "Stigmasterol (mg)": 1.78,
+  "β-Sitosterol (mg)": 7.52,
+  "Phytate (mg)": 8.24
+ },
+ {
+  "FOOD CODE": "D031",
+  "FOOD NAME": "Brinjal - all varieties (Solanum melongena)",
+  "Campesterol (mg)": 0.71,
+  "Stigmasterol (mg)": 1.67,
+  "β-Sitosterol (mg)": 8.09,
+  "Phytate (mg)": 12.28
+ },
+ {
+  "FOOD CODE": "D032",
+  "FOOD NAME": "Broad beans (Vicia faba)",
+  "Campesterol (mg)": 0.82,
+  "Stigmasterol (mg)": 3.26,
+  "β-Sitosterol (mg)": 13.58,
+  "Phytate (mg)": 5.78,
+  "Total Saponin (g)": 0.45
+ },
+ {
+  "FOOD CODE": "D033",
+  "FOOD NAME": "Capsicum, green (Capsicum annuum)",
+  "Campesterol (mg)": 1.25,
+  "Stigmasterol (mg)": 0.25,
+  "β-Sitosterol (mg)": 4.84,
+  "Phytate (mg)": 15.96,
+  "Total Saponin (g)": 0.33
+ },
+ {
+  "FOOD CODE": "D034",
+  "FOOD NAME": "Capsicum, red (Capsicum annuum)",
+  "Campesterol (mg)": 1.09,
+  "Stigmasterol (mg)": 0.35,
+  "β-Sitosterol (mg)": 4.19,
+  "Phytate (mg)": 17.68,
+  "Total Saponin (g)": 0.47
+ },
+ {
+  "FOOD CODE": "D035",
+  "FOOD NAME": "Capsicum, yellow (Capsicum annuum)",
+  "Campesterol (mg)": 0.79,
+  "Stigmasterol (mg)": 0.23,
+  "β-Sitosterol (mg)": 6.18,
+  "Phytate (mg)": 14.81,
+  "Total Saponin (g)": 0.31
+ },
+ {
+  "FOOD CODE": "D036",
+  "FOOD NAME": "Cauliflower (Brassica oleracea)",
+  "Campesterol (mg)": 1.84,
+  "Stigmasterol (mg)": 1.3,
+  "β-Sitosterol (mg)": 12.56,
+  "Phytate (mg)": 18.48
+ },
+ {
+  "FOOD CODE": "D037",
+  "FOOD NAME": "Celery stalk (Apium graveolens)",
+  "Campesterol (mg)": 4.75,
+  "Stigmasterol (mg)": 0.39,
+  "β-Sitosterol (mg)": 4.12,
+  "Phytate (mg)": 25.66,
+  "Total Saponin (g)": 0.07
+ },
+ {
+  "FOOD CODE": "D038",
+  "FOOD NAME": "Cho-cho-marrow (Sechium edule)",
+  "Campesterol (mg)": 0.08,
+  "Stigmasterol (mg)": 0.44,
+  "β-Sitosterol (mg)": 1.66,
+  "Phytate (mg)": 19.42
+ },
+ {
+  "FOOD CODE": "D039",
+  "FOOD NAME": "Cluster beans (Cyamopsis tetragonobola)",
+  "Campesterol (mg)": 1.03,
+  "Stigmasterol (mg)": 8.83,
+  "β-Sitosterol (mg)": 16.5,
+  "Phytate (mg)": 8.66,
+  "Total Saponin (g)": 2.44
+ },
+ {
+  "FOOD CODE": "D040",
+  "FOOD NAME": "Colocasia, stem, black (Colocasia antiquorum)",
+  "Campesterol (mg)": 3.15,
+  "Stigmasterol (mg)": 2.03,
+  "β-Sitosterol (mg)": 16.77,
+  "Phytate (mg)": 25.85,
+  "Total Saponin (g)": 0.7
+ },
+ {
+  "FOOD CODE": "D041",
+  "FOOD NAME": "Colocasia, stem, green (Colocasia antiquorum)",
+  "Campesterol (mg)": 3.42,
+  "Stigmasterol (mg)": 2.03,
+  "β-Sitosterol (mg)": 17.77,
+  "Phytate (mg)": 26.49,
+  "Total Saponin (g)": 0.56
+ },
+ {
+  "FOOD CODE": "D042",
+  "FOOD NAME": "Corn, Baby (Zea mays)",
+  "Raffinose (g)": 0.02,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 3.82,
+  "Stigmasterol (mg)": 4.69,
+  "β-Sitosterol (mg)": 20.2,
+  "Phytate (mg)": 26.44
+ },
+ {
+  "FOOD CODE": "D043",
+  "FOOD NAME": "Cucumber, green, elongate (Cucumis sativus)",
+  "Campesterol (mg)": 1.36,
+  "Stigmasterol (mg)": 0.34,
+  "β-Sitosterol (mg)": 7.54,
+  "Phytate (mg)": 17.52
+ },
+ {
+  "FOOD CODE": "D044",
+  "FOOD NAME": "Cucumber, green, short (Cucumis sativus)",
+  "Campesterol (mg)": 1.36,
+  "Stigmasterol (mg)": 0.35,
+  "β-Sitosterol (mg)": 7.57,
+  "Phytate (mg)": 16.35
+ },
+ {
+  "FOOD CODE": "D045",
+  "FOOD NAME": "Cucumber, orange, round (Cucumis sativus)",
+  "Campesterol (mg)": 1.32,
+  "Stigmasterol (mg)": 0.36,
+  "β-Sitosterol (mg)": 7.33,
+  "Phytate (mg)": 15.8
+ },
+ {
+  "FOOD CODE": "D046",
+  "FOOD NAME": "Drumstick (Moringa oleifera)",
+  "Campesterol (mg)": 3.76,
+  "Stigmasterol (mg)": 2.4,
+  "β-Sitosterol (mg)": 16.61,
+  "Phytate (mg)": 85.74
+ },
+ {
+  "FOOD CODE": "D047",
+  "FOOD NAME": "Field beans, tender, broad (Vicia faba)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 0.74,
+  "Stigmasterol (mg)": 4.59,
+  "β-Sitosterol (mg)": 15.17,
+  "Phytate (mg)": 4.81,
+  "Total Saponin (g)": 3
+ },
+ {
+  "FOOD CODE": "D048",
+  "FOOD NAME": "Field beans, tender, lean (Vicia faba)",
+  "Raffinose (g)": 0,
+  "Campesterol (mg)": 0.75,
+  "Stigmasterol (mg)": 4.38,
+  "β-Sitosterol (mg)": 15.07,
+  "Phytate (mg)": 5.24,
+  "Total Saponin (g)": 2.93
+ },
+ {
+  "FOOD CODE": "D049",
+  "FOOD NAME": "French beans, country (Phaseolus vulgaris)",
+  "Campesterol (mg)": 0.96,
+  "Stigmasterol (mg)": 4.45,
+  "β-Sitosterol (mg)": 17.35,
+  "Phytate (mg)": 6.11,
+  "Total Saponin (g)": 3.44
+ },
+ {
+  "FOOD CODE": "D050",
+  "FOOD NAME": "French beans, hybrid (Phaseolus vulgaris)",
+  "Campesterol (mg)": 0.98,
+  "Stigmasterol (mg)": 4.09,
+  "β-Sitosterol (mg)": 17.65,
+  "Phytate (mg)": 7.51,
+  "Total Saponin (g)": 2.9
+ },
+ {
+  "FOOD CODE": "D051",
+  "FOOD NAME": "Jack fruit, raw (Artocarpus heterophyllus)",
+  "Campesterol (mg)": 2.94,
+  "Stigmasterol (mg)": 16.36,
+  "β-Sitosterol (mg)": 43.1,
+  "Phytate (mg)": 68.79
+ },
+ {
+  "FOOD CODE": "D052",
+  "FOOD NAME": "Jack fruit, seed, mature (Artocarpus heterophyllus)",
+  "Campesterol (mg)": 1.59,
+  "Stigmasterol (mg)": 3.66,
+  "β-Sitosterol (mg)": 24.26,
+  "Phytate (mg)": 141
+ },
+ {
+  "FOOD CODE": "D053",
+  "FOOD NAME": "Knol - Khol (Brassica oleracea)",
+  "Campesterol (mg)": 1.57,
+  "Stigmasterol (mg)": 0.21,
+  "β-Sitosterol (mg)": 8.53,
+  "Phytate (mg)": 16.16
+ },
+ {
+  "FOOD CODE": "D054",
+  "FOOD NAME": "Kovai, big (Coccinia cordifolia)",
+  "Campesterol (mg)": 2.29,
+  "Stigmasterol (mg)": 0.87,
+  "β-Sitosterol (mg)": 23.62,
+  "Phytate (mg)": 9.81
+ },
+ {
+  "FOOD CODE": "D055",
+  "FOOD NAME": "Kovai, small (Coccinia cordifolia)",
+  "Campesterol (mg)": 2.36,
+  "Stigmasterol (mg)": 0.93,
+  "β-Sitosterol (mg)": 25.22,
+  "Phytate (mg)": 8.79
+ },
+ {
+  "FOOD CODE": "D056",
+  "FOOD NAME": "Ladies finger (Abelmoschus esculentus)",
+  "Campesterol (mg)": 2.8,
+  "Stigmasterol (mg)": 3.72,
+  "β-Sitosterol (mg)": 16.23,
+  "Phytate (mg)": 3.63
+ },
+ {
+  "FOOD CODE": "D057",
+  "FOOD NAME": "Mango, green, raw (Mangifera indica)",
+  "Campesterol (mg)": 2.09,
+  "Stigmasterol (mg)": 1.62,
+  "β-Sitosterol (mg)": 27.62,
+  "Phytate (mg)": 15.26
+ },
+ {
+  "FOOD CODE": "D058",
+  "FOOD NAME": "Onion, stalk (Allium cepa)",
+  "Campesterol (mg)": 1.14,
+  "Stigmasterol (mg)": 18.49,
+  "β-Sitosterol (mg)": 17.32,
+  "Phytate (mg)": 61.02,
+  "Total Saponin (g)": 0.54
+ },
+ {
+  "FOOD CODE": "D059",
+  "FOOD NAME": "Papaya, raw (Carica papaya)",
+  "Campesterol (mg)": 3.18,
+  "Stigmasterol (mg)": 2.4,
+  "β-Sitosterol (mg)": 9.19,
+  "Phytate (mg)": 22.08,
+  "Total Saponin (g)": 0.43
+ },
+ {
+  "FOOD CODE": "D060",
+  "FOOD NAME": "Parwar (Trichosanthes dioica)",
+  "Campesterol (mg)": 0.12,
+  "Stigmasterol (mg)": 0.95,
+  "β-Sitosterol (mg)": 7.6,
+  "Phytate (mg)": 29.19,
+  "Total Saponin (g)": 0.29
+ },
+ {
+  "FOOD CODE": "D061",
+  "FOOD NAME": "Peas, fresh (Pisum sativum)",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.05,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 2.56,
+  "Stigmasterol (mg)": 1.54,
+  "β-Sitosterol (mg)": 42.23,
+  "Phytate (mg)": 162,
+  "Total Saponin (g)": 1.26
+ },
+ {
+  "FOOD CODE": "D062",
+  "FOOD NAME": "Plantain, flower (Musa x paradisiaca)",
+  "Campesterol (mg)": 6.28,
+  "Stigmasterol (mg)": 6.19,
+  "β-Sitosterol (mg)": 9.59,
+  "Phytate (mg)": 2.52
+ },
+ {
+  "FOOD CODE": "D063",
+  "FOOD NAME": "Plantain, green (Musa x paradisiaca)",
+  "Campesterol (mg)": 2.25,
+  "Stigmasterol (mg)": 1.71,
+  "β-Sitosterol (mg)": 16.32,
+  "Phytate (mg)": 40.44
+ },
+ {
+  "FOOD CODE": "D064",
+  "FOOD NAME": "Plantain, stem (Musa x paradisiaca)",
+  "Campesterol (mg)": 6.22,
+  "Stigmasterol (mg)": 8.31,
+  "β-Sitosterol (mg)": 31.92,
+  "Phytate (mg)": 15.33,
+  "Total Saponin (g)": 0.76
+ },
+ {
+  "FOOD CODE": "D065",
+  "FOOD NAME": "Pumpkin, green, cylindrical (Cucurbita maxima)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 0.18,
+  "Stigmasterol (mg)": 0.72,
+  "β-Sitosterol (mg)": 2.34,
+  "Phytate (mg)": 22.51
+ },
+ {
+  "FOOD CODE": "D066",
+  "FOOD NAME": "Pumpkin, orange, round (Cucurbita maxima)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 0.17,
+  "Stigmasterol (mg)": 0.73,
+  "β-Sitosterol (mg)": 2.48,
+  "Phytate (mg)": 19.72
+ },
+ {
+  "FOOD CODE": "D067",
+  "FOOD NAME": "Red gram, tender, fresh (Cajanus cajan)",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.03,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 3.15,
+  "Stigmasterol (mg)": 2.44,
+  "β-Sitosterol (mg)": 32.41,
+  "Phytate (mg)": 6.22,
+  "Total Saponin (g)": 0.46
+ },
+ {
+  "FOOD CODE": "D068",
+  "FOOD NAME": "Ridge gourd (Luffa acutangula)",
+  "Campesterol (mg)": 0.13,
+  "Stigmasterol (mg)": 0.61,
+  "β-Sitosterol (mg)": 3.93,
+  "Phytate (mg)": 14.91
+ },
+ {
+  "FOOD CODE": "D069",
+  "FOOD NAME": "Ridge gourd, smooth skin (Luffa acutangula)",
+  "Campesterol (mg)": 0.13,
+  "Stigmasterol (mg)": 0.65,
+  "β-Sitosterol (mg)": 4.05,
+  "Phytate (mg)": 14.98
+ },
+ {
+  "FOOD CODE": "D070",
+  "FOOD NAME": "Snake gourd, long, pale green (Trichosanthes anguina)",
+  "Campesterol (mg)": 0.26,
+  "Stigmasterol (mg)": 0.87,
+  "β-Sitosterol (mg)": 4.28,
+  "Phytate (mg)": 13.44
+ },
+ {
+  "FOOD CODE": "D071",
+  "FOOD NAME": "Snake gourd, long, dark green (Trichosanthes anguina)",
+  "Campesterol (mg)": 0.25,
+  "Stigmasterol (mg)": 0.85,
+  "β-Sitosterol (mg)": 4.46,
+  "Phytate (mg)": 13.04
+ },
+ {
+  "FOOD CODE": "D072",
+  "FOOD NAME": "Snake gourd, short (Trichosanthes anguina)",
+  "Campesterol (mg)": 0.22,
+  "Stigmasterol (mg)": 0.81,
+  "β-Sitosterol (mg)": 4.2,
+  "Phytate (mg)": 12.82
+ },
+ {
+  "FOOD CODE": "D073",
+  "FOOD NAME": "Tinda, tender (Praecitrullus fistulosus)",
+  "Campesterol (mg)": 1.33,
+  "Stigmasterol (mg)": 0.73,
+  "β-Sitosterol (mg)": 7.02,
+  "Phytate (mg)": 5.75
+ },
+ {
+  "FOOD CODE": "D074",
+  "FOOD NAME": "Tomato, green (Lycopersicon esculentum)",
+  "Campesterol (mg)": 0.34,
+  "Stigmasterol (mg)": 0.86,
+  "β-Sitosterol (mg)": 3.55,
+  "Phytate (mg)": 1.08,
+  "Total Saponin (g)": 0.37
+ },
+ {
+  "FOOD CODE": "D075",
+  "FOOD NAME": "Tomato, ripe, hybrid (Lycopersicon esculentum)",
+  "Campesterol (mg)": 0.33,
+  "Stigmasterol (mg)": 0.85,
+  "β-Sitosterol (mg)": 2.33,
+  "Phytate (mg)": 2.59
+ },
+ {
+  "FOOD CODE": "D076",
+  "FOOD NAME": "Tomato, ripe, local (Lycopersicon esculentum)",
+  "Campesterol (mg)": 0.29,
+  "Stigmasterol (mg)": 0.76,
+  "β-Sitosterol (mg)": 2.24,
+  "Phytate (mg)": 2.39
+ },
+ {
+  "FOOD CODE": "D077",
+  "FOOD NAME": "Zucchini, green (Cucurbita pepo)",
+  "Campesterol (mg)": 1.01,
+  "Stigmasterol (mg)": 0.35,
+  "β-Sitosterol (mg)": 7.65,
+  "Phytate (mg)": 10.57
+ },
+ {
+  "FOOD CODE": "D078",
+  "FOOD NAME": "Zucchini, yellow (Cucurbita pepo)",
+  "Campesterol (mg)": 0.88,
+  "Stigmasterol (mg)": 0.42,
+  "β-Sitosterol (mg)": 8.77,
+  "Phytate (mg)": 11.5
+ },
+ {
+  "FOOD CODE": "E001",
+  "FOOD NAME": "Apple, big (Malus domestica)",
+  "Campesterol (mg)": 0.41,
+  "Stigmasterol (mg)": 0.35,
+  "β-Sitosterol (mg)": 14.94,
+  "Phytate (mg)": 0.57
+ },
+ {
+  "FOOD CODE": "E002",
+  "FOOD NAME": "Apple, green (Malus domestica)",
+  "Campesterol (mg)": 0.22,
+  "Stigmasterol (mg)": 0.54,
+  "β-Sitosterol (mg)": 13.76,
+  "Phytate (mg)": 0.64
+ },
+ {
+  "FOOD CODE": "E003",
+  "FOOD NAME": "Apple, small (Malus domestica)",
+  "Campesterol (mg)": 0.66,
+  "Stigmasterol (mg)": 0.51,
+  "β-Sitosterol (mg)": 14.15,
+  "Phytate (mg)": 0.45
+ },
+ {
+  "FOOD CODE": "E004",
+  "FOOD NAME": "Apple, small, Kashmir (Malus domestica)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 0.61,
+  "β-Sitosterol (mg)": 15.33,
+  "Phytate (mg)": 0.36
+ },
+ {
+  "FOOD CODE": "E005",
+  "FOOD NAME": "Apricot, dried (Prunus armeniaca)",
+  "Raffinose (g)": 0.24,
+  "Campesterol (mg)": 1.17,
+  "Stigmasterol (mg)": 5.18,
+  "β-Sitosterol (mg)": 7.76,
+  "Phytate (mg)": 194
+ },
+ {
+  "FOOD CODE": "E006",
+  "FOOD NAME": "Apricot, processed (Prunus armeniaca)",
+  "Campesterol (mg)": 1.03,
+  "Stigmasterol (mg)": 4.65,
+  "β-Sitosterol (mg)": 7.2,
+  "Phytate (mg)": 112
+ },
+ {
+  "FOOD CODE": "E007",
+  "FOOD NAME": "Avocado fruit (Persea americana)",
+  "Campesterol (mg)": 12.88,
+  "Stigmasterol (mg)": 2.58,
+  "β-Sitosterol (mg)": 156,
+  "Phytate (mg)": 356
+ },
+ {
+  "FOOD CODE": "E008",
+  "FOOD NAME": "Bael fruit (Aegle marmelos)",
+  "Campesterol (mg)": 0.3,
+  "Stigmasterol (mg)": 0.41,
+  "β-Sitosterol (mg)": 3.39,
+  "Phytate (mg)": 28.65
+ },
+ {
+  "FOOD CODE": "E009",
+  "FOOD NAME": "Banana, ripe, montham (Musa x paradisiaca)",
+  "Campesterol (mg)": 1.18,
+  "Stigmasterol (mg)": 1.23,
+  "β-Sitosterol (mg)": 10.15,
+  "Phytate (mg)": 12.49
+ },
+ {
+  "FOOD CODE": "E010",
+  "FOOD NAME": "Banana, ripe, poovam (Musa x paradisiaca)",
+  "Campesterol (mg)": 1.31,
+  "Stigmasterol (mg)": 1.46,
+  "β-Sitosterol (mg)": 12.1,
+  "Phytate (mg)": 11.03
+ },
+ {
+  "FOOD CODE": "E011",
+  "FOOD NAME": "Banana, ripe, red (Musa x paradisiaca)",
+  "Campesterol (mg)": 1.22,
+  "Stigmasterol (mg)": 1.39,
+  "β-Sitosterol (mg)": 12.2,
+  "Phytate (mg)": 10.06
+ },
+ {
+  "FOOD CODE": "E012",
+  "FOOD NAME": "Banana, ripe, robusta (Musa x paradisiaca)",
+  "Campesterol (mg)": 0.85,
+  "Stigmasterol (mg)": 0.84,
+  "β-Sitosterol (mg)": 9.66,
+  "Phytate (mg)": 13.98
+ },
+ {
+  "FOOD CODE": "E013",
+  "FOOD NAME": "Black berry (Rubus fruticosus)",
+  "Campesterol (mg)": 0.8,
+  "Stigmasterol (mg)": 0.12,
+  "β-Sitosterol (mg)": 34.65,
+  "Phytate (mg)": 8.97
+ },
+ {
+  "FOOD CODE": "E014",
+  "FOOD NAME": "Cherries, red (Prunus cerasus)",
+  "Campesterol (mg)": 0.56,
+  "Stigmasterol (mg)": 0.07,
+  "β-Sitosterol (mg)": 17.65,
+  "Phytate (mg)": 39.88,
+  "Total Saponin (g)": 1.6
+ },
+ {
+  "FOOD CODE": "E015",
+  "FOOD NAME": "Currants, black (Ribes nigrum)",
+  "Campesterol (mg)": 3.53,
+  "Stigmasterol (mg)": 1.72,
+  "β-Sitosterol (mg)": 17.88,
+  "Phytate (mg)": 9.6,
+  "Total Saponin (g)": 1.6
+ },
+ {
+  "FOOD CODE": "E016",
+  "FOOD NAME": "Custard apple (Annona squamosa)",
+  "Campesterol (mg)": 0.65,
+  "Stigmasterol (mg)": 2.19,
+  "β-Sitosterol (mg)": 3.81,
+  "Phytate (mg)": 15.22
+ },
+ {
+  "FOOD CODE": "E017",
+  "FOOD NAME": "Dates, dry, pale brown (Phoenix dactylifera)",
+  "Campesterol (mg)": 1.83,
+  "Stigmasterol (mg)": 1.35,
+  "β-Sitosterol (mg)": 29.78,
+  "Phytate (mg)": 134
+ },
+ {
+  "FOOD CODE": "E018",
+  "FOOD NAME": "Dates, dry, dark brown (Phoenix dactylifera)",
+  "Campesterol (mg)": 1.73,
+  "Stigmasterol (mg)": 1.27,
+  "β-Sitosterol (mg)": 27.24,
+  "Phytate (mg)": 126
+ },
+ {
+  "FOOD CODE": "E019",
+  "FOOD NAME": "Dates, processed (Phoenix dactylifera)",
+  "Campesterol (mg)": 1.73,
+  "Stigmasterol (mg)": 1.22,
+  "β-Sitosterol (mg)": 26.3,
+  "Phytate (mg)": 106
+ },
+ {
+  "FOOD CODE": "E020",
+  "FOOD NAME": "Fig (Ficus carica)",
+  "Campesterol (mg)": 0.58,
+  "Stigmasterol (mg)": 1.67,
+  "β-Sitosterol (mg)": 32.31,
+  "Phytate (mg)": 48.59,
+  "Total Saponin (g)": 1
+ },
+ {
+  "FOOD CODE": "E021",
+  "FOOD NAME": "Goosberry (Emblica officinalis)",
+  "Campesterol (mg)": 0.23,
+  "Stigmasterol (mg)": 0.23,
+  "β-Sitosterol (mg)": 11.5,
+  "Phytate (mg)": 49.34,
+  "Total Saponin (g)": 0.4
+ },
+ {
+  "FOOD CODE": "E022",
+  "FOOD NAME": "Grapes, seeded, round, black (Vitis vinifera)",
+  "Campesterol (mg)": 0.55,
+  "Stigmasterol (mg)": 0.26,
+  "β-Sitosterol (mg)": 12.34,
+  "Phytate (mg)": 1.52
+ },
+ {
+  "FOOD CODE": "E023",
+  "FOOD NAME": "Grapes, seeded, round, green (Vitis vinifera)",
+  "Campesterol (mg)": 0.47,
+  "Stigmasterol (mg)": 0.24,
+  "β-Sitosterol (mg)": 10.29,
+  "Phytate (mg)": 1.27
+ },
+ {
+  "FOOD CODE": "E024",
+  "FOOD NAME": "Grapes, seeded, round, red (Vitis vinifera)",
+  "Campesterol (mg)": 0.46,
+  "Stigmasterol (mg)": 0.28,
+  "β-Sitosterol (mg)": 10.66,
+  "Phytate (mg)": 1.6
+ },
+ {
+  "FOOD CODE": "E025",
+  "FOOD NAME": "Grapes, seedless, oval, black (Vitis vinifera)",
+  "Campesterol (mg)": 0.54,
+  "Stigmasterol (mg)": 0.29,
+  "β-Sitosterol (mg)": 13.06,
+  "Phytate (mg)": 1
+ },
+ {
+  "FOOD CODE": "E026",
+  "FOOD NAME": "Grapes, seedless, round, green (Vitis vinifera)",
+  "Campesterol (mg)": 0.42,
+  "Stigmasterol (mg)": 0.27,
+  "β-Sitosterol (mg)": 14.3,
+  "Phytate (mg)": 0.85
+ },
+ {
+  "FOOD CODE": "E027",
+  "FOOD NAME": "Grapes, seedless, round, black (Vitis vinifera)",
+  "Campesterol (mg)": 0.53,
+  "Stigmasterol (mg)": 0.28,
+  "β-Sitosterol (mg)": 13.56,
+  "Phytate (mg)": 0.69
+ },
+ {
+  "FOOD CODE": "E028",
+  "FOOD NAME": "Guava, white flesh (Psidium guajava)",
+  "Campesterol (mg)": 0.57,
+  "Stigmasterol (mg)": 0.11,
+  "β-Sitosterol (mg)": 43.09,
+  "Phytate (mg)": 55.36
+ },
+ {
+  "FOOD CODE": "E029",
+  "FOOD NAME": "Guava, pink flesh (Psidium guajava)",
+  "Campesterol (mg)": 0.59,
+  "Stigmasterol (mg)": 0.22,
+  "β-Sitosterol (mg)": 40.4,
+  "Phytate (mg)": 45.89,
+  "Total Saponin (g)": 1.05
+ },
+ {
+  "FOOD CODE": "E030",
+  "FOOD NAME": "Jack fruit, ripe (Artocarpus heterophyllus)",
+  "Campesterol (mg)": 1.04,
+  "Stigmasterol (mg)": 19.21,
+  "β-Sitosterol (mg)": 34.84,
+  "Phytate (mg)": 52.94
+ },
+ {
+  "FOOD CODE": "E031",
+  "FOOD NAME": "Jambu fruit, ripe (Syzygium cumini)",
+  "Campesterol (mg)": 0.76,
+  "Stigmasterol (mg)": 0.14,
+  "β-Sitosterol (mg)": 25.45,
+  "Phytate (mg)": 8.65,
+  "Total Saponin (g)": 1.55
+ },
+ {
+  "FOOD CODE": "E032",
+  "FOOD NAME": "Karonda fruit (Carissa carandas)",
+  "Campesterol (mg)": 0.72,
+  "Stigmasterol (mg)": 0.48,
+  "β-Sitosterol (mg)": 4.92,
+  "Phytate (mg)": 7.8
+ },
+ {
+  "FOOD CODE": "E033",
+  "FOOD NAME": "Lemon, juice (Citrus limon)"
+ },
+ {
+  "FOOD CODE": "E034",
+  "FOOD NAME": "Lime, sweet,pulp (Citrus limetta)"
+ },
+ {
+  "FOOD CODE": "E035",
+  "FOOD NAME": "Litchi (Nephelium litchi)",
+  "Campesterol (mg)": 5.3,
+  "Stigmasterol (mg)": 1.43,
+  "β-Sitosterol (mg)": 10.67,
+  "Phytate (mg)": 2.57,
+  "Total Saponin (g)": 1.04
+ },
+ {
+  "FOOD CODE": "E036",
+  "FOOD NAME": "Mango, ripe, banganapalli (Mangifera indica)",
+  "Campesterol (mg)": 0.87,
+  "Stigmasterol (mg)": 0.47,
+  "β-Sitosterol (mg)": 11.41,
+  "Phytate (mg)": 85.83
+ },
+ {
+  "FOOD CODE": "E037",
+  "FOOD NAME": "Mango, ripe, gulabkhas (Mangifera indica)",
+  "Campesterol (mg)": 0.84,
+  "Stigmasterol (mg)": 0.41,
+  "β-Sitosterol (mg)": 12.34,
+  "Phytate (mg)": 80.24
+ },
+ {
+  "FOOD CODE": "E038",
+  "FOOD NAME": "Mango, ripe, himsagar (Mangifera indica)",
+  "Campesterol (mg)": 0.88,
+  "Stigmasterol (mg)": 0.44,
+  "β-Sitosterol (mg)": 11.39,
+  "Phytate (mg)": 79.46
+ },
+ {
+  "FOOD CODE": "E039",
+  "FOOD NAME": "Mango, ripe, kesar (Mangifera indica)",
+  "Campesterol (mg)": 0.87,
+  "Stigmasterol (mg)": 0.43,
+  "β-Sitosterol (mg)": 11.07,
+  "Phytate (mg)": 90.02
+ },
+ {
+  "FOOD CODE": "E040",
+  "FOOD NAME": "Mango, ripe, neelam (Mangifera indica)",
+  "Campesterol (mg)": 0.91,
+  "Stigmasterol (mg)": 0.43,
+  "β-Sitosterol (mg)": 10.15,
+  "Phytate (mg)": 79.49
+ },
+ {
+  "FOOD CODE": "E041",
+  "FOOD NAME": "Mango, ripe, paheri (Mangifera indica)",
+  "Campesterol (mg)": 0.9,
+  "Stigmasterol (mg)": 0.47,
+  "β-Sitosterol (mg)": 11.66,
+  "Phytate (mg)": 81.12
+ },
+ {
+  "FOOD CODE": "E042",
+  "FOOD NAME": "Mango, ripe, totapari (Mangifera indica)",
+  "Campesterol (mg)": 0.94,
+  "Stigmasterol (mg)": 0.49,
+  "β-Sitosterol (mg)": 10.22,
+  "Phytate (mg)": 75.13
+ },
+ {
+  "FOOD CODE": "E043",
+  "FOOD NAME": "Mangosteen (Garcinia mangostana)",
+  "Campesterol (mg)": 0.67,
+  "Stigmasterol (mg)": 0.37,
+  "β-Sitosterol (mg)": 4.32,
+  "Phytate (mg)": 16.75
+ },
+ {
+  "FOOD CODE": "E044",
+  "FOOD NAME": "Manila tamarind (Pithecellobium dulce)",
+  "Campesterol (mg)": 0.29,
+  "Stigmasterol (mg)": 0.97,
+  "β-Sitosterol (mg)": 16.43,
+  "Phytate (mg)": 22.55
+ },
+ {
+  "FOOD CODE": "E045",
+  "FOOD NAME": "Musk melon, orange flesh (Cucumis melon)",
+  "Campesterol (mg)": 0.15,
+  "Stigmasterol (mg)": 0.38,
+  "β-Sitosterol (mg)": 2.74,
+  "Phytate (mg)": 12.18
+ },
+ {
+  "FOOD CODE": "E046",
+  "FOOD NAME": "Musk melon, yellow flesh (Cucumis melon)",
+  "Campesterol (mg)": 0.16,
+  "Stigmasterol (mg)": 0.4,
+  "β-Sitosterol (mg)": 2.89,
+  "Phytate (mg)": 11.11
+ },
+ {
+  "FOOD CODE": "E047",
+  "FOOD NAME": "Orange, pulp (Citrus aurantium)"
+ },
+ {
+  "FOOD CODE": "E048",
+  "FOOD NAME": "Palm fruit, tender (Borassus flabellifer)",
+  "Phytate (mg)": 2.8
+ },
+ {
+  "FOOD CODE": "E049",
+  "FOOD NAME": "Papaya, ripe (Carcia papaya)",
+  "Campesterol (mg)": 1.8,
+  "Stigmasterol (mg)": 1.12,
+  "β-Sitosterol (mg)": 4.82,
+  "Phytate (mg)": 25.44,
+  "Total Saponin (g)": 0.49
+ },
+ {
+  "FOOD CODE": "E050",
+  "FOOD NAME": "Peach (Prunus communis)",
+  "Campesterol (mg)": 0.5,
+  "Stigmasterol (mg)": 0.71,
+  "β-Sitosterol (mg)": 14.42,
+  "Phytate (mg)": 4.55
+ },
+ {
+  "FOOD CODE": "E051",
+  "FOOD NAME": "Pear (Pyrus sp.)",
+  "Campesterol (mg)": 0.64,
+  "Stigmasterol (mg)": 0.23,
+  "β-Sitosterol (mg)": 13.33,
+  "Phytate (mg)": 4.83,
+  "Total Saponin (g)": 0.99
+ },
+ {
+  "FOOD CODE": "E052",
+  "FOOD NAME": "Phalsa (Grewia asiatica)",
+  "Campesterol (mg)": 2.28,
+  "Stigmasterol (mg)": 1.48,
+  "β-Sitosterol (mg)": 24.97,
+  "Phytate (mg)": 43.03,
+  "Total Saponin (g)": 0.63
+ },
+ {
+  "FOOD CODE": "E053",
+  "FOOD NAME": "Pineapple (Ananas comosus)",
+  "Campesterol (mg)": 1.38,
+  "Stigmasterol (mg)": 0.22,
+  "β-Sitosterol (mg)": 9.25,
+  "Phytate (mg)": 8.59,
+  "Total Saponin (g)": 1.13
+ },
+ {
+  "FOOD CODE": "E054",
+  "FOOD NAME": "Plum (Prunus domestica)",
+  "Campesterol (mg)": 0.86,
+  "Stigmasterol (mg)": 0.45,
+  "β-Sitosterol (mg)": 13.63,
+  "Phytate (mg)": 3.81
+ },
+ {
+  "FOOD CODE": "E055",
+  "FOOD NAME": "Pomegranate, maroon seeds (Punica granatum)",
+  "Campesterol (mg)": 0.83,
+  "Stigmasterol (mg)": 0.34,
+  "β-Sitosterol (mg)": 20.79,
+  "Phytate (mg)": 45.71,
+  "Total Saponin (g)": 0.44
+ },
+ {
+  "FOOD CODE": "E056",
+  "FOOD NAME": "Pummelo (Citrus maxima)",
+  "Campesterol (mg)": 34.39,
+  "Stigmasterol (mg)": 0.92,
+  "β-Sitosterol (mg)": 23.7,
+  "Phytate (mg)": 20.36,
+  "Total Saponin (g)": 88.76
+ },
+ {
+  "FOOD CODE": "E057",
+  "FOOD NAME": "Raisins, dried, black (Vitis vinifera)",
+  "Campesterol (mg)": 1.89,
+  "Stigmasterol (mg)": 1.05,
+  "β-Sitosterol (mg)": 41.1,
+  "Phytate (mg)": 20.34,
+  "Total Saponin (g)": 2.6
+ },
+ {
+  "FOOD CODE": "E058",
+  "FOOD NAME": "Raisins, dried, golden (Vitis vinifera)",
+  "Campesterol (mg)": 1.76,
+  "Stigmasterol (mg)": 0.93,
+  "β-Sitosterol (mg)": 38.46,
+  "Phytate (mg)": 20.12,
+  "Total Saponin (g)": 2.74
+ },
+ {
+  "FOOD CODE": "E059",
+  "FOOD NAME": "Rambutan (Nephelium lappaceum)",
+  "Phytate (mg)": 5.65
+ },
+ {
+  "FOOD CODE": "E060",
+  "FOOD NAME": "Sapota (Achras sapota)",
+  "Campesterol (mg)": 1.48,
+  "Stigmasterol (mg)": 1.48,
+  "β-Sitosterol (mg)": 72.8,
+  "Phytate (mg)": 8.32
+ },
+ {
+  "FOOD CODE": "E061",
+  "FOOD NAME": "Soursop ( Annona muricata )",
+  "Campesterol (mg)": 4.71,
+  "Stigmasterol (mg)": 1.12,
+  "β-Sitosterol (mg)": 10.88,
+  "Phytate (mg)": 2.75
+ },
+ {
+  "FOOD CODE": "E062",
+  "FOOD NAME": "Star fruit (Averrhoa carambola)",
+  "Campesterol (mg)": 0.96,
+  "Stigmasterol (mg)": 0.41,
+  "β-Sitosterol (mg)": 41.65,
+  "Phytate (mg)": 3.8
+ },
+ {
+  "FOOD CODE": "E063",
+  "FOOD NAME": "Strawberry (Fragaria ananassa)",
+  "Campesterol (mg)": 1.71,
+  "Stigmasterol (mg)": 0.33,
+  "β-Sitosterol (mg)": 9,
+  "Phytate (mg)": 25.07
+ },
+ {
+  "FOOD CODE": "E064",
+  "FOOD NAME": "Tamarind, pulp (Tamarindus indicus)",
+  "Campesterol (mg)": 4.3,
+  "Stigmasterol (mg)": 0.54,
+  "β-Sitosterol (mg)": 43.29,
+  "Phytate (mg)": 3.07
+ },
+ {
+  "FOOD CODE": "E065",
+  "FOOD NAME": "Water melon, dark green (sugar baby) (Citrullus vulgaris)",
+  "Phytate (mg)": 0.61
+ },
+ {
+  "FOOD CODE": "E066",
+  "FOOD NAME": "Water melon, pale green (Citrullus vulgaris)",
+  "Phytate (mg)": 0.47
+ },
+ {
+  "FOOD CODE": "E067",
+  "FOOD NAME": "Wood Apple (Limonia acidissima)",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 3.86,
+  "Stigmasterol (mg)": 4.63,
+  "β-Sitosterol (mg)": 20.55,
+  "Phytate (mg)": 101,
+  "Total Saponin (g)": 0.28
+ },
+ {
+  "FOOD CODE": "E068",
+  "FOOD NAME": "Zizyphus (Zizyphus jujube)",
+  "Campesterol (mg)": 0.63,
+  "Stigmasterol (mg)": 0.39,
+  "β-Sitosterol (mg)": 10.09,
+  "Phytate (mg)": 85.6
+ },
+ {
+  "FOOD CODE": "F001",
+  "FOOD NAME": "Beet root (Beta vulgaris)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 0.44,
+  "Stigmasterol (mg)": 3.34,
+  "β-Sitosterol (mg)": 12.15,
+  "Phytate (mg)": 10.82
+ },
+ {
+  "FOOD CODE": "F002",
+  "FOOD NAME": "Carrot, orange (Dacus carota)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 1.63,
+  "Stigmasterol (mg)": 2.47,
+  "β-Sitosterol (mg)": 17.22,
+  "Phytate (mg)": 19.6
+ },
+ {
+  "FOOD CODE": "F003",
+  "FOOD NAME": "Carrot, red (Dacus carota)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 1.8,
+  "Stigmasterol (mg)": 2.37,
+  "β-Sitosterol (mg)": 17.9,
+  "Phytate (mg)": 17.03
+ },
+ {
+  "FOOD CODE": "F004",
+  "FOOD NAME": "Colocasia (Colocasia antiquorum)",
+  "Campesterol (mg)": 3.55,
+  "Stigmasterol (mg)": 2.3,
+  "β-Sitosterol (mg)": 28.45,
+  "Phytate (mg)": 13.57
+ },
+ {
+  "FOOD CODE": "F005",
+  "FOOD NAME": "Lotus root (Nelumbium nelumbo)",
+  "Campesterol (mg)": 1.17,
+  "Stigmasterol (mg)": 1.06,
+  "β-Sitosterol (mg)": 14.75,
+  "Phytate (mg)": 7.84,
+  "Total Saponin (g)": 0.55
+ },
+ {
+  "FOOD CODE": "F006",
+  "FOOD NAME": "Potato, brown skin, big (Solanum tuberosum)",
+  "Campesterol (mg)": 0.02,
+  "Stigmasterol (mg)": 0.16,
+  "β-Sitosterol (mg)": 2.1,
+  "Phytate (mg)": 55.77
+ },
+ {
+  "FOOD CODE": "F007",
+  "FOOD NAME": "Potato, brown skin, small (Solanum tuberosum)",
+  "Campesterol (mg)": 0.03,
+  "Stigmasterol (mg)": 0.16,
+  "β-Sitosterol (mg)": 2.19,
+  "Phytate (mg)": 62.58
+ },
+ {
+  "FOOD CODE": "F008",
+  "FOOD NAME": "Potato, red skin (Solanum tuberosum)",
+  "Campesterol (mg)": 0.03,
+  "Stigmasterol (mg)": 0.15,
+  "β-Sitosterol (mg)": 2.07,
+  "Phytate (mg)": 59.74
+ },
+ {
+  "FOOD CODE": "F009",
+  "FOOD NAME": "Radish, elongate, red skin (Raphanus sativus)",
+  "Campesterol (mg)": 1.57,
+  "Stigmasterol (mg)": 0.34,
+  "β-Sitosterol (mg)": 9.55,
+  "Phytate (mg)": 6.9
+ },
+ {
+  "FOOD CODE": "F010",
+  "FOOD NAME": "Radish, elongate, white skin (Raphanus sativus)",
+  "Campesterol (mg)": 1.61,
+  "Stigmasterol (mg)": 0.36,
+  "β-Sitosterol (mg)": 9.71,
+  "Phytate (mg)": 1.75
+ },
+ {
+  "FOOD CODE": "F011",
+  "FOOD NAME": "Radish, round, red skin (Raphanus sativus)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 1.54,
+  "Stigmasterol (mg)": 0.32,
+  "β-Sitosterol (mg)": 9.88,
+  "Phytate (mg)": 7.07
+ },
+ {
+  "FOOD CODE": "F012",
+  "FOOD NAME": "Radish, round, white skin (Raphanus sativus)",
+  "Campesterol (mg)": 1.62,
+  "Stigmasterol (mg)": 0.33,
+  "β-Sitosterol (mg)": 9.4,
+  "Phytate (mg)": 1.07
+ },
+ {
+  "FOOD CODE": "F013",
+  "FOOD NAME": "Sweet potato, brown skin (Ipomoes batatas)",
+  "Campesterol (mg)": 2.18,
+  "Stigmasterol (mg)": 0.52,
+  "β-Sitosterol (mg)": 13.75,
+  "Phytate (mg)": 54.02,
+  "Total Saponin (g)": 1.19
+ },
+ {
+  "FOOD CODE": "F014",
+  "FOOD NAME": "Sweet potato, pink skin (Ipomoes batatas)",
+  "Campesterol (mg)": 2.31,
+  "Stigmasterol (mg)": 0.57,
+  "β-Sitosterol (mg)": 13.68,
+  "Phytate (mg)": 63.69,
+  "Total Saponin (g)": 1.56
+ },
+ {
+  "FOOD CODE": "F015",
+  "FOOD NAME": "Tapioca (Manihot esculenta)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 2.13,
+  "Stigmasterol (mg)": 0.82,
+  "β-Sitosterol (mg)": 15.72,
+  "Phytate (mg)": 64.42
+ },
+ {
+  "FOOD CODE": "F016",
+  "FOOD NAME": "Water Chestnut (Eleocharis dulcis)",
+  "Campesterol (mg)": 0.16,
+  "Stigmasterol (mg)": 0.43,
+  "β-Sitosterol (mg)": 4.55,
+  "Phytate (mg)": 25.86
+ },
+ {
+  "FOOD CODE": "F017",
+  "FOOD NAME": "Yam, elephant (Amorphophallus campanulatus)",
+  "Campesterol (mg)": 2.66,
+  "Stigmasterol (mg)": 3.36,
+  "β-Sitosterol (mg)": 13.46,
+  "Phytate (mg)": 16.23
+ },
+ {
+  "FOOD CODE": "F018",
+  "FOOD NAME": "Yam, ordinary (Amorphophallus campanulatus)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 2.51,
+  "Stigmasterol (mg)": 1.56,
+  "β-Sitosterol (mg)": 19,
+  "Phytate (mg)": 20.99
+ },
+ {
+  "FOOD CODE": "F019",
+  "FOOD NAME": "Yam, wild (Dioscorea versicolor)",
+  "Campesterol (mg)": 2.3,
+  "Stigmasterol (mg)": 3.03,
+  "β-Sitosterol (mg)": 13.58,
+  "Phytate (mg)": 24.71,
+  "Total Saponin (g)": 0.46
+ },
+ {
+  "FOOD CODE": "G001",
+  "FOOD NAME": "Chillies, green-1 (Capsicum annum)",
+  "Campesterol (mg)": 3.59,
+  "Stigmasterol (mg)": 0.85,
+  "β-Sitosterol (mg)": 15.09,
+  "Phytate (mg)": 13.54
+ },
+ {
+  "FOOD CODE": "G002",
+  "FOOD NAME": "Chillies, green-2 (Capsicum annum)",
+  "Campesterol (mg)": 3.65,
+  "Stigmasterol (mg)": 0.87,
+  "β-Sitosterol (mg)": 15.07,
+  "Phytate (mg)": 13.96
+ },
+ {
+  "FOOD CODE": "G003",
+  "FOOD NAME": "Chillies, green-3 (Capsicum annum)",
+  "Campesterol (mg)": 3.73,
+  "Stigmasterol (mg)": 0.86,
+  "β-Sitosterol (mg)": 15.07,
+  "Phytate (mg)": 14.56
+ },
+ {
+  "FOOD CODE": "G004",
+  "FOOD NAME": "Chillies, green-4 (Capsicum annum)",
+  "Campesterol (mg)": 3.52,
+  "Stigmasterol (mg)": 0.86,
+  "β-Sitosterol (mg)": 14.85,
+  "Phytate (mg)": 12.31
+ },
+ {
+  "FOOD CODE": "G005",
+  "FOOD NAME": "Chillies, green-5 (Capsicum annum)",
+  "Campesterol (mg)": 3.6,
+  "Stigmasterol (mg)": 0.86,
+  "β-Sitosterol (mg)": 15.09,
+  "Phytate (mg)": 12.45
+ },
+ {
+  "FOOD CODE": "G006",
+  "FOOD NAME": "Chillies, green-6 (Capsicum annum)",
+  "Campesterol (mg)": 3.54,
+  "Stigmasterol (mg)": 0.83,
+  "β-Sitosterol (mg)": 15.3,
+  "Phytate (mg)": 10.39
+ },
+ {
+  "FOOD CODE": "G007",
+  "FOOD NAME": "Chillies, green-7 (Capsicum annum)",
+  "Campesterol (mg)": 3.81,
+  "Stigmasterol (mg)": 0.84,
+  "β-Sitosterol (mg)": 15.15,
+  "Phytate (mg)": 13.29
+ },
+ {
+  "FOOD CODE": "G008",
+  "FOOD NAME": "Chillies, green - all varieties (Capsicum annum)",
+  "Campesterol (mg)": 3.64,
+  "Stigmasterol (mg)": 0.86,
+  "β-Sitosterol (mg)": 15.06,
+  "Phytate (mg)": 13.38
+ },
+ {
+  "FOOD CODE": "G009",
+  "FOOD NAME": "Coriander leaves (Coriandrum sativum)",
+  "Raffinose (g)": 0.01,
+  "Campesterol (mg)": 0.73,
+  "Stigmasterol (mg)": 9.35,
+  "β-Sitosterol (mg)": 18.49,
+  "Phytate (mg)": 38.68
+ },
+ {
+  "FOOD CODE": "G010",
+  "FOOD NAME": "Curry leaves (Murraya koenigii)",
+  "Campesterol (mg)": 10.47,
+  "Stigmasterol (mg)": 0.74,
+  "β-Sitosterol (mg)": 73.92,
+  "Phytate (mg)": 40.99,
+  "Total Saponin (g)": 0.23
+ },
+ {
+  "FOOD CODE": "G011",
+  "FOOD NAME": "Garlic, big clove (Allium sativum)",
+  "Raffinose (g)": 0.13,
+  "Stachyose (g)": 0.13,
+  "Verbascose (g)": 0.06,
+  "Campesterol (mg)": 1.27,
+  "Stigmasterol (mg)": 0.32,
+  "β-Sitosterol (mg)": 12.36,
+  "Phytate (mg)": 36.55
+ },
+ {
+  "FOOD CODE": "G012",
+  "FOOD NAME": "Garlic, small clove (Allium sativum)",
+  "Raffinose (g)": 0.19,
+  "Stachyose (g)": 0.14,
+  "Verbascose (g)": 0.06,
+  "Campesterol (mg)": 1.33,
+  "Stigmasterol (mg)": 0.31,
+  "β-Sitosterol (mg)": 12.88,
+  "Phytate (mg)": 35.43
+ },
+ {
+  "FOOD CODE": "G013",
+  "FOOD NAME": "Garlic, single clove, Kashmir (Allium sativum)",
+  "Raffinose (g)": 0.22,
+  "Stachyose (g)": 0.12,
+  "Verbascose (g)": 0.06,
+  "Campesterol (mg)": 1.21,
+  "Stigmasterol (mg)": 0.37,
+  "β-Sitosterol (mg)": 13.66,
+  "Phytate (mg)": 31.95
+ },
+ {
+  "FOOD CODE": "G014",
+  "FOOD NAME": "Ginger, fresh (Zinziber officinale)",
+  "Campesterol (mg)": 1.34,
+  "Stigmasterol (mg)": 1.16,
+  "β-Sitosterol (mg)": 13.29,
+  "Phytate (mg)": 14.5
+ },
+ {
+  "FOOD CODE": "G015",
+  "FOOD NAME": "Mango ginger (Curcuma amada)",
+  "Campesterol (mg)": 0.78,
+  "Stigmasterol (mg)": 0.56,
+  "β-Sitosterol (mg)": 11.17,
+  "Phytate (mg)": 15.52,
+  "Total Saponin (g)": 0.38
+ },
+ {
+  "FOOD CODE": "G016",
+  "FOOD NAME": "Mint leaves (Mentha spicata )",
+  "Raffinose (g)": 0.01,
+  "Stachyose (g)": 0.02,
+  "Campesterol (mg)": 1.74,
+  "Stigmasterol (mg)": 2.45,
+  "β-Sitosterol (mg)": 36.7,
+  "Phytate (mg)": 48.05,
+  "Total Saponin (g)": 0.35
+ },
+ {
+  "FOOD CODE": "G017",
+  "FOOD NAME": "Onion, big (Allium cepa)",
+  "Raffinose (g)": 1.64,
+  "Stachyose (g)": 1.31,
+  "Verbascose (g)": 0.85,
+  "Campesterol (mg)": 0.47,
+  "Stigmasterol (mg)": 0.31,
+  "β-Sitosterol (mg)": 7.35,
+  "Phytate (mg)": 13.9
+ },
+ {
+  "FOOD CODE": "G018",
+  "FOOD NAME": "Onion, small (Allium cepa)",
+  "Raffinose (g)": 0.08,
+  "Campesterol (mg)": 0.77,
+  "Stigmasterol (mg)": 0.47,
+  "β-Sitosterol (mg)": 7.9,
+  "Phytate (mg)": 8.28,
+  "Total Saponin (g)": 1.11
+ },
+ {
+  "FOOD CODE": "G019",
+  "FOOD NAME": "Asafoetida (Ferula assa-foetida)",
+  "Campesterol (mg)": 4.21,
+  "Stigmasterol (mg)": 2.02,
+  "β-Sitosterol (mg)": 29.13,
+  "Phytate (mg)": 806,
+  "Total Saponin (g)": 1.78
+ },
+ {
+  "FOOD CODE": "G020",
+  "FOOD NAME": "Cardamom, green (Elettaria cardamomum)",
+  "Campesterol (mg)": 3.29,
+  "Stigmasterol (mg)": 2.37,
+  "β-Sitosterol (mg)": 46.54,
+  "Phytate (mg)": 721,
+  "Total Saponin (g)": 1.68
+ },
+ {
+  "FOOD CODE": "G021",
+  "FOOD NAME": "Cardamom, black (Elettaria cardamomum)",
+  "Campesterol (mg)": 3.36,
+  "Stigmasterol (mg)": 2.59,
+  "β-Sitosterol (mg)": 50.8,
+  "Phytate (mg)": 670,
+  "Total Saponin (g)": 1.4
+ },
+ {
+  "FOOD CODE": "G022",
+  "FOOD NAME": "Chillies, red (Capsicum annum)",
+  "Campesterol (mg)": 16.06,
+  "Stigmasterol (mg)": 4.93,
+  "β-Sitosterol (mg)": 81.78,
+  "Phytate (mg)": 264
+ },
+ {
+  "FOOD CODE": "G023",
+  "FOOD NAME": "Cloves (Syzygium aromaticum)",
+  "Campesterol (mg)": 1.28,
+  "Stigmasterol (mg)": 5.02,
+  "β-Sitosterol (mg)": 211,
+  "Phytate (mg)": 349,
+  "Total Saponin (g)": 0.55
+ },
+ {
+  "FOOD CODE": "G024",
+  "FOOD NAME": "Coriander seeds (Coriandrum sativum)",
+  "Raffinose (g)": 0.37,
+  "Campesterol (mg)": 9.6,
+  "Stigmasterol (mg)": 17.6,
+  "β-Sitosterol (mg)": 75.77,
+  "Phytate (mg)": 1008
+ },
+ {
+  "FOOD CODE": "G025",
+  "FOOD NAME": "Cumin seeds (Cuminum cyminum)",
+  "Raffinose (g)": 0.44,
+  "Campesterol (mg)": 9.36,
+  "Stigmasterol (mg)": 33.96,
+  "β-Sitosterol (mg)": 106,
+  "Phytate (mg)": 445
+ },
+ {
+  "FOOD CODE": "G026",
+  "FOOD NAME": "Fenugreek seeds (Trigonella foenum graecum)",
+  "Raffinose (g)": 0.6,
+  "Stachyose (g)": 1.43,
+  "Verbascose (g)": 0.26,
+  "Campesterol (mg)": 12.35,
+  "Stigmasterol (mg)": 6.69,
+  "β-Sitosterol (mg)": 126,
+  "Phytate (mg)": 570,
+  "Total Saponin (g)": 6.33
+ },
+ {
+  "FOOD CODE": "G027",
+  "FOOD NAME": "Mace (Myristica fragrans)",
+  "Campesterol (mg)": 3.56,
+  "Stigmasterol (mg)": 5.95,
+  "β-Sitosterol (mg)": 44.96,
+  "Phytate (mg)": 691,
+  "Total Saponin (g)": 1.48
+ },
+ {
+  "FOOD CODE": "G028",
+  "FOOD NAME": "Nutmeg (Myristica fragrans)",
+  "Campesterol (mg)": 6.1,
+  "Stigmasterol (mg)": 8.91,
+  "β-Sitosterol (mg)": 94.48,
+  "Phytate (mg)": 704,
+  "Total Saponin (g)": 2.26
+ },
+ {
+  "FOOD CODE": "G029",
+  "FOOD NAME": "Omum (Trachyspermum ammi)",
+  "Campesterol (mg)": 5.89,
+  "Stigmasterol (mg)": 20.98,
+  "β-Sitosterol (mg)": 75.29,
+  "Phytate (mg)": 895,
+  "Total Saponin (g)": 4.5
+ },
+ {
+  "FOOD CODE": "G030",
+  "FOOD NAME": "Pippali (Piper longum)",
+  "Raffinose (g)": 0.02,
+  "Campesterol (mg)": 8.28,
+  "Stigmasterol (mg)": 17.94,
+  "β-Sitosterol (mg)": 29.18,
+  "Phytate (mg)": 503,
+  "Total Saponin (g)": 0.04
+ },
+ {
+  "FOOD CODE": "G031",
+  "FOOD NAME": "Pepper, black (Piper nigrum)",
+  "Campesterol (mg)": 4.9,
+  "Stigmasterol (mg)": 10.16,
+  "β-Sitosterol (mg)": 64.74,
+  "Phytate (mg)": 383,
+  "Total Saponin (g)": 0.87
+ },
+ {
+  "FOOD CODE": "G032",
+  "FOOD NAME": "Poppy seeds (Papaver somniferum)",
+  "Raffinose (g)": 0.46,
+  "Campesterol (mg)": 20.96,
+  "Stigmasterol (mg)": 5.52,
+  "β-Sitosterol (mg)": 146,
+  "Phytate (mg)": 1109,
+  "Total Saponin (g)": 5.53
+ },
+ {
+  "FOOD CODE": "G033",
+  "FOOD NAME": "Turmeric powder (Curcuma domestica)",
+  "Campesterol (mg)": 5.19,
+  "Stigmasterol (mg)": 7.19,
+  "β-Sitosterol (mg)": 64.15,
+  "Phytate (mg)": 358
+ },
+ {
+  "FOOD CODE": "H001",
+  "FOOD NAME": "Almond (Prunus amygdalus)",
+  "Raffinose (g)": 0.1,
+  "Stachyose (g)": 0.02,
+  "Campesterol (mg)": 3.73,
+  "Stigmasterol (mg)": 2.81,
+  "β-Sitosterol (mg)": 184,
+  "Phytate (mg)": 964,
+  "Total Saponin (g)": 9.05
+ },
+ {
+  "FOOD CODE": "H002",
+  "FOOD NAME": "Arecanut, dried, brown (Areca catechu)",
+  "Campesterol (mg)": 5.28,
+  "Stigmasterol (mg)": 3.36,
+  "β-Sitosterol (mg)": 44.73,
+  "Phytate (mg)": 474
+ },
+ {
+  "FOOD CODE": "H003",
+  "FOOD NAME": "Arecanut, dried, red color (Areca catechu)",
+  "Campesterol (mg)": 5.37,
+  "Stigmasterol (mg)": 3.46,
+  "β-Sitosterol (mg)": 48.93,
+  "Phytate (mg)": 403
+ },
+ {
+  "FOOD CODE": "H004",
+  "FOOD NAME": "Arecanut, fresh (Areca catechu)",
+  "Campesterol (mg)": 5.17,
+  "Stigmasterol (mg)": 3.39,
+  "β-Sitosterol (mg)": 45.24,
+  "Phytate (mg)": 414
+ },
+ {
+  "FOOD CODE": "H005",
+  "FOOD NAME": "Cashew nut (Anacardium occidentale)",
+  "Raffinose (g)": 2.62,
+  "Stachyose (g)": 0.21,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 3.64,
+  "Stigmasterol (mg)": 0.89,
+  "β-Sitosterol (mg)": 110,
+  "Phytate (mg)": 929,
+  "Total Saponin (g)": 9.84
+ },
+ {
+  "FOOD CODE": "H006",
+  "FOOD NAME": "Coconut, kernal, dry (Cocos nucifera)",
+  "Campesterol (mg)": 1.75,
+  "Stigmasterol (mg)": 4.39,
+  "β-Sitosterol (mg)": 21.97,
+  "Phytate (mg)": 390
+ },
+ {
+  "FOOD CODE": "H007",
+  "FOOD NAME": "Coconut, kernel, fresh (Cocos nucifera)",
+  "Campesterol (mg)": 1.17,
+  "Stigmasterol (mg)": 2.45,
+  "β-Sitosterol (mg)": 14.59,
+  "Phytate (mg)": 136
+ },
+ {
+  "FOOD CODE": "H008",
+  "FOOD NAME": "Garden cress, seeds (Lepidium sativum)",
+  "Raffinose (g)": 3.56,
+  "Stachyose (g)": 0.91,
+  "Campesterol (mg)": 63.85,
+  "Stigmasterol (mg)": 7.98,
+  "β-Sitosterol (mg)": 261,
+  "Phytate (mg)": 1037,
+  "Total Saponin (g)": 3.42
+ },
+ {
+  "FOOD CODE": "H009",
+  "FOOD NAME": "Gingelly seeds, black (Sesamum indicum)",
+  "Raffinose (g)": 1,
+  "Stachyose (g)": 0.01,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 30.8,
+  "Stigmasterol (mg)": 14.08,
+  "β-Sitosterol (mg)": 206,
+  "Phytate (mg)": 845,
+  "Total Saponin (g)": 3.25
+ },
+ {
+  "FOOD CODE": "H010",
+  "FOOD NAME": "Gingelly seeds, brown (Sesamum indicum)",
+  "Raffinose (g)": 0.86,
+  "Stachyose (g)": 0.01,
+  "Verbascose (g)": 0.01,
+  "Campesterol (mg)": 32.34,
+  "Stigmasterol (mg)": 14.11,
+  "β-Sitosterol (mg)": 207,
+  "Phytate (mg)": 921,
+  "Total Saponin (g)": 6.4
+ },
+ {
+  "FOOD CODE": "H011",
+  "FOOD NAME": "Gingelly seeds, white (Sesamum indicum)",
+  "Raffinose (g)": 0.93,
+  "Stachyose (g)": 0.01,
+  "Verbascose (g)": 0.02,
+  "Campesterol (mg)": 34.13,
+  "Stigmasterol (mg)": 14.89,
+  "β-Sitosterol (mg)": 219,
+  "Phytate (mg)": 927,
+  "Total Saponin (g)": 5.64
+ },
+ {
+  "FOOD CODE": "H012",
+  "FOOD NAME": "Ground nut (Arachis hypogea)",
+  "Raffinose (g)": 0.03,
+  "Stachyose (g)": 0.06,
+  "Campesterol (mg)": 17.23,
+  "Stigmasterol (mg)": 9.46,
+  "β-Sitosterol (mg)": 124,
+  "Phytate (mg)": 582,
+  "Total Saponin (g)": 3.58
+ },
+ {
+  "FOOD CODE": "H013",
+  "FOOD NAME": "Mustard seeds (Brassica juncea)",
+  "Raffinose (g)": 0.35,
+  "Stachyose (g)": 0.56,
+  "Campesterol (mg)": 43.1,
+  "Stigmasterol (mg)": 7.63,
+  "β-Sitosterol (mg)": 117,
+  "Phytate (mg)": 132
+ },
+ {
+  "FOOD CODE": "H014",
+  "FOOD NAME": "Linseeds (Linum usitatissimum)",
+  "Raffinose (g)": 3.52,
+  "Campesterol (mg)": 31.48,
+  "Stigmasterol (mg)": 7.25,
+  "β-Sitosterol (mg)": 112,
+  "Phytate (mg)": 1859,
+  "Total Saponin (g)": 2.21
+ },
+ {
+  "FOOD CODE": "H015",
+  "FOOD NAME": "Niger seeds, black (Guizotia abyssinica)",
+  "Raffinose (g)": 0.14,
+  "Campesterol (mg)": 24.76,
+  "Stigmasterol (mg)": 35.44,
+  "β-Sitosterol (mg)": 175,
+  "Phytate (mg)": 1974,
+  "Total Saponin (g)": 9.3
+ },
+ {
+  "FOOD CODE": "H016",
+  "FOOD NAME": "Niger seeds, gray (Guizotia abyssinica)",
+  "Raffinose (g)": 0.23,
+  "Stachyose (g)": 0.01,
+  "Campesterol (mg)": 24.32,
+  "Stigmasterol (mg)": 34.16,
+  "β-Sitosterol (mg)": 174,
+  "Phytate (mg)": 1709,
+  "Total Saponin (g)": 5.02
+ },
+ {
+  "FOOD CODE": "H017",
+  "FOOD NAME": "Pine seed (Pinus gerardiana)",
+  "Campesterol (mg)": 22.3,
+  "Stigmasterol (mg)": 2.34,
+  "β-Sitosterol (mg)": 182,
+  "Phytate (mg)": 883,
+  "Total Saponin (g)": 3.21
+ },
+ {
+  "FOOD CODE": "H018",
+  "FOOD NAME": "Pistachio nuts (Pistacla vera)",
+  "Raffinose (g)": 4.21,
+  "Stachyose (g)": 0.13,
+  "Campesterol (mg)": 12.38,
+  "Stigmasterol (mg)": 2.22,
+  "β-Sitosterol (mg)": 369,
+  "Phytate (mg)": 808,
+  "Total Saponin (g)": 3.01
+ },
+ {
+  "FOOD CODE": "H019",
+  "FOOD NAME": "Safflower seeds (Carthamus tinctorius)",
+  "Raffinose (g)": 3.07,
+  "Stachyose (g)": 0.1,
+  "Verbascose (g)": 0.36,
+  "Campesterol (mg)": 17.59,
+  "Stigmasterol (mg)": 6.63,
+  "β-Sitosterol (mg)": 144,
+  "Phytate (mg)": 1083,
+  "Total Saponin (g)": 4.41
+ },
+ {
+  "FOOD CODE": "H020",
+  "FOOD NAME": "Sunflower seeds (Helianthus annuus)",
+  "Raffinose (g)": 0.09,
+  "Campesterol (mg)": 11.76,
+  "Stigmasterol (mg)": 14.42,
+  "β-Sitosterol (mg)": 175,
+  "Phytate (mg)": 423,
+  "Total Saponin (g)": 13.93
+ },
+ {
+  "FOOD CODE": "H021",
+  "FOOD NAME": "Walnut (Juglans regia)",
+  "Campesterol (mg)": 2.99,
+  "Stigmasterol (mg)": 1.36,
+  "β-Sitosterol (mg)": 125,
+  "Phytate (mg)": 1001,
+  "Total Saponin (g)": 10.03
+ },
+ {
+  "FOOD CODE": "I001",
+  "FOOD NAME": "Jaggery, cane (Saccharum officinarum)"
+ },
+ {
+  "FOOD CODE": "I002",
+  "FOOD NAME": "Sugarcane, juice (Saccharum officinarum)",
+  "Raffinose (g)": 0.03
+ },
+ {
+  "FOOD CODE": "J001",
+  "FOOD NAME": "Button mushroom, fresh (Agaricus sp.)",
+  "Campesterol (mg)": 0.93,
+  "Stigmasterol (mg)": 1.25,
+  "β-Sitosterol (mg)": 7.04
+ },
+ {
+  "FOOD CODE": "J002",
+  "FOOD NAME": "Chicken mushroom, fresh (Lactiporus sp.)",
+  "Campesterol (mg)": 6.83,
+  "Stigmasterol (mg)": 1.94,
+  "β-Sitosterol (mg)": 2.05
+ },
+ {
+  "FOOD CODE": "J003",
+  "FOOD NAME": "Shiitake mushroom, fresh (Lentinula sp.)",
+  "Campesterol (mg)": 7.35,
+  "Stigmasterol (mg)": 2.19,
+  "β-Sitosterol (mg)": 2.91
+ },
+ {
+  "FOOD CODE": "J004",
+  "FOOD NAME": "Oyster mushroom, dried (Pleurotus sp.)",
+  "Campesterol (mg)": 7.72,
+  "Stigmasterol (mg)": 2.03,
+  "β-Sitosterol (mg)": 2.72
+ },
+ {
+  "FOOD CODE": "K001",
+  "FOOD NAME": "Toddy"
+ },
+ {
+  "FOOD CODE": "K002",
+  "FOOD NAME": "Coconut Water",
+  "Campesterol (mg)": 0.02,
+  "Stigmasterol (mg)": 0.04,
+  "β-Sitosterol (mg)": 0.05
+ },
+ {
+  "FOOD CODE": "L001",
+  "FOOD NAME": "Milk, whole, Buffalo"
+ },
+ {
+  "FOOD CODE": "L002",
+  "FOOD NAME": "Milk, whole, Cow"
+ },
+ {
+  "FOOD CODE": "L003",
+  "FOOD NAME": "Paneer"
+ },
+ {
+  "FOOD CODE": "L004",
+  "FOOD NAME": "Khoa"
+ }
+]
+}

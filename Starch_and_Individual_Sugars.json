@@ -1,0 +1,3931 @@
+{
+"Sheet1":[
+ null,
+ {
+  "FOOD CODE": "A001",
+  "FOOD NAME": "Amaranth seed, black (Amaranthus cruentus)",
+  "TOTAL Avail.CHO (g)": 56.71,
+  "TOTAL STARCH (g)": 55.83,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.22,
+  "SUCROSE (g)": 0.46,
+  "MALTOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.88
+ },
+ {
+  "FOOD CODE": "A002",
+  "FOOD NAME": "Amaranth seed, pale brown (Amaranthus cruentus)",
+  "TOTAL Avail.CHO (g)": 60.13,
+  "TOTAL STARCH (g)": 59.33,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.22,
+  "SUCROSE (g)": 0.48,
+  "TOTAL F.SUGARS (g)": 0.8
+ },
+ {
+  "FOOD CODE": "A003",
+  "FOOD NAME": "Bajra (Pennisetum typhoideum)",
+  "TOTAL Avail.CHO (g)": 56.02,
+  "TOTAL STARCH (g)": 55.21,
+  "FRUCTOSE (g)": 0.21,
+  "GLUCOSE (g)": 0.6,
+  "TOTAL F.SUGARS (g)": 0.81
+ },
+ {
+  "FOOD CODE": "A004",
+  "FOOD NAME": "Barley (Hordeum vulgare)",
+  "TOTAL Avail.CHO (g)": 72.73,
+  "TOTAL STARCH (g)": 72.67,
+  "GLUCOSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.06
+ },
+ {
+  "FOOD CODE": "A005",
+  "FOOD NAME": "Jowar (Sorghum vulgare)",
+  "TOTAL Avail.CHO (g)": 60.96,
+  "TOTAL STARCH (g)": 59.7,
+  "FRUCTOSE (g)": 0.57,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.6,
+  "TOTAL F.SUGARS (g)": 1.27
+ },
+ {
+  "FOOD CODE": "A006",
+  "FOOD NAME": "Maize, dry (Zea mays)",
+  "TOTAL Avail.CHO (g)": 61.01,
+  "TOTAL STARCH (g)": 59.35,
+  "FRUCTOSE (g)": 0.16,
+  "GLUCOSE (g)": 0.8,
+  "SUCROSE (g)": 0.7,
+  "TOTAL F.SUGARS (g)": 1.66
+ },
+ {
+  "FOOD CODE": "A007",
+  "FOOD NAME": "Maize, tender, local (Zea mays)",
+  "TOTAL Avail.CHO (g)": 17.35,
+  "TOTAL STARCH (g)": 15.88,
+  "FRUCTOSE (g)": 0.27,
+  "GLUCOSE (g)": 0.8,
+  "SUCROSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 1.47
+ },
+ {
+  "FOOD CODE": "A008",
+  "FOOD NAME": "Maize, tender, sweet (Zea mays)",
+  "TOTAL Avail.CHO (g)": 12.11,
+  "TOTAL STARCH (g)": 7.45,
+  "FRUCTOSE (g)": 0.91,
+  "GLUCOSE (g)": 0.97,
+  "SUCROSE (g)": 2.79,
+  "TOTAL F.SUGARS (g)": 4.67
+ },
+ {
+  "FOOD CODE": "A009",
+  "FOOD NAME": "Quinoa (Chenopodium quinoa)",
+  "TOTAL Avail.CHO (g)": 49.82,
+  "TOTAL STARCH (g)": 48.41,
+  "GLUCOSE (g)": 1.41,
+  "TOTAL F.SUGARS (g)": 1.41
+ },
+ {
+  "FOOD CODE": "A010",
+  "FOOD NAME": "Ragi (Eleusine coracana)",
+  "TOTAL Avail.CHO (g)": 62.47,
+  "TOTAL STARCH (g)": 62.13,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.34
+ },
+ {
+  "FOOD CODE": "A011",
+  "FOOD NAME": "Rice flakes (Oryza sativa )",
+  "TOTAL Avail.CHO (g)": 68.4,
+  "TOTAL STARCH (g)": 68.06,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 0.34
+ },
+ {
+  "FOOD CODE": "A012",
+  "FOOD NAME": "Rice puffed (Oryza sativa )",
+  "TOTAL Avail.CHO (g)": 69.89,
+  "TOTAL STARCH (g)": 69.25,
+  "GLUCOSE (g)": 0.49,
+  "SUCROSE (g)": 0.15,
+  "TOTAL F.SUGARS (g)": 0.64
+ },
+ {
+  "FOOD CODE": "A013",
+  "FOOD NAME": "Rice, raw, brown (Oryza sativa )",
+  "TOTAL Avail.CHO (g)": 72,
+  "TOTAL STARCH (g)": 71.31,
+  "GLUCOSE (g)": 0.55,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 0.69
+ },
+ {
+  "FOOD CODE": "A014",
+  "FOOD NAME": "Rice, parboiled, milled (Oryza sativa )",
+  "TOTAL Avail.CHO (g)": 76.8,
+  "TOTAL STARCH (g)": 76.14,
+  "GLUCOSE (g)": 0.51,
+  "SUCROSE (g)": 0.16,
+  "TOTAL F.SUGARS (g)": 0.67
+ },
+ {
+  "FOOD CODE": "A015",
+  "FOOD NAME": "Rice, raw, milled (Oryza sativa )",
+  "TOTAL Avail.CHO (g)": 76.39,
+  "TOTAL STARCH (g)": 75.7,
+  "GLUCOSE (g)": 0.54,
+  "SUCROSE (g)": 0.15,
+  "TOTAL F.SUGARS (g)": 0.69
+ },
+ {
+  "FOOD CODE": "A016",
+  "FOOD NAME": "Samai (Panicum miliare)",
+  "TOTAL Avail.CHO (g)": 56.43,
+  "TOTAL STARCH (g)": 56.07,
+  "GLUCOSE (g)": 0.24,
+  "SUCROSE (g)": 0.13,
+  "TOTAL F.SUGARS (g)": 0.37
+ },
+ {
+  "FOOD CODE": "A017",
+  "FOOD NAME": "Varagu (Setaria italica)",
+  "TOTAL Avail.CHO (g)": 66.25,
+  "TOTAL STARCH (g)": 64.96,
+  "GLUCOSE (g)": 0.89,
+  "SUCROSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 1.29
+ },
+ {
+  "FOOD CODE": "A018",
+  "FOOD NAME": "Wheat flour, refined (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 71.82,
+  "TOTAL STARCH (g)": 70.03,
+  "FRUCTOSE (g)": 0.64,
+  "GLUCOSE (g)": 0.75,
+  "SUCROSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 1.79
+ },
+ {
+  "FOOD CODE": "A019",
+  "FOOD NAME": "Wheat flour, atta (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 58.62,
+  "TOTAL STARCH (g)": 56.82,
+  "FRUCTOSE (g)": 0.72,
+  "GLUCOSE (g)": 0.78,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 1.8
+ },
+ {
+  "FOOD CODE": "A020",
+  "FOOD NAME": "Wheat, whole (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 59.3,
+  "TOTAL STARCH (g)": 57.53,
+  "FRUCTOSE (g)": 0.74,
+  "GLUCOSE (g)": 0.73,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 1.77
+ },
+ {
+  "FOOD CODE": "A021",
+  "FOOD NAME": "Wheat, bulgur (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 61.74,
+  "TOTAL STARCH (g)": 60.54,
+  "FRUCTOSE (g)": 0.32,
+  "GLUCOSE (g)": 0.55,
+  "SUCROSE (g)": 0.33,
+  "TOTAL F.SUGARS (g)": 1.2
+ },
+ {
+  "FOOD CODE": "A022",
+  "FOOD NAME": "Wheat, semolina (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 59.85,
+  "TOTAL STARCH (g)": 58.2,
+  "FRUCTOSE (g)": 0.6,
+  "GLUCOSE (g)": 0.55,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 1.65
+ },
+ {
+  "FOOD CODE": "A023",
+  "FOOD NAME": "Wheat, vermicelli (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 56.99,
+  "TOTAL STARCH (g)": 55.31,
+  "FRUCTOSE (g)": 0.6,
+  "GLUCOSE (g)": 0.58,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 1.68
+ },
+ {
+  "FOOD CODE": "A024",
+  "FOOD NAME": "Wheat, vermicelli, roasted (Triticum aestivum)",
+  "TOTAL Avail.CHO (g)": 56.69,
+  "TOTAL STARCH (g)": 54.55,
+  "FRUCTOSE (g)": 0.63,
+  "GLUCOSE (g)": 1.01,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 2.14
+ },
+ {
+  "FOOD CODE": "B001",
+  "FOOD NAME": "Bengal gram, dal (Cicer arietinum)",
+  "TOTAL Avail.CHO (g)": 41.52,
+  "TOTAL STARCH (g)": 40.49,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.63,
+  "MALTOSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 1.03
+ },
+ {
+  "FOOD CODE": "B002",
+  "FOOD NAME": "Bengal gram, whole (Cicer arietinum)",
+  "TOTAL Avail.CHO (g)": 36.68,
+  "TOTAL STARCH (g)": 35.69,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.69,
+  "MALTOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.99
+ },
+ {
+  "FOOD CODE": "B003",
+  "FOOD NAME": "Black gram, dal (Phaseolus mungo)",
+  "TOTAL Avail.CHO (g)": 48.73,
+  "TOTAL STARCH (g)": 47.89,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.44,
+  "TOTAL F.SUGARS (g)": 0.84
+ },
+ {
+  "FOOD CODE": "B004",
+  "FOOD NAME": "Black gram, whole (Phaseolus mungo)",
+  "TOTAL Avail.CHO (g)": 42.64,
+  "TOTAL STARCH (g)": 42.19,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 0.45
+ },
+ {
+  "FOOD CODE": "B005",
+  "FOOD NAME": "Cowpea, brown (Vigna catjang)",
+  "TOTAL Avail.CHO (g)": 47.09,
+  "TOTAL STARCH (g)": 45.49,
+  "FRUCTOSE (g)": 0.3,
+  "GLUCOSE (g)": 0.61,
+  "SUCROSE (g)": 0.68,
+  "TOTAL F.SUGARS (g)": 1.6
+ },
+ {
+  "FOOD CODE": "B006",
+  "FOOD NAME": "Cowpea, white (Vigna catjang)",
+  "TOTAL Avail.CHO (g)": 47.51,
+  "TOTAL STARCH (g)": 46.33,
+  "FRUCTOSE (g)": 0.13,
+  "GLUCOSE (g)": 0.39,
+  "SUCROSE (g)": 0.67,
+  "TOTAL F.SUGARS (g)": 1.18
+ },
+ {
+  "FOOD CODE": "B007",
+  "FOOD NAME": "Field bean, black (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 41.22,
+  "TOTAL STARCH (g)": 40.07,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.53,
+  "SUCROSE (g)": 0.42,
+  "TOTAL F.SUGARS (g)": 1.15
+ },
+ {
+  "FOOD CODE": "B008",
+  "FOOD NAME": "Field bean, brown (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 43.47,
+  "TOTAL STARCH (g)": 42.3,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.29,
+  "SUCROSE (g)": 0.68,
+  "TOTAL F.SUGARS (g)": 1.17
+ },
+ {
+  "FOOD CODE": "B009",
+  "FOOD NAME": "Field bean, white (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 44.32,
+  "TOTAL STARCH (g)": 42.25,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.41,
+  "SUCROSE (g)": 0.56,
+  "TOTAL F.SUGARS (g)": 1.07
+ },
+ {
+  "FOOD CODE": "B010",
+  "FOOD NAME": "Green gram, dal (Phaseolus aureus)",
+  "TOTAL Avail.CHO (g)": 42.01,
+  "TOTAL STARCH (g)": 41.06,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.3,
+  "SUCROSE (g)": 0.55,
+  "TOTAL F.SUGARS (g)": 0.95
+ },
+ {
+  "FOOD CODE": "B011",
+  "FOOD NAME": "Green gram, whole (Phaseolus aureus)",
+  "TOTAL Avail.CHO (g)": 39.75,
+  "TOTAL STARCH (g)": 39.21,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.14,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 0.54
+ },
+ {
+  "FOOD CODE": "B012",
+  "FOOD NAME": "Horse gram, whole (Dolicus biflorus)",
+  "TOTAL Avail.CHO (g)": 48.31,
+  "TOTAL STARCH (g)": 47.96,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.35
+ },
+ {
+  "FOOD CODE": "B013",
+  "FOOD NAME": "Lentil dal (Lens culinaris)",
+  "TOTAL Avail.CHO (g)": 46.39,
+  "TOTAL STARCH (g)": 44.44,
+  "FRUCTOSE (g)": 0.8,
+  "GLUCOSE (g)": 0.3,
+  "SUCROSE (g)": 0.85,
+  "TOTAL F.SUGARS (g)": 1.95
+ },
+ {
+  "FOOD CODE": "B014",
+  "FOOD NAME": "Lentil whole, brown (Lens culinaris)",
+  "TOTAL Avail.CHO (g)": 43.03,
+  "TOTAL STARCH (g)": 41.41,
+  "FRUCTOSE (g)": 0.78,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.71,
+  "TOTAL F.SUGARS (g)": 1.63
+ },
+ {
+  "FOOD CODE": "B015",
+  "FOOD NAME": "Lentil whole, yellowish (Lens culinaris)",
+  "TOTAL Avail.CHO (g)": 43.58,
+  "TOTAL STARCH (g)": 42.08,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 0.23,
+  "SUCROSE (g)": 0.77,
+  "TOTAL F.SUGARS (g)": 1.5
+ },
+ {
+  "FOOD CODE": "B016",
+  "FOOD NAME": "Moth bean (Vigna aconitifolia)",
+  "TOTAL Avail.CHO (g)": 48,
+  "TOTAL STARCH (g)": 46.64,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.62,
+  "SUCROSE (g)": 0.64,
+  "TOTAL F.SUGARS (g)": 1.36
+ },
+ {
+  "FOOD CODE": "B017",
+  "FOOD NAME": "Peas, dry (Pisum sativum)",
+  "TOTAL Avail.CHO (g)": 45.07,
+  "TOTAL STARCH (g)": 43.04,
+  "FRUCTOSE (g)": 0.61,
+  "GLUCOSE (g)": 0.48,
+  "SUCROSE (g)": 0.94,
+  "TOTAL F.SUGARS (g)": 2.03
+ },
+ {
+  "FOOD CODE": "B018",
+  "FOOD NAME": "Rajmah, black (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 40.46,
+  "TOTAL STARCH (g)": 38.45,
+  "GLUCOSE (g)": 0.18,
+  "SUCROSE (g)": 1.84,
+  "TOTAL F.SUGARS (g)": 2.02
+ },
+ {
+  "FOOD CODE": "B019",
+  "FOOD NAME": "Rajmah, brown (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 40.32,
+  "TOTAL STARCH (g)": 38.05,
+  "GLUCOSE (g)": 0.39,
+  "SUCROSE (g)": 1.88,
+  "TOTAL F.SUGARS (g)": 2.27
+ },
+ {
+  "FOOD CODE": "B020",
+  "FOOD NAME": "Rajmah, red (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 40.07,
+  "TOTAL STARCH (g)": 38.55,
+  "GLUCOSE (g)": 0.23,
+  "SUCROSE (g)": 1.29,
+  "TOTAL F.SUGARS (g)": 1.52
+ },
+ {
+  "FOOD CODE": "B021",
+  "FOOD NAME": "Red gram, dal (Cajanus cajan)",
+  "TOTAL Avail.CHO (g)": 50.6,
+  "TOTAL STARCH (g)": 48.53,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 1.78,
+  "TOTAL F.SUGARS (g)": 2.08
+ },
+ {
+  "FOOD CODE": "B022",
+  "FOOD NAME": "Red gram, whole (Cajanus cajan)",
+  "TOTAL Avail.CHO (g)": 40.27,
+  "TOTAL STARCH (g)": 38.97,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 1,
+  "TOTAL F.SUGARS (g)": 1.3
+ },
+ {
+  "FOOD CODE": "B023",
+  "FOOD NAME": "Ricebean (Vigna umbellata )",
+  "TOTAL Avail.CHO (g)": 45.38,
+  "TOTAL STARCH (g)": 44.05,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.73,
+  "SUCROSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 1.33
+ },
+ {
+  "FOOD CODE": "B024",
+  "FOOD NAME": "Soya bean, brown (Glycine max)",
+  "TOTAL Avail.CHO (g)": 9.16,
+  "TOTAL STARCH (g)": 6.65,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.63,
+  "SUCROSE (g)": 1.68,
+  "TOTAL F.SUGARS (g)": 2.51
+ },
+ {
+  "FOOD CODE": "B025",
+  "FOOD NAME": "Soya bean, white (Glycine max)",
+  "TOTAL Avail.CHO (g)": 9.46,
+  "TOTAL STARCH (g)": 7.26,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.56,
+  "SUCROSE (g)": 1.44,
+  "TOTAL F.SUGARS (g)": 2.2
+ },
+ {
+  "FOOD CODE": "C001",
+  "FOOD NAME": "Agathi leaves (Sesbania grandiflora)",
+  "TOTAL Avail.CHO (g)": 3.95,
+  "TOTAL STARCH (g)": 3.72,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.03,
+  "TOTAL F.SUGARS (g)": 0.23
+ },
+ {
+  "FOOD CODE": "C002",
+  "FOOD NAME": "Amaranth leaves, green (Amaranthus gangeticus)",
+  "TOTAL Avail.CHO (g)": 1.02,
+  "TOTAL STARCH (g)": 0.7,
+  "FRUCTOSE (g)": 0.09,
+  "GLUCOSE (g)": 0.19,
+  "SUCROSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.32
+ },
+ {
+  "FOOD CODE": "C003",
+  "FOOD NAME": "Amaranth leaves, red (Amaranthus gangeticus)",
+  "TOTAL Avail.CHO (g)": 1.05,
+  "TOTAL STARCH (g)": 0.77,
+  "FRUCTOSE (g)": 0.24,
+  "GLUCOSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.28
+ },
+ {
+  "FOOD CODE": "C004",
+  "FOOD NAME": "Amaranth leaves, red and green (Amaranthus gangeticus)",
+  "TOTAL Avail.CHO (g)": 1.1,
+  "TOTAL STARCH (g)": 0.95,
+  "FRUCTOSE (g)": 0.03,
+  "GLUCOSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.15
+ },
+ {
+  "FOOD CODE": "C005",
+  "FOOD NAME": "Amaranth spinosus, leaves, green (Amaranthus spinosus)",
+  "TOTAL Avail.CHO (g)": 0.83,
+  "TOTAL STARCH (g)": 0.69,
+  "FRUCTOSE (g)": 0.01,
+  "GLUCOSE (g)": 0.13,
+  "TOTAL F.SUGARS (g)": 0.14
+ },
+ {
+  "FOOD CODE": "C006",
+  "FOOD NAME": "Amaranth spinosus, leaves, red and green (Amaranthus spinosus)",
+  "TOTAL Avail.CHO (g)": 0.86,
+  "TOTAL STARCH (g)": 0.73,
+  "FRUCTOSE (g)": 0.01,
+  "GLUCOSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.13
+ },
+ {
+  "FOOD CODE": "C007",
+  "FOOD NAME": "Basella leaves (Basella alba)",
+  "TOTAL Avail.CHO (g)": 1.69,
+  "TOTAL STARCH (g)": 1.67,
+  "FRUCTOSE (g)": 0.01,
+  "GLUCOSE (g)": 0.01,
+  "SUCROSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.02
+ },
+ {
+  "FOOD CODE": "C008",
+  "FOOD NAME": "Bathua leaves (Chenopodium album)",
+  "TOTAL Avail.CHO (g)": 1.59,
+  "TOTAL STARCH (g)": 1.07,
+  "FRUCTOSE (g)": 0.01,
+  "GLUCOSE (g)": 0.51,
+  "TOTAL F.SUGARS (g)": 0.52
+ },
+ {
+  "FOOD CODE": "C009",
+  "FOOD NAME": "Beet greens (Beta vulgaris)",
+  "TOTAL Avail.CHO (g)": 2.18,
+  "TOTAL STARCH (g)": 2.05,
+  "FRUCTOSE (g)": 0.03,
+  "GLUCOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.13
+ },
+ {
+  "FOOD CODE": "C010",
+  "FOOD NAME": "Betel leaves, big (kolkata) (Piper betle)",
+  "TOTAL Avail.CHO (g)": 6.61,
+  "TOTAL STARCH (g)": 6.24,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.17,
+  "TOTAL F.SUGARS (g)": 0.37
+ },
+ {
+  "FOOD CODE": "C011",
+  "FOOD NAME": "Betel leaves, small (Piper betle)",
+  "TOTAL Avail.CHO (g)": 5.54,
+  "TOTAL STARCH (g)": 5.14,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 0.4
+ },
+ {
+  "FOOD CODE": "C012",
+  "FOOD NAME": "Brussels sprouts (Brassica oleracea var. gemmifera)",
+  "TOTAL Avail.CHO (g)": 4.42,
+  "TOTAL STARCH (g)": 4.31,
+  "FRUCTOSE (g)": 0.04,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.08,
+  "TOTAL F.SUGARS (g)": 0.17
+ },
+ {
+  "FOOD CODE": "C013",
+  "FOOD NAME": "Cabbage, Chinese (Brassica rupa)",
+  "TOTAL Avail.CHO (g)": 1.42,
+  "TOTAL STARCH (g)": 1,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.42
+ },
+ {
+  "FOOD CODE": "C014",
+  "FOOD NAME": "Cabbage, collard greens (Brassica oleracea var. viridis)",
+  "TOTAL Avail.CHO (g)": 2.35,
+  "TOTAL STARCH (g)": 1.59,
+  "FRUCTOSE (g)": 0.41,
+  "GLUCOSE (g)": 0.24,
+  "SUCROSE (g)": 0.11,
+  "TOTAL F.SUGARS (g)": 0.76
+ },
+ {
+  "FOOD CODE": "C015",
+  "FOOD NAME": "Cabbage, green (Brassica oleracea var. capitata f. alba)",
+  "TOTAL Avail.CHO (g)": 1.54,
+  "TOTAL STARCH (g)": 0.53,
+  "FRUCTOSE (g)": 0.52,
+  "GLUCOSE (g)": 0.26,
+  "SUCROSE (g)": 0.23,
+  "TOTAL F.SUGARS (g)": 1
+ },
+ {
+  "FOOD CODE": "C016",
+  "FOOD NAME": "Cabbage, violet (Brassica oleracea var. capitata f. rubra)",
+  "TOTAL Avail.CHO (g)": 1.33,
+  "TOTAL STARCH (g)": 0.54,
+  "FRUCTOSE (g)": 0.43,
+  "GLUCOSE (g)": 0.18,
+  "SUCROSE (g)": 0.19,
+  "TOTAL F.SUGARS (g)": 0.8
+ },
+ {
+  "FOOD CODE": "C017",
+  "FOOD NAME": "Cauliflower leaves (Brassica oleracea var. botrytis)",
+  "TOTAL Avail.CHO (g)": 2.15,
+  "TOTAL STARCH (g)": 1.53,
+  "FRUCTOSE (g)": 0.32,
+  "GLUCOSE (g)": 0.24,
+  "SUCROSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.61
+ },
+ {
+  "FOOD CODE": "C018",
+  "FOOD NAME": "Colocasia leaves, green (Colocasia anti-quorum)",
+  "TOTAL Avail.CHO (g)": 2.72,
+  "TOTAL STARCH (g)": 2.1,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.33,
+  "TOTAL F.SUGARS (g)": 0.63
+ },
+ {
+  "FOOD CODE": "C019",
+  "FOOD NAME": "Drumstick leaves (Moringa oleifera)",
+  "TOTAL Avail.CHO (g)": 2.51,
+  "TOTAL STARCH (g)": 2.49,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.02
+ },
+ {
+  "FOOD CODE": "C020",
+  "FOOD NAME": "Fenugreek leaves (Trigonella foenum graecum)",
+  "TOTAL Avail.CHO (g)": 1.48,
+  "TOTAL STARCH (g)": 0.6,
+  "FRUCTOSE (g)": 0.71,
+  "GLUCOSE (g)": 0.17,
+  "TOTAL F.SUGARS (g)": 0.88
+ },
+ {
+  "FOOD CODE": "C021",
+  "FOOD NAME": "Garden cress (Lepidium sativum)",
+  "TOTAL Avail.CHO (g)": 2.17,
+  "TOTAL STARCH (g)": 1.25,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.72,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.92
+ },
+ {
+  "FOOD CODE": "C022",
+  "FOOD NAME": "Gogu leaves, green (Hibiscus cannabinus)",
+  "TOTAL Avail.CHO (g)": 1.16,
+  "TOTAL STARCH (g)": 1.15,
+  "GLUCOSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.01
+ },
+ {
+  "FOOD CODE": "C023",
+  "FOOD NAME": "Gogu leaves, red (Hibiscus cannabinus)",
+  "TOTAL Avail.CHO (g)": 1.17,
+  "TOTAL STARCH (g)": 1.16,
+  "GLUCOSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.01
+ },
+ {
+  "FOOD CODE": "C024",
+  "FOOD NAME": "Knol-Khol, leaves (Brassica oleracea var. gongylodes)",
+  "TOTAL Avail.CHO (g)": 4.57,
+  "TOTAL STARCH (g)": 4.47,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.1
+ },
+ {
+  "FOOD CODE": "C025",
+  "FOOD NAME": "Lettuce (Lactuca sativa)",
+  "TOTAL Avail.CHO (g)": 1.72,
+  "TOTAL STARCH (g)": 1.5,
+  "FRUCTOSE (g)": 0.17,
+  "GLUCOSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.22
+ },
+ {
+  "FOOD CODE": "C026",
+  "FOOD NAME": "Mustard leaves (Brassica juncea)",
+  "TOTAL Avail.CHO (g)": 1.45,
+  "TOTAL STARCH (g)": 1.41,
+  "GLUCOSE (g)": 0.02,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.04
+ },
+ {
+  "FOOD CODE": "C027",
+  "FOOD NAME": "Pak Choi leaves (Brassica rapa var. Chinensis)",
+  "TOTAL Avail.CHO (g)": 1.62,
+  "TOTAL STARCH (g)": 1.1,
+  "FRUCTOSE (g)": 0.1,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 0.52
+ },
+ {
+  "FOOD CODE": "C028",
+  "FOOD NAME": "Parsley (Petroselinum crispum)",
+  "TOTAL Avail.CHO (g)": 7.05,
+  "TOTAL STARCH (g)": 6.36,
+  "FRUCTOSE (g)": 0.29,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 0.69
+ },
+ {
+  "FOOD CODE": "C029",
+  "FOOD NAME": "Ponnaganni (Alternanthera sessilis)",
+  "TOTAL Avail.CHO (g)": 4.1,
+  "TOTAL STARCH (g)": 3.66,
+  "FRUCTOSE (g)": 0.11,
+  "GLUCOSE (g)": 0.33,
+  "TOTAL F.SUGARS (g)": 0.44
+ },
+ {
+  "FOOD CODE": "C030",
+  "FOOD NAME": "Pumpkin leaves, tender (Cucurbita maxima)",
+  "TOTAL Avail.CHO (g)": 2.2,
+  "TOTAL STARCH (g)": 2.1,
+  "GLUCOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.1
+ },
+ {
+  "FOOD CODE": "C031",
+  "FOOD NAME": "Radish leaves (Raphanus sativus)",
+  "TOTAL Avail.CHO (g)": 2.09,
+  "TOTAL STARCH (g)": 1.8,
+  "FRUCTOSE (g)": 0.14,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.29
+ },
+ {
+  "FOOD CODE": "C032",
+  "FOOD NAME": "Rumex leaves (Rumex patientia )",
+  "TOTAL Avail.CHO (g)": 1.55,
+  "TOTAL STARCH (g)": 1.1,
+  "FRUCTOSE (g)": 0.11,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 0.45
+ },
+ {
+  "FOOD CODE": "C033",
+  "FOOD NAME": "Spinach (Spinacia oleracea)",
+  "TOTAL Avail.CHO (g)": 1.62,
+  "TOTAL STARCH (g)": 1.38,
+  "FRUCTOSE (g)": 0.07,
+  "GLUCOSE (g)": 0.18,
+  "TOTAL F.SUGARS (g)": 0.24
+ },
+ {
+  "FOOD CODE": "C034",
+  "FOOD NAME": "Tamarind leaves, tender (Tamarindus indica)",
+  "TOTAL Avail.CHO (g)": 7.01,
+  "TOTAL STARCH (g)": 6.85,
+  "FRUCTOSE (g)": 0.05,
+  "GLUCOSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.17
+ },
+ {
+  "FOOD CODE": "D001",
+  "FOOD NAME": "Ash gourd (Benincasa hispida)",
+  "TOTAL Avail.CHO (g)": 1.2,
+  "TOTAL STARCH (g)": 1.01,
+  "FRUCTOSE (g)": 0.12,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.19
+ },
+ {
+  "FOOD CODE": "D002",
+  "FOOD NAME": "Bamboo shoot, tender (Bambusa vulgaris)",
+  "TOTAL Avail.CHO (g)": 0.6,
+  "TOTAL STARCH (g)": 0.51,
+  "FRUCTOSE (g)": 0.07,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.09
+ },
+ {
+  "FOOD CODE": "D003",
+  "FOOD NAME": "Bean scarlet, tender (Phaseolus coccineus)",
+  "TOTAL Avail.CHO (g)": 4.56,
+  "TOTAL STARCH (g)": 3.53,
+  "FRUCTOSE (g)": 0.38,
+  "GLUCOSE (g)": 0.51,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 1.03
+ },
+ {
+  "FOOD CODE": "D004",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, elongate (Momordica charantia)",
+  "TOTAL Avail.CHO (g)": 0.96,
+  "TOTAL STARCH (g)": 0.92,
+  "FRUCTOSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.04
+ },
+ {
+  "FOOD CODE": "D005",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, short (Momordica charantia)",
+  "TOTAL Avail.CHO (g)": 0.99,
+  "TOTAL STARCH (g)": 0.93,
+  "FRUCTOSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.06
+ },
+ {
+  "FOOD CODE": "D006",
+  "FOOD NAME": "Bitter gourd, jagged, smooth ridges, elongate (Momordica charantia)",
+  "TOTAL Avail.CHO (g)": 0.95,
+  "TOTAL STARCH (g)": 0.87,
+  "FRUCTOSE (g)": 0.08,
+  "TOTAL F.SUGARS (g)": 0.08
+ },
+ {
+  "FOOD CODE": "D007",
+  "FOOD NAME": "Bottle gourd, elongate, pale green (Lagenaria vulgaris)",
+  "TOTAL Avail.CHO (g)": 1.03,
+  "TOTAL STARCH (g)": 0.67,
+  "FRUCTOSE (g)": 0.23,
+  "GLUCOSE (g)": 0.13,
+  "TOTAL F.SUGARS (g)": 0.36
+ },
+ {
+  "FOOD CODE": "D008",
+  "FOOD NAME": "Bottle gourd, round, pale green (Lagenaria vulgaris)",
+  "TOTAL Avail.CHO (g)": 1.02,
+  "TOTAL STARCH (g)": 0.67,
+  "FRUCTOSE (g)": 0.25,
+  "GLUCOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.34
+ },
+ {
+  "FOOD CODE": "D009",
+  "FOOD NAME": "Bottle gourd, elongate, dark green (Lagenaria vulgaris)",
+  "TOTAL Avail.CHO (g)": 0.97,
+  "TOTAL STARCH (g)": 0.58,
+  "FRUCTOSE (g)": 0.33,
+  "GLUCOSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.39
+ },
+ {
+  "FOOD CODE": "D010",
+  "FOOD NAME": "Brinjal-1 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.92,
+  "TOTAL STARCH (g)": 1.04,
+  "FRUCTOSE (g)": 0.66,
+  "GLUCOSE (g)": 0.03,
+  "SUCROSE (g)": 0.19,
+  "TOTAL F.SUGARS (g)": 0.88
+ },
+ {
+  "FOOD CODE": "D011",
+  "FOOD NAME": "Brinjal-2 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.99,
+  "TOTAL STARCH (g)": 1.01,
+  "FRUCTOSE (g)": 0.79,
+  "GLUCOSE (g)": 0.04,
+  "SUCROSE (g)": 0.15,
+  "TOTAL F.SUGARS (g)": 0.98
+ },
+ {
+  "FOOD CODE": "D012",
+  "FOOD NAME": "Brinjal-3 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.44,
+  "TOTAL STARCH (g)": 0.51,
+  "FRUCTOSE (g)": 0.52,
+  "GLUCOSE (g)": 0.32,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.93
+ },
+ {
+  "FOOD CODE": "D013",
+  "FOOD NAME": "Brinjal-4 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.83,
+  "TOTAL STARCH (g)": 0.97,
+  "FRUCTOSE (g)": 0.55,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.17,
+  "TOTAL F.SUGARS (g)": 0.86
+ },
+ {
+  "FOOD CODE": "D014",
+  "FOOD NAME": "Brinjal-5 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.84,
+  "TOTAL STARCH (g)": 0.85,
+  "FRUCTOSE (g)": 0.67,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 0.99
+ },
+ {
+  "FOOD CODE": "D015",
+  "FOOD NAME": "Brinjal-6 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.36,
+  "TOTAL STARCH (g)": 1.36,
+  "FRUCTOSE (g)": 0.52,
+  "GLUCOSE (g)": 0.26,
+  "SUCROSE (g)": 0.23,
+  "TOTAL F.SUGARS (g)": 1
+ },
+ {
+  "FOOD CODE": "D016",
+  "FOOD NAME": "Brinjal-7 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.27,
+  "TOTAL STARCH (g)": 0.89,
+  "FRUCTOSE (g)": 1.01,
+  "GLUCOSE (g)": 0.3,
+  "SUCROSE (g)": 0.07,
+  "TOTAL F.SUGARS (g)": 1.38
+ },
+ {
+  "FOOD CODE": "D017",
+  "FOOD NAME": "Brinjal-8 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.77,
+  "TOTAL STARCH (g)": 1.98,
+  "FRUCTOSE (g)": 0.41,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.27,
+  "TOTAL F.SUGARS (g)": 0.79
+ },
+ {
+  "FOOD CODE": "D018",
+  "FOOD NAME": "Brinjal-9 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.45,
+  "TOTAL STARCH (g)": 1.54,
+  "FRUCTOSE (g)": 0.47,
+  "GLUCOSE (g)": 0.23,
+  "SUCROSE (g)": 0.21,
+  "TOTAL F.SUGARS (g)": 0.91
+ },
+ {
+  "FOOD CODE": "D019",
+  "FOOD NAME": "Brinjal-10 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.15,
+  "TOTAL STARCH (g)": 1.29,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 0.23,
+  "SUCROSE (g)": 0.13,
+  "TOTAL F.SUGARS (g)": 0.86
+ },
+ {
+  "FOOD CODE": "D020",
+  "FOOD NAME": "Brinjal-11 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.81,
+  "TOTAL STARCH (g)": 1.76,
+  "FRUCTOSE (g)": 0.54,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 1.05
+ },
+ {
+  "FOOD CODE": "D021",
+  "FOOD NAME": "Brinjal-12 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.97,
+  "TOTAL STARCH (g)": 0.75,
+  "FRUCTOSE (g)": 0.82,
+  "GLUCOSE (g)": 0.14,
+  "SUCROSE (g)": 0.27,
+  "TOTAL F.SUGARS (g)": 1.22
+ },
+ {
+  "FOOD CODE": "D022",
+  "FOOD NAME": "Brinjal-13 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.27,
+  "TOTAL STARCH (g)": 1.12,
+  "FRUCTOSE (g)": 0.59,
+  "GLUCOSE (g)": 0.37,
+  "SUCROSE (g)": 0.19,
+  "TOTAL F.SUGARS (g)": 1.15
+ },
+ {
+  "FOOD CODE": "D023",
+  "FOOD NAME": "Brinjal-14 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.8,
+  "TOTAL STARCH (g)": 0.92,
+  "FRUCTOSE (g)": 0.4,
+  "GLUCOSE (g)": 0.28,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 0.88
+ },
+ {
+  "FOOD CODE": "D024",
+  "FOOD NAME": "Brinjal-15 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.9,
+  "TOTAL STARCH (g)": 1.08,
+  "FRUCTOSE (g)": 0.4,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.27,
+  "TOTAL F.SUGARS (g)": 0.82
+ },
+ {
+  "FOOD CODE": "D025",
+  "FOOD NAME": "Brinjal-16 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.6,
+  "TOTAL STARCH (g)": 0.61,
+  "FRUCTOSE (g)": 0.54,
+  "GLUCOSE (g)": 0.13,
+  "SUCROSE (g)": 0.32,
+  "TOTAL F.SUGARS (g)": 0.99
+ },
+ {
+  "FOOD CODE": "D026",
+  "FOOD NAME": "Brinjal-17 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 1.47,
+  "TOTAL STARCH (g)": 0.62,
+  "FRUCTOSE (g)": 0.4,
+  "GLUCOSE (g)": 0.26,
+  "SUCROSE (g)": 0.19,
+  "TOTAL F.SUGARS (g)": 0.85
+ },
+ {
+  "FOOD CODE": "D027",
+  "FOOD NAME": "Brinjal-18 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.72,
+  "TOTAL STARCH (g)": 1.28,
+  "FRUCTOSE (g)": 0.95,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.29,
+  "TOTAL F.SUGARS (g)": 1.44
+ },
+ {
+  "FOOD CODE": "D028",
+  "FOOD NAME": "Brinjal-19 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.02,
+  "TOTAL STARCH (g)": 1.05,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 0.32,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 0.96
+ },
+ {
+  "FOOD CODE": "D029",
+  "FOOD NAME": "Brinjal-20 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.83,
+  "TOTAL STARCH (g)": 2.08,
+  "FRUCTOSE (g)": 0.42,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.76
+ },
+ {
+  "FOOD CODE": "D030",
+  "FOOD NAME": "Brinjal-21 (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.01,
+  "TOTAL STARCH (g)": 1.08,
+  "FRUCTOSE (g)": 0.7,
+  "GLUCOSE (g)": 0.07,
+  "SUCROSE (g)": 0.15,
+  "TOTAL F.SUGARS (g)": 0.93
+ },
+ {
+  "FOOD CODE": "D031",
+  "FOOD NAME": "Brinjal - all varieties (Solanum melongena)",
+  "TOTAL Avail.CHO (g)": 2.28,
+  "TOTAL STARCH (g)": 1.31,
+  "FRUCTOSE (g)": 0.55,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 0.97
+ },
+ {
+  "FOOD CODE": "D032",
+  "FOOD NAME": "Broad beans (Vicia faba)",
+  "TOTAL Avail.CHO (g)": 2.06,
+  "TOTAL STARCH (g)": 0.84,
+  "FRUCTOSE (g)": 0.61,
+  "GLUCOSE (g)": 0.41,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 1.22
+ },
+ {
+  "FOOD CODE": "D033",
+  "FOOD NAME": "Capsicum, green (Capsicum annuum)",
+  "TOTAL Avail.CHO (g)": 1.16,
+  "TOTAL STARCH (g)": 0.31,
+  "FRUCTOSE (g)": 0.42,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.23,
+  "TOTAL F.SUGARS (g)": 0.86
+ },
+ {
+  "FOOD CODE": "D034",
+  "FOOD NAME": "Capsicum, red (Capsicum annuum)",
+  "TOTAL Avail.CHO (g)": 1.01,
+  "TOTAL STARCH (g)": 0.08,
+  "FRUCTOSE (g)": 0.34,
+  "GLUCOSE (g)": 0.26,
+  "SUCROSE (g)": 0.33,
+  "TOTAL F.SUGARS (g)": 0.93
+ },
+ {
+  "FOOD CODE": "D035",
+  "FOOD NAME": "Capsicum, yellow (Capsicum annuum)",
+  "TOTAL Avail.CHO (g)": 1.1,
+  "TOTAL STARCH (g)": 0.12,
+  "FRUCTOSE (g)": 0.38,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 0.35,
+  "TOTAL F.SUGARS (g)": 0.97
+ },
+ {
+  "FOOD CODE": "D036",
+  "FOOD NAME": "Cauliflower (Brassica oleracea)",
+  "TOTAL Avail.CHO (g)": 1.05,
+  "TOTAL STARCH (g)": 0.59,
+  "FRUCTOSE (g)": 0.27,
+  "GLUCOSE (g)": 0.14,
+  "SUCROSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.47
+ },
+ {
+  "FOOD CODE": "D037",
+  "FOOD NAME": "Celery stalk (Apium graveolens)",
+  "TOTAL Avail.CHO (g)": 1.42,
+  "TOTAL STARCH (g)": 0.68,
+  "FRUCTOSE (g)": 0.15,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 0.35,
+  "TOTAL F.SUGARS (g)": 0.75
+ },
+ {
+  "FOOD CODE": "D038",
+  "FOOD NAME": "Cho-cho-marrow (Sechium edule)",
+  "TOTAL Avail.CHO (g)": 1.93,
+  "TOTAL STARCH (g)": 1.17,
+  "FRUCTOSE (g)": 0.4,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.76
+ },
+ {
+  "FOOD CODE": "D039",
+  "FOOD NAME": "Cluster beans (Cyamopsis tetragonobola)",
+  "TOTAL Avail.CHO (g)": 4.54,
+  "TOTAL STARCH (g)": 4.42,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.12
+ },
+ {
+  "FOOD CODE": "D040",
+  "FOOD NAME": "Colocasia, stem, black (Colocasia antiquorum)",
+  "TOTAL Avail.CHO (g)": 1.08,
+  "TOTAL STARCH (g)": 0.55,
+  "FRUCTOSE (g)": 0.37,
+  "GLUCOSE (g)": 0.16,
+  "TOTAL F.SUGARS (g)": 0.53
+ },
+ {
+  "FOOD CODE": "D041",
+  "FOOD NAME": "Colocasia, stem, green (Colocasia antiquorum)",
+  "TOTAL Avail.CHO (g)": 1.14,
+  "TOTAL STARCH (g)": 0.89,
+  "FRUCTOSE (g)": 0.09,
+  "GLUCOSE (g)": 0.16,
+  "TOTAL F.SUGARS (g)": 0.25
+ },
+ {
+  "FOOD CODE": "D042",
+  "FOOD NAME": "Corn, Baby (Zea mays)",
+  "TOTAL Avail.CHO (g)": 4.61,
+  "TOTAL STARCH (g)": 4.12,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 0.49
+ },
+ {
+  "FOOD CODE": "D043",
+  "FOOD NAME": "Cucumber, green, elongate (Cucumis sativus)",
+  "TOTAL Avail.CHO (g)": 0.76,
+  "TOTAL STARCH (g)": 0.5,
+  "FRUCTOSE (g)": 0.25,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.27
+ },
+ {
+  "FOOD CODE": "D044",
+  "FOOD NAME": "Cucumber, green, short (Cucumis sativus)",
+  "TOTAL Avail.CHO (g)": 0.79,
+  "TOTAL STARCH (g)": 0.58,
+  "FRUCTOSE (g)": 0.19,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.21
+ },
+ {
+  "FOOD CODE": "D045",
+  "FOOD NAME": "Cucumber, orange, round (Cucumis sativus)",
+  "TOTAL Avail.CHO (g)": 0.75,
+  "TOTAL STARCH (g)": 0.53,
+  "FRUCTOSE (g)": 0.18,
+  "GLUCOSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.22
+ },
+ {
+  "FOOD CODE": "D046",
+  "FOOD NAME": "Drumstick (Moringa oleifera)",
+  "TOTAL Avail.CHO (g)": 2.77,
+  "TOTAL STARCH (g)": 1.31,
+  "FRUCTOSE (g)": 1.02,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.24,
+  "TOTAL F.SUGARS (g)": 1.47
+ },
+ {
+  "FOOD CODE": "D047",
+  "FOOD NAME": "Field beans, tender, broad (Vicia faba)",
+  "TOTAL Avail.CHO (g)": 2.63,
+  "TOTAL STARCH (g)": 1.68,
+  "FRUCTOSE (g)": 0.68,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.95
+ },
+ {
+  "FOOD CODE": "D048",
+  "FOOD NAME": "Field beans, tender, lean (Vicia faba)",
+  "TOTAL Avail.CHO (g)": 2.27,
+  "TOTAL STARCH (g)": 1.51,
+  "FRUCTOSE (g)": 0.59,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.76
+ },
+ {
+  "FOOD CODE": "D049",
+  "FOOD NAME": "French beans, country (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 1.82,
+  "TOTAL STARCH (g)": 0.75,
+  "FRUCTOSE (g)": 0.6,
+  "GLUCOSE (g)": 0.12,
+  "SUCROSE (g)": 0.12,
+  "MALTOSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 1.06
+ },
+ {
+  "FOOD CODE": "D050",
+  "FOOD NAME": "French beans, hybrid (Phaseolus vulgaris)",
+  "TOTAL Avail.CHO (g)": 1.77,
+  "TOTAL STARCH (g)": 0.77,
+  "FRUCTOSE (g)": 0.65,
+  "GLUCOSE (g)": 0.14,
+  "SUCROSE (g)": 0.1,
+  "MALTOSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 1
+ },
+ {
+  "FOOD CODE": "D051",
+  "FOOD NAME": "Jack fruit, raw (Artocarpus heterophyllus)",
+  "TOTAL Avail.CHO (g)": 2.04,
+  "TOTAL STARCH (g)": 0.02,
+  "FRUCTOSE (g)": 1.21,
+  "GLUCOSE (g)": 0.26,
+  "SUCROSE (g)": 0.55,
+  "TOTAL F.SUGARS (g)": 2.02
+ },
+ {
+  "FOOD CODE": "D052",
+  "FOOD NAME": "Jack fruit, seed, mature (Artocarpus heterophyllus)",
+  "TOTAL Avail.CHO (g)": 8.77,
+  "TOTAL STARCH (g)": 6.54,
+  "FRUCTOSE (g)": 1.45,
+  "GLUCOSE (g)": 0.67,
+  "SUCROSE (g)": 0.11,
+  "TOTAL F.SUGARS (g)": 2.23
+ },
+ {
+  "FOOD CODE": "D053",
+  "FOOD NAME": "Knol - Khol (Brassica oleracea)",
+  "TOTAL Avail.CHO (g)": 0.94,
+  "TOTAL STARCH (g)": 0.51,
+  "FRUCTOSE (g)": 0.05,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.27,
+  "TOTAL F.SUGARS (g)": 0.43
+ },
+ {
+  "FOOD CODE": "D054",
+  "FOOD NAME": "Kovai, big (Coccinia cordifolia)",
+  "TOTAL Avail.CHO (g)": 1.21,
+  "TOTAL STARCH (g)": 0.22,
+  "FRUCTOSE (g)": 0.74,
+  "GLUCOSE (g)": 0.06,
+  "MALTOSE (g)": 0.19,
+  "TOTAL F.SUGARS (g)": 0.98
+ },
+ {
+  "FOOD CODE": "D055",
+  "FOOD NAME": "Kovai, small (Coccinia cordifolia)",
+  "TOTAL Avail.CHO (g)": 1.19,
+  "TOTAL STARCH (g)": 0.12,
+  "FRUCTOSE (g)": 0.83,
+  "GLUCOSE (g)": 0.1,
+  "MALTOSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 1.07
+ },
+ {
+  "FOOD CODE": "D056",
+  "FOOD NAME": "Ladies finger (Abelmoschus esculentus)",
+  "TOTAL Avail.CHO (g)": 1.37,
+  "TOTAL STARCH (g)": 0.89,
+  "FRUCTOSE (g)": 0.4,
+  "GLUCOSE (g)": 0.07,
+  "SUCROSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.48
+ },
+ {
+  "FOOD CODE": "D057",
+  "FOOD NAME": "Mango, green, raw (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 8.32,
+  "TOTAL STARCH (g)": 5.8,
+  "FRUCTOSE (g)": 1.84,
+  "GLUCOSE (g)": 0.52,
+  "TOTAL F.SUGARS (g)": 2.42
+ },
+ {
+  "FOOD CODE": "D058",
+  "FOOD NAME": "Onion, stalk (Allium cepa)",
+  "TOTAL Avail.CHO (g)": 1.51,
+  "TOTAL STARCH (g)": 1.1,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.06,
+  "MALTOSE (g)": 0.31,
+  "TOTAL F.SUGARS (g)": 0.41
+ },
+ {
+  "FOOD CODE": "D059",
+  "FOOD NAME": "Papaya, raw (Carica papaya)",
+  "TOTAL Avail.CHO (g)": 3.63,
+  "FRUCTOSE (g)": 2.64,
+  "GLUCOSE (g)": 0.99,
+  "TOTAL F.SUGARS (g)": 3.63
+ },
+ {
+  "FOOD CODE": "D060",
+  "FOOD NAME": "Parwar (Trichosanthes dioica)",
+  "TOTAL Avail.CHO (g)": 1.26,
+  "TOTAL STARCH (g)": 0.9,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.37
+ },
+ {
+  "FOOD CODE": "D061",
+  "FOOD NAME": "Peas, fresh (Pisum sativum)",
+  "TOTAL Avail.CHO (g)": 7.89,
+  "TOTAL STARCH (g)": 6.92,
+  "FRUCTOSE (g)": 0.41,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.36,
+  "TOTAL F.SUGARS (g)": 0.97
+ },
+ {
+  "FOOD CODE": "D062",
+  "FOOD NAME": "Plantain, flower (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 2.03,
+  "TOTAL STARCH (g)": 1.86,
+  "FRUCTOSE (g)": 0.13,
+  "GLUCOSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.17
+ },
+ {
+  "FOOD CODE": "D063",
+  "FOOD NAME": "Plantain, green (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 16.29,
+  "TOTAL STARCH (g)": 15.43,
+  "FRUCTOSE (g)": 0.76,
+  "GLUCOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.86
+ },
+ {
+  "FOOD CODE": "D064",
+  "FOOD NAME": "Plantain, stem (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 5.15,
+  "TOTAL STARCH (g)": 4.51,
+  "GLUCOSE (g)": 0.65,
+  "TOTAL F.SUGARS (g)": 0.65
+ },
+ {
+  "FOOD CODE": "D065",
+  "FOOD NAME": "Pumpkin, green, cylindrical (Cucurbita maxima)",
+  "TOTAL Avail.CHO (g)": 3.1,
+  "TOTAL STARCH (g)": 0.2,
+  "FRUCTOSE (g)": 1.03,
+  "GLUCOSE (g)": 1.01,
+  "SUCROSE (g)": 0.86,
+  "TOTAL F.SUGARS (g)": 2.9
+ },
+ {
+  "FOOD CODE": "D066",
+  "FOOD NAME": "Pumpkin, orange, round (Cucurbita maxima)",
+  "TOTAL Avail.CHO (g)": 3.3,
+  "TOTAL STARCH (g)": 0.33,
+  "FRUCTOSE (g)": 1.9,
+  "GLUCOSE (g)": 0.33,
+  "SUCROSE (g)": 0.74,
+  "TOTAL F.SUGARS (g)": 2.97
+ },
+ {
+  "FOOD CODE": "D067",
+  "FOOD NAME": "Red gram, tender, fresh (Cajanus cajan)",
+  "TOTAL Avail.CHO (g)": 14.57,
+  "TOTAL STARCH (g)": 14.02,
+  "FRUCTOSE (g)": 0.22,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.23,
+  "TOTAL F.SUGARS (g)": 0.55
+ },
+ {
+  "FOOD CODE": "D068",
+  "FOOD NAME": "Ridge gourd (Luffa acutangula)",
+  "TOTAL Avail.CHO (g)": 1.4,
+  "TOTAL STARCH (g)": 0.81,
+  "FRUCTOSE (g)": 0.45,
+  "GLUCOSE (g)": 0.08,
+  "SUCROSE (g)": 0.03,
+  "MALTOSE (g)": 0.06,
+  "TOTAL F.SUGARS (g)": 0.62
+ },
+ {
+  "FOOD CODE": "D069",
+  "FOOD NAME": "Ridge gourd, smooth skin (Luffa acutangula)",
+  "TOTAL Avail.CHO (g)": 1.19,
+  "TOTAL STARCH (g)": 0.79,
+  "FRUCTOSE (g)": 0.32,
+  "GLUCOSE (g)": 0.06,
+  "SUCROSE (g)": 0.02,
+  "MALTOSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.41
+ },
+ {
+  "FOOD CODE": "D070",
+  "FOOD NAME": "Snake gourd, long, pale green (Trichosanthes anguina)",
+  "TOTAL Avail.CHO (g)": 1.2,
+  "TOTAL STARCH (g)": 0.78,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.01,
+  "MALTOSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.42
+ },
+ {
+  "FOOD CODE": "D071",
+  "FOOD NAME": "Snake gourd, long, dark green (Trichosanthes anguina)",
+  "TOTAL Avail.CHO (g)": 1.19,
+  "TOTAL STARCH (g)": 0.74,
+  "FRUCTOSE (g)": 0.3,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.01,
+  "MALTOSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.45
+ },
+ {
+  "FOOD CODE": "D072",
+  "FOOD NAME": "Snake gourd, short (Trichosanthes anguina)",
+  "TOTAL Avail.CHO (g)": 1.18,
+  "TOTAL STARCH (g)": 0.72,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.12,
+  "SUCROSE (g)": 0.01,
+  "MALTOSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.46
+ },
+ {
+  "FOOD CODE": "D073",
+  "FOOD NAME": "Tinda, tender (Praecitrullus fistulosus)",
+  "TOTAL Avail.CHO (g)": 1.07,
+  "TOTAL STARCH (g)": 0.64,
+  "FRUCTOSE (g)": 0.25,
+  "GLUCOSE (g)": 0.07,
+  "MALTOSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.44
+ },
+ {
+  "FOOD CODE": "D074",
+  "FOOD NAME": "Tomato, green (Lycopersicon esculentum)",
+  "TOTAL Avail.CHO (g)": 1.31,
+  "TOTAL STARCH (g)": 0.48,
+  "FRUCTOSE (g)": 0.41,
+  "GLUCOSE (g)": 0.42,
+  "TOTAL F.SUGARS (g)": 0.83
+ },
+ {
+  "FOOD CODE": "D075",
+  "FOOD NAME": "Tomato, ripe, hybrid (Lycopersicon esculentum)",
+  "TOTAL Avail.CHO (g)": 1.82,
+  "FRUCTOSE (g)": 1.65,
+  "GLUCOSE (g)": 0.18,
+  "TOTAL F.SUGARS (g)": 1.82
+ },
+ {
+  "FOOD CODE": "D076",
+  "FOOD NAME": "Tomato, ripe, local (Lycopersicon esculentum)",
+  "TOTAL Avail.CHO (g)": 1.34,
+  "FRUCTOSE (g)": 1.16,
+  "GLUCOSE (g)": 0.18,
+  "TOTAL F.SUGARS (g)": 1.34
+ },
+ {
+  "FOOD CODE": "D077",
+  "FOOD NAME": "Zucchini, green (Cucurbita pepo)",
+  "TOTAL Avail.CHO (g)": 1.61,
+  "TOTAL STARCH (g)": 1.47,
+  "FRUCTOSE (g)": 0.12,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.14
+ },
+ {
+  "FOOD CODE": "D078",
+  "FOOD NAME": "Zucchini, yellow (Cucurbita pepo)",
+  "TOTAL Avail.CHO (g)": 1.37,
+  "TOTAL STARCH (g)": 1.07,
+  "FRUCTOSE (g)": 0.19,
+  "GLUCOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.29
+ },
+ {
+  "FOOD CODE": "E001",
+  "FOOD NAME": "Apple, big (Malus domestica)",
+  "TOTAL Avail.CHO (g)": 9.53,
+  "FRUCTOSE (g)": 8.36,
+  "GLUCOSE (g)": 1.03,
+  "SUCROSE (g)": 0.14,
+  "TOTAL F.SUGARS (g)": 9.53
+ },
+ {
+  "FOOD CODE": "E002",
+  "FOOD NAME": "Apple, green (Malus domestica)",
+  "TOTAL Avail.CHO (g)": 8.39,
+  "FRUCTOSE (g)": 7.19,
+  "GLUCOSE (g)": 1.08,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 8.39
+ },
+ {
+  "FOOD CODE": "E003",
+  "FOOD NAME": "Apple, small (Malus domestica)",
+  "TOTAL Avail.CHO (g)": 9.8,
+  "FRUCTOSE (g)": 8.52,
+  "GLUCOSE (g)": 1.17,
+  "SUCROSE (g)": 0.11,
+  "TOTAL F.SUGARS (g)": 9.8
+ },
+ {
+  "FOOD CODE": "E004",
+  "FOOD NAME": "Apple, small, Kashmir (Malus domestica)",
+  "TOTAL Avail.CHO (g)": 9.15,
+  "FRUCTOSE (g)": 7.18,
+  "GLUCOSE (g)": 1.6,
+  "SUCROSE (g)": 0.37,
+  "TOTAL F.SUGARS (g)": 9.15
+ },
+ {
+  "FOOD CODE": "E005",
+  "FOOD NAME": "Apricot, dried (Prunus armeniaca)",
+  "TOTAL Avail.CHO (g)": 70.1,
+  "TOTAL STARCH (g)": 44.38,
+  "FRUCTOSE (g)": 16.52,
+  "GLUCOSE (g)": 6.98,
+  "SUCROSE (g)": 2.21,
+  "TOTAL F.SUGARS (g)": 25.72
+ },
+ {
+  "FOOD CODE": "E006",
+  "FOOD NAME": "Apricot, processed (Prunus armeniaca)",
+  "TOTAL Avail.CHO (g)": 9.34,
+  "TOTAL STARCH (g)": 4.99,
+  "FRUCTOSE (g)": 1.33,
+  "GLUCOSE (g)": 0.43,
+  "SUCROSE (g)": 2.6,
+  "TOTAL F.SUGARS (g)": 4.36
+ },
+ {
+  "FOOD CODE": "E007",
+  "FOOD NAME": "Avocado fruit (Persea americana)",
+  "TOTAL Avail.CHO (g)": 1.75,
+  "TOTAL STARCH (g)": 0.1,
+  "FRUCTOSE (g)": 1,
+  "GLUCOSE (g)": 0.44,
+  "SUCROSE (g)": 0.21,
+  "TOTAL F.SUGARS (g)": 1.65
+ },
+ {
+  "FOOD CODE": "E008",
+  "FOOD NAME": "Bael fruit (Aegle marmelos)",
+  "TOTAL Avail.CHO (g)": 23.55,
+  "TOTAL STARCH (g)": 7.2,
+  "FRUCTOSE (g)": 9.58,
+  "GLUCOSE (g)": 2.65,
+  "SUCROSE (g)": 4.12,
+  "TOTAL F.SUGARS (g)": 16.35
+ },
+ {
+  "FOOD CODE": "E009",
+  "FOOD NAME": "Banana, ripe, montham (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 18.22,
+  "TOTAL STARCH (g)": 3.32,
+  "FRUCTOSE (g)": 6.32,
+  "GLUCOSE (g)": 7.68,
+  "SUCROSE (g)": 0.9,
+  "TOTAL F.SUGARS (g)": 14.9
+ },
+ {
+  "FOOD CODE": "E010",
+  "FOOD NAME": "Banana, ripe, poovam (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 17.26,
+  "TOTAL STARCH (g)": 4.72,
+  "FRUCTOSE (g)": 5.43,
+  "GLUCOSE (g)": 6.12,
+  "SUCROSE (g)": 0.99,
+  "TOTAL F.SUGARS (g)": 12.54
+ },
+ {
+  "FOOD CODE": "E011",
+  "FOOD NAME": "Banana, ripe, red (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 18.53,
+  "TOTAL STARCH (g)": 3.96,
+  "FRUCTOSE (g)": 6.03,
+  "GLUCOSE (g)": 4.05,
+  "SUCROSE (g)": 4.49,
+  "TOTAL F.SUGARS (g)": 14.57
+ },
+ {
+  "FOOD CODE": "E012",
+  "FOOD NAME": "Banana, ripe, robusta (Musa x paradisiaca)",
+  "TOTAL Avail.CHO (g)": 18.94,
+  "TOTAL STARCH (g)": 5.29,
+  "FRUCTOSE (g)": 6.5,
+  "GLUCOSE (g)": 4.05,
+  "SUCROSE (g)": 3.1,
+  "TOTAL F.SUGARS (g)": 13.65
+ },
+ {
+  "FOOD CODE": "E013",
+  "FOOD NAME": "Black berry (Rubus fruticosus)",
+  "TOTAL Avail.CHO (g)": 7.61,
+  "FRUCTOSE (g)": 4.47,
+  "GLUCOSE (g)": 2.5,
+  "SUCROSE (g)": 0.64,
+  "TOTAL F.SUGARS (g)": 7.61
+ },
+ {
+  "FOOD CODE": "E014",
+  "FOOD NAME": "Cherries, red (Prunus cerasus)",
+  "TOTAL Avail.CHO (g)": 10.72,
+  "FRUCTOSE (g)": 5.91,
+  "GLUCOSE (g)": 4.61,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 10.72
+ },
+ {
+  "FOOD CODE": "E015",
+  "FOOD NAME": "Currants, black (Ribes nigrum)",
+  "TOTAL Avail.CHO (g)": 8.89,
+  "TOTAL STARCH (g)": 2.56,
+  "FRUCTOSE (g)": 2.98,
+  "GLUCOSE (g)": 2.85,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 6.33
+ },
+ {
+  "FOOD CODE": "E016",
+  "FOOD NAME": "Custard apple (Annona squamosa)",
+  "TOTAL Avail.CHO (g)": 13.69,
+  "TOTAL STARCH (g)": 0.34,
+  "FRUCTOSE (g)": 9.1,
+  "GLUCOSE (g)": 4.25,
+  "TOTAL F.SUGARS (g)": 13.35
+ },
+ {
+  "FOOD CODE": "E017",
+  "FOOD NAME": "Dates, dry, pale brown (Phoenix dactylifera)",
+  "TOTAL Avail.CHO (g)": 67.5,
+  "TOTAL STARCH (g)": 0.87,
+  "FRUCTOSE (g)": 14.9,
+  "GLUCOSE (g)": 6.15,
+  "SUCROSE (g)": 45.58,
+  "TOTAL F.SUGARS (g)": 66.63
+ },
+ {
+  "FOOD CODE": "E018",
+  "FOOD NAME": "Dates, dry, dark brown (Phoenix dactylifera)",
+  "TOTAL Avail.CHO (g)": 69.83,
+  "TOTAL STARCH (g)": 0.99,
+  "FRUCTOSE (g)": 15.04,
+  "GLUCOSE (g)": 6.26,
+  "SUCROSE (g)": 47.54,
+  "TOTAL F.SUGARS (g)": 68.84
+ },
+ {
+  "FOOD CODE": "E019",
+  "FOOD NAME": "Dates, processed (Phoenix dactylifera)",
+  "TOTAL Avail.CHO (g)": 58.74,
+  "TOTAL STARCH (g)": 1.78,
+  "FRUCTOSE (g)": 22.34,
+  "GLUCOSE (g)": 5,
+  "SUCROSE (g)": 29.62,
+  "TOTAL F.SUGARS (g)": 56.96
+ },
+ {
+  "FOOD CODE": "E020",
+  "FOOD NAME": "Fig (Ficus carica)",
+  "TOTAL Avail.CHO (g)": 9.79,
+  "TOTAL STARCH (g)": 1.15,
+  "FRUCTOSE (g)": 5.89,
+  "GLUCOSE (g)": 1.2,
+  "SUCROSE (g)": 1.55,
+  "TOTAL F.SUGARS (g)": 8.64
+ },
+ {
+  "FOOD CODE": "E021",
+  "FOOD NAME": "Goosberry (Emblica officinalis)",
+  "TOTAL Avail.CHO (g)": 3.95,
+  "TOTAL STARCH (g)": 0.56,
+  "FRUCTOSE (g)": 2.1,
+  "GLUCOSE (g)": 1.29,
+  "TOTAL F.SUGARS (g)": 3.39
+ },
+ {
+  "FOOD CODE": "E022",
+  "FOOD NAME": "Grapes, seeded, round, black (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 10.02,
+  "FRUCTOSE (g)": 7.1,
+  "GLUCOSE (g)": 2.77,
+  "SUCROSE (g)": 0.15,
+  "TOTAL F.SUGARS (g)": 10.02
+ },
+ {
+  "FOOD CODE": "E023",
+  "FOOD NAME": "Grapes, seeded, round, green (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 9.59,
+  "FRUCTOSE (g)": 7.11,
+  "GLUCOSE (g)": 2.38,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 9.59
+ },
+ {
+  "FOOD CODE": "E024",
+  "FOOD NAME": "Grapes, seeded, round, red (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 10.47,
+  "FRUCTOSE (g)": 7.8,
+  "GLUCOSE (g)": 2.57,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 10.47
+ },
+ {
+  "FOOD CODE": "E025",
+  "FOOD NAME": "Grapes, seedless, oval, black (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 9.19,
+  "FRUCTOSE (g)": 7.08,
+  "GLUCOSE (g)": 2.01,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 9.19
+ },
+ {
+  "FOOD CODE": "E026",
+  "FOOD NAME": "Grapes, seedless, round, green (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 9.6,
+  "FRUCTOSE (g)": 7.35,
+  "GLUCOSE (g)": 2.15,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 9.6
+ },
+ {
+  "FOOD CODE": "E027",
+  "FOOD NAME": "Grapes, seedless, round, black (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 10.88,
+  "FRUCTOSE (g)": 7.49,
+  "GLUCOSE (g)": 3.29,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 10.88
+ },
+ {
+  "FOOD CODE": "E028",
+  "FOOD NAME": "Guava, white flesh (Psidium guajava)",
+  "TOTAL Avail.CHO (g)": 4.74,
+  "TOTAL STARCH (g)": 0.63,
+  "FRUCTOSE (g)": 2,
+  "GLUCOSE (g)": 1.9,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 4.1
+ },
+ {
+  "FOOD CODE": "E029",
+  "FOOD NAME": "Guava, pink flesh (Psidium guajava)",
+  "TOTAL Avail.CHO (g)": 8.49,
+  "TOTAL STARCH (g)": 0.7,
+  "FRUCTOSE (g)": 4.01,
+  "GLUCOSE (g)": 3.6,
+  "SUCROSE (g)": 0.18,
+  "TOTAL F.SUGARS (g)": 7.79
+ },
+ {
+  "FOOD CODE": "E030",
+  "FOOD NAME": "Jack fruit, ripe (Artocarpus heterophyllus)",
+  "TOTAL Avail.CHO (g)": 12.71,
+  "TOTAL STARCH (g)": 0.5,
+  "FRUCTOSE (g)": 4.12,
+  "GLUCOSE (g)": 3.33,
+  "SUCROSE (g)": 4.76,
+  "TOTAL F.SUGARS (g)": 12.21
+ },
+ {
+  "FOOD CODE": "E031",
+  "FOOD NAME": "Jambu fruit, ripe (Syzygium cumini)",
+  "TOTAL Avail.CHO (g)": 8.32,
+  "TOTAL STARCH (g)": 1.48,
+  "FRUCTOSE (g)": 4.47,
+  "GLUCOSE (g)": 2.21,
+  "SUCROSE (g)": 0.16,
+  "TOTAL F.SUGARS (g)": 6.84
+ },
+ {
+  "FOOD CODE": "E032",
+  "FOOD NAME": "Karonda fruit (Carissa carandas)",
+  "TOTAL Avail.CHO (g)": 2.55,
+  "TOTAL STARCH (g)": 0.8,
+  "FRUCTOSE (g)": 1.19,
+  "GLUCOSE (g)": 0.56,
+  "TOTAL F.SUGARS (g)": 1.75
+ },
+ {
+  "FOOD CODE": "E033",
+  "FOOD NAME": "Lemon, juice (Citrus limon)",
+  "TOTAL Avail.CHO (g)": 2.59,
+  "FRUCTOSE (g)": 1.01,
+  "GLUCOSE (g)": 1.28,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 2.59
+ },
+ {
+  "FOOD CODE": "E034",
+  "FOOD NAME": "Lime, sweet,pulp (Citrus limetta)",
+  "TOTAL Avail.CHO (g)": 3.94,
+  "TOTAL STARCH (g)": 0.52,
+  "FRUCTOSE (g)": 0.7,
+  "GLUCOSE (g)": 2.6,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 3.42
+ },
+ {
+  "FOOD CODE": "E035",
+  "FOOD NAME": "Litchi (Nephelium litchi)",
+  "TOTAL Avail.CHO (g)": 9.3,
+  "FRUCTOSE (g)": 4.05,
+  "GLUCOSE (g)": 2.17,
+  "SUCROSE (g)": 3.08,
+  "TOTAL F.SUGARS (g)": 9.3
+ },
+ {
+  "FOOD CODE": "E036",
+  "FOOD NAME": "Mango, ripe, banganapalli (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 7.77,
+  "FRUCTOSE (g)": 2.38,
+  "GLUCOSE (g)": 0.73,
+  "SUCROSE (g)": 4.66,
+  "TOTAL F.SUGARS (g)": 7.77
+ },
+ {
+  "FOOD CODE": "E037",
+  "FOOD NAME": "Mango, ripe, gulabkhas (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 8.13,
+  "FRUCTOSE (g)": 3.9,
+  "GLUCOSE (g)": 2.6,
+  "SUCROSE (g)": 1.63,
+  "TOTAL F.SUGARS (g)": 8.13
+ },
+ {
+  "FOOD CODE": "E038",
+  "FOOD NAME": "Mango, ripe, himsagar (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 8.06,
+  "FRUCTOSE (g)": 4.5,
+  "GLUCOSE (g)": 0.55,
+  "SUCROSE (g)": 3.01,
+  "TOTAL F.SUGARS (g)": 8.06
+ },
+ {
+  "FOOD CODE": "E039",
+  "FOOD NAME": "Mango, ripe, kesar (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 9,
+  "FRUCTOSE (g)": 4.8,
+  "GLUCOSE (g)": 2.65,
+  "SUCROSE (g)": 1.55,
+  "TOTAL F.SUGARS (g)": 9
+ },
+ {
+  "FOOD CODE": "E040",
+  "FOOD NAME": "Mango, ripe, neelam (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 7.94,
+  "FRUCTOSE (g)": 4.42,
+  "GLUCOSE (g)": 2.71,
+  "SUCROSE (g)": 0.81,
+  "TOTAL F.SUGARS (g)": 7.94
+ },
+ {
+  "FOOD CODE": "E041",
+  "FOOD NAME": "Mango, ripe, paheri (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 8.48,
+  "FRUCTOSE (g)": 4.95,
+  "GLUCOSE (g)": 2.46,
+  "SUCROSE (g)": 1.07,
+  "TOTAL F.SUGARS (g)": 8.48
+ },
+ {
+  "FOOD CODE": "E042",
+  "FOOD NAME": "Mango, ripe, totapari (Mangifera indica)",
+  "TOTAL Avail.CHO (g)": 9.24,
+  "FRUCTOSE (g)": 7.33,
+  "GLUCOSE (g)": 1.05,
+  "SUCROSE (g)": 0.86,
+  "TOTAL F.SUGARS (g)": 9.24
+ },
+ {
+  "FOOD CODE": "E043",
+  "FOOD NAME": "Mangosteen (Garcinia mangostana)",
+  "TOTAL Avail.CHO (g)": 9.41,
+  "TOTAL STARCH (g)": 0.5,
+  "FRUCTOSE (g)": 5.12,
+  "GLUCOSE (g)": 1.67,
+  "SUCROSE (g)": 2.12,
+  "TOTAL F.SUGARS (g)": 8.91
+ },
+ {
+  "FOOD CODE": "E044",
+  "FOOD NAME": "Manila tamarind (Pithecellobium dulce)",
+  "TOTAL Avail.CHO (g)": 12.63,
+  "TOTAL STARCH (g)": 0.5,
+  "FRUCTOSE (g)": 3.45,
+  "GLUCOSE (g)": 4.12,
+  "SUCROSE (g)": 4.56,
+  "TOTAL F.SUGARS (g)": 12.13
+ },
+ {
+  "FOOD CODE": "E045",
+  "FOOD NAME": "Musk melon, orange flesh (Cucumis melon)",
+  "TOTAL Avail.CHO (g)": 2.99,
+  "FRUCTOSE (g)": 0.62,
+  "GLUCOSE (g)": 0.71,
+  "SUCROSE (g)": 1.65,
+  "TOTAL F.SUGARS (g)": 2.99
+ },
+ {
+  "FOOD CODE": "E046",
+  "FOOD NAME": "Musk melon, yellow flesh (Cucumis melon)",
+  "TOTAL Avail.CHO (g)": 2.36,
+  "FRUCTOSE (g)": 0.51,
+  "GLUCOSE (g)": 0.84,
+  "SUCROSE (g)": 1.01,
+  "TOTAL F.SUGARS (g)": 2.36
+ },
+ {
+  "FOOD CODE": "E047",
+  "FOOD NAME": "Orange, pulp (Citrus aurantium)",
+  "TOTAL Avail.CHO (g)": 6.86,
+  "FRUCTOSE (g)": 2.86,
+  "GLUCOSE (g)": 1.21,
+  "SUCROSE (g)": 2.79,
+  "TOTAL F.SUGARS (g)": 6.86
+ },
+ {
+  "FOOD CODE": "E048",
+  "FOOD NAME": "Palm fruit, tender (Borassus flabellifer)",
+  "TOTAL Avail.CHO (g)": 1.03,
+  "TOTAL STARCH (g)": 0.84,
+  "FRUCTOSE (g)": 0.17,
+  "GLUCOSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.19
+ },
+ {
+  "FOOD CODE": "E049",
+  "FOOD NAME": "Papaya, ripe (Carcia papaya)",
+  "TOTAL Avail.CHO (g)": 4.09,
+  "FRUCTOSE (g)": 2.44,
+  "GLUCOSE (g)": 1.15,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 4.09
+ },
+ {
+  "FOOD CODE": "E050",
+  "FOOD NAME": "Peach (Prunus communis)",
+  "TOTAL Avail.CHO (g)": 6.95,
+  "FRUCTOSE (g)": 1.15,
+  "GLUCOSE (g)": 0.89,
+  "SUCROSE (g)": 4.61,
+  "MALTOSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 6.95
+ },
+ {
+  "FOOD CODE": "E051",
+  "FOOD NAME": "Pear (Pyrus sp.)",
+  "TOTAL Avail.CHO (g)": 7.39,
+  "FRUCTOSE (g)": 3.51,
+  "GLUCOSE (g)": 2.74,
+  "SUCROSE (g)": 1.12,
+  "TOTAL F.SUGARS (g)": 7.39
+ },
+ {
+  "FOOD CODE": "E052",
+  "FOOD NAME": "Phalsa (Grewia asiatica)",
+  "TOTAL Avail.CHO (g)": 13.75,
+  "TOTAL STARCH (g)": 0.75,
+  "FRUCTOSE (g)": 6.12,
+  "GLUCOSE (g)": 4.66,
+  "SUCROSE (g)": 2.22,
+  "TOTAL F.SUGARS (g)": 13
+ },
+ {
+  "FOOD CODE": "E053",
+  "FOOD NAME": "Pineapple (Ananas comosus)",
+  "TOTAL Avail.CHO (g)": 8.56,
+  "FRUCTOSE (g)": 1.21,
+  "GLUCOSE (g)": 3.12,
+  "SUCROSE (g)": 4.23,
+  "TOTAL F.SUGARS (g)": 8.56
+ },
+ {
+  "FOOD CODE": "E054",
+  "FOOD NAME": "Plum (Prunus domestica)",
+  "TOTAL Avail.CHO (g)": 10.13,
+  "FRUCTOSE (g)": 3.5,
+  "GLUCOSE (g)": 3.42,
+  "SUCROSE (g)": 3.21,
+  "TOTAL F.SUGARS (g)": 10.13
+ },
+ {
+  "FOOD CODE": "E055",
+  "FOOD NAME": "Pomegranate, maroon seeds (Punica granatum)",
+  "TOTAL Avail.CHO (g)": 10.87,
+  "FRUCTOSE (g)": 1.01,
+  "GLUCOSE (g)": 1.74,
+  "SUCROSE (g)": 8.12,
+  "TOTAL F.SUGARS (g)": 10.87
+ },
+ {
+  "FOOD CODE": "E056",
+  "FOOD NAME": "Pummelo (Citrus maxima)",
+  "TOTAL Avail.CHO (g)": 4.85,
+  "TOTAL STARCH (g)": 0.46,
+  "FRUCTOSE (g)": 2.09,
+  "GLUCOSE (g)": 1.44,
+  "SUCROSE (g)": 0.86,
+  "TOTAL F.SUGARS (g)": 4.38
+ },
+ {
+  "FOOD CODE": "E057",
+  "FOOD NAME": "Raisins, dried, black (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 62.8,
+  "TOTAL STARCH (g)": 1.29,
+  "FRUCTOSE (g)": 23.12,
+  "GLUCOSE (g)": 16.22,
+  "SUCROSE (g)": 22.17,
+  "TOTAL F.SUGARS (g)": 61.51
+ },
+ {
+  "FOOD CODE": "E058",
+  "FOOD NAME": "Raisins, dried, golden (Vitis vinifera)",
+  "TOTAL Avail.CHO (g)": 58.17,
+  "TOTAL STARCH (g)": 1.05,
+  "FRUCTOSE (g)": 26.54,
+  "GLUCOSE (g)": 15.58,
+  "SUCROSE (g)": 15,
+  "TOTAL F.SUGARS (g)": 57.12
+ },
+ {
+  "FOOD CODE": "E059",
+  "FOOD NAME": "Rambutan (Nephelium lappaceum)",
+  "TOTAL Avail.CHO (g)": 15.8,
+  "FRUCTOSE (g)": 8.78,
+  "GLUCOSE (g)": 6,
+  "SUCROSE (g)": 1.02,
+  "TOTAL F.SUGARS (g)": 15.8
+ },
+ {
+  "FOOD CODE": "E060",
+  "FOOD NAME": "Sapota (Achras sapota)",
+  "TOTAL Avail.CHO (g)": 12.3,
+  "FRUCTOSE (g)": 8.6,
+  "GLUCOSE (g)": 2.85,
+  "SUCROSE (g)": 0.85,
+  "TOTAL F.SUGARS (g)": 12.3
+ },
+ {
+  "FOOD CODE": "E061",
+  "FOOD NAME": "Soursop ( Annona muricata )",
+  "TOTAL Avail.CHO (g)": 9.95,
+  "TOTAL STARCH (g)": 0.12,
+  "FRUCTOSE (g)": 7.99,
+  "GLUCOSE (g)": 1.66,
+  "SUCROSE (g)": 0.18,
+  "TOTAL F.SUGARS (g)": 9.83
+ },
+ {
+  "FOOD CODE": "E062",
+  "FOOD NAME": "Star fruit (Averrhoa carambola)",
+  "TOTAL Avail.CHO (g)": 3.95,
+  "FRUCTOSE (g)": 2.22,
+  "GLUCOSE (g)": 1.73,
+  "TOTAL F.SUGARS (g)": 3.95
+ },
+ {
+  "FOOD CODE": "E063",
+  "FOOD NAME": "Strawberry (Fragaria ananassa)",
+  "TOTAL Avail.CHO (g)": 3.66,
+  "TOTAL STARCH (g)": 0.1,
+  "FRUCTOSE (g)": 1.9,
+  "GLUCOSE (g)": 1.6,
+  "SUCROSE (g)": 0.07,
+  "TOTAL F.SUGARS (g)": 3.56
+ },
+ {
+  "FOOD CODE": "E064",
+  "FOOD NAME": "Tamarind, pulp (Tamarindus indicus)",
+  "TOTAL Avail.CHO (g)": 52.88,
+  "FRUCTOSE (g)": 12.31,
+  "GLUCOSE (g)": 14.53,
+  "SUCROSE (g)": 26.04,
+  "TOTAL F.SUGARS (g)": 52.88
+ },
+ {
+  "FOOD CODE": "E065",
+  "FOOD NAME": "Water melon, dark green (sugar baby) (Citrullus vulgaris)",
+  "TOTAL Avail.CHO (g)": 3.66,
+  "FRUCTOSE (g)": 1.91,
+  "GLUCOSE (g)": 0.31,
+  "SUCROSE (g)": 1.44,
+  "TOTAL F.SUGARS (g)": 3.66
+ },
+ {
+  "FOOD CODE": "E066",
+  "FOOD NAME": "Water melon, pale green (Citrullus vulgaris)",
+  "TOTAL Avail.CHO (g)": 3,
+  "FRUCTOSE (g)": 2.57,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 3
+ },
+ {
+  "FOOD CODE": "E067",
+  "FOOD NAME": "Wood Apple (Limonia acidissima)",
+  "TOTAL Avail.CHO (g)": 6.6,
+  "TOTAL STARCH (g)": 2.79,
+  "FRUCTOSE (g)": 1.38,
+  "GLUCOSE (g)": 1.41,
+  "SUCROSE (g)": 1.02,
+  "TOTAL F.SUGARS (g)": 3.81
+ },
+ {
+  "FOOD CODE": "E068",
+  "FOOD NAME": "Zizyphus (Zizyphus jujube)",
+  "TOTAL Avail.CHO (g)": 8.29,
+  "FRUCTOSE (g)": 4.3,
+  "GLUCOSE (g)": 2.98,
+  "SUCROSE (g)": 1.01,
+  "TOTAL F.SUGARS (g)": 8.29
+ },
+ {
+  "FOOD CODE": "F001",
+  "FOOD NAME": "Beet root (Beta vulgaris)",
+  "TOTAL Avail.CHO (g)": 6.04,
+  "TOTAL STARCH (g)": 1.69,
+  "FRUCTOSE (g)": 1.67,
+  "GLUCOSE (g)": 1.46,
+  "SUCROSE (g)": 1.21,
+  "TOTAL F.SUGARS (g)": 4.35
+ },
+ {
+  "FOOD CODE": "F002",
+  "FOOD NAME": "Carrot, orange (Dacus carota)",
+  "TOTAL Avail.CHO (g)": 4.48,
+  "TOTAL STARCH (g)": 1.24,
+  "FRUCTOSE (g)": 0.11,
+  "GLUCOSE (g)": 1.15,
+  "SUCROSE (g)": 1.98,
+  "TOTAL F.SUGARS (g)": 3.23
+ },
+ {
+  "FOOD CODE": "F003",
+  "FOOD NAME": "Carrot, red (Dacus carota)",
+  "TOTAL Avail.CHO (g)": 5.35,
+  "TOTAL STARCH (g)": 1.39,
+  "FRUCTOSE (g)": 1.08,
+  "GLUCOSE (g)": 1.13,
+  "SUCROSE (g)": 1.75,
+  "TOTAL F.SUGARS (g)": 3.96
+ },
+ {
+  "FOOD CODE": "F004",
+  "FOOD NAME": "Colocasia (Colocasia antiquorum)",
+  "TOTAL Avail.CHO (g)": 14.78,
+  "TOTAL STARCH (g)": 13.88,
+  "FRUCTOSE (g)": 0.54,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 0.12,
+  "TOTAL F.SUGARS (g)": 0.9
+ },
+ {
+  "FOOD CODE": "F005",
+  "FOOD NAME": "Lotus root (Nelumbium nelumbo)",
+  "TOTAL Avail.CHO (g)": 13.46,
+  "TOTAL STARCH (g)": 13.22,
+  "FRUCTOSE (g)": 0.07,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.07,
+  "TOTAL F.SUGARS (g)": 0.24
+ },
+ {
+  "FOOD CODE": "F006",
+  "FOOD NAME": "Potato, brown skin, big (Solanum tuberosum)",
+  "TOTAL Avail.CHO (g)": 11.79,
+  "TOTAL STARCH (g)": 11.47,
+  "FRUCTOSE (g)": 0.24,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.04,
+  "TOTAL F.SUGARS (g)": 0.32
+ },
+ {
+  "FOOD CODE": "F007",
+  "FOOD NAME": "Potato, brown skin, small (Solanum tuberosum)",
+  "TOTAL Avail.CHO (g)": 10.73,
+  "TOTAL STARCH (g)": 10.29,
+  "FRUCTOSE (g)": 0.26,
+  "GLUCOSE (g)": 0.08,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.44
+ },
+ {
+  "FOOD CODE": "F008",
+  "FOOD NAME": "Potato, red skin (Solanum tuberosum)",
+  "TOTAL Avail.CHO (g)": 13.46,
+  "TOTAL STARCH (g)": 13.08,
+  "FRUCTOSE (g)": 0.22,
+  "GLUCOSE (g)": 0.1,
+  "SUCROSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.38
+ },
+ {
+  "FOOD CODE": "F009",
+  "FOOD NAME": "Radish, elongate, red skin (Raphanus sativus)",
+  "TOTAL Avail.CHO (g)": 1.56,
+  "TOTAL STARCH (g)": 0.41,
+  "FRUCTOSE (g)": 0.48,
+  "GLUCOSE (g)": 0.27,
+  "SUCROSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 1.15
+ },
+ {
+  "FOOD CODE": "F010",
+  "FOOD NAME": "Radish, elongate, white skin (Raphanus sativus)",
+  "TOTAL Avail.CHO (g)": 1.54,
+  "TOTAL STARCH (g)": 0.59,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.03,
+  "SUCROSE (g)": 0.62,
+  "TOTAL F.SUGARS (g)": 0.95
+ },
+ {
+  "FOOD CODE": "F011",
+  "FOOD NAME": "Radish, round, red skin (Raphanus sativus)",
+  "TOTAL Avail.CHO (g)": 1.5,
+  "TOTAL STARCH (g)": 0.64,
+  "FRUCTOSE (g)": 0.38,
+  "GLUCOSE (g)": 0.18,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 0.86
+ },
+ {
+  "FOOD CODE": "F012",
+  "FOOD NAME": "Radish, round, white skin (Raphanus sativus)",
+  "TOTAL Avail.CHO (g)": 1.46,
+  "TOTAL STARCH (g)": 0.3,
+  "FRUCTOSE (g)": 0.36,
+  "GLUCOSE (g)": 0.3,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 1.16
+ },
+ {
+  "FOOD CODE": "F013",
+  "FOOD NAME": "Sweet potato, brown skin (Ipomoes batatas)",
+  "TOTAL Avail.CHO (g)": 22.45,
+  "TOTAL STARCH (g)": 18.82,
+  "FRUCTOSE (g)": 0.46,
+  "GLUCOSE (g)": 0.71,
+  "SUCROSE (g)": 2.47,
+  "TOTAL F.SUGARS (g)": 3.63
+ },
+ {
+  "FOOD CODE": "F014",
+  "FOOD NAME": "Sweet potato, pink skin (Ipomoes batatas)",
+  "TOTAL Avail.CHO (g)": 23.91,
+  "TOTAL STARCH (g)": 19.88,
+  "FRUCTOSE (g)": 0.9,
+  "GLUCOSE (g)": 0.97,
+  "SUCROSE (g)": 2.16,
+  "TOTAL F.SUGARS (g)": 4.03
+ },
+ {
+  "FOOD CODE": "F015",
+  "FOOD NAME": "Tapioca (Manihot esculenta)",
+  "TOTAL Avail.CHO (g)": 17.5,
+  "TOTAL STARCH (g)": 15.36,
+  "FRUCTOSE (g)": 0.13,
+  "GLUCOSE (g)": 0.29,
+  "SUCROSE (g)": 1.72,
+  "TOTAL F.SUGARS (g)": 2.14
+ },
+ {
+  "FOOD CODE": "F016",
+  "FOOD NAME": "Water Chestnut (Eleocharis dulcis)",
+  "TOTAL Avail.CHO (g)": 17.88,
+  "TOTAL STARCH (g)": 15.93,
+  "FRUCTOSE (g)": 0.12,
+  "GLUCOSE (g)": 0.32,
+  "SUCROSE (g)": 1.51,
+  "TOTAL F.SUGARS (g)": 1.95
+ },
+ {
+  "FOOD CODE": "F017",
+  "FOOD NAME": "Yam, elephant (Amorphophallus campanulatus)",
+  "TOTAL Avail.CHO (g)": 15.94,
+  "TOTAL STARCH (g)": 14.36,
+  "FRUCTOSE (g)": 0.7,
+  "GLUCOSE (g)": 0.16,
+  "SUCROSE (g)": 0.72,
+  "TOTAL F.SUGARS (g)": 1.58
+ },
+ {
+  "FOOD CODE": "F018",
+  "FOOD NAME": "Yam, ordinary (Amorphophallus campanulatus)",
+  "TOTAL Avail.CHO (g)": 16.09,
+  "TOTAL STARCH (g)": 14.94,
+  "FRUCTOSE (g)": 0.42,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.62,
+  "TOTAL F.SUGARS (g)": 1.15
+ },
+ {
+  "FOOD CODE": "F019",
+  "FOOD NAME": "Yam, wild (Dioscorea versicolor)",
+  "TOTAL Avail.CHO (g)": 16.89,
+  "TOTAL STARCH (g)": 15.35,
+  "FRUCTOSE (g)": 0.62,
+  "GLUCOSE (g)": 0.12,
+  "SUCROSE (g)": 0.8,
+  "TOTAL F.SUGARS (g)": 1.54
+ },
+ {
+  "FOOD CODE": "G001",
+  "FOOD NAME": "Chillies, green-1 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 3.02,
+  "TOTAL STARCH (g)": 2.31,
+  "FRUCTOSE (g)": 0.54,
+  "GLUCOSE (g)": 0.16,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.71
+ },
+ {
+  "FOOD CODE": "G002",
+  "FOOD NAME": "Chillies, green-2 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 3.01,
+  "TOTAL STARCH (g)": 1.96,
+  "FRUCTOSE (g)": 0.93,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 1.05
+ },
+ {
+  "FOOD CODE": "G003",
+  "FOOD NAME": "Chillies, green-3 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 2.39,
+  "TOTAL STARCH (g)": 1.85,
+  "FRUCTOSE (g)": 0.45,
+  "GLUCOSE (g)": 0.08,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.54
+ },
+ {
+  "FOOD CODE": "G004",
+  "FOOD NAME": "Chillies, green-4 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 2.27,
+  "TOTAL STARCH (g)": 1.65,
+  "FRUCTOSE (g)": 0.47,
+  "GLUCOSE (g)": 0.14,
+  "SUCROSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.62
+ },
+ {
+  "FOOD CODE": "G005",
+  "FOOD NAME": "Chillies, green-5 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 2.3,
+  "TOTAL STARCH (g)": 1.84,
+  "FRUCTOSE (g)": 0.42,
+  "GLUCOSE (g)": 0.02,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.46
+ },
+ {
+  "FOOD CODE": "G006",
+  "FOOD NAME": "Chillies, green-6 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 2.29,
+  "TOTAL STARCH (g)": 1.7,
+  "FRUCTOSE (g)": 0.43,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.59
+ },
+ {
+  "FOOD CODE": "G007",
+  "FOOD NAME": "Chillies, green-7 (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 3.21,
+  "TOTAL STARCH (g)": 2.48,
+  "FRUCTOSE (g)": 0.66,
+  "GLUCOSE (g)": 0.05,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.73
+ },
+ {
+  "FOOD CODE": "G008",
+  "FOOD NAME": "Chillies, green - all varieties (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 2.63,
+  "TOTAL STARCH (g)": 1.96,
+  "FRUCTOSE (g)": 0.55,
+  "GLUCOSE (g)": 0.11,
+  "SUCROSE (g)": 0.02,
+  "TOTAL F.SUGARS (g)": 0.67
+ },
+ {
+  "FOOD CODE": "G009",
+  "FOOD NAME": "Coriander leaves (Coriandrum sativum)",
+  "TOTAL Avail.CHO (g)": 1.23,
+  "TOTAL STARCH (g)": 1.06,
+  "FRUCTOSE (g)": 0.07,
+  "GLUCOSE (g)": 0.06,
+  "SUCROSE (g)": 0.05,
+  "TOTAL F.SUGARS (g)": 0.17
+ },
+ {
+  "FOOD CODE": "G010",
+  "FOOD NAME": "Curry leaves (Murraya koenigii)",
+  "TOTAL Avail.CHO (g)": 3.66,
+  "TOTAL STARCH (g)": 3.08,
+  "FRUCTOSE (g)": 0.41,
+  "GLUCOSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 0.6
+ },
+ {
+  "FOOD CODE": "G011",
+  "FOOD NAME": "Garlic, big clove (Allium sativum)",
+  "TOTAL Avail.CHO (g)": 20.81,
+  "TOTAL STARCH (g)": 14.84,
+  "FRUCTOSE (g)": 4.2,
+  "GLUCOSE (g)": 1.2,
+  "SUCROSE (g)": 0.57,
+  "TOTAL F.SUGARS (g)": 5.97
+ },
+ {
+  "FOOD CODE": "G012",
+  "FOOD NAME": "Garlic, small clove (Allium sativum)",
+  "TOTAL Avail.CHO (g)": 19.7,
+  "TOTAL STARCH (g)": 14.86,
+  "FRUCTOSE (g)": 1.48,
+  "GLUCOSE (g)": 1.08,
+  "SUCROSE (g)": 2.28,
+  "TOTAL F.SUGARS (g)": 4.84
+ },
+ {
+  "FOOD CODE": "G013",
+  "FOOD NAME": "Garlic, single clove, Kashmir (Allium sativum)",
+  "TOTAL Avail.CHO (g)": 21.26,
+  "TOTAL STARCH (g)": 17.53,
+  "FRUCTOSE (g)": 1.21,
+  "GLUCOSE (g)": 1.05,
+  "SUCROSE (g)": 1.47,
+  "TOTAL F.SUGARS (g)": 3.73
+ },
+ {
+  "FOOD CODE": "G014",
+  "FOOD NAME": "Ginger, fresh (Zinziber officinale)",
+  "TOTAL Avail.CHO (g)": 5.11,
+  "TOTAL STARCH (g)": 3.8,
+  "FRUCTOSE (g)": 1,
+  "GLUCOSE (g)": 0.15,
+  "SUCROSE (g)": 0.17,
+  "TOTAL F.SUGARS (g)": 1.31
+ },
+ {
+  "FOOD CODE": "G015",
+  "FOOD NAME": "Mango ginger (Curcuma amada)",
+  "TOTAL Avail.CHO (g)": 4.21,
+  "TOTAL STARCH (g)": 1.79,
+  "FRUCTOSE (g)": 1.11,
+  "GLUCOSE (g)": 0.81,
+  "SUCROSE (g)": 0.5,
+  "TOTAL F.SUGARS (g)": 2.42
+ },
+ {
+  "FOOD CODE": "G016",
+  "FOOD NAME": "Mint leaves (Mentha spicata )",
+  "TOTAL Avail.CHO (g)": 1.1,
+  "TOTAL STARCH (g)": 1.02,
+  "FRUCTOSE (g)": 0.01,
+  "GLUCOSE (g)": 0.07,
+  "TOTAL F.SUGARS (g)": 0.08
+ },
+ {
+  "FOOD CODE": "G017",
+  "FOOD NAME": "Onion, big (Allium cepa)",
+  "TOTAL Avail.CHO (g)": 6.68,
+  "TOTAL STARCH (g)": 0.8,
+  "FRUCTOSE (g)": 1.89,
+  "GLUCOSE (g)": 1.47,
+  "SUCROSE (g)": 2.52,
+  "TOTAL F.SUGARS (g)": 5.88
+ },
+ {
+  "FOOD CODE": "G018",
+  "FOOD NAME": "Onion, small (Allium cepa)",
+  "TOTAL Avail.CHO (g)": 6.37,
+  "TOTAL STARCH (g)": 0.75,
+  "FRUCTOSE (g)": 1.44,
+  "GLUCOSE (g)": 1.63,
+  "SUCROSE (g)": 2.55,
+  "TOTAL F.SUGARS (g)": 5.62
+ },
+ {
+  "FOOD CODE": "G019",
+  "FOOD NAME": "Asafoetida (Ferula assa-foetida)",
+  "TOTAL Avail.CHO (g)": 37.76,
+  "TOTAL STARCH (g)": 36.83,
+  "FRUCTOSE (g)": 0.21,
+  "GLUCOSE (g)": 0.47,
+  "SUCROSE (g)": 0.25,
+  "TOTAL F.SUGARS (g)": 0.93
+ },
+ {
+  "FOOD CODE": "G020",
+  "FOOD NAME": "Cardamom, green (Elettaria cardamomum)",
+  "TOTAL Avail.CHO (g)": 33.75,
+  "TOTAL STARCH (g)": 29.47,
+  "FRUCTOSE (g)": 1.84,
+  "GLUCOSE (g)": 1.89,
+  "SUCROSE (g)": 0.55,
+  "TOTAL F.SUGARS (g)": 4.28
+ },
+ {
+  "FOOD CODE": "G021",
+  "FOOD NAME": "Cardamom, black (Elettaria cardamomum)",
+  "TOTAL Avail.CHO (g)": 31.34,
+  "TOTAL STARCH (g)": 29.04,
+  "FRUCTOSE (g)": 1.37,
+  "GLUCOSE (g)": 0.76,
+  "SUCROSE (g)": 0.17,
+  "TOTAL F.SUGARS (g)": 2.3
+ },
+ {
+  "FOOD CODE": "G022",
+  "FOOD NAME": "Chillies, red (Capsicum annum)",
+  "TOTAL Avail.CHO (g)": 9.45,
+  "TOTAL STARCH (g)": 4.75,
+  "FRUCTOSE (g)": 2.68,
+  "GLUCOSE (g)": 1.82,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 4.7
+ },
+ {
+  "FOOD CODE": "G023",
+  "FOOD NAME": "Cloves (Syzygium aromaticum)",
+  "TOTAL Avail.CHO (g)": 10.67,
+  "TOTAL STARCH (g)": 8.57,
+  "FRUCTOSE (g)": 1.68,
+  "GLUCOSE (g)": 0.43,
+  "TOTAL F.SUGARS (g)": 2.1
+ },
+ {
+  "FOOD CODE": "G024",
+  "FOOD NAME": "Coriander seeds (Coriandrum sativum)",
+  "TOTAL Avail.CHO (g)": 8.45,
+  "TOTAL STARCH (g)": 6.07,
+  "FRUCTOSE (g)": 1.61,
+  "GLUCOSE (g)": 0.77,
+  "TOTAL F.SUGARS (g)": 2.38
+ },
+ {
+  "FOOD CODE": "G025",
+  "FOOD NAME": "Cumin seeds (Cuminum cyminum)",
+  "TOTAL Avail.CHO (g)": 15.84,
+  "TOTAL STARCH (g)": 14.46,
+  "FRUCTOSE (g)": 0.63,
+  "GLUCOSE (g)": 0.75,
+  "TOTAL F.SUGARS (g)": 1.38
+ },
+ {
+  "FOOD CODE": "G026",
+  "FOOD NAME": "Fenugreek seeds (Trigonella foenum graecum)",
+  "TOTAL Avail.CHO (g)": 4.22,
+  "TOTAL STARCH (g)": 3.66,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.12,
+  "SUCROSE (g)": 0.11,
+  "MALTOSE (g)": 0.01,
+  "TOTAL F.SUGARS (g)": 0.55
+ },
+ {
+  "FOOD CODE": "G027",
+  "FOOD NAME": "Mace (Myristica fragrans)",
+  "TOTAL Avail.CHO (g)": 23.71,
+  "TOTAL STARCH (g)": 22.85,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.28,
+  "SUCROSE (g)": 0.38,
+  "TOTAL F.SUGARS (g)": 0.85
+ },
+ {
+  "FOOD CODE": "G028",
+  "FOOD NAME": "Nutmeg (Myristica fragrans)",
+  "TOTAL Avail.CHO (g)": 25.56,
+  "TOTAL STARCH (g)": 24.49,
+  "FRUCTOSE (g)": 0.29,
+  "GLUCOSE (g)": 0.59,
+  "SUCROSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 1.08
+ },
+ {
+  "FOOD CODE": "G029",
+  "FOOD NAME": "Omum (Trachyspermum ammi)",
+  "TOTAL Avail.CHO (g)": 18.51,
+  "TOTAL STARCH (g)": 15.75,
+  "FRUCTOSE (g)": 2.07,
+  "GLUCOSE (g)": 0.47,
+  "SUCROSE (g)": 0.22,
+  "TOTAL F.SUGARS (g)": 2.76
+ },
+ {
+  "FOOD CODE": "G030",
+  "FOOD NAME": "Pippali (Piper longum)",
+  "TOTAL Avail.CHO (g)": 34.46,
+  "TOTAL STARCH (g)": 31.72,
+  "FRUCTOSE (g)": 1.24,
+  "GLUCOSE (g)": 0.51,
+  "SUCROSE (g)": 1,
+  "TOTAL F.SUGARS (g)": 2.75
+ },
+ {
+  "FOOD CODE": "G031",
+  "FOOD NAME": "Pepper, black (Piper nigrum)",
+  "TOTAL Avail.CHO (g)": 35.67,
+  "TOTAL STARCH (g)": 35.35,
+  "FRUCTOSE (g)": 0.09,
+  "GLUCOSE (g)": 0.23,
+  "TOTAL F.SUGARS (g)": 0.32
+ },
+ {
+  "FOOD CODE": "G032",
+  "FOOD NAME": "Poppy seeds (Papaver somniferum)",
+  "TOTAL Avail.CHO (g)": 12.28,
+  "TOTAL STARCH (g)": 10.43,
+  "FRUCTOSE (g)": 0.78,
+  "GLUCOSE (g)": 0.77,
+  "SUCROSE (g)": 0.3,
+  "TOTAL F.SUGARS (g)": 1.85
+ },
+ {
+  "FOOD CODE": "G033",
+  "FOOD NAME": "Turmeric powder (Curcuma domestica)",
+  "TOTAL Avail.CHO (g)": 45.67,
+  "TOTAL STARCH (g)": 44.44,
+  "GLUCOSE (g)": 0.49,
+  "SUCROSE (g)": 0.75,
+  "TOTAL F.SUGARS (g)": 1.23
+ },
+ {
+  "FOOD CODE": "H001",
+  "FOOD NAME": "Almond (Prunus amygdalus)",
+  "TOTAL Avail.CHO (g)": 2.24,
+  "TOTAL STARCH (g)": 0.01,
+  "FRUCTOSE (g)": 1.2,
+  "GLUCOSE (g)": 0.76,
+  "SUCROSE (g)": 0.27,
+  "TOTAL F.SUGARS (g)": 2.23
+ },
+ {
+  "FOOD CODE": "H002",
+  "FOOD NAME": "Arecanut, dried, brown (Areca catechu)",
+  "TOTAL Avail.CHO (g)": 68.32,
+  "TOTAL STARCH (g)": 66.56,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 0.71,
+  "SUCROSE (g)": 0.55,
+  "TOTAL F.SUGARS (g)": 1.76
+ },
+ {
+  "FOOD CODE": "H003",
+  "FOOD NAME": "Arecanut, dried, red color (Areca catechu)",
+  "TOTAL Avail.CHO (g)": 69.12,
+  "TOTAL STARCH (g)": 67.33,
+  "FRUCTOSE (g)": 0.6,
+  "GLUCOSE (g)": 0.83,
+  "SUCROSE (g)": 0.36,
+  "TOTAL F.SUGARS (g)": 1.79
+ },
+ {
+  "FOOD CODE": "H004",
+  "FOOD NAME": "Arecanut, fresh (Areca catechu)",
+  "TOTAL Avail.CHO (g)": 40.1,
+  "TOTAL STARCH (g)": 35.38,
+  "FRUCTOSE (g)": 3.24,
+  "GLUCOSE (g)": 1.06,
+  "SUCROSE (g)": 0.43,
+  "TOTAL F.SUGARS (g)": 4.72
+ },
+ {
+  "FOOD CODE": "H005",
+  "FOOD NAME": "Cashew nut (Anacardium occidentale)",
+  "TOTAL Avail.CHO (g)": 23.23,
+  "TOTAL STARCH (g)": 20.11,
+  "FRUCTOSE (g)": 1.97,
+  "GLUCOSE (g)": 1.05,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 3.11
+ },
+ {
+  "FOOD CODE": "H006",
+  "FOOD NAME": "Coconut, kernal, dry (Cocos nucifera)",
+  "TOTAL Avail.CHO (g)": 6.93,
+  "FRUCTOSE (g)": 1.37,
+  "GLUCOSE (g)": 1,
+  "SUCROSE (g)": 4.57,
+  "TOTAL F.SUGARS (g)": 6.93
+ },
+ {
+  "FOOD CODE": "H007",
+  "FOOD NAME": "Coconut, kernel, fresh (Cocos nucifera)",
+  "TOTAL Avail.CHO (g)": 6.2,
+  "FRUCTOSE (g)": 1,
+  "GLUCOSE (g)": 0.89,
+  "SUCROSE (g)": 4.31,
+  "TOTAL F.SUGARS (g)": 6.2
+ },
+ {
+  "FOOD CODE": "H008",
+  "FOOD NAME": "Garden cress, seeds (Lepidium sativum)",
+  "TOTAL Avail.CHO (g)": 31.03,
+  "TOTAL STARCH (g)": 30.12,
+  "FRUCTOSE (g)": 0.09,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.61,
+  "TOTAL F.SUGARS (g)": 0.91
+ },
+ {
+  "FOOD CODE": "H009",
+  "FOOD NAME": "Gingelly seeds, black (Sesamum indicum)",
+  "TOTAL Avail.CHO (g)": 9.53,
+  "TOTAL STARCH (g)": 8.54,
+  "FRUCTOSE (g)": 0.31,
+  "GLUCOSE (g)": 0.47,
+  "SUCROSE (g)": 0.21,
+  "TOTAL F.SUGARS (g)": 0.99
+ },
+ {
+  "FOOD CODE": "H010",
+  "FOOD NAME": "Gingelly seeds, brown (Sesamum indicum)",
+  "TOTAL Avail.CHO (g)": 9.31,
+  "TOTAL STARCH (g)": 7.92,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 0.21,
+  "SUCROSE (g)": 0.68,
+  "TOTAL F.SUGARS (g)": 1.39
+ },
+ {
+  "FOOD CODE": "H011",
+  "FOOD NAME": "Gingelly seeds, white (Sesamum indicum)",
+  "TOTAL Avail.CHO (g)": 8.61,
+  "TOTAL STARCH (g)": 7.94,
+  "FRUCTOSE (g)": 0.09,
+  "GLUCOSE (g)": 0.33,
+  "SUCROSE (g)": 0.26,
+  "TOTAL F.SUGARS (g)": 0.67
+ },
+ {
+  "FOOD CODE": "H012",
+  "FOOD NAME": "Ground nut (Arachis hypogea)",
+  "TOTAL Avail.CHO (g)": 14.61,
+  "TOTAL STARCH (g)": 10.19,
+  "FRUCTOSE (g)": 0.6,
+  "GLUCOSE (g)": 0.25,
+  "SUCROSE (g)": 3.57,
+  "TOTAL F.SUGARS (g)": 4.42
+ },
+ {
+  "FOOD CODE": "H013",
+  "FOOD NAME": "Mustard seeds (Brassica juncea)",
+  "TOTAL Avail.CHO (g)": 14.12,
+  "TOTAL STARCH (g)": 9.05,
+  "FRUCTOSE (g)": 1.13,
+  "GLUCOSE (g)": 1.4,
+  "SUCROSE (g)": 2.55,
+  "TOTAL F.SUGARS (g)": 5.07
+ },
+ {
+  "FOOD CODE": "H014",
+  "FOOD NAME": "Linseeds (Linum usitatissimum)",
+  "TOTAL Avail.CHO (g)": 8.15,
+  "TOTAL STARCH (g)": 7.55,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.4,
+  "TOTAL F.SUGARS (g)": 0.6
+ },
+ {
+  "FOOD CODE": "H015",
+  "FOOD NAME": "Niger seeds, black (Guizotia abyssinica)",
+  "TOTAL Avail.CHO (g)": 16.76,
+  "TOTAL STARCH (g)": 15.01,
+  "FRUCTOSE (g)": 1.34,
+  "GLUCOSE (g)": 0.31,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 1.75
+ },
+ {
+  "FOOD CODE": "H016",
+  "FOOD NAME": "Niger seeds, gray (Guizotia abyssinica)",
+  "TOTAL Avail.CHO (g)": 16.75,
+  "TOTAL STARCH (g)": 16.34,
+  "FRUCTOSE (g)": 0.11,
+  "GLUCOSE (g)": 0.2,
+  "SUCROSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.41
+ },
+ {
+  "FOOD CODE": "H017",
+  "FOOD NAME": "Pine seed (Pinus gerardiana)",
+  "TOTAL Avail.CHO (g)": 22.6,
+  "TOTAL STARCH (g)": 17.93,
+  "FRUCTOSE (g)": 1.55,
+  "GLUCOSE (g)": 1,
+  "SUCROSE (g)": 2.12,
+  "TOTAL F.SUGARS (g)": 4.67
+ },
+ {
+  "FOOD CODE": "H018",
+  "FOOD NAME": "Pistachio nuts (Pistacla vera)",
+  "TOTAL Avail.CHO (g)": 14.55,
+  "TOTAL STARCH (g)": 6.65,
+  "FRUCTOSE (g)": 4.11,
+  "GLUCOSE (g)": 2.65,
+  "SUCROSE (g)": 1.15,
+  "TOTAL F.SUGARS (g)": 7.9
+ },
+ {
+  "FOOD CODE": "H019",
+  "FOOD NAME": "Safflower seeds (Carthamus tinctorius)",
+  "TOTAL Avail.CHO (g)": 28.15,
+  "TOTAL STARCH (g)": 25.48,
+  "FRUCTOSE (g)": 0.8,
+  "GLUCOSE (g)": 0.52,
+  "SUCROSE (g)": 1.35,
+  "TOTAL F.SUGARS (g)": 2.67
+ },
+ {
+  "FOOD CODE": "H020",
+  "FOOD NAME": "Sunflower seeds (Helianthus annuus)",
+  "TOTAL Avail.CHO (g)": 6.79,
+  "TOTAL STARCH (g)": 3.97,
+  "FRUCTOSE (g)": 0.74,
+  "GLUCOSE (g)": 0.6,
+  "SUCROSE (g)": 1.48,
+  "TOTAL F.SUGARS (g)": 2.81
+ },
+ {
+  "FOOD CODE": "H021",
+  "FOOD NAME": "Walnut (Juglans regia)",
+  "TOTAL Avail.CHO (g)": 10.05,
+  "TOTAL STARCH (g)": 6.63,
+  "FRUCTOSE (g)": 1.1,
+  "GLUCOSE (g)": 0.36,
+  "SUCROSE (g)": 1.76,
+  "TOTAL F.SUGARS (g)": 3.22
+ },
+ {
+  "FOOD CODE": "I001",
+  "FOOD NAME": "Jaggery, cane (Saccharum officinarum)",
+  "TOTAL Avail.CHO (g)": 84.32,
+  "FRUCTOSE (g)": 22.31,
+  "GLUCOSE (g)": 3.79,
+  "SUCROSE (g)": 58.23,
+  "TOTAL F.SUGARS (g)": 84.32
+ },
+ {
+  "FOOD CODE": "I002",
+  "FOOD NAME": "Sugarcane, juice (Saccharum officinarum)",
+  "TOTAL Avail.CHO (g)": 12.85,
+  "FRUCTOSE (g)": 0.55,
+  "GLUCOSE (g)": 2.27,
+  "SUCROSE (g)": 10.03,
+  "TOTAL F.SUGARS (g)": 12.85
+ },
+ {
+  "FOOD CODE": "J001",
+  "FOOD NAME": "Button mushroom, fresh (Agaricus sp.)",
+  "TOTAL Avail.CHO (g)": 0.8,
+  "TOTAL STARCH (g)": 0.7,
+  "FRUCTOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.1
+ },
+ {
+  "FOOD CODE": "J002",
+  "FOOD NAME": "Chicken mushroom, fresh (Lactiporus sp.)",
+  "TOTAL Avail.CHO (g)": 1.96,
+  "TOTAL STARCH (g)": 1.86,
+  "FRUCTOSE (g)": 0.1,
+  "TOTAL F.SUGARS (g)": 0.1
+ },
+ {
+  "FOOD CODE": "J003",
+  "FOOD NAME": "Shiitake mushroom, fresh (Lentinula sp.)",
+  "TOTAL Avail.CHO (g)": 4.51,
+  "TOTAL STARCH (g)": 4.31,
+  "FRUCTOSE (g)": 0.2,
+  "TOTAL F.SUGARS (g)": 0.2
+ },
+ {
+  "FOOD CODE": "J004",
+  "FOOD NAME": "Oyster mushroom, dried (Pleurotus sp.)",
+  "TOTAL Avail.CHO (g)": 22,
+  "TOTAL STARCH (g)": 21.32,
+  "FRUCTOSE (g)": 0.68,
+  "TOTAL F.SUGARS (g)": 0.68
+ },
+ {
+  "FOOD CODE": "K001",
+  "FOOD NAME": "Toddy",
+  "TOTAL Avail.CHO (g)": 5.73,
+  "FRUCTOSE (g)": 5.73,
+  "TOTAL F.SUGARS (g)": 5.73
+ },
+ {
+  "FOOD CODE": "K002",
+  "FOOD NAME": "Coconut Water",
+  "TOTAL Avail.CHO (g)": 3.06,
+  "FRUCTOSE (g)": 3.06,
+  "TOTAL F.SUGARS (g)": 3.06
+ },
+ {
+  "FOOD CODE": "L001",
+  "FOOD NAME": "Milk, whole, Buffalo",
+  "TOTAL Avail.CHO (g)": 5.48,
+  "FRUCTOSE (g)": 0.24,
+  "GLUCOSE (g)": 0.39,
+  "SUCROSE (g)": 0.59,
+  "TOTAL F.SUGARS (g)": 5.34,
+  "LACTOSE (g)": 4.12
+ },
+ {
+  "FOOD CODE": "L002",
+  "FOOD NAME": "Milk, whole, Cow",
+  "TOTAL Avail.CHO (g)": 4.94,
+  "FRUCTOSE (g)": 0.2,
+  "GLUCOSE (g)": 0.18,
+  "SUCROSE (g)": 0.24,
+  "TOTAL F.SUGARS (g)": 4.89,
+  "LACTOSE (g)": 4.28
+ },
+ {
+  "FOOD CODE": "L003",
+  "FOOD NAME": "Paneer",
+  "TOTAL Avail.CHO (g)": 12.01,
+  "FRUCTOSE (g)": 0.5,
+  "GLUCOSE (g)": 1.11,
+  "SUCROSE (g)": 0.84,
+  "TOTAL F.SUGARS (g)": 11.57,
+  "LACTOSE (g)": 9.12
+ },
+ {
+  "FOOD CODE": "L004",
+  "FOOD NAME": "Khoa",
+  "TOTAL Avail.CHO (g)": 16.33,
+  "FRUCTOSE (g)": 0.8,
+  "GLUCOSE (g)": 1.57,
+  "SUCROSE (g)": 0.91,
+  "TOTAL F.SUGARS (g)": 16.14,
+  "LACTOSE (g)": 12.86
+ },
+ {
+  "FOOD CODE": "M001",
+  "FOOD NAME": "Egg, poultry, whole, raw"
+ },
+ {
+  "FOOD CODE": "M002",
+  "FOOD NAME": "Egg, poultry, white, raw"
+ },
+ {
+  "FOOD CODE": "M003",
+  "FOOD NAME": "Egg, poultry, yolk, raw"
+ },
+ {
+  "FOOD CODE": "M004",
+  "FOOD NAME": "Egg, poultry, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M005",
+  "FOOD NAME": "Egg, poultry, white, boiled"
+ },
+ {
+  "FOOD CODE": "M006",
+  "FOOD NAME": "Egg, poultry, yolk, boiled"
+ },
+ {
+  "FOOD CODE": "M007",
+  "FOOD NAME": "Egg, poultry, omlet"
+ },
+ {
+  "FOOD CODE": "M008",
+  "FOOD NAME": "Egg, country hen, whole, raw"
+ },
+ {
+  "FOOD CODE": "M009",
+  "FOOD NAME": "Egg, country hen, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M010",
+  "FOOD NAME": "Egg, country hen, omlet"
+ },
+ {
+  "FOOD CODE": "M011",
+  "FOOD NAME": "Egg, duck, whole, boiled"
+ },
+ {
+  "FOOD CODE": "M012",
+  "FOOD NAME": "Egg, duck, whole, raw"
+ },
+ {
+  "FOOD CODE": "M013",
+  "FOOD NAME": "Egg, duck, whole, omlet"
+ },
+ {
+  "FOOD CODE": "M014",
+  "FOOD NAME": "Egg, quial, whole, raw"
+ },
+ {
+  "FOOD CODE": "M015",
+  "FOOD NAME": "Egg, quial, whole, boiled"
+ },
+ {
+  "FOOD CODE": "N001",
+  "FOOD NAME": "Chicken, poultry, leg, skinless"
+ },
+ {
+  "FOOD CODE": "N002",
+  "FOOD NAME": "Chicken, poultry, thigh, skinless"
+ },
+ {
+  "FOOD CODE": "N003",
+  "FOOD NAME": "Chicken, poultry, breast, skinless"
+ },
+ {
+  "FOOD CODE": "N004",
+  "FOOD NAME": "Chicken, poultry, wing, skinless"
+ },
+ {
+  "FOOD CODE": "N005",
+  "FOOD NAME": "Poultry, chicken, liver"
+ },
+ {
+  "FOOD CODE": "N006",
+  "FOOD NAME": "Poultry, chicken, gizzard"
+ },
+ {
+  "FOOD CODE": "N007",
+  "FOOD NAME": "Country hen, leg, with skin"
+ },
+ {
+  "FOOD CODE": "N008",
+  "FOOD NAME": "Country hen, thigh, with skin"
+ },
+ {
+  "FOOD CODE": "N009",
+  "FOOD NAME": "Country hen, breast, with skin"
+ },
+ {
+  "FOOD CODE": "N010",
+  "FOOD NAME": "Country hen, wing, with skin"
+ },
+ {
+  "FOOD CODE": "N011",
+  "FOOD NAME": "Duck, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N012",
+  "FOOD NAME": "Emu, meat, skinless"
+ },
+ {
+  "FOOD CODE": "N013",
+  "FOOD NAME": "Guinea fowl, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N014",
+  "FOOD NAME": "Pigeon, meat, with skin"
+ },
+ {
+  "FOOD CODE": "N015",
+  "FOOD NAME": "Quail, meat, skinless"
+ },
+ {
+  "FOOD CODE": "N016",
+  "FOOD NAME": "Turkey, leg, with skin"
+ },
+ {
+  "FOOD CODE": "N017",
+  "FOOD NAME": "Turkey, thigh, with skin"
+ },
+ {
+  "FOOD CODE": "N018",
+  "FOOD NAME": "Turkey, breast, with skin"
+ },
+ {
+  "FOOD CODE": "N019",
+  "FOOD NAME": "Turkey, wing, with skin"
+ },
+ {
+  "FOOD CODE": "O001",
+  "FOOD NAME": "Goat, shoulder"
+ },
+ {
+  "FOOD CODE": "O002",
+  "FOOD NAME": "Goat, chops"
+ },
+ {
+  "FOOD CODE": "O003",
+  "FOOD NAME": "Goat, legs"
+ },
+ {
+  "FOOD CODE": "O004",
+  "FOOD NAME": "Goat, brain"
+ },
+ {
+  "FOOD CODE": "O005",
+  "FOOD NAME": "Goat, tongue"
+ },
+ {
+  "FOOD CODE": "O006",
+  "FOOD NAME": "Goat, lungs"
+ },
+ {
+  "FOOD CODE": "O007",
+  "FOOD NAME": "Goat, heart"
+ },
+ {
+  "FOOD CODE": "O008",
+  "FOOD NAME": "Goat, liver"
+ },
+ {
+  "FOOD CODE": "O009",
+  "FOOD NAME": "Goat, tripe"
+ },
+ {
+  "FOOD CODE": "O010",
+  "FOOD NAME": "Goat, spleen"
+ },
+ {
+  "FOOD CODE": "O011",
+  "FOOD NAME": "Goat, kidneys"
+ },
+ {
+  "FOOD CODE": "O012",
+  "FOOD NAME": "Goat, tube (small intestine)"
+ },
+ {
+  "FOOD CODE": "O013",
+  "FOOD NAME": "Goat, testis"
+ },
+ {
+  "FOOD CODE": "O014",
+  "FOOD NAME": "Sheep, shoulder"
+ },
+ {
+  "FOOD CODE": "O015",
+  "FOOD NAME": "Sheep, chops"
+ },
+ {
+  "FOOD CODE": "O016",
+  "FOOD NAME": "Sheep, leg"
+ },
+ {
+  "FOOD CODE": "O017",
+  "FOOD NAME": "Sheep, brain"
+ },
+ {
+  "FOOD CODE": "O018",
+  "FOOD NAME": "Sheep, tongue"
+ },
+ {
+  "FOOD CODE": "O019",
+  "FOOD NAME": "Sheep, lungs"
+ },
+ {
+  "FOOD CODE": "O020",
+  "FOOD NAME": "Sheep, heart"
+ },
+ {
+  "FOOD CODE": "O021",
+  "FOOD NAME": "Sheep, liver"
+ },
+ {
+  "FOOD CODE": "O022",
+  "FOOD NAME": "Sheep, tripe"
+ },
+ {
+  "FOOD CODE": "O023",
+  "FOOD NAME": "Sheep, spleen"
+ },
+ {
+  "FOOD CODE": "O024",
+  "FOOD NAME": "Sheep, kidneys"
+ },
+ {
+  "FOOD CODE": "O025",
+  "FOOD NAME": "Beef, shoulder"
+ },
+ {
+  "FOOD CODE": "O026",
+  "FOOD NAME": "Beef, chops"
+ },
+ {
+  "FOOD CODE": "O027",
+  "FOOD NAME": "Beef, round (leg)"
+ },
+ {
+  "FOOD CODE": "O028",
+  "FOOD NAME": "Beef, brain"
+ },
+ {
+  "FOOD CODE": "O029",
+  "FOOD NAME": "Beef, tongue"
+ },
+ {
+  "FOOD CODE": "O030",
+  "FOOD NAME": "Beef, lungs"
+ },
+ {
+  "FOOD CODE": "O031",
+  "FOOD NAME": "Beef, heart"
+ },
+ {
+  "FOOD CODE": "O032",
+  "FOOD NAME": "Beef, liver"
+ },
+ {
+  "FOOD CODE": "O033",
+  "FOOD NAME": "Beef, tripe"
+ },
+ {
+  "FOOD CODE": "O034",
+  "FOOD NAME": "Beef, spleen"
+ },
+ {
+  "FOOD CODE": "O035",
+  "FOOD NAME": "Beef, kidneys"
+ },
+ {
+  "FOOD CODE": "O036",
+  "FOOD NAME": "Calf, shoulder"
+ },
+ {
+  "FOOD CODE": "O037",
+  "FOOD NAME": "Calf, chops"
+ },
+ {
+  "FOOD CODE": "O038",
+  "FOOD NAME": "Calf, round (leg)"
+ },
+ {
+  "FOOD CODE": "O039",
+  "FOOD NAME": "Calf, brain"
+ },
+ {
+  "FOOD CODE": "O040",
+  "FOOD NAME": "Calf, tongue"
+ },
+ {
+  "FOOD CODE": "O041",
+  "FOOD NAME": "Calf, heart"
+ },
+ {
+  "FOOD CODE": "O042",
+  "FOOD NAME": "Calf, liver"
+ },
+ {
+  "FOOD CODE": "O043",
+  "FOOD NAME": "Calf, spleen"
+ },
+ {
+  "FOOD CODE": "O044",
+  "FOOD NAME": "Calf, kidneys"
+ },
+ {
+  "FOOD CODE": "O045",
+  "FOOD NAME": "Mithun, shoulder"
+ },
+ {
+  "FOOD CODE": "O046",
+  "FOOD NAME": "Mithun, chops"
+ },
+ {
+  "FOOD CODE": "O047",
+  "FOOD NAME": "Mithun, round (leg)"
+ },
+ {
+  "FOOD CODE": "O048",
+  "FOOD NAME": "Pork, shoulder"
+ },
+ {
+  "FOOD CODE": "O049",
+  "FOOD NAME": "Pork, chops"
+ },
+ {
+  "FOOD CODE": "O050",
+  "FOOD NAME": "Pork, ham"
+ },
+ {
+  "FOOD CODE": "O051",
+  "FOOD NAME": "Pork, lungs"
+ },
+ {
+  "FOOD CODE": "O052",
+  "FOOD NAME": "Pork, heart"
+ },
+ {
+  "FOOD CODE": "O053",
+  "FOOD NAME": "Pork, liver"
+ },
+ {
+  "FOOD CODE": "O054",
+  "FOOD NAME": "Pork, stomach"
+ },
+ {
+  "FOOD CODE": "O055",
+  "FOOD NAME": "Pork, spleen"
+ },
+ {
+  "FOOD CODE": "O056",
+  "FOOD NAME": "Pork, kidneys"
+ },
+ {
+  "FOOD CODE": "O057",
+  "FOOD NAME": "Pork, tube (small intestine)"
+ },
+ {
+  "FOOD CODE": "O058",
+  "FOOD NAME": "Hare, shoulder"
+ },
+ {
+  "FOOD CODE": "O059",
+  "FOOD NAME": "Hare, chops"
+ },
+ {
+  "FOOD CODE": "O060",
+  "FOOD NAME": "Hare, leg"
+ },
+ {
+  "FOOD CODE": "O061",
+  "FOOD NAME": "Rabbit, shoulder"
+ },
+ {
+  "FOOD CODE": "O062",
+  "FOOD NAME": "Rabbit, chops"
+ },
+ {
+  "FOOD CODE": "O063",
+  "FOOD NAME": "Rabbit, leg"
+ },
+ {
+  "FOOD CODE": "P001",
+  "FOOD NAME": "Allathi (Elops machnata)"
+ },
+ {
+  "FOOD CODE": "P002",
+  "FOOD NAME": "Aluva (Parastromateus niger)"
+ },
+ {
+  "FOOD CODE": "P003",
+  "FOOD NAME": "Anchovy (Stolephorus indicus)"
+ },
+ {
+  "FOOD CODE": "P004",
+  "FOOD NAME": "Ari fish (Aprion virescens )"
+ },
+ {
+  "FOOD CODE": "P005",
+  "FOOD NAME": "Betki (Lates calcarifer)"
+ },
+ {
+  "FOOD CODE": "P006",
+  "FOOD NAME": "Black snapper (Macolor niger)"
+ },
+ {
+  "FOOD CODE": "P007",
+  "FOOD NAME": "Bombay duck (Harpadon nehereus)"
+ },
+ {
+  "FOOD CODE": "P008",
+  "FOOD NAME": "Bommuralu (Muraenesox cinerius)"
+ },
+ {
+  "FOOD CODE": "P009",
+  "FOOD NAME": "Cat fish (Tachysurus thalassinus)"
+ },
+ {
+  "FOOD CODE": "P010",
+  "FOOD NAME": "Chakla (Rachycentron canadum)"
+ },
+ {
+  "FOOD CODE": "P011",
+  "FOOD NAME": "Chappal (Aluterus monoceros )"
+ },
+ {
+  "FOOD CODE": "P012",
+  "FOOD NAME": "Chelu (Elagatis bipinnulata)"
+ },
+ {
+  "FOOD CODE": "P013",
+  "FOOD NAME": "Chembali (Lutjanus quinquelineatus)"
+ },
+ {
+  "FOOD CODE": "P014",
+  "FOOD NAME": "Eri meen (Pristipomoides filamentosus)"
+ },
+ {
+  "FOOD CODE": "P015",
+  "FOOD NAME": "Gobro (Epinephelus diacanthus)"
+ },
+ {
+  "FOOD CODE": "P016",
+  "FOOD NAME": "Guitar fish (Rhinobatus prahli)"
+ },
+ {
+  "FOOD CODE": "P017",
+  "FOOD NAME": "Hilsa (Tenualosa ilisha)"
+ },
+ {
+  "FOOD CODE": "P018",
+  "FOOD NAME": "Jallal (Arius sp.)"
+ },
+ {
+  "FOOD CODE": "P019",
+  "FOOD NAME": "Jathi vela meen (Lethrinus lentjan)"
+ },
+ {
+  "FOOD CODE": "P020",
+  "FOOD NAME": "Kadal bral (Synodus indicus)"
+ },
+ {
+  "FOOD CODE": "P021",
+  "FOOD NAME": "Kadali (Nemipterus mesoprion)"
+ },
+ {
+  "FOOD CODE": "P022",
+  "FOOD NAME": "Kalamaara (Leptomelanosoma indicum)"
+ },
+ {
+  "FOOD CODE": "P023",
+  "FOOD NAME": "Kalava (Epinephelus coioides)"
+ },
+ {
+  "FOOD CODE": "P024",
+  "FOOD NAME": "Kanamayya (Lutjanus rivulatus)"
+ },
+ {
+  "FOOD CODE": "P025",
+  "FOOD NAME": "Kannadi paarai (Alectis indicus)"
+ },
+ {
+  "FOOD CODE": "P026",
+  "FOOD NAME": "Karimeen (Etroplus suratensis)"
+ },
+ {
+  "FOOD CODE": "P027",
+  "FOOD NAME": "Karnagawala (Anchoa hepsetus)"
+ },
+ {
+  "FOOD CODE": "P028",
+  "FOOD NAME": "Kayrai (Thunnus albacores)"
+ },
+ {
+  "FOOD CODE": "P029",
+  "FOOD NAME": "Kiriyan (Atule mate)"
+ },
+ {
+  "FOOD CODE": "P030",
+  "FOOD NAME": "Kite fish (Mobula kuhlii)"
+ },
+ {
+  "FOOD CODE": "P031",
+  "FOOD NAME": "Korka (Terapon jarbua)"
+ },
+ {
+  "FOOD CODE": "P032",
+  "FOOD NAME": "Kulam paarai (Carangoides fulvoguttatus)"
+ },
+ {
+  "FOOD CODE": "P033",
+  "FOOD NAME": "Maagaa (Polynemus plebeius)"
+ },
+ {
+  "FOOD CODE": "P034",
+  "FOOD NAME": "Mackerel (Rastrelliger kanagurta)"
+ },
+ {
+  "FOOD CODE": "P035",
+  "FOOD NAME": "Manda clathi (Naso reticulatus)"
+ },
+ {
+  "FOOD CODE": "P036",
+  "FOOD NAME": "Matha (Acanthurus mata)"
+ },
+ {
+  "FOOD CODE": "P037",
+  "FOOD NAME": "Milk fish (Chanos chanos)"
+ },
+ {
+  "FOOD CODE": "P038",
+  "FOOD NAME": "Moon fish (Mene maculata)"
+ },
+ {
+  "FOOD CODE": "P039",
+  "FOOD NAME": "Mullet (Mugil cephalus)"
+ },
+ {
+  "FOOD CODE": "P040",
+  "FOOD NAME": "Mural (Tylosurus crocodilus crocodilus)"
+ },
+ {
+  "FOOD CODE": "P041",
+  "FOOD NAME": "Myil meen (Istiophorus platypterus)"
+ },
+ {
+  "FOOD CODE": "P042",
+  "FOOD NAME": "Nalla bontha (Epinephelus sp.)"
+ },
+ {
+  "FOOD CODE": "P043",
+  "FOOD NAME": "Narba (Caranx sexfasciatus)"
+ },
+ {
+  "FOOD CODE": "P044",
+  "FOOD NAME": "Paarai (Caranx heberi)"
+ },
+ {
+  "FOOD CODE": "P045",
+  "FOOD NAME": "Padayappa (Canthidermis maculata)"
+ },
+ {
+  "FOOD CODE": "P046",
+  "FOOD NAME": "Pali kora (Panna microdon)"
+ },
+ {
+  "FOOD CODE": "P047",
+  "FOOD NAME": "Pambada (Lepturacanthus savala)"
+ },
+ {
+  "FOOD CODE": "P048",
+  "FOOD NAME": "Pandukopa (Pseudosciaena manchurica)"
+ },
+ {
+  "FOOD CODE": "P049",
+  "FOOD NAME": "Parava (Lactarius lactarius)"
+ },
+ {
+  "FOOD CODE": "P050",
+  "FOOD NAME": "Parcus (Psettodes erumei)"
+ },
+ {
+  "FOOD CODE": "P051",
+  "FOOD NAME": "Parrot fish (Scarus ghobban)"
+ },
+ {
+  "FOOD CODE": "P052",
+  "FOOD NAME": "Perinkilichai (Pinjalo pinjalo)"
+ },
+ {
+  "FOOD CODE": "P053",
+  "FOOD NAME": "Phopat (Coryphaena hippurus)"
+ },
+ {
+  "FOOD CODE": "P054",
+  "FOOD NAME": "Piranha (Pygopritis sp.)"
+ },
+ {
+  "FOOD CODE": "P055",
+  "FOOD NAME": "Pomfret, black (Parastromateus niger)"
+ },
+ {
+  "FOOD CODE": "P056",
+  "FOOD NAME": "Pomfret, snub nose (Trachinotus blochii)"
+ },
+ {
+  "FOOD CODE": "P057",
+  "FOOD NAME": "Pomfret, white (Pampus argenteus)"
+ },
+ {
+  "FOOD CODE": "P058",
+  "FOOD NAME": "Pranel (Gerres sp.)"
+ },
+ {
+  "FOOD CODE": "P059",
+  "FOOD NAME": "Pulli paarai (Gnathanodon speciosus)"
+ },
+ {
+  "FOOD CODE": "P060",
+  "FOOD NAME": "Queen fish (Scomberoides commersonianus)"
+ },
+ {
+  "FOOD CODE": "P061",
+  "FOOD NAME": "Raai fish (Lobotes surinamensis)"
+ },
+ {
+  "FOOD CODE": "P062",
+  "FOOD NAME": "Raai vanthu (Epinephelus chlorostigma)"
+ },
+ {
+  "FOOD CODE": "P063",
+  "FOOD NAME": "Rani (Pink perch)"
+ },
+ {
+  "FOOD CODE": "P064",
+  "FOOD NAME": "Ray fish, bow head, spotted (Rhina ancylostoma)"
+ },
+ {
+  "FOOD CODE": "P065",
+  "FOOD NAME": "Red snapper (Lutjanus argentimaculatus)"
+ },
+ {
+  "FOOD CODE": "P066",
+  "FOOD NAME": "Red snapper, small (Priacanthus hamrur)"
+ },
+ {
+  "FOOD CODE": "P067",
+  "FOOD NAME": "Sadaya (Platax orbicularis )"
+ },
+ {
+  "FOOD CODE": "P068",
+  "FOOD NAME": "Salmon (Salmo salar)"
+ },
+ {
+  "FOOD CODE": "P069",
+  "FOOD NAME": "Sangada (Nemipterus japonicus)"
+ },
+ {
+  "FOOD CODE": "P070",
+  "FOOD NAME": "Sankata paarai (Caranx ignobilis)"
+ },
+ {
+  "FOOD CODE": "P071",
+  "FOOD NAME": "Sardine (Sardinella longiceps)"
+ },
+ {
+  "FOOD CODE": "P072",
+  "FOOD NAME": "Shark (Carcharhinus sorrah)"
+ },
+ {
+  "FOOD CODE": "P073",
+  "FOOD NAME": "Shark, hammer head (Sphyrna mokarran)"
+ },
+ {
+  "FOOD CODE": "P074",
+  "FOOD NAME": "Shark, spotted (Stegostoma fasciatum)"
+ },
+ {
+  "FOOD CODE": "P075",
+  "FOOD NAME": "Shelavu (Sphyraena jello)"
+ },
+ {
+  "FOOD CODE": "P076",
+  "FOOD NAME": "Silan (Silonia silondia)"
+ },
+ {
+  "FOOD CODE": "P077",
+  "FOOD NAME": "Silk fish (Beryx sp.)"
+ },
+ {
+  "FOOD CODE": "P078",
+  "FOOD NAME": "Silver carp (Hypophthalmichthys molitrix)"
+ },
+ {
+  "FOOD CODE": "P079",
+  "FOOD NAME": "Sole fish (Cynoglossus arel)"
+ },
+ {
+  "FOOD CODE": "P080",
+  "FOOD NAME": "Stingray (Dasyatis pastinaca)"
+ },
+ {
+  "FOOD CODE": "P081",
+  "FOOD NAME": "Tarlava (Drepane punctata)"
+ },
+ {
+  "FOOD CODE": "P082",
+  "FOOD NAME": "Tholam (Plectorhinchus schotaf)"
+ },
+ {
+  "FOOD CODE": "P083",
+  "FOOD NAME": "Tilapia (Oreochromis niloticus)"
+ },
+ {
+  "FOOD CODE": "P084",
+  "FOOD NAME": "Tuna (Euthynnus affinis)"
+ },
+ {
+  "FOOD CODE": "P085",
+  "FOOD NAME": "Tuna, striped (Katsuwonus pelamis)"
+ },
+ {
+  "FOOD CODE": "P086",
+  "FOOD NAME": "Valava (Chirocentrus nudus)"
+ },
+ {
+  "FOOD CODE": "P087",
+  "FOOD NAME": "Vanjaram (Scomberomorus commerson )"
+ },
+ {
+  "FOOD CODE": "P088",
+  "FOOD NAME": "Vela meen (Aprion virescens)"
+ },
+ {
+  "FOOD CODE": "P089",
+  "FOOD NAME": "Vora (Siganus javus)"
+ },
+ {
+  "FOOD CODE": "P090",
+  "FOOD NAME": "Whale shark (Galeocerdo cuvier)"
+ },
+ {
+  "FOOD CODE": "P091",
+  "FOOD NAME": "Xiphinis (Xiphias gladius)"
+ },
+ {
+  "FOOD CODE": "P092",
+  "FOOD NAME": "Eggs, Cat fish (Ompok bimaculatus)"
+ },
+ {
+  "FOOD CODE": "Q001",
+  "FOOD NAME": "Crab (Menippe mercenaria)"
+ },
+ {
+  "FOOD CODE": "Q002",
+  "FOOD NAME": "Crab, sea (Portunus sanguinolentus)"
+ },
+ {
+  "FOOD CODE": "Q003",
+  "FOOD NAME": "Lobster, brown (Thenus orientalis)"
+ },
+ {
+  "FOOD CODE": "Q004",
+  "FOOD NAME": "Lobster, king size (Thenus orientalis)"
+ },
+ {
+  "FOOD CODE": "Q005",
+  "FOOD NAME": "Mud crab (Scylla tranquebarica)"
+ },
+ {
+  "FOOD CODE": "Q006",
+  "FOOD NAME": "Oyster (Crassostrea sp.)"
+ },
+ {
+  "FOOD CODE": "Q007",
+  "FOOD NAME": "Tiger prawns, brown (Solenocera crassicornis)"
+ },
+ {
+  "FOOD CODE": "Q008",
+  "FOOD NAME": "Tiger Prawns, orange (Penaeus monodon)"
+ },
+ {
+  "FOOD CODE": "R001",
+  "FOOD NAME": "Clam, green shell (Perna viridis)"
+ },
+ {
+  "FOOD CODE": "R002",
+  "FOOD NAME": "Clam, white shell, ribbed (Meretrix meretrix)"
+ },
+ {
+  "FOOD CODE": "R003",
+  "FOOD NAME": "Octopus (Octopus vulgaris)"
+ },
+ {
+  "FOOD CODE": "R004",
+  "FOOD NAME": "Squid, black (Loligo sp.)"
+ },
+ {
+  "FOOD CODE": "R005",
+  "FOOD NAME": "Squid, hard shell (Sepia pharaonis)"
+ },
+ {
+  "FOOD CODE": "R006",
+  "FOOD NAME": "Squid, red (Loligo duvauceli)"
+ },
+ {
+  "FOOD CODE": "R007",
+  "FOOD NAME": "Squid, white, small (Uroteuthis duvauceli )"
+ },
+ {
+  "FOOD CODE": "S001",
+  "FOOD NAME": "Cat fish (Tandanus tandanus)"
+ },
+ {
+  "FOOD CODE": "S002",
+  "FOOD NAME": "Catla (Catla catla)"
+ },
+ {
+  "FOOD CODE": "S003",
+  "FOOD NAME": "Freshwater Eel (Anguilla anguilla)"
+ },
+ {
+  "FOOD CODE": "S004",
+  "FOOD NAME": "Gold fish (Carassius auratus)"
+ },
+ {
+  "FOOD CODE": "S005",
+  "FOOD NAME": "Pangas (Pangasianodon hypophthalmus)"
+ },
+ {
+  "FOOD CODE": "S006",
+  "FOOD NAME": "Rohu (Labeo rohita)"
+ },
+ {
+  "FOOD CODE": "S007",
+  "FOOD NAME": "Crab (Pachygrapsus sp.)"
+ },
+ {
+  "FOOD CODE": "S008",
+  "FOOD NAME": "Prawns, big (Macrobrachium rosenbergii)"
+ },
+ {
+  "FOOD CODE": "S009",
+  "FOOD NAME": "Prawns, small (Macrobrachium sp.)"
+ },
+ {
+  "FOOD CODE": "S010",
+  "FOOD NAME": "Tiger prawns (Macrobrachium sp.)"
+ },
+ {
+  "FOOD CODE": "T001",
+  "FOOD NAME": "Coconut oil"
+ },
+ {
+  "FOOD CODE": "T002",
+  "FOOD NAME": "Corn oil"
+ },
+ {
+  "FOOD CODE": "T003",
+  "FOOD NAME": "Cotton seed oil"
+ },
+ {
+  "FOOD CODE": "T004",
+  "FOOD NAME": "Gingelly oil"
+ },
+ {
+  "FOOD CODE": "T005",
+  "FOOD NAME": "Groundnut oil"
+ },
+ {
+  "FOOD CODE": "T006",
+  "FOOD NAME": "Mustard oil"
+ },
+ {
+  "FOOD CODE": "T007",
+  "FOOD NAME": "Palm oil"
+ },
+ {
+  "FOOD CODE": "T008",
+  "FOOD NAME": "Rice bran oil"
+ },
+ {
+  "FOOD CODE": "T009",
+  "FOOD NAME": "Safflower oil"
+ },
+ {
+  "FOOD CODE": "T010",
+  "FOOD NAME": "Safflower oil (blended)"
+ },
+ {
+  "FOOD CODE": "T011",
+  "FOOD NAME": "Soyabean oil"
+ },
+ {
+  "FOOD CODE": "T012",
+  "FOOD NAME": "Sunflower oil"
+ },
+ {
+  "FOOD CODE": "T013",
+  "FOOD NAME": "Ghee"
+ },
+ {
+  "FOOD CODE": "T014",
+  "FOOD NAME": "Vanaspati"
+ }
+]
+}

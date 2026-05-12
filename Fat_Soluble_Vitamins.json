@@ -1,0 +1,5043 @@
+{
+"Sheet1":[
+ null,
+ {
+  "FOOD CODE": "A001",
+  "FOOD NAME": "Amaranth seed, black (Amaranthus cruentus)",
+  "Ergocalciife(D2) (μg)": 58.67,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols β (mg)": 0.28,
+  "Tocopherols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "phylloqoinones (K1) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "A002",
+  "FOOD NAME": "Amaranth seed, pale brown (Amaranthus cruentus)",
+  "Ergocalciife(D2) (μg)": 53.98,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols β (mg)": 0.22,
+  "Tocopherols γ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.15,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "A003",
+  "FOOD NAME": "Bajra (Pennisetum typhoideum)",
+  "Ergocalciife(D2) (μg)": 5.65,
+  "Tocopherols α (mg)": 0.1,
+  "Tocopherols γ (mg)": 1.42,
+  "α-tocopherol equivalent (mg)": 0.24,
+  "phylloqoinones (K1) (μg)": 2.85
+ },
+ {
+  "FOOD CODE": "A004",
+  "FOOD NAME": "Barley (Hordeum vulgare)",
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 1.85
+ },
+ {
+  "FOOD CODE": "A005",
+  "FOOD NAME": "Jowar (Sorghum vulgare)",
+  "Ergocalciife(D2) (μg)": 3.96,
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols γ (mg)": 0.27,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 43.82
+ },
+ {
+  "FOOD CODE": "A006",
+  "FOOD NAME": "Maize, dry (Zea mays)",
+  "Ergocalciife(D2) (μg)": 33.6,
+  "Tocopherols α (mg)": 0.21,
+  "Tocopherols γ (mg)": 1.29,
+  "Tocopherols Δ (mg)": 0.38,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.36,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "A007",
+  "FOOD NAME": "Maize, tender, local (Zea mays)",
+  "Ergocalciife(D2) (μg)": 42.34,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.4,
+  "Tocopherols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 2
+ },
+ {
+  "FOOD CODE": "A008",
+  "FOOD NAME": "Maize, tender, sweet (Zea mays)",
+  "Ergocalciife(D2) (μg)": 16.94,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.3,
+  "Tocopherols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "phylloqoinones (K1) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "A009",
+  "FOOD NAME": "Quinoa (Chenopodium quinoa)",
+  "Tocopherols α (mg)": 2.08,
+  "Tocopherols β (mg)": 0.06,
+  "Tocopherols γ (mg)": 2.85,
+  "α-tocopherol equivalent (mg)": 2.08,
+  "phylloqoinones (K1) (μg)": 2
+ },
+ {
+  "FOOD CODE": "A010",
+  "FOOD NAME": "Ragi (Eleusine coracana)",
+  "Ergocalciife(D2) (μg)": 41.46,
+  "Tocopherols α (mg)": 0.09,
+  "Tocopherols γ (mg)": 0.66,
+  "α-tocopherol equivalent (mg)": 0.16,
+  "phylloqoinones (K1) (μg)": 3
+ },
+ {
+  "FOOD CODE": "A011",
+  "FOOD NAME": "Rice flakes (Oryza sativa)",
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 1
+ },
+ {
+  "FOOD CODE": "A012",
+  "FOOD NAME": "Rice puffed (Oryza sativa )",
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 1
+ },
+ {
+  "FOOD CODE": "A013",
+  "FOOD NAME": "Rice, raw, brown (Oryza sativa )",
+  "Tocopherols α (mg)": 0.62,
+  "Tocopherols β (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.42,
+  "Tocotrienols α (mg)": 0.03,
+  "Tocotrienols γ (mg)": 0.05,
+  "Tocotrienols Δ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.69,
+  "phylloqoinones (K1) (μg)": 2
+ },
+ {
+  "FOOD CODE": "A014",
+  "FOOD NAME": "Rice, parboiled, milled (Oryza sativa)",
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 0.13,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "A015",
+  "FOOD NAME": "Rice, raw, milled (Oryza sativa)",
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols γ (mg)": 0.06,
+  "Tocotrienols α (mg)": 0.03,
+  "Tocotrienols γ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "A016",
+  "FOOD NAME": "Samai (Panicum miliare)",
+  "Ergocalciife(D2) (μg)": 3.75,
+  "Tocopherols α (mg)": 0.28,
+  "Tocopherols β (mg)": 0.67,
+  "Tocotrienols γ (mg)": 0.28,
+  "α-tocopherol equivalent (mg)": 0.55,
+  "phylloqoinones (K1) (μg)": 4.47
+ },
+ {
+  "FOOD CODE": "A017",
+  "FOOD NAME": "Varagu (Setaria italica)",
+  "Tocopherols α (mg)": 0.03,
+  "Tocopherols γ (mg)": 0.43,
+  "Tocotrienols γ (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 3.75
+ },
+ {
+  "FOOD CODE": "A018",
+  "FOOD NAME": "Wheat flour, refined (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 6.73,
+  "Tocopherols α (mg)": 0.05,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 1
+ },
+ {
+  "FOOD CODE": "A019",
+  "FOOD NAME": "Wheat flour, atta (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 13.43,
+  "Tocopherols α (mg)": 0.21,
+  "Tocopherols β (mg)": 0.06,
+  "Tocotrienols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "A020",
+  "FOOD NAME": "Wheat, whole (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 17.49,
+  "Tocopherols α (mg)": 0.6,
+  "Tocopherols β (mg)": 0.37,
+  "Tocotrienols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.77,
+  "phylloqoinones (K1) (μg)": 1.75
+ },
+ {
+  "FOOD CODE": "A021",
+  "FOOD NAME": "Wheat, bulgur (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 6.27,
+  "Tocopherols α (mg)": 0.2,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "A022",
+  "FOOD NAME": "Wheat, semolina (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 8.19,
+  "Tocopherols α (mg)": 0.16,
+  "Tocopherols β (mg)": 0.07,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "phylloqoinones (K1) (μg)": 1.2
+ },
+ {
+  "FOOD CODE": "A023",
+  "FOOD NAME": "Wheat, vermicelli (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 4.06,
+  "Tocopherols α (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 1
+ },
+ {
+  "FOOD CODE": "A024",
+  "FOOD NAME": "Wheat, vermicelli, roasted (Triticum aestivum)",
+  "Ergocalciife(D2) (μg)": 3.21,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 1
+ },
+ {
+  "FOOD CODE": "B001",
+  "FOOD NAME": "Bengal gram, dal (Cicer arietinum)",
+  "Ergocalciife(D2) (μg)": 1.75,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 1.13,
+  "Tocopherols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "B002",
+  "FOOD NAME": "Bengal gram, whole (Cicer arietinum)",
+  "Ergocalciife(D2) (μg)": 1.93,
+  "Tocopherols α (mg)": 1.59,
+  "Tocopherols γ (mg)": 1.33,
+  "Tocopherols Δ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 1.72,
+  "phylloqoinones (K1) (μg)": 2.1
+ },
+ {
+  "FOOD CODE": "B003",
+  "FOOD NAME": "Black gram, dal (Phaseolus mungo)",
+  "Ergocalciife(D2) (μg)": 8.42,
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols γ (mg)": 1.29,
+  "Tocopherols Δ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "phylloqoinones (K1) (μg)": 8.3
+ },
+ {
+  "FOOD CODE": "B004",
+  "FOOD NAME": "Black gram, whole (Phaseolus mungo)",
+  "Ergocalciife(D2) (μg)": 16.84,
+  "Tocopherols α (mg)": 0.09,
+  "Tocopherols γ (mg)": 1.35,
+  "Tocopherols Δ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.23,
+  "phylloqoinones (K1) (μg)": 10.8
+ },
+ {
+  "FOOD CODE": "B005",
+  "FOOD NAME": "Cowpea, brown (Vigna catjang)",
+  "Ergocalciife(D2) (μg)": 0.92,
+  "Tocopherols α (mg)": 0.33,
+  "Tocopherols γ (mg)": 3.5,
+  "Tocopherols Δ (mg)": 2.44,
+  "α-tocopherol equivalent (mg)": 0.7,
+  "phylloqoinones (K1) (μg)": 1.75
+ },
+ {
+  "FOOD CODE": "B006",
+  "FOOD NAME": "Cowpea, white (Vigna catjang)",
+  "Ergocalciife(D2) (μg)": 0.93,
+  "Tocopherols α (mg)": 0.32,
+  "Tocopherols γ (mg)": 3.06,
+  "Tocopherols Δ (mg)": 2.7,
+  "α-tocopherol equivalent (mg)": 0.65,
+  "phylloqoinones (K1) (μg)": 1.7
+ },
+ {
+  "FOOD CODE": "B007",
+  "FOOD NAME": "Field bean, black (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 4.35,
+  "Tocopherols α (mg)": 0.24,
+  "Tocopherols γ (mg)": 2.69,
+  "Tocopherols Δ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.51,
+  "phylloqoinones (K1) (μg)": 21.5
+ },
+ {
+  "FOOD CODE": "B008",
+  "FOOD NAME": "Field bean, brown (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 4.24,
+  "Tocopherols α (mg)": 0.25,
+  "Tocopherols γ (mg)": 2.74,
+  "Tocopherols Δ (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.53,
+  "phylloqoinones (K1) (μg)": 20.7
+ },
+ {
+  "FOOD CODE": "B009",
+  "FOOD NAME": "Field bean, white (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 4.26,
+  "Tocopherols α (mg)": 0.25,
+  "Tocopherols γ (mg)": 2.65,
+  "Tocopherols Δ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.52,
+  "phylloqoinones (K1) (μg)": 22.65
+ },
+ {
+  "FOOD CODE": "B010",
+  "FOOD NAME": "Green gram, dal (Phaseolus aureus)",
+  "Ergocalciife(D2) (μg)": 2.05,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 1.66,
+  "α-tocopherol equivalent (mg)": 0.23,
+  "phylloqoinones (K1) (μg)": 8.3
+ },
+ {
+  "FOOD CODE": "B011",
+  "FOOD NAME": "Green gram, whole (Phaseolus aureus)",
+  "Ergocalciife(D2) (μg)": 3.15,
+  "Tocopherols α (mg)": 0.13,
+  "Tocopherols γ (mg)": 2.08,
+  "Tocotrienols Δ (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.33,
+  "phylloqoinones (K1) (μg)": 12.63
+ },
+ {
+  "FOOD CODE": "B012",
+  "FOOD NAME": "Horse gram, whole (Dolicus biflorus)",
+  "Ergocalciife(D2) (μg)": 1.8,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 2.06,
+  "α-tocopherol equivalent (mg)": 0.27,
+  "phylloqoinones (K1) (μg)": 10.24
+ },
+ {
+  "FOOD CODE": "B013",
+  "FOOD NAME": "Lentil dal (Lens culinaris)",
+  "Ergocalciife(D2) (μg)": 1.31,
+  "Tocopherols α (mg)": 0.02,
+  "Tocopherols γ (mg)": 1.37,
+  "Tocopherols Δ (mg)": 0.23,
+  "α-tocopherol equivalent (mg)": 0.16,
+  "phylloqoinones (K1) (μg)": 3.75
+ },
+ {
+  "FOOD CODE": "B014",
+  "FOOD NAME": "Lentil whole, brown (Lens culinaris)",
+  "Ergocalciife(D2) (μg)": 14.52,
+  "Tocopherols α (mg)": 0.03,
+  "Tocopherols γ (mg)": 1.64,
+  "Tocopherols Δ (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 7.27
+ },
+ {
+  "FOOD CODE": "B015",
+  "FOOD NAME": "Lentil whole, yellowish (Lens culinaris)",
+  "Ergocalciife(D2) (μg)": 17.68,
+  "Tocopherols α (mg)": 0.03,
+  "Tocopherols γ (mg)": 1.58,
+  "Tocopherols Δ (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 5.25
+ },
+ {
+  "FOOD CODE": "B016",
+  "FOOD NAME": "Moth bean (Vigna aconitifolia)",
+  "Ergocalciife(D2) (μg)": 9.77,
+  "Tocopherols α (mg)": 0.29,
+  "Tocopherols γ (mg)": 5.04,
+  "Tocopherols Δ (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.79,
+  "phylloqoinones (K1) (μg)": 22.75
+ },
+ {
+  "FOOD CODE": "B017",
+  "FOOD NAME": "Peas, dry (Pisum sativum)",
+  "Ergocalciife(D2) (μg)": 15.21,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 2.5,
+  "α-tocopherol equivalent (mg)": 0.32,
+  "phylloqoinones (K1) (μg)": 11.45
+ },
+ {
+  "FOOD CODE": "B018",
+  "FOOD NAME": "Rajmah, black (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 27.98,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 1.62,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 5.05
+ },
+ {
+  "FOOD CODE": "B019",
+  "FOOD NAME": "Rajmah, brown (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 25.82,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 1.58,
+  "α-tocopherol equivalent (mg)": 0.23,
+  "phylloqoinones (K1) (μg)": 5.5
+ },
+ {
+  "FOOD CODE": "B020",
+  "FOOD NAME": "Rajmah, red (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 26.73,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 1.56,
+  "α-tocopherol equivalent (mg)": 0.23,
+  "phylloqoinones (K1) (μg)": 4.9
+ },
+ {
+  "FOOD CODE": "B021",
+  "FOOD NAME": "Red gram, dal (Cajanus cajan)",
+  "Ergocalciife(D2) (μg)": 2.12,
+  "Tocopherols α (mg)": 0.13,
+  "Tocopherols γ (mg)": 0.63,
+  "Tocopherols Δ (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 42.25
+ },
+ {
+  "FOOD CODE": "B022",
+  "FOOD NAME": "Red gram, whole (Cajanus cajan)",
+  "Ergocalciife(D2) (μg)": 2.78,
+  "Tocopherols α (mg)": 0.65,
+  "Tocopherols γ (mg)": 1.53,
+  "Tocopherols Δ (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.8,
+  "phylloqoinones (K1) (μg)": 91.83
+ },
+ {
+  "FOOD CODE": "B023",
+  "FOOD NAME": "Ricebean (Vigna umbellata )",
+  "Ergocalciife(D2) (μg)": 8.26,
+  "Tocopherols α (mg)": 0.9,
+  "Tocopherols γ (mg)": 1.43,
+  "Tocotrienols α (mg)": 0.05,
+  "Tocotrienols γ (mg)": 0.18,
+  "α-tocopherol equivalent (mg)": 1.06,
+  "phylloqoinones (K1) (μg)": 21.85
+ },
+ {
+  "FOOD CODE": "B024",
+  "FOOD NAME": "Soya bean, brown (Glycine max)",
+  "Ergocalciife(D2) (μg)": 66.22,
+  "Tocopherols α (mg)": 1.04,
+  "Tocopherols γ (mg)": 2.28,
+  "Tocopherols Δ (mg)": 0.58,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 1.29,
+  "phylloqoinones (K1) (μg)": 45.8
+ },
+ {
+  "FOOD CODE": "B025",
+  "FOOD NAME": "Soya bean, white (Glycine max)",
+  "Ergocalciife(D2) (μg)": 69.81,
+  "Tocopherols α (mg)": 1.06,
+  "Tocopherols γ (mg)": 2.5,
+  "Tocopherols Δ (mg)": 0.3,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 1.33,
+  "phylloqoinones (K1) (μg)": 46.2
+ },
+ {
+  "FOOD CODE": "C001",
+  "FOOD NAME": "Agathi leaves (Sesbania grandiflora)",
+  "Ergocalciife(D2) (μg)": 4.02,
+  "Tocopherols α (mg)": 1.48,
+  "Tocopherols β (mg)": 0.22,
+  "Tocopherols γ (mg)": 0.18,
+  "Tocotrienols α (mg)": 0.6,
+  "Tocotrienols γ (mg)": 0.18,
+  "α-tocopherol equivalent (mg)": 1.77,
+  "phylloqoinones (K1) (μg)": 269
+ },
+ {
+  "FOOD CODE": "C002",
+  "FOOD NAME": "Amaranth leaves, green (Amaranthus gangeticus)",
+  "Ergocalciife(D2) (μg)": 16.01,
+  "Tocopherols α (mg)": 0.41,
+  "Tocopherols γ (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.44,
+  "phylloqoinones (K1) (μg)": 280
+ },
+ {
+  "FOOD CODE": "C003",
+  "FOOD NAME": "Amaranth leaves, red mix (Amaranthus gangeticus)",
+  "Ergocalciife(D2) (μg)": 15.1,
+  "Tocopherols α (mg)": 0.44,
+  "Tocopherols γ (mg)": 0.21,
+  "α-tocopherol equivalent (mg)": 0.46,
+  "phylloqoinones (K1) (μg)": 312
+ },
+ {
+  "FOOD CODE": "C004",
+  "FOOD NAME": "Amaranth leaves, red and green mix (Amaranthus gangeticus)",
+  "Ergocalciife(D2) (μg)": 15.25,
+  "Tocopherols α (mg)": 0.42,
+  "Tocopherols γ (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.45,
+  "phylloqoinones (K1) (μg)": 284
+ },
+ {
+  "FOOD CODE": "C005",
+  "FOOD NAME": "Amaranth spinosus, leaves, green mix (Amaranthus spinosus)",
+  "Ergocalciife(D2) (μg)": 15.23,
+  "Tocopherols α (mg)": 0.28,
+  "Tocopherols γ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "phylloqoinones (K1) (μg)": 443
+ },
+ {
+  "FOOD CODE": "C006",
+  "FOOD NAME": "Amaranth spinosus, leaves, red and green (Amaranthus spinosus)",
+  "Ergocalciife(D2) (μg)": 15.04,
+  "Tocopherols α (mg)": 0.28,
+  "Tocopherols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "phylloqoinones (K1) (μg)": 448
+ },
+ {
+  "FOOD CODE": "C007",
+  "FOOD NAME": "Basella leaves (Basella alba)",
+  "Ergocalciife(D2) (μg)": 9.18,
+  "Tocopherols α (mg)": 0.15,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.16,
+  "phylloqoinones (K1) (μg)": 236
+ },
+ {
+  "FOOD CODE": "C008",
+  "FOOD NAME": "Bathua leaves (Chenopodium album)",
+  "Ergocalciife(D2) (μg)": 1.01,
+  "Tocopherols α (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.25,
+  "phylloqoinones (K1) (μg)": 224
+ },
+ {
+  "FOOD CODE": "C009",
+  "FOOD NAME": "Beet greens (Beta vulgaris)",
+  "Ergocalciife(D2) (μg)": 1.65,
+  "Tocopherols α (mg)": 0.15,
+  "Tocopherols β (mg)": 0.17,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 69.45
+ },
+ {
+  "FOOD CODE": "C010",
+  "FOOD NAME": "Betel leaves, big (kolkata) (Piper betle)",
+  "Ergocalciife(D2) (μg)": 3.78,
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols γ (mg)": 0.05,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 207
+ },
+ {
+  "FOOD CODE": "C011",
+  "FOOD NAME": "Betel leaves, small (Piper betle)",
+  "Ergocalciife(D2) (μg)": 2.27,
+  "Tocopherols α (mg)": 0.02,
+  "Tocopherols γ (mg)": 0.05,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 204
+ },
+ {
+  "FOOD CODE": "C012",
+  "FOOD NAME": "Brussels sprouts (Brassica oleracea var. gemmifera)",
+  "Ergocalciife(D2) (μg)": 0.26,
+  "Tocopherols α (mg)": 0.21,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 23.6
+ },
+ {
+  "FOOD CODE": "C013",
+  "FOOD NAME": "Cabbage, Chinese (Brassica rupa)",
+  "Ergocalciife(D2) (μg)": 0.39,
+  "Tocopherols α (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.25,
+  "phylloqoinones (K1) (μg)": 111
+ },
+ {
+  "FOOD CODE": "C014",
+  "FOOD NAME": "Cabbage, collard greens (Brassica oleracea var. viridis)",
+  "Ergocalciife(D2) (μg)": 0.18,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "phylloqoinones (K1) (μg)": 125
+ },
+ {
+  "FOOD CODE": "C015",
+  "FOOD NAME": "Cabbage, green (Brassica oleracea var. capitata f. alba)",
+  "Ergocalciife(D2) (μg)": 0.21,
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 113
+ },
+ {
+  "FOOD CODE": "C016",
+  "FOOD NAME": "Cabbage, violet (Brassica oleracea var. capitata f. rubra)",
+  "Ergocalciife(D2) (μg)": 0.19,
+  "Tocopherols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 117
+ },
+ {
+  "FOOD CODE": "C017",
+  "FOOD NAME": "Cauliflower leaves (Brassica oleracea var. botrytis)",
+  "Ergocalciife(D2) (μg)": 4.15,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols Δ (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 144
+ },
+ {
+  "FOOD CODE": "C018",
+  "FOOD NAME": "Colocasia leaves, green (Colocasia anti-quorum)",
+  "Ergocalciife(D2) (μg)": 1.7,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 318
+ },
+ {
+  "FOOD CODE": "C019",
+  "FOOD NAME": "Drumstick leaves (Moringa oleifera)",
+  "Ergocalciife(D2) (μg)": 14.33,
+  "Tocopherols α (mg)": 0.3,
+  "Tocopherols γ (mg)": 0.05,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "phylloqoinones (K1) (μg)": 479
+ },
+ {
+  "FOOD CODE": "C020",
+  "FOOD NAME": "Fenugreek leaves (Trigonella foenum graecum)",
+  "Ergocalciife(D2) (μg)": 2.36,
+  "Tocopherols α (mg)": 0.36,
+  "α-tocopherol equivalent (mg)": 0.36,
+  "phylloqoinones (K1) (μg)": 428
+ },
+ {
+  "FOOD CODE": "C021",
+  "FOOD NAME": "Garden cress (Lepidium sativum)",
+  "Ergocalciife(D2) (μg)": 0.55,
+  "Tocopherols α (mg)": 0.74,
+  "α-tocopherol equivalent (mg)": 0.74,
+  "phylloqoinones (K1) (μg)": 458
+ },
+ {
+  "FOOD CODE": "C022",
+  "FOOD NAME": "Gogu leaves, green (Hibiscus cannabinus)",
+  "Ergocalciife(D2) (μg)": 4.28,
+  "Tocopherols α (mg)": 0.46,
+  "Tocopherols γ (mg)": 0.43,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "phylloqoinones (K1) (μg)": 433
+ },
+ {
+  "FOOD CODE": "C023",
+  "FOOD NAME": "Gogu leaves, red (Hibiscus cannabinus)",
+  "Ergocalciife(D2) (μg)": 4.27,
+  "Tocopherols α (mg)": 0.47,
+  "Tocopherols γ (mg)": 0.32,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "phylloqoinones (K1) (μg)": 438
+ },
+ {
+  "FOOD CODE": "C024",
+  "FOOD NAME": "Knol-Khol, leaves (Brassica oleracea var. gongylodes)",
+  "Ergocalciife(D2) (μg)": 0.59,
+  "Tocopherols α (mg)": 0.53,
+  "α-tocopherol equivalent (mg)": 0.53,
+  "phylloqoinones (K1) (μg)": 295
+ },
+ {
+  "FOOD CODE": "C025",
+  "FOOD NAME": "Lettuce (Lactuca sativa)",
+  "Ergocalciife(D2) (μg)": 0.1,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 91.08
+ },
+ {
+  "FOOD CODE": "C026",
+  "FOOD NAME": "Mustard leaves (Brassica juncea)",
+  "Ergocalciife(D2) (μg)": 5.4,
+  "Tocopherols α (mg)": 0.56,
+  "Tocopherols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.57,
+  "phylloqoinones (K1) (μg)": 192
+ },
+ {
+  "FOOD CODE": "C027",
+  "FOOD NAME": "Pak Choi leaves (Brassica rapa var. Chinensis)",
+  "Ergocalciife(D2) (μg)": 0.1,
+  "Tocopherols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 39.85
+ },
+ {
+  "FOOD CODE": "C028",
+  "FOOD NAME": "Parsley (Petroselinum crispum)",
+  "Ergocalciife(D2) (μg)": 5.55,
+  "Tocopherols α (mg)": 0.35,
+  "α-tocopherol equivalent (mg)": 0.35,
+  "phylloqoinones (K1) (μg)": 322
+ },
+ {
+  "FOOD CODE": "C029",
+  "FOOD NAME": "Ponnaganni (Alternanthera sessilis)",
+  "Ergocalciife(D2) (μg)": 0.65,
+  "Tocopherols α (mg)": 0.52,
+  "Tocopherols β (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.54,
+  "phylloqoinones (K1) (μg)": 574
+ },
+ {
+  "FOOD CODE": "C030",
+  "FOOD NAME": "Pumpkin leaves, tender (Cucurbita maxima)",
+  "Ergocalciife(D2) (μg)": 3.19,
+  "Tocopherols α (mg)": 1.24,
+  "Tocopherols β (mg)": 0.28,
+  "Tocopherols γ (mg)": 3.25,
+  "Tocotrienols α (mg)": 0.02,
+  "Tocotrienols β (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 1.69,
+  "phylloqoinones (K1) (μg)": 243
+ },
+ {
+  "FOOD CODE": "C031",
+  "FOOD NAME": "Radish leaves (Raphanus sativus)",
+  "Ergocalciife(D2) (μg)": 1.39,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols β (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 185
+ },
+ {
+  "FOOD CODE": "C032",
+  "FOOD NAME": "Rumex leaves (Rumex patientia)",
+  "Ergocalciife(D2) (μg)": 0.1,
+  "Tocopherols α (mg)": 0.46,
+  "Tocopherols β (mg)": 0.03,
+  "Tocopherols γ (mg)": 0.45,
+  "Tocopherols Δ (mg)": 0.18,
+  "α-tocopherol equivalent (mg)": 0.51,
+  "phylloqoinones (K1) (μg)": 126
+ },
+ {
+  "FOOD CODE": "C033",
+  "FOOD NAME": "Spinach (Spinacia oleracea)",
+  "Ergocalciife(D2) (μg)": 0.26,
+  "Tocopherols α (mg)": 1.27,
+  "Tocopherols β (mg)": 0.01,
+  "Tocopherols γ (mg)": 0.06,
+  "Tocopherols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 1.29,
+  "phylloqoinones (K1) (μg)": 325
+ },
+ {
+  "FOOD CODE": "C034",
+  "FOOD NAME": "Tamarind leaves, tender (Tamarindus indica)",
+  "Ergocalciife(D2) (μg)": 2.62,
+  "Tocopherols α (mg)": 0.69,
+  "Tocopherols γ (mg)": 1.18,
+  "α-tocopherol equivalent (mg)": 0.81,
+  "phylloqoinones (K1) (μg)": 249
+ },
+ {
+  "FOOD CODE": "D001",
+  "FOOD NAME": "Ash gourd (Benincasa hispida)",
+  "Ergocalciife(D2) (μg)": 1.35,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols γ (mg)": 0.13,
+  "Tocotrienols Δ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 27.15
+ },
+ {
+  "FOOD CODE": "D002",
+  "FOOD NAME": "Bamboo shoot, tender (Bambusa vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.41,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 1.13
+ },
+ {
+  "FOOD CODE": "D003",
+  "FOOD NAME": "Bean scarlet, tender (Phaseolus coccineus)",
+  "Ergocalciife(D2) (μg)": 1.4,
+  "Tocopherols α (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 0.15,
+  "phylloqoinones (K1) (μg)": 60.1
+ },
+ {
+  "FOOD CODE": "D004",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, elongate (Momordica charantia)",
+  "Ergocalciife(D2) (μg)": 1.92,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols β (mg)": 0.03,
+  "Tocotrienols β (mg)": 0.11,
+  "Tocotrienols Δ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 4.55
+ },
+ {
+  "FOOD CODE": "D005",
+  "FOOD NAME": "Bitter gourd, jagged, teeth ridges, short (Momordica charantia)",
+  "Ergocalciife(D2) (μg)": 1.9,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols β (mg)": 0.04,
+  "Tocotrienols β (mg)": 0.11,
+  "Tocotrienols Δ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 4.85
+ },
+ {
+  "FOOD CODE": "D006",
+  "FOOD NAME": "Bitter gourd, jagged, smooth ridges, elongate (Momordica charantia)",
+  "Ergocalciife(D2) (μg)": 1.83,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols β (mg)": 0.03,
+  "Tocotrienols β (mg)": 0.09,
+  "Tocotrienols Δ (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 4.7
+ },
+ {
+  "FOOD CODE": "D007",
+  "FOOD NAME": "Bottle gourd, elongate, pale green (Lagenaria vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.74,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 2.1
+ },
+ {
+  "FOOD CODE": "D008",
+  "FOOD NAME": "Bottle gourd, round, pale green (Lagenaria vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.7,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 2.06
+ },
+ {
+  "FOOD CODE": "D009",
+  "FOOD NAME": "Bottle gourd, elongate, dark green (Lagenaria vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.6,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "D010",
+  "FOOD NAME": "Brinjal-1 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.85,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 10.3
+ },
+ {
+  "FOOD CODE": "D011",
+  "FOOD NAME": "Brinjal-2 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.01,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "phylloqoinones (K1) (μg)": 11.45
+ },
+ {
+  "FOOD CODE": "D012",
+  "FOOD NAME": "Brinjal-3 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.19,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 12.25
+ },
+ {
+  "FOOD CODE": "D013",
+  "FOOD NAME": "Brinjal-4 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.05,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 12.75
+ },
+ {
+  "FOOD CODE": "D014",
+  "FOOD NAME": "Brinjal-5 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.61,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "phylloqoinones (K1) (μg)": 13.05
+ },
+ {
+  "FOOD CODE": "D015",
+  "FOOD NAME": "Brinjal-6 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.14,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 21.45
+ },
+ {
+  "FOOD CODE": "D016",
+  "FOOD NAME": "Brinjal-7 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.84,
+  "Tocopherols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 13.14
+ },
+ {
+  "FOOD CODE": "D017",
+  "FOOD NAME": "Brinjal-8 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.97,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 13.94
+ },
+ {
+  "FOOD CODE": "D018",
+  "FOOD NAME": "Brinjal-9 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.02,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 14.05
+ },
+ {
+  "FOOD CODE": "D019",
+  "FOOD NAME": "Brinjal-10 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.88,
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 14.25
+ },
+ {
+  "FOOD CODE": "D020",
+  "FOOD NAME": "Brinjal-11 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.01,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 14.46
+ },
+ {
+  "FOOD CODE": "D021",
+  "FOOD NAME": "Brinjal-12 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.87,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 14.32
+ },
+ {
+  "FOOD CODE": "D022",
+  "FOOD NAME": "Brinjal-13 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.06,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 14.29
+ },
+ {
+  "FOOD CODE": "D023",
+  "FOOD NAME": "Brinjal-14 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.89,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 14.58
+ },
+ {
+  "FOOD CODE": "D024",
+  "FOOD NAME": "Brinjal-15 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.12,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 14.04
+ },
+ {
+  "FOOD CODE": "D025",
+  "FOOD NAME": "Brinjal-16 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.76,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 13.37
+ },
+ {
+  "FOOD CODE": "D026",
+  "FOOD NAME": "Brinjal-17 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.33,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 12.75
+ },
+ {
+  "FOOD CODE": "D027",
+  "FOOD NAME": "Brinjal-18 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.01,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 13.67
+ },
+ {
+  "FOOD CODE": "D028",
+  "FOOD NAME": "Brinjal-19 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.06,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 11.48
+ },
+ {
+  "FOOD CODE": "D029",
+  "FOOD NAME": "Brinjal-20 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.02,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 10.94
+ },
+ {
+  "FOOD CODE": "D030",
+  "FOOD NAME": "Brinjal-21 (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 0.84,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 10.5
+ },
+ {
+  "FOOD CODE": "D031",
+  "FOOD NAME": "Brinjal - all varieties (Solanum melongena)",
+  "Ergocalciife(D2) (μg)": 1.04,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 13.53
+ },
+ {
+  "FOOD CODE": "D032",
+  "FOOD NAME": "Broad beans (Vicia faba)",
+  "Ergocalciife(D2) (μg)": 11.58,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols β (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 93.2
+ },
+ {
+  "FOOD CODE": "D033",
+  "FOOD NAME": "Capsicum, green (Capsicum annuum)",
+  "Ergocalciife(D2) (μg)": 0.7,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 24.66
+ },
+ {
+  "FOOD CODE": "D034",
+  "FOOD NAME": "Capsicum, red (Capsicum annuum)",
+  "Ergocalciife(D2) (μg)": 0.52,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 28.42
+ },
+ {
+  "FOOD CODE": "D035",
+  "FOOD NAME": "Capsicum, yellow (Capsicum annuum)",
+  "Ergocalciife(D2) (μg)": 0.89,
+  "Tocopherols α (mg)": 0.18,
+  "α-tocopherol equivalent (mg)": 0.18,
+  "phylloqoinones (K1) (μg)": 35.25
+ },
+ {
+  "FOOD CODE": "D036",
+  "FOOD NAME": "Cauliflower (Brassica oleracea)",
+  "Ergocalciife(D2) (μg)": 1.32,
+  "Tocopherols α (mg)": 0.02,
+  "Tocopherols Δ (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 14.33
+ },
+ {
+  "FOOD CODE": "D037",
+  "FOOD NAME": "Celery stalk (Apium graveolens)",
+  "Ergocalciife(D2) (μg)": 1.39,
+  "Tocopherols α (mg)": 0.03,
+  "Tocopherols Δ (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 25.87
+ },
+ {
+  "FOOD CODE": "D038",
+  "FOOD NAME": "Cho-cho-marrow (Sechium edule)",
+  "Ergocalciife(D2) (μg)": 5.46,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols γ (mg)": 0.57,
+  "Tocotrienols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 1.78
+ },
+ {
+  "FOOD CODE": "D039",
+  "FOOD NAME": "Cluster beans (Cyamopsis tetragonobola)",
+  "Ergocalciife(D2) (μg)": 13.72,
+  "Tocopherols α (mg)": 0.77,
+  "Tocopherols γ (mg)": 0.31,
+  "Tocopherols Δ (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.81,
+  "phylloqoinones (K1) (μg)": 23.7
+ },
+ {
+  "FOOD CODE": "D040",
+  "FOOD NAME": "Colocasia, stem, black (Colocasia antiquorum)",
+  "Ergocalciife(D2) (μg)": 0.21,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 35.75
+ },
+ {
+  "FOOD CODE": "D041",
+  "FOOD NAME": "Colocasia, stem, green (Colocasia antiquorum)",
+  "Ergocalciife(D2) (μg)": 0.14,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 33.68
+ },
+ {
+  "FOOD CODE": "D042",
+  "FOOD NAME": "Corn, Baby (Zea mays)",
+  "Ergocalciife(D2) (μg)": 31.2,
+  "Tocopherols α (mg)": 0.13,
+  "α-tocopherol equivalent (mg)": 0.13,
+  "phylloqoinones (K1) (μg)": 75.05
+ },
+ {
+  "FOOD CODE": "D043",
+  "FOOD NAME": "Cucumber, green, elongate (Cucumis sativus)",
+  "Ergocalciife(D2) (μg)": 1.26,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 8.2
+ },
+ {
+  "FOOD CODE": "D044",
+  "FOOD NAME": "Cucumber, green, short (Cucumis sativus)",
+  "Ergocalciife(D2) (μg)": 1.36,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 8
+ },
+ {
+  "FOOD CODE": "D045",
+  "FOOD NAME": "Cucumber, orange, round (Cucumis sativus)",
+  "Ergocalciife(D2) (μg)": 1.59,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 7.5
+ },
+ {
+  "FOOD CODE": "D046",
+  "FOOD NAME": "Drumstick (Moringa oleifera)",
+  "Ergocalciife(D2) (μg)": 1.67,
+  "Tocopherols α (mg)": 0.31,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "phylloqoinones (K1) (μg)": 358
+ },
+ {
+  "FOOD CODE": "D047",
+  "FOOD NAME": "Field beans, tender, broad (Vicia faba)",
+  "Ergocalciife(D2) (μg)": 7.14,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.25,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "phylloqoinones (K1) (μg)": 26.45
+ },
+ {
+  "FOOD CODE": "D048",
+  "FOOD NAME": "Field beans, tender, lean (Vicia faba)",
+  "Ergocalciife(D2) (μg)": 7.2,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.25,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "phylloqoinones (K1) (μg)": 26.35
+ },
+ {
+  "FOOD CODE": "D049",
+  "FOOD NAME": "French beans, country (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 1.82,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 0.12,
+  "Tocopherols Δ (mg)": 0.09,
+  "Tocotrienols γ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 15.12
+ },
+ {
+  "FOOD CODE": "D050",
+  "FOOD NAME": "French beans, hybrid (Phaseolus vulgaris)",
+  "Ergocalciife(D2) (μg)": 1.85,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.13,
+  "Tocopherols Δ (mg)": 0.08,
+  "Tocotrienols γ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 15.14
+ },
+ {
+  "FOOD CODE": "D051",
+  "FOOD NAME": "Jack fruit, raw (Artocarpus heterophyllus)",
+  "Ergocalciife(D2) (μg)": 6.84,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols β (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 22.3
+ },
+ {
+  "FOOD CODE": "D052",
+  "FOOD NAME": "Jack fruit, seed, mature (Artocarpus heterophyllus)",
+  "Ergocalciife(D2) (μg)": 1.4,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols β (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 13.56
+ },
+ {
+  "FOOD CODE": "D053",
+  "FOOD NAME": "Knol - Khol (Brassica oleracea)",
+  "Ergocalciife(D2) (μg)": 0.32,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols γ (mg)": 1.61,
+  "Tocopherols Δ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "phylloqoinones (K1) (μg)": 8.9
+ },
+ {
+  "FOOD CODE": "D054",
+  "FOOD NAME": "Kovai, big (Coccinia cordifolia)",
+  "Ergocalciife(D2) (μg)": 6.25,
+  "Tocopherols α (mg)": 0.7,
+  "Tocopherols γ (mg)": 0.14,
+  "α-tocopherol equivalent (mg)": 0.72,
+  "phylloqoinones (K1) (μg)": 19.15
+ },
+ {
+  "FOOD CODE": "D055",
+  "FOOD NAME": "Kovai, small (Coccinia cordifolia)",
+  "Ergocalciife(D2) (μg)": 6.06,
+  "Tocopherols α (mg)": 0.68,
+  "Tocopherols γ (mg)": 0.13,
+  "α-tocopherol equivalent (mg)": 0.7,
+  "phylloqoinones (K1) (μg)": 19.1
+ },
+ {
+  "FOOD CODE": "D056",
+  "FOOD NAME": "Ladies finger (Abelmoschus esculentus)",
+  "Ergocalciife(D2) (μg)": 7.46,
+  "Tocopherols α (mg)": 0.48,
+  "Tocopherols γ (mg)": 0.12,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "phylloqoinones (K1) (μg)": 21.52
+ },
+ {
+  "FOOD CODE": "D057",
+  "FOOD NAME": "Mango, green, raw (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 7.68,
+  "Tocopherols α (mg)": 0.9,
+  "Tocopherols γ (mg)": 0.17,
+  "α-tocopherol equivalent (mg)": 0.91,
+  "phylloqoinones (K1) (μg)": 14.42
+ },
+ {
+  "FOOD CODE": "D058",
+  "FOOD NAME": "Onion, stalk (Allium cepa)",
+  "Ergocalciife(D2) (μg)": 6.81,
+  "Tocopherols α (mg)": 0.81,
+  "α-tocopherol equivalent (mg)": 0.81,
+  "phylloqoinones (K1) (μg)": 44.33
+ },
+ {
+  "FOOD CODE": "D059",
+  "FOOD NAME": "Papaya, raw (Carica papaya)",
+  "Ergocalciife(D2) (μg)": 7.8,
+  "Tocopherols α (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 2.45
+ },
+ {
+  "FOOD CODE": "D060",
+  "FOOD NAME": "Parwar (Trichosanthes dioica)",
+  "Ergocalciife(D2) (μg)": 0.69,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 8.37
+ },
+ {
+  "FOOD CODE": "D061",
+  "FOOD NAME": "Peas, fresh (Pisum sativum)",
+  "Ergocalciife(D2) (μg)": 12.91,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 1.59,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 44.22
+ },
+ {
+  "FOOD CODE": "D062",
+  "FOOD NAME": "Plantain, flower (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 1.29,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 3.38
+ },
+ {
+  "FOOD CODE": "D063",
+  "FOOD NAME": "Plantain, green (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.27,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 17.42
+ },
+ {
+  "FOOD CODE": "D064",
+  "FOOD NAME": "Plantain, stem (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.32,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "D065",
+  "FOOD NAME": "Pumpkin, green, cylindrical (Cucurbita maxima)",
+  "Ergocalciife(D2) (μg)": 1.07,
+  "Tocopherols α (mg)": 0.86,
+  "Tocopherols β (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.87,
+  "phylloqoinones (K1) (μg)": 80.8
+ },
+ {
+  "FOOD CODE": "D066",
+  "FOOD NAME": "Pumpkin, orange, round (Cucurbita maxima)",
+  "Ergocalciife(D2) (μg)": 1.4,
+  "Tocopherols α (mg)": 0.59,
+  "Tocopherols β (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "phylloqoinones (K1) (μg)": 83.7
+ },
+ {
+  "FOOD CODE": "D067",
+  "FOOD NAME": "Red gram, tender, fresh (Cajanus cajan)",
+  "Ergocalciife(D2) (μg)": 28.96,
+  "Tocopherols α (mg)": 0.89,
+  "Tocopherols γ (mg)": 0.46,
+  "Tocopherols Δ (mg)": 0.43,
+  "α-tocopherol equivalent (mg)": 0.94,
+  "phylloqoinones (K1) (μg)": 14.9
+ },
+ {
+  "FOOD CODE": "D068",
+  "FOOD NAME": "Ridge gourd (Luffa acutangula)",
+  "Ergocalciife(D2) (μg)": 0.37,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 11.23
+ },
+ {
+  "FOOD CODE": "D069",
+  "FOOD NAME": "Ridge gourd, smooth skin (Luffa acutangula)",
+  "Ergocalciife(D2) (μg)": 0.34,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 11.57
+ },
+ {
+  "FOOD CODE": "D070",
+  "FOOD NAME": "Snake gourd, long, pale green (Trichosanthes anguina)",
+  "Ergocalciife(D2) (μg)": 2.67,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 8.35
+ },
+ {
+  "FOOD CODE": "D071",
+  "FOOD NAME": "Snake gourd, long, dark green (Trichosanthes anguina)",
+  "Ergocalciife(D2) (μg)": 3.08,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 8.4
+ },
+ {
+  "FOOD CODE": "D072",
+  "FOOD NAME": "Snake gourd, short (Trichosanthes anguina)",
+  "Ergocalciife(D2) (μg)": 3.12,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 8.3
+ },
+ {
+  "FOOD CODE": "D073",
+  "FOOD NAME": "Tinda, tender (Praecitrullus fistulosus)",
+  "Ergocalciife(D2) (μg)": 2.76,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 2.73
+ },
+ {
+  "FOOD CODE": "D074",
+  "FOOD NAME": "Tomato, green (Lycopersicon esculentum)",
+  "Ergocalciife(D2) (μg)": 1.1,
+  "Tocopherols α (mg)": 0.37,
+  "Tocopherols γ (mg)": 0.11,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.39,
+  "phylloqoinones (K1) (μg)": 16.1
+ },
+ {
+  "FOOD CODE": "D075",
+  "FOOD NAME": "Tomato, ripe, hybrid (Lycopersicon esculentum)",
+  "Ergocalciife(D2) (μg)": 11.83,
+  "Tocopherols α (mg)": 0.14,
+  "Tocopherols γ (mg)": 0.67,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.22,
+  "phylloqoinones (K1) (μg)": 24.12
+ },
+ {
+  "FOOD CODE": "D076",
+  "FOOD NAME": "Tomato, ripe, local (Lycopersicon esculentum)",
+  "Ergocalciife(D2) (μg)": 12.24,
+  "Tocopherols α (mg)": 0.19,
+  "Tocopherols γ (mg)": 0.75,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.27,
+  "phylloqoinones (K1) (μg)": 17.18
+ },
+ {
+  "FOOD CODE": "D077",
+  "FOOD NAME": "Zucchini, green (Cucurbita pepo)",
+  "Ergocalciife(D2) (μg)": 0.4,
+  "Tocopherols α (mg)": 3.9,
+  "Tocopherols γ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 3.9,
+  "phylloqoinones (K1) (μg)": 41.05
+ },
+ {
+  "FOOD CODE": "D078",
+  "FOOD NAME": "Zucchini, yellow (Cucurbita pepo)",
+  "Ergocalciife(D2) (μg)": 0.38,
+  "Tocopherols α (mg)": 1.47,
+  "Tocopherols γ (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 1.48,
+  "phylloqoinones (K1) (μg)": 53.28
+ },
+ {
+  "FOOD CODE": "E001",
+  "FOOD NAME": "Apple, big (Malus domestica)",
+  "Ergocalciife(D2) (μg)": 1.46,
+  "Tocopherols α (mg)": 0.15,
+  "Tocotrienols Δ (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 3.65
+ },
+ {
+  "FOOD CODE": "E002",
+  "FOOD NAME": "Apple, green (Malus domestica)",
+  "Ergocalciife(D2) (μg)": 2.45,
+  "Tocopherols α (mg)": 0.1,
+  "Tocotrienols Δ (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 2.13
+ },
+ {
+  "FOOD CODE": "E003",
+  "FOOD NAME": "Apple, small (Malus domestica)",
+  "Ergocalciife(D2) (μg)": 1.86,
+  "Tocopherols α (mg)": 0.07,
+  "Tocotrienols Δ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 2.18
+ },
+ {
+  "FOOD CODE": "E004",
+  "FOOD NAME": "Apple, small, Kashmir (Malus domestica)",
+  "Ergocalciife(D2) (μg)": 2.04,
+  "Tocopherols α (mg)": 0.05,
+  "Tocotrienols Δ (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 2.55
+ },
+ {
+  "FOOD CODE": "E005",
+  "FOOD NAME": "Apricot, dried (Prunus armeniaca)",
+  "Ergocalciife(D2) (μg)": 3.98,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.07,
+  "Tocopherols Δ (mg)": 0.29,
+  "Tocotrienols α (mg)": 0.09,
+  "Tocotrienols γ (mg)": 0.04,
+  "Tocotrienols Δ (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 5.17
+ },
+ {
+  "FOOD CODE": "E006",
+  "FOOD NAME": "Apricot, processed (Prunus armeniaca)",
+  "Ergocalciife(D2) (μg)": 4.31,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.07,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.01,
+  "Tocotrienols Δ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 6.14
+ },
+ {
+  "FOOD CODE": "E007",
+  "FOOD NAME": "Avocado fruit (Persea americana)",
+  "Ergocalciife(D2) (μg)": 2.1,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols Δ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 38.74
+ },
+ {
+  "FOOD CODE": "E008",
+  "FOOD NAME": "Bael fruit (Aegle marmelos)",
+  "Ergocalciife(D2) (μg)": 1.6,
+  "Tocopherols α (mg)": 0.6,
+  "Tocotrienols Δ (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 4.5
+ },
+ {
+  "FOOD CODE": "E009",
+  "FOOD NAME": "Banana, ripe, montham (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.2,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.07,
+  "Tocotrienols Δ (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 2.2
+ },
+ {
+  "FOOD CODE": "E010",
+  "FOOD NAME": "Banana, ripe, poovam (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.24,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.08,
+  "Tocotrienols Δ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 2.6
+ },
+ {
+  "FOOD CODE": "E011",
+  "FOOD NAME": "Banana, ripe, red (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.21,
+  "Tocopherols α (mg)": 0.09,
+  "Tocopherols γ (mg)": 0.06,
+  "Tocotrienols Δ (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 1.9
+ },
+ {
+  "FOOD CODE": "E012",
+  "FOOD NAME": "Banana, ripe, robusta (Musa x paradisiaca)",
+  "Ergocalciife(D2) (μg)": 0.22,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.05,
+  "Tocotrienols Δ (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 2.8
+ },
+ {
+  "FOOD CODE": "E013",
+  "FOOD NAME": "Black berry (Rubus fruticosus)",
+  "Ergocalciife(D2) (μg)": 14.65,
+  "Tocopherols α (mg)": 0.49,
+  "Tocotrienols α (mg)": 0.07,
+  "Tocotrienols β (mg)": 0.05,
+  "Tocotrienols Δ (mg)": 0.52,
+  "α-tocopherol equivalent (mg)": 1.82
+ },
+ {
+  "FOOD CODE": "E014",
+  "FOOD NAME": "Cherries, red (Prunus cerasus)",
+  "Ergocalciife(D2) (μg)": 4.3,
+  "Tocopherols α (mg)": 0.07,
+  "Tocotrienols Δ (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 5.56
+ },
+ {
+  "FOOD CODE": "E015",
+  "FOOD NAME": "Currants, black (Ribes nigrum)",
+  "Ergocalciife(D2) (μg)": 3.01,
+  "Tocopherols α (mg)": 0.45,
+  "Tocotrienols Δ (mg)": 0.45,
+  "α-tocopherol equivalent (mg)": 27.52
+ },
+ {
+  "FOOD CODE": "E016",
+  "FOOD NAME": "Custard apple (Annona squamosa)",
+  "Ergocalciife(D2) (μg)": 0.18,
+  "Tocopherols α (mg)": 0.19,
+  "Tocopherols β (mg)": 0.01,
+  "Tocotrienols Δ (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 58
+ },
+ {
+  "FOOD CODE": "E017",
+  "FOOD NAME": "Dates, dry, pale brown (Phoenix dactylifera)",
+  "Ergocalciife(D2) (μg)": 2.6,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.03,
+  "Tocotrienols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 3.34
+ },
+ {
+  "FOOD CODE": "E018",
+  "FOOD NAME": "Dates, dry, dark brown (Phoenix dactylifera)",
+  "Ergocalciife(D2) (μg)": 0.68,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.06,
+  "Tocotrienols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 4.53
+ },
+ {
+  "FOOD CODE": "E019",
+  "FOOD NAME": "Dates, processed (Phoenix dactylifera)",
+  "Ergocalciife(D2) (μg)": 0.83,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.04,
+  "Tocotrienols Δ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 4.93
+ },
+ {
+  "FOOD CODE": "E020",
+  "FOOD NAME": "Fig (Ficus carica)",
+  "Ergocalciife(D2) (μg)": 1.47,
+  "Tocopherols α (mg)": 0.42,
+  "Tocopherols γ (mg)": 1.17,
+  "α-tocopherol equivalent (mg)": 0.54,
+  "phylloqoinones (K1) (μg)": 5.75
+ },
+ {
+  "FOOD CODE": "E021",
+  "FOOD NAME": "Goosberry (Emblica officinalis)",
+  "Ergocalciife(D2) (μg)": 0.27,
+  "Tocopherols α (mg)": 0.11,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.12,
+  "phylloqoinones (K1) (μg)": 1.64
+ },
+ {
+  "FOOD CODE": "E022",
+  "FOOD NAME": "Grapes, seeded, round, black (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 6.19,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 3.65
+ },
+ {
+  "FOOD CODE": "E023",
+  "FOOD NAME": "Grapes, seeded, round, green (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 3.59,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.03,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 7.26
+ },
+ {
+  "FOOD CODE": "E024",
+  "FOOD NAME": "Grapes, seeded, round, red (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 6.87,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 5.2
+ },
+ {
+  "FOOD CODE": "E025",
+  "FOOD NAME": "Grapes, seedless, oval, black (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 6.42,
+  "Tocopherols α (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 3.4
+ },
+ {
+  "FOOD CODE": "E026",
+  "FOOD NAME": "Grapes, seedless, round, green (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 3.54,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 7.15
+ },
+ {
+  "FOOD CODE": "E027",
+  "FOOD NAME": "Grapes, seedless, round, black (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 6.23,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 3
+ },
+ {
+  "FOOD CODE": "E028",
+  "FOOD NAME": "Guava, white flesh (Psidium guajava)",
+  "Ergocalciife(D2) (μg)": 1.68,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols β (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.03,
+  "Tocotrienols Δ (mg)": 0.74,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 3.68
+ },
+ {
+  "FOOD CODE": "E029",
+  "FOOD NAME": "Guava, pink flesh (Psidium guajava)",
+  "Ergocalciife(D2) (μg)": 0.93,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols β (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.09,
+  "Tocotrienols γ (mg)": 0.01,
+  "Tocotrienols Δ (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "phylloqoinones (K1) (μg)": 5.35
+ },
+ {
+  "FOOD CODE": "E030",
+  "FOOD NAME": "Jack fruit, ripe (Artocarpus heterophyllus)",
+  "Ergocalciife(D2) (μg)": 7.49,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols Δ (mg)": 0.06,
+  "Tocotrienols β (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 37
+ },
+ {
+  "FOOD CODE": "E031",
+  "FOOD NAME": "Jambu fruit, ripe (Syzygium cumini)",
+  "Ergocalciife(D2) (μg)": 0.82,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 7.94
+ },
+ {
+  "FOOD CODE": "E032",
+  "FOOD NAME": "Karonda fruit (Carissa carandas)",
+  "Ergocalciife(D2) (μg)": 1.43,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "E033",
+  "FOOD NAME": "Lemon, juice (Citrus limon)",
+  "Ergocalciife(D2) (μg)": 0.39,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "E034",
+  "FOOD NAME": "Lime, sweet,pulp (Citrus limetta)",
+  "Ergocalciife(D2) (μg)": 0.3,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 2.2
+ },
+ {
+  "FOOD CODE": "E035",
+  "FOOD NAME": "Litchi (Nephelium litchi)",
+  "Ergocalciife(D2) (μg)": 0.33,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 7.81
+ },
+ {
+  "FOOD CODE": "E036",
+  "FOOD NAME": "Mango, ripe, banganapalli (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.71,
+  "Tocopherols α (mg)": 0.26,
+  "Tocopherols γ (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "phylloqoinones (K1) (μg)": 4.77
+ },
+ {
+  "FOOD CODE": "E037",
+  "FOOD NAME": "Mango, ripe, gulabkhas (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.91,
+  "Tocopherols α (mg)": 0.19,
+  "Tocopherols γ (mg)": 0.16,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "phylloqoinones (K1) (μg)": 4.8
+ },
+ {
+  "FOOD CODE": "E038",
+  "FOOD NAME": "Mango, ripe, himsagar (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.73,
+  "Tocopherols α (mg)": 0.29,
+  "Tocopherols γ (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "phylloqoinones (K1) (μg)": 4.4
+ },
+ {
+  "FOOD CODE": "E039",
+  "FOOD NAME": "Mango, ripe, kesar (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.68,
+  "Tocopherols α (mg)": 0.24,
+  "Tocopherols γ (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "phylloqoinones (K1) (μg)": 4.75
+ },
+ {
+  "FOOD CODE": "E040",
+  "FOOD NAME": "Mango, ripe, neelam (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.72,
+  "Tocopherols α (mg)": 0.24,
+  "Tocopherols γ (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.29,
+  "phylloqoinones (K1) (μg)": 5
+ },
+ {
+  "FOOD CODE": "E041",
+  "FOOD NAME": "Mango, ripe, paheri (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.62,
+  "Tocopherols α (mg)": 0.35,
+  "Tocopherols γ (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.37,
+  "phylloqoinones (K1) (μg)": 4.8
+ },
+ {
+  "FOOD CODE": "E042",
+  "FOOD NAME": "Mango, ripe, totapari (Mangifera indica)",
+  "Ergocalciife(D2) (μg)": 3.77,
+  "Tocopherols α (mg)": 0.27,
+  "Tocopherols γ (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "phylloqoinones (K1) (μg)": 4.6
+ },
+ {
+  "FOOD CODE": "E043",
+  "FOOD NAME": "Mangosteen (Garcinia mangostana)",
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 5.5
+ },
+ {
+  "FOOD CODE": "E044",
+  "FOOD NAME": "Manila tamarind (Pithecellobium dulce)",
+  "Tocopherols α (mg)": 0.38,
+  "α-tocopherol equivalent (mg)": 0.38,
+  "phylloqoinones (K1) (μg)": 33.18
+ },
+ {
+  "FOOD CODE": "E045",
+  "FOOD NAME": "Musk melon, orange flesh (Cucumis melon)",
+  "Ergocalciife(D2) (μg)": 4.41,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 5.7
+ },
+ {
+  "FOOD CODE": "E046",
+  "FOOD NAME": "Musk melon, yellow flesh (Cucumis melon)",
+  "Ergocalciife(D2) (μg)": 2.33,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 1.74
+ },
+ {
+  "FOOD CODE": "E047",
+  "FOOD NAME": "Orange, pulp (Citrus aurantium)",
+  "Ergocalciife(D2) (μg)": 0.34,
+  "Tocopherols α (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "E048",
+  "FOOD NAME": "Palm fruit, tender (Borassus flabellifer)",
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 3.6
+ },
+ {
+  "FOOD CODE": "E049",
+  "FOOD NAME": "Papaya, ripe (Carcia papaya)",
+  "Ergocalciife(D2) (μg)": 11.47,
+  "Tocopherols α (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 2.59
+ },
+ {
+  "FOOD CODE": "E050",
+  "FOOD NAME": "Peach (Prunus communis)",
+  "Ergocalciife(D2) (μg)": 2.41,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 4.4
+ },
+ {
+  "FOOD CODE": "E051",
+  "FOOD NAME": "Pear (Pyrus sp.)",
+  "Ergocalciife(D2) (μg)": 1.48,
+  "Tocopherols α (mg)": 0.29,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "phylloqoinones (K1) (μg)": 12.57
+ },
+ {
+  "FOOD CODE": "E052",
+  "FOOD NAME": "Phalsa (Grewia asiatica)",
+  "Ergocalciife(D2) (μg)": 1.34,
+  "Tocopherols α (mg)": 0.87,
+  "Tocopherols γ (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 0.93,
+  "phylloqoinones (K1) (μg)": 5.36
+ },
+ {
+  "FOOD CODE": "E053",
+  "FOOD NAME": "Pineapple (Ananas comosus)",
+  "Ergocalciife(D2) (μg)": 0.21,
+  "Tocopherols α (mg)": 0.36,
+  "Tocotrienols α (mg)": 0.31,
+  "α-tocopherol equivalent (mg)": 0.45,
+  "phylloqoinones (K1) (μg)": 2.4
+ },
+ {
+  "FOOD CODE": "E054",
+  "FOOD NAME": "Plum (Prunus domestica)",
+  "Ergocalciife(D2) (μg)": 3.32,
+  "Tocopherols α (mg)": 0.5,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "phylloqoinones (K1) (μg)": 8.5
+ },
+ {
+  "FOOD CODE": "E055",
+  "FOOD NAME": "Pomegranate, maroon seeds (Punica granatum)",
+  "Ergocalciife(D2) (μg)": 109,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 18.5
+ },
+ {
+  "FOOD CODE": "E056",
+  "FOOD NAME": "Pummelo (Citrus maxima)",
+  "Ergocalciife(D2) (μg)": 0.98,
+  "Tocopherols α (mg)": 0.46,
+  "Tocopherols β (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "phylloqoinones (K1) (μg)": 4.88
+ },
+ {
+  "FOOD CODE": "E057",
+  "FOOD NAME": "Raisins, dried, black (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 1.76,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 1.63
+ },
+ {
+  "FOOD CODE": "E058",
+  "FOOD NAME": "Raisins, dried, golden (Vitis vinifera)",
+  "Ergocalciife(D2) (μg)": 11.87,
+  "Tocopherols α (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 1.71
+ },
+ {
+  "FOOD CODE": "E059",
+  "FOOD NAME": "Rambutan (Nephelium lappaceum)",
+  "Ergocalciife(D2) (μg)": 2.4,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "phylloqoinones (K1) (μg)": 19.7
+ },
+ {
+  "FOOD CODE": "E060",
+  "FOOD NAME": "Sapota (Achras sapota)",
+  "Ergocalciife(D2) (μg)": 0.65,
+  "Tocopherols α (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.25,
+  "phylloqoinones (K1) (μg)": 4.3
+ },
+ {
+  "FOOD CODE": "E061",
+  "FOOD NAME": "Soursop ( Annona muricata )",
+  "Ergocalciife(D2) (μg)": 3.24,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 2.6
+ },
+ {
+  "FOOD CODE": "E062",
+  "FOOD NAME": "Star fruit (Averrhoa carambola)",
+  "Ergocalciife(D2) (μg)": 0.96,
+  "Tocopherols α (mg)": 0.4,
+  "α-tocopherol equivalent (mg)": 0.4,
+  "phylloqoinones (K1) (μg)": 2
+ },
+ {
+  "FOOD CODE": "E063",
+  "FOOD NAME": "Strawberry (Fragaria ananassa)",
+  "Ergocalciife(D2) (μg)": 3.95,
+  "Tocopherols α (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "phylloqoinones (K1) (μg)": 19.81
+ },
+ {
+  "FOOD CODE": "E064",
+  "FOOD NAME": "Tamarind, pulp (Tamarindus indicus)",
+  "Ergocalciife(D2) (μg)": 25.65,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "phylloqoinones (K1) (μg)": 1.67
+ },
+ {
+  "FOOD CODE": "E065",
+  "FOOD NAME": "Water melon, dark green (sugar baby) (Citrullus vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.56,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04,
+  "phylloqoinones (K1) (μg)": 2.1
+ },
+ {
+  "FOOD CODE": "E066",
+  "FOOD NAME": "Water melon, pale green (Citrullus vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.56,
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 2.8
+ },
+ {
+  "FOOD CODE": "E067",
+  "FOOD NAME": "Wood Apple (Limonia acidissima)",
+  "Ergocalciife(D2) (μg)": 28.71,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols β (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 6.8
+ },
+ {
+  "FOOD CODE": "E068",
+  "FOOD NAME": "Zizyphus (Zizyphus jujube)",
+  "Ergocalciife(D2) (μg)": 16.7,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "F001",
+  "FOOD NAME": "Beet root (Beta vulgaris)",
+  "Ergocalciife(D2) (μg)": 0.18,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 2.98
+ },
+ {
+  "FOOD CODE": "F002",
+  "FOOD NAME": "Carrot, orange (Dacus carota)",
+  "Ergocalciife(D2) (μg)": 1.36,
+  "Tocopherols α (mg)": 0.19,
+  "Tocopherols γ (mg)": 0.18,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.21,
+  "phylloqoinones (K1) (μg)": 18.35
+ },
+ {
+  "FOOD CODE": "F003",
+  "FOOD NAME": "Carrot, red (Dacus carota)",
+  "Ergocalciife(D2) (μg)": 1.39,
+  "Tocopherols α (mg)": 0.19,
+  "Tocopherols γ (mg)": 0.2,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.22,
+  "phylloqoinones (K1) (μg)": 18.75
+ },
+ {
+  "FOOD CODE": "F004",
+  "FOOD NAME": "Colocasia (Colocasia antiquorum)",
+  "Ergocalciife(D2) (μg)": 0.27,
+  "Tocopherols α (mg)": 0.32,
+  "Tocopherols γ (mg)": 0.08,
+  "Tocopherols Δ (mg)": 0.12,
+  "α-tocopherol equivalent (mg)": 0.33,
+  "phylloqoinones (K1) (μg)": 3.15
+ },
+ {
+  "FOOD CODE": "F005",
+  "FOOD NAME": "Lotus root (Nelumbium nelumbo)",
+  "Ergocalciife(D2) (μg)": 0.27,
+  "Tocopherols α (mg)": 0.73,
+  "α-tocopherol equivalent (mg)": 0.73,
+  "phylloqoinones (K1) (μg)": 44.45
+ },
+ {
+  "FOOD CODE": "F006",
+  "FOOD NAME": "Potato, brown skin, big (Solanum tuberosum)",
+  "Ergocalciife(D2) (μg)": 0.19,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 2.12
+ },
+ {
+  "FOOD CODE": "F007",
+  "FOOD NAME": "Potato, brown skin, small (Solanum tuberosum)",
+  "Ergocalciife(D2) (μg)": 0.22,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "F008",
+  "FOOD NAME": "Potato, red skin (Solanum tuberosum)",
+  "Ergocalciife(D2) (μg)": 0.2,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 2.3
+ },
+ {
+  "FOOD CODE": "F009",
+  "FOOD NAME": "Radish, elongate, red skin (Raphanus sativus)",
+  "Ergocalciife(D2) (μg)": 0.04,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 2.1
+ },
+ {
+  "FOOD CODE": "F010",
+  "FOOD NAME": "Radish, elongate, white skin (Raphanus sativus)",
+  "Ergocalciife(D2) (μg)": 0.05,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "F011",
+  "FOOD NAME": "Radish, round, red skin (Raphanus sativus)",
+  "Ergocalciife(D2) (μg)": 0.05,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 2.6
+ },
+ {
+  "FOOD CODE": "F012",
+  "FOOD NAME": "Radish, round, white skin (Raphanus sativus)",
+  "Ergocalciife(D2) (μg)": 0.04,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 1.9
+ },
+ {
+  "FOOD CODE": "F013",
+  "FOOD NAME": "Sweet potato, brown skin (Ipomoes batatas)",
+  "Ergocalciife(D2) (μg)": 1.26,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 3
+ },
+ {
+  "FOOD CODE": "F014",
+  "FOOD NAME": "Sweet potato, pink skin (Ipomoes batatas)",
+  "Ergocalciife(D2) (μg)": 1.64,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "F015",
+  "FOOD NAME": "Tapioca (Manihot esculenta)",
+  "Ergocalciife(D2) (μg)": 0.13,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "phylloqoinones (K1) (μg)": 2.8
+ },
+ {
+  "FOOD CODE": "F016",
+  "FOOD NAME": "Water Chestnut (Eleocharis dulcis)",
+  "Ergocalciife(D2) (μg)": 1.2,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "F017",
+  "FOOD NAME": "Yam, elephant (Amorphophallus campanulatus)",
+  "Ergocalciife(D2) (μg)": 1.3,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols β (mg)": 0.69,
+  "Tocotrienols α (mg)": 0.03,
+  "Tocotrienols γ (mg)": 0.17,
+  "α-tocopherol equivalent (mg)": 0.34,
+  "phylloqoinones (K1) (μg)": 4.8
+ },
+ {
+  "FOOD CODE": "F018",
+  "FOOD NAME": "Yam, ordinary (Amorphophallus campanulatus)",
+  "Ergocalciife(D2) (μg)": 0.23,
+  "Tocopherols α (mg)": 0.23,
+  "Tocopherols β (mg)": 0.35,
+  "Tocotrienols α (mg)": 0.04,
+  "Tocotrienols γ (mg)": 0.43,
+  "α-tocopherol equivalent (mg)": 0.39,
+  "phylloqoinones (K1) (μg)": 5.5
+ },
+ {
+  "FOOD CODE": "F019",
+  "FOOD NAME": "Yam, wild (Dioscorea versicolor)",
+  "Ergocalciife(D2) (μg)": 1.18,
+  "Tocopherols α (mg)": 0.4,
+  "Tocopherols β (mg)": 0.28,
+  "Tocotrienols α (mg)": 0.05,
+  "Tocotrienols γ (mg)": 0.13,
+  "α-tocopherol equivalent (mg)": 0.53,
+  "phylloqoinones (K1) (μg)": 6
+ },
+ {
+  "FOOD CODE": "G001",
+  "FOOD NAME": "Chillies, green-1 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 3.14,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 1.93,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "phylloqoinones (K1) (μg)": 20.12
+ },
+ {
+  "FOOD CODE": "G002",
+  "FOOD NAME": "Chillies, green-2 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 3.49,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 2.1,
+  "α-tocopherol equivalent (mg)": 0.27,
+  "phylloqoinones (K1) (μg)": 19.51
+ },
+ {
+  "FOOD CODE": "G003",
+  "FOOD NAME": "Chillies, green-3 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 3.17,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 2.03,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "phylloqoinones (K1) (μg)": 18.05
+ },
+ {
+  "FOOD CODE": "G004",
+  "FOOD NAME": "Chillies, green-4 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 2.87,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 2.27,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "phylloqoinones (K1) (μg)": 22.16
+ },
+ {
+  "FOOD CODE": "G005",
+  "FOOD NAME": "Chillies, green-5 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 3.26,
+  "Tocopherols α (mg)": 0.08,
+  "Tocopherols γ (mg)": 1.73,
+  "α-tocopherol equivalent (mg)": 0.25,
+  "phylloqoinones (K1) (μg)": 15.7
+ },
+ {
+  "FOOD CODE": "G006",
+  "FOOD NAME": "Chillies, green-6 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 2.19,
+  "Tocopherols α (mg)": 0.07,
+  "Tocopherols γ (mg)": 2.46,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "phylloqoinones (K1) (μg)": 18
+ },
+ {
+  "FOOD CODE": "G007",
+  "FOOD NAME": "Chillies, green-7 (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 2.43,
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols γ (mg)": 1.8,
+  "α-tocopherol equivalent (mg)": 0.22,
+  "phylloqoinones (K1) (μg)": 19.5
+ },
+ {
+  "FOOD CODE": "G008",
+  "FOOD NAME": "Chillies, green - all varieties (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 3.11,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols γ (mg)": 2.04,
+  "α-tocopherol equivalent (mg)": 0.27,
+  "phylloqoinones (K1) (μg)": 19.18
+ },
+ {
+  "FOOD CODE": "G009",
+  "FOOD NAME": "Coriander leaves (Coriandrum sativum)",
+  "Ergocalciife(D2) (μg)": 3.55,
+  "Tocopherols α (mg)": 0.42,
+  "Tocotrienols α (mg)": 0.12,
+  "Tocotrienols γ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.46,
+  "phylloqoinones (K1) (μg)": 274
+ },
+ {
+  "FOOD CODE": "G010",
+  "FOOD NAME": "Curry leaves (Murraya koenigii)",
+  "Ergocalciife(D2) (μg)": 117,
+  "Tocopherols α (mg)": 1.71,
+  "Tocopherols Δ (mg)": 0.82,
+  "Tocotrienols α (mg)": 0.34,
+  "α-tocopherol equivalent (mg)": 1.82,
+  "phylloqoinones (K1) (μg)": 275
+ },
+ {
+  "FOOD CODE": "G011",
+  "FOOD NAME": "Garlic, big clove (Allium sativum)",
+  "Ergocalciife(D2) (μg)": 1.88,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 2.8
+ },
+ {
+  "FOOD CODE": "G012",
+  "FOOD NAME": "Garlic, small clove (Allium sativum)",
+  "Ergocalciife(D2) (μg)": 1.97,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 3.2
+ },
+ {
+  "FOOD CODE": "G013",
+  "FOOD NAME": "Garlic, single clove, Kashmir (Allium sativum)",
+  "Ergocalciife(D2) (μg)": 2.89,
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 4.5
+ },
+ {
+  "FOOD CODE": "G014",
+  "FOOD NAME": "Ginger, fresh (Zinziber officinale)",
+  "Ergocalciife(D2) (μg)": 4.09,
+  "Tocopherols α (mg)": 0.28,
+  "Tocopherols γ (mg)": 0.47,
+  "α-tocopherol equivalent (mg)": 0.32,
+  "phylloqoinones (K1) (μg)": 25.55
+ },
+ {
+  "FOOD CODE": "G015",
+  "FOOD NAME": "Mango ginger (Curcuma amada)",
+  "Ergocalciife(D2) (μg)": 3.1,
+  "Tocopherols α (mg)": 0.35,
+  "Tocotrienols α (mg)": 0.79,
+  "α-tocopherol equivalent (mg)": 0.59,
+  "phylloqoinones (K1) (μg)": 27.71
+ },
+ {
+  "FOOD CODE": "G016",
+  "FOOD NAME": "Mint leaves (Mentha spicata )",
+  "Ergocalciife(D2) (μg)": 3.37,
+  "Tocopherols α (mg)": 0.45,
+  "Tocopherols γ (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.46,
+  "phylloqoinones (K1) (μg)": 164
+ },
+ {
+  "FOOD CODE": "G017",
+  "FOOD NAME": "Onion, big (Allium cepa)",
+  "Ergocalciife(D2) (μg)": 0.73,
+  "Tocopherols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.05,
+  "phylloqoinones (K1) (μg)": 4.5
+ },
+ {
+  "FOOD CODE": "G018",
+  "FOOD NAME": "Onion, small (Allium cepa)",
+  "Ergocalciife(D2) (μg)": 0.12,
+  "Tocopherols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 5.3
+ },
+ {
+  "FOOD CODE": "G019",
+  "FOOD NAME": "Asafoetida (Ferula assa-foetida)",
+  "Ergocalciife(D2) (μg)": 12.59,
+  "Tocopherols α (mg)": 0.73,
+  "Tocotrienols α (mg)": 0.12,
+  "α-tocopherol equivalent (mg)": 0.77,
+  "phylloqoinones (K1) (μg)": 46.56
+ },
+ {
+  "FOOD CODE": "G020",
+  "FOOD NAME": "Cardamom, green (Elettaria cardamomum)",
+  "Ergocalciife(D2) (μg)": 43.72,
+  "Tocopherols α (mg)": 0.14,
+  "Tocopherols β (mg)": 1.13,
+  "Tocotrienols α (mg)": 0.59,
+  "α-tocopherol equivalent (mg)": 0.77,
+  "phylloqoinones (K1) (μg)": 6.81
+ },
+ {
+  "FOOD CODE": "G021",
+  "FOOD NAME": "Cardamom, black (Elettaria cardamomum)",
+  "Ergocalciife(D2) (μg)": 43.55,
+  "Tocopherols α (mg)": 0.36,
+  "Tocopherols β (mg)": 0.83,
+  "Tocotrienols α (mg)": 1.38,
+  "α-tocopherol equivalent (mg)": 1.1,
+  "phylloqoinones (K1) (μg)": 5.74
+ },
+ {
+  "FOOD CODE": "G022",
+  "FOOD NAME": "Chillies, red (Capsicum annum)",
+  "Ergocalciife(D2) (μg)": 24.36,
+  "Tocopherols α (mg)": 0.69,
+  "Tocopherols γ (mg)": 2.91,
+  "α-tocopherol equivalent (mg)": 0.98,
+  "phylloqoinones (K1) (μg)": 274
+ },
+ {
+  "FOOD CODE": "G023",
+  "FOOD NAME": "Cloves (Syzygium aromaticum)",
+  "Ergocalciife(D2) (μg)": 45.07,
+  "Tocopherols α (mg)": 0.46,
+  "Tocopherols β (mg)": 0.77,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.77,
+  "phylloqoinones (K1) (μg)": 161
+ },
+ {
+  "FOOD CODE": "G024",
+  "FOOD NAME": "Coriander seeds (Coriandrum sativum)",
+  "Ergocalciife(D2) (μg)": 1.31,
+  "Tocopherols α (mg)": 0.91,
+  "Tocotrienols α (mg)": 0.32,
+  "Tocotrienols γ (mg)": 0.47,
+  "Tocotrienols Δ (mg)": 0.24,
+  "α-tocopherol equivalent (mg)": 1.01,
+  "phylloqoinones (K1) (μg)": 35.7
+ },
+ {
+  "FOOD CODE": "G025",
+  "FOOD NAME": "Cumin seeds (Cuminum cyminum)",
+  "Ergocalciife(D2) (μg)": 12.1,
+  "Tocopherols α (mg)": 1.49,
+  "α-tocopherol equivalent (mg)": 1.49,
+  "phylloqoinones (K1) (μg)": 146
+ },
+ {
+  "FOOD CODE": "G026",
+  "FOOD NAME": "Fenugreek seeds (Trigonella foenum graecum)",
+  "Ergocalciife(D2) (μg)": 1.98,
+  "Tocopherols α (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "G027",
+  "FOOD NAME": "Mace (Myristica fragrans)",
+  "Ergocalciife(D2) (μg)": 44.92,
+  "Tocopherols α (mg)": 1.05,
+  "Tocotrienols α (mg)": 10.36,
+  "α-tocopherol equivalent (mg)": 4.16,
+  "phylloqoinones (K1) (μg)": 70.44
+ },
+ {
+  "FOOD CODE": "G028",
+  "FOOD NAME": "Nutmeg (Myristica fragrans)",
+  "Ergocalciife(D2) (μg)": 46.67,
+  "Tocopherols α (mg)": 1.18,
+  "Tocotrienols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 1.21,
+  "phylloqoinones (K1) (μg)": 60.92
+ },
+ {
+  "FOOD CODE": "G029",
+  "FOOD NAME": "Omum (Trachyspermum ammi)",
+  "Ergocalciife(D2) (μg)": 2.62,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.41,
+  "Tocotrienols Δ (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 30.36
+ },
+ {
+  "FOOD CODE": "G030",
+  "FOOD NAME": "Pippali (Piper longum)",
+  "Ergocalciife(D2) (μg)": 118,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols γ (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.03,
+  "phylloqoinones (K1) (μg)": 93.45
+ },
+ {
+  "FOOD CODE": "G031",
+  "FOOD NAME": "Pepper, black (Piper nigrum)",
+  "Ergocalciife(D2) (μg)": 25.68,
+  "Tocopherols α (mg)": 0.59,
+  "Tocopherols β (mg)": 1.58,
+  "Tocopherols γ (mg)": 0.45,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.27,
+  "phylloqoinones (K1) (μg)": 171
+ },
+ {
+  "FOOD CODE": "G032",
+  "FOOD NAME": "Poppy seeds (Papaver somniferum)",
+  "Ergocalciife(D2) (μg)": 33.92,
+  "Tocopherols α (mg)": 1.66,
+  "Tocopherols γ (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 1.67,
+  "phylloqoinones (K1) (μg)": 95.18
+ },
+ {
+  "FOOD CODE": "G033",
+  "FOOD NAME": "Turmeric powder (Curcuma domestica)",
+  "Ergocalciife(D2) (μg)": 18.67,
+  "Tocopherols α (mg)": 2.63,
+  "Tocopherols β (mg)": 0.28,
+  "Tocotrienols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 2.92,
+  "phylloqoinones (K1) (μg)": 12.8
+ },
+ {
+  "FOOD CODE": "H001",
+  "FOOD NAME": "Almond (Prunus amygdalus)",
+  "Ergocalciife(D2) (μg)": 1.61,
+  "Tocopherols α (mg)": 24.88,
+  "Tocopherols β (mg)": 1.87,
+  "Tocopherols γ (mg)": 1.68,
+  "Tocopherols Δ (mg)": 0.08,
+  "Tocotrienols α (mg)": 0.21,
+  "α-tocopherol equivalent (mg)": 25.86,
+  "phylloqoinones (K1) (μg)": 8.4
+ },
+ {
+  "FOOD CODE": "H002",
+  "FOOD NAME": "Arecanut, dried, brown (Areca catechu)",
+  "Ergocalciife(D2) (μg)": 12.77,
+  "Tocopherols α (mg)": 0.06,
+  "Tocopherols β (mg)": 0.22,
+  "Tocopherols γ (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.15,
+  "phylloqoinones (K1) (μg)": 3.78
+ },
+ {
+  "FOOD CODE": "H003",
+  "FOOD NAME": "Arecanut, dried, red color (Areca catechu)",
+  "Ergocalciife(D2) (μg)": 12.6,
+  "Tocopherols α (mg)": 0.04,
+  "Tocopherols β (mg)": 0.27,
+  "Tocopherols γ (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "phylloqoinones (K1) (μg)": 3.9
+ },
+ {
+  "FOOD CODE": "H004",
+  "FOOD NAME": "Arecanut, fresh (Areca catechu)",
+  "Ergocalciife(D2) (μg)": 11.03,
+  "Tocopherols α (mg)": 0.01,
+  "Tocopherols β (mg)": 0.13,
+  "Tocopherols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.06,
+  "phylloqoinones (K1) (μg)": 3.71
+ },
+ {
+  "FOOD CODE": "H005",
+  "FOOD NAME": "Cashew nut (Anacardium occidentale)",
+  "Ergocalciife(D2) (μg)": 3.85,
+  "Tocopherols α (mg)": 1.05,
+  "Tocopherols β (mg)": 0.05,
+  "Tocopherols γ (mg)": 5.26,
+  "α-tocopherol equivalent (mg)": 1.05,
+  "phylloqoinones (K1) (μg)": 1.83
+ },
+ {
+  "FOOD CODE": "H006",
+  "FOOD NAME": "Coconut, kernal, dry (Cocos nucifera)",
+  "Tocopherols α (mg)": 6.02,
+  "Tocopherols γ (mg)": 0.44,
+  "α-tocopherol equivalent (mg)": 6.06,
+  "phylloqoinones (K1) (μg)": 2.88
+ },
+ {
+  "FOOD CODE": "H007",
+  "FOOD NAME": "Coconut, kernel, fresh (Cocos nucifera)",
+  "Tocopherols α (mg)": 2.39,
+  "Tocopherols β (mg)": 0.05,
+  "Tocopherols γ (mg)": 3.19,
+  "α-tocopherol equivalent (mg)": 2.72,
+  "phylloqoinones (K1) (μg)": 23.22
+ },
+ {
+  "FOOD CODE": "H008",
+  "FOOD NAME": "Garden cress, seeds (Lepidium sativum)",
+  "Ergocalciife(D2) (μg)": 1.92,
+  "Tocopherols α (mg)": 1.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "phylloqoinones (K1) (μg)": 24.66
+ },
+ {
+  "FOOD CODE": "H009",
+  "FOOD NAME": "Gingelly seeds, black (Sesamum indicum)",
+  "Ergocalciife(D2) (μg)": 67.83,
+  "Tocopherols α (mg)": 1.08,
+  "Tocotrienols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "phylloqoinones (K1) (μg)": 110
+ },
+ {
+  "FOOD CODE": "H010",
+  "FOOD NAME": "Gingelly seeds, brown (Sesamum indicum)",
+  "Ergocalciife(D2) (μg)": 76.51,
+  "Tocopherols α (mg)": 1.22,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.23,
+  "phylloqoinones (K1) (μg)": 113
+ },
+ {
+  "FOOD CODE": "H011",
+  "FOOD NAME": "Gingelly seeds, white (Sesamum indicum)",
+  "Ergocalciife(D2) (μg)": 62.74,
+  "Tocopherols α (mg)": 1.24,
+  "Tocotrienols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 1.26,
+  "phylloqoinones (K1) (μg)": 106
+ },
+ {
+  "FOOD CODE": "H012",
+  "FOOD NAME": "Ground nut (Arachis hypogea)",
+  "Ergocalciife(D2) (μg)": 7.1,
+  "Tocopherols α (mg)": 4.26,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "phylloqoinones (K1) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "H013",
+  "FOOD NAME": "Mustard seeds (Brassica juncea)",
+  "Ergocalciife(D2) (μg)": 31.79,
+  "Tocopherols α (mg)": 1.44,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.45,
+  "phylloqoinones (K1) (μg)": 8.2
+ },
+ {
+  "FOOD CODE": "H014",
+  "FOOD NAME": "Linseeds (Linum usitatissimum)",
+  "Ergocalciife(D2) (μg)": 0.55,
+  "Tocopherols α (mg)": 7.79,
+  "Tocopherols γ (mg)": 1.51,
+  "Tocotrienols α (mg)": 1.12,
+  "α-tocopherol equivalent (mg)": 8.28,
+  "phylloqoinones (K1) (μg)": 19.17
+ },
+ {
+  "FOOD CODE": "H015",
+  "FOOD NAME": "Niger seeds, black (Guizotia abyssinica)",
+  "Ergocalciife(D2) (μg)": 2.52,
+  "Tocopherols α (mg)": 2.59,
+  "Tocopherols γ (mg)": 7.79,
+  "Tocopherols Δ (mg)": 1.05,
+  "Tocotrienols β (mg)": 1.08,
+  "α-tocopherol equivalent (mg)": 1.44,
+  "phylloqoinones (K1) (μg)": 110
+ },
+ {
+  "FOOD CODE": "H016",
+  "FOOD NAME": "Niger seeds, gray (Guizotia abyssinica)",
+  "Ergocalciife(D2) (μg)": 2.7,
+  "Tocopherols α (mg)": 2.18,
+  "Tocopherols γ (mg)": 4.18,
+  "Tocopherols Δ (mg)": 1.25,
+  "Tocotrienols β (mg)": 1.12,
+  "α-tocopherol equivalent (mg)": 2.66,
+  "phylloqoinones (K1) (μg)": 105
+ },
+ {
+  "FOOD CODE": "H017",
+  "FOOD NAME": "Pine seed (Pinus gerardiana)",
+  "Ergocalciife(D2) (μg)": 0.61,
+  "Tocopherols α (mg)": 4.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 44.55
+ },
+ {
+  "FOOD CODE": "H018",
+  "FOOD NAME": "Pistachio nuts (Pistacla vera)",
+  "Ergocalciife(D2) (μg)": 1.8,
+  "Tocopherols α (mg)": 31.41,
+  "Tocopherols β (mg)": 4.1,
+  "Tocopherols γ (mg)": 8.48,
+  "Tocopherols Δ (mg)": 1.55,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 33.92,
+  "phylloqoinones (K1) (μg)": 18.65
+ },
+ {
+  "FOOD CODE": "H019",
+  "FOOD NAME": "Safflower seeds (Carthamus tinctorius)",
+  "Ergocalciife(D2) (μg)": 1.91,
+  "Tocopherols α (mg)": 31.74,
+  "Tocopherols β (mg)": 5.88,
+  "Tocopherols γ (mg)": 9.62,
+  "Tocopherols Δ (mg)": 1.98,
+  "Tocotrienols α (mg)": 0.06,
+  "α-tocopherol equivalent (mg)": 35.09,
+  "phylloqoinones (K1) (μg)": 8.8
+ },
+ {
+  "FOOD CODE": "H020",
+  "FOOD NAME": "Sunflower seeds (Helianthus annuus)",
+  "Ergocalciife(D2) (μg)": 1.54,
+  "Tocopherols α (mg)": 21.39,
+  "Tocopherols β (mg)": 3.42,
+  "Tocopherols γ (mg)": 3.41,
+  "α-tocopherol equivalent (mg)": 12.93,
+  "phylloqoinones (K1) (μg)": 9.2
+ },
+ {
+  "FOOD CODE": "H021",
+  "FOOD NAME": "Walnut (Juglans regia)",
+  "Ergocalciife(D2) (μg)": 46.31,
+  "Tocopherols α (mg)": 2.65,
+  "Tocopherols β (mg)": 3.5,
+  "Tocopherols γ (mg)": 0.43,
+  "Tocopherols Δ (mg)": 0.16,
+  "Tocotrienols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 4.12,
+  "phylloqoinones (K1) (μg)": 84.92
+ },
+ {
+  "FOOD CODE": "I001",
+  "FOOD NAME": "Jaggery, cane (Saccharum officinarum)",
+  "Ergocalciife(D2) (μg)": 0.47,
+  "Tocopherols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.04
+ },
+ {
+  "FOOD CODE": "I002",
+  "FOOD NAME": "Sugarcane, juice (Saccharum officinarum)",
+  "Ergocalciife(D2) (μg)": 0.41,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02
+ },
+ {
+  "FOOD CODE": "J001",
+  "FOOD NAME": "Button mushroom, fresh (Agaricus sp.)",
+  "Ergocalciife(D2) (μg)": 20.54,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 12.5
+ },
+ {
+  "FOOD CODE": "J002",
+  "FOOD NAME": "Chicken mushroom, fresh (Lactiporus sp.)",
+  "Ergocalciife(D2) (μg)": 27.58,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "phylloqoinones (K1) (μg)": 16.29
+ },
+ {
+  "FOOD CODE": "J003",
+  "FOOD NAME": "Shiitake mushroom, fresh (Lentinula sp.)",
+  "Ergocalciife(D2) (μg)": 36.4,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 12.5
+ },
+ {
+  "FOOD CODE": "J004",
+  "FOOD NAME": "Oyster mushroom, dried (Pleurotus sp.)",
+  "Ergocalciife(D2) (μg)": 109,
+  "Tocopherols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.01,
+  "phylloqoinones (K1) (μg)": 11.8
+ },
+ {
+  "FOOD CODE": "K001",
+  "FOOD NAME": "Toddy",
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.01
+ },
+ {
+  "FOOD CODE": "K002",
+  "FOOD NAME": "Coconut Water",
+  "Tocopherols α (mg)": 0.45,
+  "α-tocopherol equivalent (mg)": 0.45,
+  "phylloqoinones (K1) (μg)": 2.69
+ },
+ {
+  "FOOD CODE": "L001",
+  "FOOD NAME": "Milk, whole, Buffalo",
+  "Ergocalciife(D2) (μg)": 1.63,
+  "Tocopherols α (mg)": 0.12,
+  "Tocopherols β (mg)": 0.09,
+  "Tocotrienols α (mg)": 0.1,
+  "Tocotrienols γ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.19
+ },
+ {
+  "FOOD CODE": "L002",
+  "FOOD NAME": "Milk, whole, Cow",
+  "Ergocalciife(D2) (μg)": 1.22,
+  "Tocopherols α (mg)": 0.14,
+  "Tocopherols β (mg)": 0.11,
+  "Tocotrienols α (mg)": 0.15,
+  "Tocotrienols γ (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.22
+ },
+ {
+  "FOOD CODE": "L003",
+  "FOOD NAME": "Paneer",
+  "Ergocalciife(D2) (μg)": 0.13,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02
+ },
+ {
+  "FOOD CODE": "L004",
+  "FOOD NAME": "Khoa",
+  "Ergocalciife(D2) (μg)": 0.12,
+  "Tocopherols α (mg)": 0.03,
+  "α-tocopherol equivalent (mg)": 0.03
+ },
+ {
+  "FOOD CODE": "M001",
+  "FOOD NAME": "Egg, poultry, whole, raw",
+  "Retinol (μg)": 198,
+  "Cholecalciferol( D3) (μg)": 0.84,
+  "Tocopherols α (mg)": 1.47,
+  "Tocopherols β (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocopherols Δ (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.07,
+  "Tocotrienols β (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 1.51,
+  "Menaquiomones (K2) (μg)": 14.61
+ },
+ {
+  "FOOD CODE": "M002",
+  "FOOD NAME": "Egg, poultry, white, raw",
+  "Cholecalciferol( D3) (μg)": 1.05
+ },
+ {
+  "FOOD CODE": "M003",
+  "FOOD NAME": "Egg, poultry, yolk, raw",
+  "Retinol (μg)": 539,
+  "Cholecalciferol( D3) (μg)": 3.25,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 2.94,
+  "Tocopherols β (mg)": 0.02,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.06,
+  "Tocotrienols β (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 2.97,
+  "Menaquiomones (K2) (μg)": 45.14
+ },
+ {
+  "FOOD CODE": "M004",
+  "FOOD NAME": "Egg, poultry, whole, boiled",
+  "Retinol (μg)": 180,
+  "Cholecalciferol( D3) (μg)": 0.74,
+  "Tocopherols α (mg)": 1.31,
+  "Tocopherols β (mg)": 0.04,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.03,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.34,
+  "Menaquiomones (K2) (μg)": 13.02
+ },
+ {
+  "FOOD CODE": "M005",
+  "FOOD NAME": "Egg, poultry, white, boiled",
+  "Cholecalciferol( D3) (μg)": 0.18
+ },
+ {
+  "FOOD CODE": "M006",
+  "FOOD NAME": "Egg, poultry, yolk, boiled",
+  "Retinol (μg)": 456,
+  "Cholecalciferol( D3) (μg)": 3.04,
+  "Tocopherols α (mg)": 2.77,
+  "Tocopherols β (mg)": 0.02,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocopherols Δ (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.05,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 2.8,
+  "Menaquiomones (K2) (μg)": 40.29
+ },
+ {
+  "FOOD CODE": "M007",
+  "FOOD NAME": "Egg, poultry, omlet",
+  "Retinol (μg)": 181,
+  "Cholecalciferol( D3) (μg)": 2.98,
+  "Tocopherols α (mg)": 1.82,
+  "Tocopherols β (mg)": 0.06,
+  "Tocopherols γ (mg)": 0.03,
+  "Tocopherols Δ (mg)": 0.25,
+  "Tocotrienols α (mg)": 0.11,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.88,
+  "Menaquiomones (K2) (μg)": 16.62
+ },
+ {
+  "FOOD CODE": "M008",
+  "FOOD NAME": "Egg, country hen, whole, raw",
+  "Retinol (μg)": 206,
+  "Cholecalciferol( D3) (μg)": 4.46,
+  "Tocopherols α (mg)": 2.05,
+  "Tocopherols β (mg)": 0.06,
+  "Tocopherols γ (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.08,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 2.1,
+  "Menaquiomones (K2) (μg)": 64
+ },
+ {
+  "FOOD CODE": "M009",
+  "FOOD NAME": "Egg, country hen, whole, boiled",
+  "Retinol (μg)": 195,
+  "Cholecalciferol( D3) (μg)": 2.99,
+  "Tocopherols α (mg)": 2,
+  "Tocopherols β (mg)": 0.05,
+  "Tocopherols γ (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.08,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 2.05,
+  "Menaquiomones (K2) (μg)": 60
+ },
+ {
+  "FOOD CODE": "M010",
+  "FOOD NAME": "Egg, country hen, omlet",
+  "Retinol (μg)": 202,
+  "Cholecalciferol( D3) (μg)": 3.44,
+  "Tocopherols α (mg)": 2.7,
+  "Tocopherols β (mg)": 0.07,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.18,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 2.79,
+  "Menaquiomones (K2) (μg)": 66
+ },
+ {
+  "FOOD CODE": "M011",
+  "FOOD NAME": "Egg, duck, whole, boiled",
+  "Retinol (μg)": 171,
+  "Cholecalciferol( D3) (μg)": 1.9,
+  "Tocopherols α (mg)": 2.04,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 2.06,
+  "Menaquiomones (K2) (μg)": 117
+ },
+ {
+  "FOOD CODE": "M012",
+  "FOOD NAME": "Egg, duck, whole, raw",
+  "Retinol (μg)": 181,
+  "Cholecalciferol( D3) (μg)": 2.67,
+  "Tocopherols α (mg)": 2.45,
+  "Tocopherols γ (mg)": 0.04,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 2.47,
+  "Menaquiomones (K2) (μg)": 118
+ },
+ {
+  "FOOD CODE": "M013",
+  "FOOD NAME": "Egg, duck, whole, omlet",
+  "Retinol (μg)": 166,
+  "Cholecalciferol( D3) (μg)": 2.1,
+  "Tocopherols α (mg)": 2.62,
+  "Tocopherols γ (mg)": 0.06,
+  "Tocotrienols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 2.66,
+  "Menaquiomones (K2) (μg)": 111
+ },
+ {
+  "FOOD CODE": "M014",
+  "FOOD NAME": "Egg, quial, whole, raw",
+  "Retinol (μg)": 151,
+  "Cholecalciferol( D3) (μg)": 5.72,
+  "Tocopherols α (mg)": 0.98,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.05,
+  "α-tocopherol equivalent (mg)": 0.99,
+  "Menaquiomones (K2) (μg)": 8.19
+ },
+ {
+  "FOOD CODE": "M015",
+  "FOOD NAME": "Egg, quial, whole, boiled",
+  "Retinol (μg)": 140,
+  "Cholecalciferol( D3) (μg)": 4.91,
+  "Tocopherols α (mg)": 0.82,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.04,
+  "α-tocopherol equivalent (mg)": 0.84,
+  "Menaquiomones (K2) (μg)": 4.46
+ },
+ {
+  "FOOD CODE": "N001",
+  "FOOD NAME": "Chicken, poultry, leg, skinless",
+  "Retinol (μg)": 10.95,
+  "Cholecalciferol( D3) (μg)": 1.12,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.6,
+  "Tocopherols γ (mg)": 0.1,
+  "Tocotrienols α (mg)": 0.02,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.61,
+  "Menaquiomones (K2) (μg)": 10.78
+ },
+ {
+  "FOOD CODE": "N002",
+  "FOOD NAME": "Chicken, poultry, thigh, skinless",
+  "Retinol (μg)": 16.48,
+  "Cholecalciferol( D3) (μg)": 1.22,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.65,
+  "Tocopherols γ (mg)": 0.1,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols β (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.66,
+  "Menaquiomones (K2) (μg)": 16.17
+ },
+ {
+  "FOOD CODE": "N003",
+  "FOOD NAME": "Chicken, poultry, breast, skinless",
+  "Retinol (μg)": 6.96,
+  "Cholecalciferol( D3) (μg)": 1.38,
+  "Tocopherols α (mg)": 0.29,
+  "Tocopherols γ (mg)": 0.05,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.29,
+  "Menaquiomones (K2) (μg)": 27.8
+ },
+ {
+  "FOOD CODE": "N004",
+  "FOOD NAME": "Chicken, poultry, wing, skinless",
+  "Retinol (μg)": 31.21,
+  "Cholecalciferol( D3) (μg)": 1.11,
+  "Tocopherols α (mg)": 0.57,
+  "Tocopherols γ (mg)": 0.08,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.58,
+  "Menaquiomones (K2) (μg)": 28.17
+ },
+ {
+  "FOOD CODE": "N005",
+  "FOOD NAME": "Poultry, chicken, liver",
+  "Retinol (μg)": 3486,
+  "Cholecalciferol( D3) (μg)": 2.62,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.72,
+  "Tocopherols γ (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.73,
+  "Menaquiomones (K2) (μg)": 14.3
+ },
+ {
+  "FOOD CODE": "N006",
+  "FOOD NAME": "Poultry, chicken, gizzard",
+  "Retinol (μg)": 46.78,
+  "Cholecalciferol( D3) (μg)": 1.6,
+  "Tocopherols α (mg)": 0.63,
+  "α-tocopherol equivalent (mg)": 0.63,
+  "Menaquiomones (K2) (μg)": 28.58
+ },
+ {
+  "FOOD CODE": "N007",
+  "FOOD NAME": "Country hen, leg, with skin",
+  "Retinol (μg)": 17.44,
+  "Cholecalciferol( D3) (μg)": 1.12,
+  "Tocopherols α (mg)": 0.69,
+  "Tocopherols γ (mg)": 0.1,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols β (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.7,
+  "Menaquiomones (K2) (μg)": 11.31
+ },
+ {
+  "FOOD CODE": "N008",
+  "FOOD NAME": "Country hen, thigh, with skin",
+  "Retinol (μg)": 27,
+  "Cholecalciferol( D3) (μg)": 1.05,
+  "Tocopherols α (mg)": 0.54,
+  "Tocopherols γ (mg)": 0.1,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols β (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.55,
+  "Menaquiomones (K2) (μg)": 18.5
+ },
+ {
+  "FOOD CODE": "N009",
+  "FOOD NAME": "Country hen, breast, with skin",
+  "Retinol (μg)": 8.52,
+  "Cholecalciferol( D3) (μg)": 0.8,
+  "Tocopherols α (mg)": 0.35,
+  "Tocopherols γ (mg)": 0.06,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols β (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.36,
+  "Menaquiomones (K2) (μg)": 28.88
+ },
+ {
+  "FOOD CODE": "N010",
+  "FOOD NAME": "Country hen, wing, with skin",
+  "Retinol (μg)": 27.52,
+  "Cholecalciferol( D3) (μg)": 0.61,
+  "Tocopherols α (mg)": 0.57,
+  "Tocopherols γ (mg)": 0.08,
+  "Tocotrienols α (mg)": 0.01,
+  "Tocotrienols γ (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.58,
+  "Menaquiomones (K2) (μg)": 31.65
+ },
+ {
+  "FOOD CODE": "N011",
+  "FOOD NAME": "Duck, meat, with skin",
+  "Retinol (μg)": 48.86,
+  "Cholecalciferol( D3) (μg)": 0.91,
+  "Tocopherols α (mg)": 0.7,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.7,
+  "Menaquiomones (K2) (μg)": 7.88
+ },
+ {
+  "FOOD CODE": "N012",
+  "FOOD NAME": "Emu, meat, skinless",
+  "Retinol (μg)": 2.84,
+  "Cholecalciferol( D3) (μg)": 0.67,
+  "Tocopherols α (mg)": 0.4,
+  "Tocopherols γ (mg)": 0.15,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.42,
+  "Menaquiomones (K2) (μg)": 8.06
+ },
+ {
+  "FOOD CODE": "N013",
+  "FOOD NAME": "Guinea fowl, meat, with skin",
+  "Retinol (μg)": 2.26,
+  "Cholecalciferol( D3) (μg)": 1.02,
+  "Tocopherols α (mg)": 1.75,
+  "Tocopherols γ (mg)": 1.3,
+  "Tocotrienols γ (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.88,
+  "Menaquiomones (K2) (μg)": 11.05
+ },
+ {
+  "FOOD CODE": "N014",
+  "FOOD NAME": "Pigeon, meat, with skin",
+  "Retinol (μg)": 15.25,
+  "Cholecalciferol( D3) (μg)": 1.2,
+  "Tocopherols α (mg)": 1.52,
+  "Tocopherols γ (mg)": 0.15,
+  "Tocotrienols β (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.54,
+  "Menaquiomones (K2) (μg)": 7.1
+ },
+ {
+  "FOOD CODE": "N015",
+  "FOOD NAME": "Quail, meat, skinless",
+  "Retinol (μg)": 12.84,
+  "Cholecalciferol( D3) (μg)": 1.53,
+  "Tocopherols α (mg)": 1.59,
+  "Tocopherols γ (mg)": 0.81,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 1.67,
+  "Menaquiomones (K2) (μg)": 7.3
+ },
+ {
+  "FOOD CODE": "N016",
+  "FOOD NAME": "Turkey, leg, with skin",
+  "Retinol (μg)": 8.15,
+  "Cholecalciferol( D3) (μg)": 0.5,
+  "Tocopherols α (mg)": 0.72,
+  "Tocopherols γ (mg)": 0.01,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.72,
+  "Menaquiomones (K2) (μg)": 18.46
+ },
+ {
+  "FOOD CODE": "N017",
+  "FOOD NAME": "Turkey, thigh, with skin",
+  "Retinol (μg)": 13.11,
+  "Cholecalciferol( D3) (μg)": 0.36,
+  "Tocopherols α (mg)": 0.62,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.63,
+  "Menaquiomones (K2) (μg)": 25.36
+ },
+ {
+  "FOOD CODE": "N018",
+  "FOOD NAME": "Turkey, breast, with skin",
+  "Retinol (μg)": 8.97,
+  "Cholecalciferol( D3) (μg)": 0.52,
+  "Tocopherols α (mg)": 0.56,
+  "Tocopherols γ (mg)": 0.03,
+  "Tocotrienols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.57,
+  "Menaquiomones (K2) (μg)": 26.43
+ },
+ {
+  "FOOD CODE": "N019",
+  "FOOD NAME": "Turkey, wing, with skin",
+  "Retinol (μg)": 18.07,
+  "Cholecalciferol( D3) (μg)": 0.52,
+  "Tocopherols α (mg)": 0.43,
+  "Tocopherols γ (mg)": 0.02,
+  "Tocotrienols α (mg)": 0.01,
+  "α-tocopherol equivalent (mg)": 0.44,
+  "Menaquiomones (K2) (μg)": 18.43
+ },
+ {
+  "FOOD CODE": "O001",
+  "FOOD NAME": "Goat, shoulder",
+  "Retinol (μg)": 7.57,
+  "Cholecalciferol( D3) (μg)": 0.8,
+  "Tocopherols α (mg)": 0.35,
+  "α-tocopherol equivalent (mg)": 0.35,
+  "Menaquiomones (K2) (μg)": 5.8
+ },
+ {
+  "FOOD CODE": "O002",
+  "FOOD NAME": "Goat, chops",
+  "Retinol (μg)": 2.55,
+  "Cholecalciferol( D3) (μg)": 0.4,
+  "Tocopherols α (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 0.15,
+  "Menaquiomones (K2) (μg)": 6.5
+ },
+ {
+  "FOOD CODE": "O003",
+  "FOOD NAME": "Goat, legs",
+  "Retinol (μg)": 8.51,
+  "Cholecalciferol( D3) (μg)": 0.28,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "Menaquiomones (K2) (μg)": 9.5
+ },
+ {
+  "FOOD CODE": "O004",
+  "FOOD NAME": "Goat, brain",
+  "Retinol (μg)": 1.98,
+  "Cholecalciferol( D3) (μg)": 0.3,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "Menaquiomones (K2) (μg)": 3.8
+ },
+ {
+  "FOOD CODE": "O005",
+  "FOOD NAME": "Goat, tongue",
+  "Retinol (μg)": 8.95,
+  "Cholecalciferol( D3) (μg)": 0.02,
+  "25-OH-D3 (μg)": 0.33,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 1.7
+ },
+ {
+  "FOOD CODE": "O006",
+  "FOOD NAME": "Goat, lungs",
+  "Retinol (μg)": 2.75,
+  "Cholecalciferol( D3) (μg)": 0.09,
+  "25-OH-D3 (μg)": 1.31,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 4.6
+ },
+ {
+  "FOOD CODE": "O007",
+  "FOOD NAME": "Goat, heart",
+  "Retinol (μg)": 5.9,
+  "Cholecalciferol( D3) (μg)": 0.6,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "Menaquiomones (K2) (μg)": 10.6
+ },
+ {
+  "FOOD CODE": "O008",
+  "FOOD NAME": "Goat, liver",
+  "Retinol (μg)": 15655,
+  "Cholecalciferol( D3) (μg)": 0.56,
+  "25-OH-D3 (μg)": 0.18,
+  "Tocopherols α (mg)": 0.61,
+  "α-tocopherol equivalent (mg)": 0.61,
+  "Menaquiomones (K2) (μg)": 12.64
+ },
+ {
+  "FOOD CODE": "O009",
+  "FOOD NAME": "Goat, tripe",
+  "Retinol (μg)": 2.17,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 11.5
+ },
+ {
+  "FOOD CODE": "O010",
+  "FOOD NAME": "Goat, spleen",
+  "Retinol (μg)": 7.85,
+  "Cholecalciferol( D3) (μg)": 0.1,
+  "25-OH-D3 (μg)": 0.36,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 9
+ },
+ {
+  "FOOD CODE": "O011",
+  "FOOD NAME": "Goat, kidneys",
+  "Retinol (μg)": 68.56,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O012",
+  "FOOD NAME": "Goat, tube (small intestine)",
+  "Retinol (μg)": 2.62,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.13,
+  "Menaquiomones (K2) (μg)": 11
+ },
+ {
+  "FOOD CODE": "O013",
+  "FOOD NAME": "Goat, testis",
+  "Retinol (μg)": 2.48,
+  "Cholecalciferol( D3) (μg)": 0.55,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O014",
+  "FOOD NAME": "Sheep, shoulder",
+  "Retinol (μg)": 8.71,
+  "Cholecalciferol( D3) (μg)": 0.07,
+  "Tocopherols α (mg)": 0.31,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "Menaquiomones (K2) (μg)": 6.8
+ },
+ {
+  "FOOD CODE": "O015",
+  "FOOD NAME": "Sheep, chops",
+  "Retinol (μg)": 3.49,
+  "Cholecalciferol( D3) (μg)": 0.47,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 7.3
+ },
+ {
+  "FOOD CODE": "O016",
+  "FOOD NAME": "Sheep, leg",
+  "Retinol (μg)": 9.93,
+  "Cholecalciferol( D3) (μg)": 2.14,
+  "25-OH-D3 (μg)": 0.65,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 8.9
+ },
+ {
+  "FOOD CODE": "O017",
+  "FOOD NAME": "Sheep, brain",
+  "Retinol (μg)": 1.55,
+  "Cholecalciferol( D3) (μg)": 1.06,
+  "Tocopherols α (mg)": 0.09,
+  "α-tocopherol equivalent (mg)": 0.09,
+  "Menaquiomones (K2) (μg)": 2.8
+ },
+ {
+  "FOOD CODE": "O018",
+  "FOOD NAME": "Sheep, tongue",
+  "Retinol (μg)": 7.33,
+  "Tocopherols α (mg)": 0.07,
+  "α-tocopherol equivalent (mg)": 0.07,
+  "Menaquiomones (K2) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "O019",
+  "FOOD NAME": "Sheep, lungs",
+  "Retinol (μg)": 2.45,
+  "Cholecalciferol( D3) (μg)": 0.12,
+  "25-OH-D3 (μg)": 0.19,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 4.9
+ },
+ {
+  "FOOD CODE": "O020",
+  "FOOD NAME": "Sheep, heart",
+  "Retinol (μg)": 4.64,
+  "Cholecalciferol( D3) (μg)": 0.8,
+  "Tocopherols α (mg)": 0.15,
+  "α-tocopherol equivalent (mg)": 0.15,
+  "Menaquiomones (K2) (μg)": 9.7
+ },
+ {
+  "FOOD CODE": "O021",
+  "FOOD NAME": "Sheep, liver",
+  "Retinol (μg)": 14106,
+  "Cholecalciferol( D3) (μg)": 0.31,
+  "25-OH-D3 (μg)": 0.36,
+  "Tocopherols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "Menaquiomones (K2) (μg)": 14.7
+ },
+ {
+  "FOOD CODE": "O022",
+  "FOOD NAME": "Sheep, tripe",
+  "Retinol (μg)": 2.72,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "Menaquiomones (K2) (μg)": 10.9
+ },
+ {
+  "FOOD CODE": "O023",
+  "FOOD NAME": "Sheep, spleen",
+  "Retinol (μg)": 6.61,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 7.5
+ },
+ {
+  "FOOD CODE": "O024",
+  "FOOD NAME": "Sheep, kidneys",
+  "Retinol (μg)": 68.68,
+  "Cholecalciferol( D3) (μg)": 0.37,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 2.9
+ },
+ {
+  "FOOD CODE": "O025",
+  "FOOD NAME": "Beef, shoulder",
+  "Retinol (μg)": 15.51,
+  "Cholecalciferol( D3) (μg)": 0.46,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 0.4,
+  "α-tocopherol equivalent (mg)": 0.4,
+  "Menaquiomones (K2) (μg)": 2.9
+ },
+ {
+  "FOOD CODE": "O026",
+  "FOOD NAME": "Beef, chops",
+  "Retinol (μg)": 2.43,
+  "Cholecalciferol( D3) (μg)": 0.47,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 2.8
+ },
+ {
+  "FOOD CODE": "O027",
+  "FOOD NAME": "Beef, round (leg)",
+  "Retinol (μg)": 2.52,
+  "Cholecalciferol( D3) (μg)": 0.43,
+  "25-OH-D3 (μg)": 0.11,
+  "Tocopherols α (mg)": 0.4,
+  "α-tocopherol equivalent (mg)": 0.4,
+  "Menaquiomones (K2) (μg)": 5.8
+ },
+ {
+  "FOOD CODE": "O028",
+  "FOOD NAME": "Beef, brain",
+  "Retinol (μg)": 2.18,
+  "Cholecalciferol( D3) (μg)": 0.69,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 2.7
+ },
+ {
+  "FOOD CODE": "O029",
+  "FOOD NAME": "Beef, tongue",
+  "Retinol (μg)": 5.56,
+  "Cholecalciferol( D3) (μg)": 0.61,
+  "25-OH-D3 (μg)": 0.15,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "Menaquiomones (K2) (μg)": 1.9
+ },
+ {
+  "FOOD CODE": "O030",
+  "FOOD NAME": "Beef, lungs",
+  "Retinol (μg)": 1.89,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "Menaquiomones (K2) (μg)": 3.7
+ },
+ {
+  "FOOD CODE": "O031",
+  "FOOD NAME": "Beef, heart",
+  "Retinol (μg)": 10.13,
+  "Cholecalciferol( D3) (μg)": 5.71,
+  "25-OH-D3 (μg)": 0.27,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O032",
+  "FOOD NAME": "Beef, liver",
+  "Retinol (μg)": 9119,
+  "25-OH-D3 (μg)": 4,
+  "Tocopherols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "Menaquiomones (K2) (μg)": 4
+ },
+ {
+  "FOOD CODE": "O033",
+  "FOOD NAME": "Beef, tripe",
+  "Retinol (μg)": 4.29,
+  "Cholecalciferol( D3) (μg)": 4,
+  "25-OH-D3 (μg)": 0.06,
+  "Tocopherols α (mg)": 0.41,
+  "α-tocopherol equivalent (mg)": 0.41,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O034",
+  "FOOD NAME": "Beef, spleen",
+  "Retinol (μg)": 8.71,
+  "Cholecalciferol( D3) (μg)": 0.33,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O035",
+  "FOOD NAME": "Beef, kidneys",
+  "Retinol (μg)": 98.04,
+  "Cholecalciferol( D3) (μg)": 0.53,
+  "25-OH-D3 (μg)": 0.11,
+  "Tocopherols α (mg)": 0.08,
+  "α-tocopherol equivalent (mg)": 0.08,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O036",
+  "FOOD NAME": "Calf, shoulder",
+  "Retinol (μg)": 13.17,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O037",
+  "FOOD NAME": "Calf, chops",
+  "Retinol (μg)": 2.1,
+  "Cholecalciferol( D3) (μg)": 0.74,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 3.2
+ },
+ {
+  "FOOD CODE": "O038",
+  "FOOD NAME": "Calf, round (leg)",
+  "Retinol (μg)": 2.42,
+  "Cholecalciferol( D3) (μg)": 0.97,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "Menaquiomones (K2) (μg)": 6.2
+ },
+ {
+  "FOOD CODE": "O039",
+  "FOOD NAME": "Calf, brain",
+  "Retinol (μg)": 1.41,
+  "Cholecalciferol( D3) (μg)": 0.61,
+  "25-OH-D3 (μg)": 7.98,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 3
+ },
+ {
+  "FOOD CODE": "O040",
+  "FOOD NAME": "Calf, tongue",
+  "Retinol (μg)": 4.63,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 1.7
+ },
+ {
+  "FOOD CODE": "O041",
+  "FOOD NAME": "Calf, heart",
+  "Retinol (μg)": 4.83,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 1.9
+ },
+ {
+  "FOOD CODE": "O042",
+  "FOOD NAME": "Calf, liver",
+  "Retinol (μg)": 9664,
+  "Tocopherols α (mg)": 0.5,
+  "α-tocopherol equivalent (mg)": 0.5,
+  "Menaquiomones (K2) (μg)": 5
+ },
+ {
+  "FOOD CODE": "O043",
+  "FOOD NAME": "Calf, spleen",
+  "Retinol (μg)": 6.32,
+  "Cholecalciferol( D3) (μg)": 0.29,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O044",
+  "FOOD NAME": "Calf, kidneys",
+  "Retinol (μg)": 95.73,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 3.1
+ },
+ {
+  "FOOD CODE": "O045",
+  "FOOD NAME": "Mithun, shoulder",
+  "Retinol (μg)": 12.68,
+  "Cholecalciferol( D3) (μg)": 0.06,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 3.8
+ },
+ {
+  "FOOD CODE": "O046",
+  "FOOD NAME": "Mithun, chops",
+  "Retinol (μg)": 2.62,
+  "Cholecalciferol( D3) (μg)": 0.08,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "Menaquiomones (K2) (μg)": 4.2
+ },
+ {
+  "FOOD CODE": "O047",
+  "FOOD NAME": "Mithun, round (leg)",
+  "Retinol (μg)": 2.47,
+  "Cholecalciferol( D3) (μg)": 0.04,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 8.5
+ },
+ {
+  "FOOD CODE": "O048",
+  "FOOD NAME": "Pork, shoulder",
+  "Retinol (μg)": 5.12,
+  "Cholecalciferol( D3) (μg)": 9.03,
+  "25-OH-D3 (μg)": 0.35,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 1.8
+ },
+ {
+  "FOOD CODE": "O049",
+  "FOOD NAME": "Pork, chops",
+  "Retinol (μg)": 1.51,
+  "Cholecalciferol( D3) (μg)": 4.83,
+  "25-OH-D3 (μg)": 2.27,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "Menaquiomones (K2) (μg)": 2.2
+ },
+ {
+  "FOOD CODE": "O050",
+  "FOOD NAME": "Pork, ham",
+  "Retinol (μg)": 2.98,
+  "Cholecalciferol( D3) (μg)": 5.85,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "Menaquiomones (K2) (μg)": 5.3
+ },
+ {
+  "FOOD CODE": "O051",
+  "FOOD NAME": "Pork, lungs",
+  "Retinol (μg)": 5.14,
+  "Cholecalciferol( D3) (μg)": 1.91,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "Menaquiomones (K2) (μg)": 3.8
+ },
+ {
+  "FOOD CODE": "O052",
+  "FOOD NAME": "Pork, heart",
+  "Retinol (μg)": 7.16,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O053",
+  "FOOD NAME": "Pork, liver",
+  "Retinol (μg)": 8759,
+  "Cholecalciferol( D3) (μg)": 2.97,
+  "25-OH-D3 (μg)": 0.23,
+  "Tocopherols α (mg)": 0.85,
+  "α-tocopherol equivalent (mg)": 0.85,
+  "Menaquiomones (K2) (μg)": 4.5
+ },
+ {
+  "FOOD CODE": "O054",
+  "FOOD NAME": "Pork, stomach",
+  "Retinol (μg)": 3.34,
+  "Cholecalciferol( D3) (μg)": 0.42,
+  "25-OH-D3 (μg)": 0.13,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O055",
+  "FOOD NAME": "Pork, spleen",
+  "Retinol (μg)": 8.44,
+  "Tocopherols α (mg)": 0.17,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "Menaquiomones (K2) (μg)": 2.5
+ },
+ {
+  "FOOD CODE": "O056",
+  "FOOD NAME": "Pork, kidneys",
+  "Retinol (μg)": 72.53,
+  "Cholecalciferol( D3) (μg)": 2.92,
+  "25-OH-D3 (μg)": 0.24,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "Menaquiomones (K2) (μg)": 1.5
+ },
+ {
+  "FOOD CODE": "O057",
+  "FOOD NAME": "Pork, tube (small intestine)",
+  "Retinol (μg)": 1.13,
+  "Cholecalciferol( D3) (μg)": 1.01,
+  "Tocopherols α (mg)": 0.2,
+  "α-tocopherol equivalent (mg)": 0.2,
+  "Menaquiomones (K2) (μg)": 3.5
+ },
+ {
+  "FOOD CODE": "O058",
+  "FOOD NAME": "Hare, shoulder",
+  "Retinol (μg)": 8.88,
+  "Cholecalciferol( D3) (μg)": 0.06,
+  "Tocopherols α (mg)": 1.46,
+  "Tocotrienols Δ (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 1.46,
+  "Menaquiomones (K2) (μg)": 25.59
+ },
+ {
+  "FOOD CODE": "O059",
+  "FOOD NAME": "Hare, chops",
+  "Retinol (μg)": 2.84,
+  "Cholecalciferol( D3) (μg)": 0.09,
+  "Tocopherols α (mg)": 1.73,
+  "Tocotrienols Δ (mg)": 0.69,
+  "α-tocopherol equivalent (mg)": 1.73,
+  "Menaquiomones (K2) (μg)": 23.65
+ },
+ {
+  "FOOD CODE": "O060",
+  "FOOD NAME": "Hare, leg",
+  "Retinol (μg)": 1.26,
+  "Cholecalciferol( D3) (μg)": 0.08,
+  "Tocopherols α (mg)": 1.44,
+  "Tocotrienols Δ (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 1.44,
+  "Menaquiomones (K2) (μg)": 22.18
+ },
+ {
+  "FOOD CODE": "O061",
+  "FOOD NAME": "Rabbit, shoulder",
+  "Retinol (μg)": 5.9,
+  "Cholecalciferol( D3) (μg)": 0.57,
+  "Tocopherols α (mg)": 1.22,
+  "Tocotrienols Δ (mg)": 0.49,
+  "α-tocopherol equivalent (mg)": 1.22,
+  "Menaquiomones (K2) (μg)": 24.68
+ },
+ {
+  "FOOD CODE": "O062",
+  "FOOD NAME": "Rabbit, chops",
+  "Retinol (μg)": 3.88,
+  "Cholecalciferol( D3) (μg)": 0.7,
+  "Tocopherols α (mg)": 0.83,
+  "Tocotrienols Δ (mg)": 0.33,
+  "α-tocopherol equivalent (mg)": 0.83,
+  "Menaquiomones (K2) (μg)": 25.88
+ },
+ {
+  "FOOD CODE": "O063",
+  "FOOD NAME": "Rabbit, leg",
+  "Retinol (μg)": 8.49,
+  "Cholecalciferol( D3) (μg)": 0.43,
+  "Tocopherols α (mg)": 0.72,
+  "Tocotrienols Δ (mg)": 0.29,
+  "α-tocopherol equivalent (mg)": 0.72,
+  "Menaquiomones (K2) (μg)": 23.85
+ },
+ {
+  "FOOD CODE": "P001",
+  "FOOD NAME": "Allathi (Elops machnata)",
+  "Retinol (μg)": 9.6,
+  "Cholecalciferol( D3) (μg)": 1.03,
+  "25-OH-D3 (μg)": 0.25,
+  "Tocopherols α (mg)": 1.02,
+  "α-tocopherol equivalent (mg)": 1.02,
+  "Menaquiomones (K2) (μg)": 1.98
+ },
+ {
+  "FOOD CODE": "P002",
+  "FOOD NAME": "Aluva (Parastromateus niger)",
+  "Retinol (μg)": 14.3,
+  "Cholecalciferol( D3) (μg)": 0.79,
+  "25-OH-D3 (μg)": 0.34,
+  "Tocopherols α (mg)": 1,
+  "α-tocopherol equivalent (mg)": 1,
+  "Menaquiomones (K2) (μg)": 8.88
+ },
+ {
+  "FOOD CODE": "P003",
+  "FOOD NAME": "Anchovy (Stolephorus indicus)",
+  "Retinol (μg)": 12.18,
+  "Cholecalciferol( D3) (μg)": 2.76,
+  "25-OH-D3 (μg)": 0.11,
+  "Tocopherols α (mg)": 0.73,
+  "α-tocopherol equivalent (mg)": 0.73,
+  "Menaquiomones (K2) (μg)": 0.6
+ },
+ {
+  "FOOD CODE": "P004",
+  "FOOD NAME": "Ari fish (Aprion virescens )",
+  "Retinol (μg)": 1.56,
+  "Cholecalciferol( D3) (μg)": 1.02,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 0.88
+ },
+ {
+  "FOOD CODE": "P005",
+  "FOOD NAME": "Betki (Lates calcarifer)",
+  "Retinol (μg)": 5.58,
+  "Cholecalciferol( D3) (μg)": 1.05,
+  "25-OH-D3 (μg)": 0.06,
+  "Tocopherols α (mg)": 0.38,
+  "α-tocopherol equivalent (mg)": 0.38,
+  "Menaquiomones (K2) (μg)": 0.63
+ },
+ {
+  "FOOD CODE": "P006",
+  "FOOD NAME": "Black snapper (Macolor niger)",
+  "Retinol (μg)": 14.55,
+  "Cholecalciferol( D3) (μg)": 1.31,
+  "25-OH-D3 (μg)": 0.18,
+  "Tocopherols α (mg)": 0.51,
+  "α-tocopherol equivalent (mg)": 0.51,
+  "Menaquiomones (K2) (μg)": 115
+ },
+ {
+  "FOOD CODE": "P007",
+  "FOOD NAME": "Bombay duck (Harpadon nehereus)",
+  "Retinol (μg)": 3.38,
+  "Cholecalciferol( D3) (μg)": 0.96,
+  "25-OH-D3 (μg)": 0.29,
+  "Tocopherols α (mg)": 0.75,
+  "α-tocopherol equivalent (mg)": 0.75,
+  "Menaquiomones (K2) (μg)": 1.04
+ },
+ {
+  "FOOD CODE": "P008",
+  "FOOD NAME": "Bommuralu (Muraenesox cinerius)",
+  "Retinol (μg)": 3.28,
+  "Cholecalciferol( D3) (μg)": 3.19,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 0.54,
+  "α-tocopherol equivalent (mg)": 0.54,
+  "Menaquiomones (K2) (μg)": 0.94
+ },
+ {
+  "FOOD CODE": "P009",
+  "FOOD NAME": "Cat fish (Tachysurus thalassinus)",
+  "Retinol (μg)": 14.08,
+  "Cholecalciferol( D3) (μg)": 1.42,
+  "25-OH-D3 (μg)": 0.47,
+  "Tocopherols α (mg)": 0.38,
+  "α-tocopherol equivalent (mg)": 0.38,
+  "Menaquiomones (K2) (μg)": 0.96
+ },
+ {
+  "FOOD CODE": "P010",
+  "FOOD NAME": "Chakla (Rachycentron canadum)",
+  "Retinol (μg)": 1.39,
+  "Cholecalciferol( D3) (μg)": 2.07,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 0.72,
+  "α-tocopherol equivalent (mg)": 0.72,
+  "Menaquiomones (K2) (μg)": 0.62
+ },
+ {
+  "FOOD CODE": "P011",
+  "FOOD NAME": "Chappal (Aluterus monoceros )",
+  "Retinol (μg)": 1.37,
+  "Cholecalciferol( D3) (μg)": 0.21,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 1.09,
+  "α-tocopherol equivalent (mg)": 1.09,
+  "Menaquiomones (K2) (μg)": 0.77
+ },
+ {
+  "FOOD CODE": "P012",
+  "FOOD NAME": "Chelu (Elagatis bipinnulata)",
+  "Retinol (μg)": 1.49,
+  "Cholecalciferol( D3) (μg)": 0.86,
+  "25-OH-D3 (μg)": 0.17,
+  "Tocopherols α (mg)": 0.41,
+  "α-tocopherol equivalent (mg)": 0.41,
+  "Menaquiomones (K2) (μg)": 1.06
+ },
+ {
+  "FOOD CODE": "P013",
+  "FOOD NAME": "Chembali (Lutjanus quinquelineatus)",
+  "Retinol (μg)": 1.59,
+  "Cholecalciferol( D3) (μg)": 0.72,
+  "25-OH-D3 (μg)": 0.16,
+  "Tocopherols α (mg)": 1.2,
+  "α-tocopherol equivalent (mg)": 1.2,
+  "Menaquiomones (K2) (μg)": 1.44
+ },
+ {
+  "FOOD CODE": "P014",
+  "FOOD NAME": "Eri meen (Pristipomoides filamentosus)",
+  "Retinol (μg)": 13.24,
+  "Cholecalciferol( D3) (μg)": 0.33,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.1,
+  "α-tocopherol equivalent (mg)": 0.1,
+  "Menaquiomones (K2) (μg)": 0.92
+ },
+ {
+  "FOOD CODE": "P015",
+  "FOOD NAME": "Gobro (Epinephelus diacanthus)",
+  "Retinol (μg)": 1.82,
+  "Cholecalciferol( D3) (μg)": 0.15,
+  "Tocopherols α (mg)": 0.89,
+  "α-tocopherol equivalent (mg)": 0.89,
+  "Menaquiomones (K2) (μg)": 1.58
+ },
+ {
+  "FOOD CODE": "P016",
+  "FOOD NAME": "Guitar fish (Rhinobatus prahli)",
+  "Retinol (μg)": 1.27,
+  "Cholecalciferol( D3) (μg)": 0.12,
+  "25-OH-D3 (μg)": 0.3,
+  "Tocopherols α (mg)": 0.34,
+  "α-tocopherol equivalent (mg)": 0.34,
+  "Menaquiomones (K2) (μg)": 3.43
+ },
+ {
+  "FOOD CODE": "P017",
+  "FOOD NAME": "Hilsa (Tenualosa ilisha)",
+  "Retinol (μg)": 7.42,
+  "Cholecalciferol( D3) (μg)": 4.96,
+  "25-OH-D3 (μg)": 1.02,
+  "Tocopherols α (mg)": 1.35,
+  "α-tocopherol equivalent (mg)": 1.35,
+  "Menaquiomones (K2) (μg)": 0.94
+ },
+ {
+  "FOOD CODE": "P018",
+  "FOOD NAME": "Jallal (Arius sp.)",
+  "Retinol (μg)": 8.49,
+  "Cholecalciferol( D3) (μg)": 0.94,
+  "25-OH-D3 (μg)": 0.03,
+  "Tocopherols α (mg)": 0.62,
+  "α-tocopherol equivalent (mg)": 0.62,
+  "Menaquiomones (K2) (μg)": 0.64
+ },
+ {
+  "FOOD CODE": "P019",
+  "FOOD NAME": "Jathi vela meen (Lethrinus lentjan)",
+  "Retinol (μg)": 3.16,
+  "Cholecalciferol( D3) (μg)": 0.93,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 1.49,
+  "α-tocopherol equivalent (mg)": 1.49,
+  "Menaquiomones (K2) (μg)": 1.06
+ },
+ {
+  "FOOD CODE": "P020",
+  "FOOD NAME": "Kadal bral (Synodus indicus)",
+  "Retinol (μg)": 10.63,
+  "Cholecalciferol( D3) (μg)": 1.2,
+  "25-OH-D3 (μg)": 0.42,
+  "Tocopherols α (mg)": 0.12,
+  "α-tocopherol equivalent (mg)": 0.12,
+  "Menaquiomones (K2) (μg)": 0.55
+ },
+ {
+  "FOOD CODE": "P021",
+  "FOOD NAME": "Kadali (Nemipterus mesoprion)",
+  "Retinol (μg)": 25.61,
+  "Cholecalciferol( D3) (μg)": 0.84,
+  "25-OH-D3 (μg)": 0.2,
+  "Tocopherols α (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 0.58,
+  "Menaquiomones (K2) (μg)": 1.02
+ },
+ {
+  "FOOD CODE": "P022",
+  "FOOD NAME": "Kalamaara (Leptomelanosoma indicum)",
+  "Retinol (μg)": 9.04,
+  "Cholecalciferol( D3) (μg)": 1.45,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.82,
+  "α-tocopherol equivalent (mg)": 0.82,
+  "Menaquiomones (K2) (μg)": 0.85
+ },
+ {
+  "FOOD CODE": "P023",
+  "FOOD NAME": "Kalava (Epinephelus coioides)",
+  "Retinol (μg)": 1.29,
+  "Cholecalciferol( D3) (μg)": 1.86,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 0.33,
+  "α-tocopherol equivalent (mg)": 0.33,
+  "Menaquiomones (K2) (μg)": 1.63
+ },
+ {
+  "FOOD CODE": "P024",
+  "FOOD NAME": "Kanamayya (Lutjanus rivulatus)",
+  "Retinol (μg)": 16.42,
+  "Cholecalciferol( D3) (μg)": 0.82,
+  "25-OH-D3 (μg)": 0.34,
+  "Tocopherols α (mg)": 0.59,
+  "α-tocopherol equivalent (mg)": 0.59,
+  "Menaquiomones (K2) (μg)": 2.15
+ },
+ {
+  "FOOD CODE": "P025",
+  "FOOD NAME": "Kannadi paarai (Alectis indicus)",
+  "Retinol (μg)": 12.37,
+  "Cholecalciferol( D3) (μg)": 0.1,
+  "25-OH-D3 (μg)": 0.19,
+  "Tocopherols α (mg)": 0.7,
+  "α-tocopherol equivalent (mg)": 0.7,
+  "Menaquiomones (K2) (μg)": 0.92
+ },
+ {
+  "FOOD CODE": "P026",
+  "FOOD NAME": "Karimeen (Etroplus suratensis)",
+  "Retinol (μg)": 1.29,
+  "Cholecalciferol( D3) (μg)": 0.87,
+  "25-OH-D3 (μg)": 0.13,
+  "Tocopherols α (mg)": 0.37,
+  "α-tocopherol equivalent (mg)": 0.37,
+  "Menaquiomones (K2) (μg)": 12.04
+ },
+ {
+  "FOOD CODE": "P027",
+  "FOOD NAME": "Karnagawala (Anchoa hepsetus)",
+  "Retinol (μg)": 1.82,
+  "Cholecalciferol( D3) (μg)": 1.24,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 0.12,
+  "α-tocopherol equivalent (mg)": 0.12,
+  "Menaquiomones (K2) (μg)": 0.85
+ },
+ {
+  "FOOD CODE": "P028",
+  "FOOD NAME": "Kayrai (Thunnus albacores)",
+  "Retinol (μg)": 10.19,
+  "Cholecalciferol( D3) (μg)": 3.12,
+  "25-OH-D3 (μg)": 0.13,
+  "Tocopherols α (mg)": 0.75,
+  "α-tocopherol equivalent (mg)": 0.75,
+  "Menaquiomones (K2) (μg)": 1.7
+ },
+ {
+  "FOOD CODE": "P029",
+  "FOOD NAME": "Kiriyan (Atule mate)",
+  "Retinol (μg)": 1.62,
+  "Cholecalciferol( D3) (μg)": 0.38,
+  "25-OH-D3 (μg)": 0.38,
+  "Tocopherols α (mg)": 0.35,
+  "α-tocopherol equivalent (mg)": 0.35,
+  "Menaquiomones (K2) (μg)": 0.93
+ },
+ {
+  "FOOD CODE": "P030",
+  "FOOD NAME": "Kite fish (Mobula kuhlii)",
+  "Retinol (μg)": 1.52,
+  "Cholecalciferol( D3) (μg)": 0.03,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.24,
+  "α-tocopherol equivalent (mg)": 0.24,
+  "Menaquiomones (K2) (μg)": 1.54
+ },
+ {
+  "FOOD CODE": "P031",
+  "FOOD NAME": "Korka (Terapon jarbua)",
+  "Retinol (μg)": 6.55,
+  "Cholecalciferol( D3) (μg)": 0.34,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.63,
+  "α-tocopherol equivalent (mg)": 0.63,
+  "Menaquiomones (K2) (μg)": 1.31
+ },
+ {
+  "FOOD CODE": "P032",
+  "FOOD NAME": "Kulam paarai (Carangoides fulvoguttatus)",
+  "Retinol (μg)": 3.64,
+  "Cholecalciferol( D3) (μg)": 2.45,
+  "25-OH-D3 (μg)": 0.31,
+  "Tocopherols α (mg)": 1.05,
+  "α-tocopherol equivalent (mg)": 1.05,
+  "Menaquiomones (K2) (μg)": 0.88
+ },
+ {
+  "FOOD CODE": "P033",
+  "FOOD NAME": "Maagaa (Polynemus plebeius)",
+  "Retinol (μg)": 1.76,
+  "Cholecalciferol( D3) (μg)": 1.18,
+  "25-OH-D3 (μg)": 0.09,
+  "Tocopherols α (mg)": 1.03,
+  "α-tocopherol equivalent (mg)": 1.03,
+  "Menaquiomones (K2) (μg)": 0.75
+ },
+ {
+  "FOOD CODE": "P034",
+  "FOOD NAME": "Mackerel (Rastrelliger kanagurta)",
+  "Retinol (μg)": 16.34,
+  "Cholecalciferol( D3) (μg)": 0.22,
+  "25-OH-D3 (μg)": 0.23,
+  "Tocopherols α (mg)": 0.71,
+  "α-tocopherol equivalent (mg)": 0.71,
+  "Menaquiomones (K2) (μg)": 5.25
+ },
+ {
+  "FOOD CODE": "P035",
+  "FOOD NAME": "Manda clathi (Naso reticulatus)",
+  "Retinol (μg)": 1.99,
+  "Cholecalciferol( D3) (μg)": 1.46,
+  "25-OH-D3 (μg)": 0.45,
+  "Tocopherols α (mg)": 0.16,
+  "α-tocopherol equivalent (mg)": 0.16,
+  "Menaquiomones (K2) (μg)": 0.46
+ },
+ {
+  "FOOD CODE": "P036",
+  "FOOD NAME": "Matha (Acanthurus mata )",
+  "Retinol (μg)": 4.99,
+  "Cholecalciferol( D3) (μg)": 1.95,
+  "25-OH-D3 (μg)": 0.11,
+  "Tocopherols α (mg)": 0.61,
+  "α-tocopherol equivalent (mg)": 0.61,
+  "Menaquiomones (K2) (μg)": 0.78
+ },
+ {
+  "FOOD CODE": "P037",
+  "FOOD NAME": "Milk fish (Chanos chanos)",
+  "Retinol (μg)": 3.29,
+  "Cholecalciferol( D3) (μg)": 1.2,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 1.86,
+  "α-tocopherol equivalent (mg)": 1.86,
+  "Menaquiomones (K2) (μg)": 1.18
+ },
+ {
+  "FOOD CODE": "P038",
+  "FOOD NAME": "Moon fish (Mene maculata)",
+  "Retinol (μg)": 8.94,
+  "Cholecalciferol( D3) (μg)": 0.48,
+  "25-OH-D3 (μg)": 0.09,
+  "Tocopherols α (mg)": 1.2,
+  "α-tocopherol equivalent (mg)": 1.2,
+  "Menaquiomones (K2) (μg)": 4.2
+ },
+ {
+  "FOOD CODE": "P039",
+  "FOOD NAME": "Mullet (Mugil cephalus)",
+  "Retinol (μg)": 18.38,
+  "Cholecalciferol( D3) (μg)": 0.31,
+  "25-OH-D3 (μg)": 0.19,
+  "Tocopherols α (mg)": 0.53,
+  "α-tocopherol equivalent (mg)": 0.53,
+  "Menaquiomones (K2) (μg)": 0.83
+ },
+ {
+  "FOOD CODE": "P040",
+  "FOOD NAME": "Mural (Tylosurus crocodilus crocodilus)",
+  "Retinol (μg)": 1.61,
+  "Cholecalciferol( D3) (μg)": 0.86,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.44,
+  "α-tocopherol equivalent (mg)": 0.44,
+  "Menaquiomones (K2) (μg)": 1.34
+ },
+ {
+  "FOOD CODE": "P041",
+  "FOOD NAME": "Myil meen (Istiophorus platypterus)",
+  "Retinol (μg)": 21.51,
+  "Cholecalciferol( D3) (μg)": 0.18,
+  "25-OH-D3 (μg)": 0.22,
+  "Tocopherols α (mg)": 0.53,
+  "α-tocopherol equivalent (mg)": 0.53,
+  "Menaquiomones (K2) (μg)": 0.89
+ },
+ {
+  "FOOD CODE": "P042",
+  "FOOD NAME": "Nalla bontha (Epinephelus sp.)",
+  "Retinol (μg)": 2.4,
+  "Cholecalciferol( D3) (μg)": 0.54,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.11,
+  "α-tocopherol equivalent (mg)": 0.11,
+  "Menaquiomones (K2) (μg)": 1.2
+ },
+ {
+  "FOOD CODE": "P043",
+  "FOOD NAME": "Narba (Caranx sexfasciatus)",
+  "Retinol (μg)": 2.93,
+  "Cholecalciferol( D3) (μg)": 0.19,
+  "25-OH-D3 (μg)": 0.2,
+  "Tocopherols α (mg)": 0.9,
+  "α-tocopherol equivalent (mg)": 0.9,
+  "Menaquiomones (K2) (μg)": 1.11
+ },
+ {
+  "FOOD CODE": "P044",
+  "FOOD NAME": "Paarai (Caranx heberi)",
+  "Retinol (μg)": 3.23,
+  "Cholecalciferol( D3) (μg)": 1.4,
+  "25-OH-D3 (μg)": 0.38,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 0.97
+ },
+ {
+  "FOOD CODE": "P045",
+  "FOOD NAME": "Padayappa (Canthidermis maculata)",
+  "Retinol (μg)": 1.46,
+  "Cholecalciferol( D3) (μg)": 0.62,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 0.25,
+  "α-tocopherol equivalent (mg)": 0.25,
+  "Menaquiomones (K2) (μg)": 0.63
+ },
+ {
+  "FOOD CODE": "P046",
+  "FOOD NAME": "Pali kora (Panna microdon)",
+  "Retinol (μg)": 1.89,
+  "Cholecalciferol( D3) (μg)": 0.11,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.44,
+  "α-tocopherol equivalent (mg)": 0.44,
+  "Menaquiomones (K2) (μg)": 1.92
+ },
+ {
+  "FOOD CODE": "P047",
+  "FOOD NAME": "Pambada (Lepturacanthus savala)",
+  "Retinol (μg)": 2.88,
+  "Cholecalciferol( D3) (μg)": 1.15,
+  "25-OH-D3 (μg)": 0.2,
+  "Tocopherols α (mg)": 0.55,
+  "α-tocopherol equivalent (mg)": 0.55,
+  "Menaquiomones (K2) (μg)": 0.98
+ },
+ {
+  "FOOD CODE": "P048",
+  "FOOD NAME": "Pandukopa (Pseudosciaena manchurica)",
+  "Retinol (μg)": 1.33,
+  "Cholecalciferol( D3) (μg)": 0.2,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 0.47,
+  "α-tocopherol equivalent (mg)": 0.47,
+  "Menaquiomones (K2) (μg)": 0.62
+ },
+ {
+  "FOOD CODE": "P049",
+  "FOOD NAME": "Parava (Lactarius lactarius)",
+  "Retinol (μg)": 2.56,
+  "Cholecalciferol( D3) (μg)": 1.12,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.55,
+  "α-tocopherol equivalent (mg)": 0.55,
+  "Menaquiomones (K2) (μg)": 0.66
+ },
+ {
+  "FOOD CODE": "P050",
+  "FOOD NAME": "Parcus (Psettodes erumei)",
+  "Retinol (μg)": 1.72,
+  "Cholecalciferol( D3) (μg)": 0.57,
+  "25-OH-D3 (μg)": 0.2,
+  "Tocopherols α (mg)": 0.3,
+  "α-tocopherol equivalent (mg)": 0.3,
+  "Menaquiomones (K2) (μg)": 1.84
+ },
+ {
+  "FOOD CODE": "P051",
+  "FOOD NAME": "Parrot fish (Scarus ghobban)",
+  "Retinol (μg)": 2.47,
+  "Cholecalciferol( D3) (μg)": 0.67,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.26,
+  "α-tocopherol equivalent (mg)": 0.26,
+  "Menaquiomones (K2) (μg)": 2.83
+ },
+ {
+  "FOOD CODE": "P052",
+  "FOOD NAME": "Perinkilichai (Pinjalo pinjalo)",
+  "Retinol (μg)": 1.62,
+  "Cholecalciferol( D3) (μg)": 0.36,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 1.1,
+  "α-tocopherol equivalent (mg)": 1.1,
+  "Menaquiomones (K2) (μg)": 0.95
+ },
+ {
+  "FOOD CODE": "P053",
+  "FOOD NAME": "Phopat (Coryphaena hippurus)",
+  "Retinol (μg)": 3.52,
+  "Cholecalciferol( D3) (μg)": 0.43,
+  "25-OH-D3 (μg)": 0.25,
+  "Tocopherols α (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 0.58,
+  "Menaquiomones (K2) (μg)": 0.75
+ },
+ {
+  "FOOD CODE": "P054",
+  "FOOD NAME": "Piranha (Pygopritis sp.)",
+  "Retinol (μg)": 1.05,
+  "Cholecalciferol( D3) (μg)": 1.06,
+  "25-OH-D3 (μg)": 0.09,
+  "Tocopherols α (mg)": 0.37,
+  "α-tocopherol equivalent (mg)": 0.37,
+  "Menaquiomones (K2) (μg)": 3.15
+ },
+ {
+  "FOOD CODE": "P055",
+  "FOOD NAME": "Pomfret, black (Parastromateus niger)",
+  "Retinol (μg)": 10.55,
+  "Cholecalciferol( D3) (μg)": 2.28,
+  "25-OH-D3 (μg)": 0.66,
+  "Tocopherols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "Menaquiomones (K2) (μg)": 102
+ },
+ {
+  "FOOD CODE": "P056",
+  "FOOD NAME": "Pomfret, snub nose (Trachinotus blochii)",
+  "Retinol (μg)": 3.91,
+  "Cholecalciferol( D3) (μg)": 0.51,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 1.54,
+  "α-tocopherol equivalent (mg)": 1.54,
+  "Menaquiomones (K2) (μg)": 0.84
+ },
+ {
+  "FOOD CODE": "P057",
+  "FOOD NAME": "Pomfret, white (Pampus argenteus)",
+  "Retinol (μg)": 30.31,
+  "Cholecalciferol( D3) (μg)": 0.61,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 1.26,
+  "α-tocopherol equivalent (mg)": 1.26,
+  "Menaquiomones (K2) (μg)": 0.99
+ },
+ {
+  "FOOD CODE": "P058",
+  "FOOD NAME": "Pranel (Gerres sp.)",
+  "Retinol (μg)": 1.84,
+  "Cholecalciferol( D3) (μg)": 0.54,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.42,
+  "α-tocopherol equivalent (mg)": 0.42,
+  "Menaquiomones (K2) (μg)": 0.69
+ },
+ {
+  "FOOD CODE": "P059",
+  "FOOD NAME": "Pulli paarai (Gnathanodon speciosus)",
+  "Retinol (μg)": 1.75,
+  "Cholecalciferol( D3) (μg)": 1.6,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.82,
+  "α-tocopherol equivalent (mg)": 0.82,
+  "Menaquiomones (K2) (μg)": 1.24
+ },
+ {
+  "FOOD CODE": "P060",
+  "FOOD NAME": "Queen fish (Scomberoides commersonianus)",
+  "Retinol (μg)": 1.52,
+  "Cholecalciferol( D3) (μg)": 0.19,
+  "Tocopherols α (mg)": 0.4,
+  "α-tocopherol equivalent (mg)": 0.4,
+  "Menaquiomones (K2) (μg)": 0.79
+ },
+ {
+  "FOOD CODE": "P061",
+  "FOOD NAME": "Raai fish (Lobotes surinamensis)",
+  "Retinol (μg)": 1.15,
+  "Cholecalciferol( D3) (μg)": 2.99,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 0.52,
+  "α-tocopherol equivalent (mg)": 0.52,
+  "Menaquiomones (K2) (μg)": 1.05
+ },
+ {
+  "FOOD CODE": "P062",
+  "FOOD NAME": "Raai vanthu (Epinephelus chlorostigma)",
+  "Retinol (μg)": 2.87,
+  "Cholecalciferol( D3) (μg)": 1.23,
+  "Tocopherols α (mg)": 0.02,
+  "α-tocopherol equivalent (mg)": 0.02,
+  "Menaquiomones (K2) (μg)": 1.21
+ },
+ {
+  "FOOD CODE": "P063",
+  "FOOD NAME": "Rani (Pink perch)",
+  "Retinol (μg)": 1.78,
+  "Cholecalciferol( D3) (μg)": 1.84,
+  "25-OH-D3 (μg)": 0.06,
+  "Tocopherols α (mg)": 1.65,
+  "α-tocopherol equivalent (mg)": 1.65,
+  "Menaquiomones (K2) (μg)": 0.71
+ },
+ {
+  "FOOD CODE": "P064",
+  "FOOD NAME": "Ray fish, bow head, spotted (Rhina ancylostoma)",
+  "Retinol (μg)": 1.97,
+  "Cholecalciferol( D3) (μg)": 0.81,
+  "25-OH-D3 (μg)": 0.02,
+  "Tocopherols α (mg)": 0.33,
+  "α-tocopherol equivalent (mg)": 0.33,
+  "Menaquiomones (K2) (μg)": 1.51
+ },
+ {
+  "FOOD CODE": "P065",
+  "FOOD NAME": "Red snapper (Lutjanus argentimaculatus)",
+  "Retinol (μg)": 4.77,
+  "Cholecalciferol( D3) (μg)": 2.32,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.41,
+  "α-tocopherol equivalent (mg)": 0.41,
+  "Menaquiomones (K2) (μg)": 98.48
+ },
+ {
+  "FOOD CODE": "P066",
+  "FOOD NAME": "Red snapper, small (Priacanthus hamrur)",
+  "Retinol (μg)": 20.87,
+  "Cholecalciferol( D3) (μg)": 3.05,
+  "25-OH-D3 (μg)": 0.13,
+  "Tocopherols α (mg)": 0.85,
+  "α-tocopherol equivalent (mg)": 0.85,
+  "Menaquiomones (K2) (μg)": 0.97
+ },
+ {
+  "FOOD CODE": "P067",
+  "FOOD NAME": "Sadaya (Platax orbicularis )",
+  "Retinol (μg)": 64.2,
+  "Cholecalciferol( D3) (μg)": 1.56,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.52,
+  "α-tocopherol equivalent (mg)": 0.52,
+  "Menaquiomones (K2) (μg)": 1.77
+ },
+ {
+  "FOOD CODE": "P068",
+  "FOOD NAME": "Salmon (Salmo salar)",
+  "Retinol (μg)": 15.63,
+  "Cholecalciferol( D3) (μg)": 0.86,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 0.58,
+  "α-tocopherol equivalent (mg)": 0.58,
+  "Menaquiomones (K2) (μg)": 0.75
+ },
+ {
+  "FOOD CODE": "P069",
+  "FOOD NAME": "Sangada (Nemipterus japonicus)",
+  "Retinol (μg)": 3.07,
+  "Cholecalciferol( D3) (μg)": 0.92,
+  "25-OH-D3 (μg)": 0.13,
+  "Tocopherols α (mg)": 0.36,
+  "α-tocopherol equivalent (mg)": 0.36,
+  "Menaquiomones (K2) (μg)": 0.71
+ },
+ {
+  "FOOD CODE": "P070",
+  "FOOD NAME": "Sankata paarai (Caranx ignobilis)",
+  "Retinol (μg)": 2.58,
+  "Cholecalciferol( D3) (μg)": 0.58,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 1.07,
+  "α-tocopherol equivalent (mg)": 1.07,
+  "Menaquiomones (K2) (μg)": 1.17
+ },
+ {
+  "FOOD CODE": "P071",
+  "FOOD NAME": "Sardine (Sardinella longiceps)",
+  "Retinol (μg)": 12.66,
+  "Cholecalciferol( D3) (μg)": 3.51,
+  "Tocopherols α (mg)": 0.38,
+  "α-tocopherol equivalent (mg)": 0.38,
+  "Menaquiomones (K2) (μg)": 2.65
+ },
+ {
+  "FOOD CODE": "P072",
+  "FOOD NAME": "Shark (Carcharhinus sorrah)",
+  "Retinol (μg)": 1.11,
+  "Cholecalciferol( D3) (μg)": 0.18,
+  "25-OH-D3 (μg)": 0.18,
+  "Tocopherols α (mg)": 0.22,
+  "α-tocopherol equivalent (mg)": 0.22,
+  "Menaquiomones (K2) (μg)": 0.78
+ },
+ {
+  "FOOD CODE": "P073",
+  "FOOD NAME": "Shark, hammer head (Sphyrna mokarran)",
+  "Retinol (μg)": 20.55,
+  "Cholecalciferol( D3) (μg)": 0.58,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 0.78,
+  "α-tocopherol equivalent (mg)": 0.78,
+  "Menaquiomones (K2) (μg)": 1.16
+ },
+ {
+  "FOOD CODE": "P074",
+  "FOOD NAME": "Shark, spotted (Stegostoma fasciatum)",
+  "Retinol (μg)": 12.43,
+  "Cholecalciferol( D3) (μg)": 1.23,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 0.19,
+  "α-tocopherol equivalent (mg)": 0.19,
+  "Menaquiomones (K2) (μg)": 0.86
+ },
+ {
+  "FOOD CODE": "P075",
+  "FOOD NAME": "Shelavu (Sphyraena jello)",
+  "Retinol (μg)": 24.82,
+  "Cholecalciferol( D3) (μg)": 1.77,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 0.36,
+  "α-tocopherol equivalent (mg)": 0.36,
+  "Menaquiomones (K2) (μg)": 1.72
+ },
+ {
+  "FOOD CODE": "P076",
+  "FOOD NAME": "Silan (Silonia silondia)",
+  "Retinol (μg)": 3.07,
+  "Cholecalciferol( D3) (μg)": 0.18,
+  "Tocopherols α (mg)": 0.48,
+  "α-tocopherol equivalent (mg)": 0.48,
+  "Menaquiomones (K2) (μg)": 1.74
+ },
+ {
+  "FOOD CODE": "P077",
+  "FOOD NAME": "Silk fish (Beryx sp.)",
+  "Retinol (μg)": 1.69,
+  "Cholecalciferol( D3) (μg)": 0.68,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 0.72,
+  "α-tocopherol equivalent (mg)": 0.72,
+  "Menaquiomones (K2) (μg)": 0.98
+ },
+ {
+  "FOOD CODE": "P078",
+  "FOOD NAME": "Silver carp (Hypophthalmichthys molitrix)",
+  "Retinol (μg)": 6.74,
+  "Cholecalciferol( D3) (μg)": 0.69,
+  "25-OH-D3 (μg)": 0.17,
+  "Tocopherols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "Menaquiomones (K2) (μg)": 0.83
+ },
+ {
+  "FOOD CODE": "P079",
+  "FOOD NAME": "Sole fish (Cynoglossus arel)",
+  "Retinol (μg)": 9.53,
+  "Cholecalciferol( D3) (μg)": 1.12,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.18,
+  "α-tocopherol equivalent (mg)": 0.18,
+  "Menaquiomones (K2) (μg)": 0.74
+ },
+ {
+  "FOOD CODE": "P080",
+  "FOOD NAME": "Stingray (Dasyatis pastinaca)",
+  "Retinol (μg)": 7.55,
+  "Cholecalciferol( D3) (μg)": 0.67,
+  "25-OH-D3 (μg)": 0.23,
+  "Tocopherols α (mg)": 0.28,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "Menaquiomones (K2) (μg)": 0.9
+ },
+ {
+  "FOOD CODE": "P081",
+  "FOOD NAME": "Tarlava (Drepane punctata)",
+  "Retinol (μg)": 5.32,
+  "Cholecalciferol( D3) (μg)": 2.35,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.52,
+  "α-tocopherol equivalent (mg)": 0.52,
+  "Menaquiomones (K2) (μg)": 0.76
+ },
+ {
+  "FOOD CODE": "P082",
+  "FOOD NAME": "Tholam (Plectorhinchus schotaf)",
+  "Retinol (μg)": 250,
+  "Cholecalciferol( D3) (μg)": 2.8,
+  "25-OH-D3 (μg)": 0.75,
+  "Tocopherols α (mg)": 0.6,
+  "α-tocopherol equivalent (mg)": 0.6,
+  "Menaquiomones (K2) (μg)": 1.33
+ },
+ {
+  "FOOD CODE": "P083",
+  "FOOD NAME": "Tilapia (Oreochromis niloticus)",
+  "Retinol (μg)": 17.14,
+  "Cholecalciferol( D3) (μg)": 0.85,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 1.86,
+  "α-tocopherol equivalent (mg)": 1.86,
+  "Menaquiomones (K2) (μg)": 3.65
+ },
+ {
+  "FOOD CODE": "P084",
+  "FOOD NAME": "Tuna (Euthynnus affinis)",
+  "Retinol (μg)": 16.65,
+  "Cholecalciferol( D3) (μg)": 0.11,
+  "25-OH-D3 (μg)": 0.63,
+  "Tocopherols α (mg)": 0.57,
+  "α-tocopherol equivalent (mg)": 0.57,
+  "Menaquiomones (K2) (μg)": 11.63
+ },
+ {
+  "FOOD CODE": "P085",
+  "FOOD NAME": "Tuna, striped (Katsuwonus pelamis)",
+  "Retinol (μg)": 21.01,
+  "Cholecalciferol( D3) (μg)": 0.65,
+  "25-OH-D3 (μg)": 0.05,
+  "Tocopherols α (mg)": 0.14,
+  "α-tocopherol equivalent (mg)": 0.14,
+  "Menaquiomones (K2) (μg)": 1.23
+ },
+ {
+  "FOOD CODE": "P086",
+  "FOOD NAME": "Valava (Chirocentrus nudus)",
+  "Retinol (μg)": 1.25,
+  "Cholecalciferol( D3) (μg)": 0.25,
+  "25-OH-D3 (μg)": 0.01,
+  "Tocopherols α (mg)": 0.31,
+  "α-tocopherol equivalent (mg)": 0.31,
+  "Menaquiomones (K2) (μg)": 0.84
+ },
+ {
+  "FOOD CODE": "P087",
+  "FOOD NAME": "Vanjaram (Scomberomorus commerson)",
+  "Retinol (μg)": 81.9,
+  "Cholecalciferol( D3) (μg)": 1.57,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 0.67,
+  "α-tocopherol equivalent (mg)": 0.67,
+  "Menaquiomones (K2) (μg)": 0.65
+ },
+ {
+  "FOOD CODE": "P088",
+  "FOOD NAME": "Vela meen (Aprion virescens)",
+  "Retinol (μg)": 3.03,
+  "Cholecalciferol( D3) (μg)": 0.92,
+  "Tocopherols α (mg)": 0.44,
+  "α-tocopherol equivalent (mg)": 0.44,
+  "Menaquiomones (K2) (μg)": 0.81
+ },
+ {
+  "FOOD CODE": "P089",
+  "FOOD NAME": "Vora (Siganus javus)",
+  "Retinol (μg)": 3.2,
+  "Cholecalciferol( D3) (μg)": 0.6,
+  "25-OH-D3 (μg)": 0.16,
+  "Tocopherols α (mg)": 0.65,
+  "α-tocopherol equivalent (mg)": 0.65,
+  "Menaquiomones (K2) (μg)": 1.97
+ },
+ {
+  "FOOD CODE": "P090",
+  "FOOD NAME": "Whale shark (Galeocerdo cuvier)",
+  "Retinol (μg)": 1.97,
+  "Cholecalciferol( D3) (μg)": 1.82,
+  "25-OH-D3 (μg)": 0.35,
+  "Tocopherols α (mg)": 0.17,
+  "α-tocopherol equivalent (mg)": 0.17,
+  "Menaquiomones (K2) (μg)": 0.81
+ },
+ {
+  "FOOD CODE": "P091",
+  "FOOD NAME": "Xiphinis (Xiphias gladius)",
+  "Retinol (μg)": 1.14,
+  "Cholecalciferol( D3) (μg)": 0.02,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 0.76,
+  "α-tocopherol equivalent (mg)": 0.76,
+  "Menaquiomones (K2) (μg)": 0.78
+ },
+ {
+  "FOOD CODE": "P092",
+  "FOOD NAME": "Eggs, Cat fish (Ompok bimaculatus)",
+  "Retinol (μg)": 2.55,
+  "Cholecalciferol( D3) (μg)": 2.8,
+  "25-OH-D3 (μg)": 0.47,
+  "Tocopherols α (mg)": 0.28,
+  "α-tocopherol equivalent (mg)": 0.28,
+  "Menaquiomones (K2) (μg)": 0.53
+ },
+ {
+  "FOOD CODE": "Q001",
+  "FOOD NAME": "Crab (Menippe mercenaria)",
+  "Retinol (μg)": 1.55,
+  "Cholecalciferol( D3) (μg)": 0.21,
+  "25-OH-D3 (μg)": 0.68,
+  "Tocopherols α (mg)": 6.33,
+  "α-tocopherol equivalent (mg)": 6.33,
+  "Menaquiomones (K2) (μg)": 1.04
+ },
+ {
+  "FOOD CODE": "Q002",
+  "FOOD NAME": "Crab, sea (Portunus sanguinolentus)",
+  "Retinol (μg)": 5.02,
+  "Cholecalciferol( D3) (μg)": 0.63,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 2.06,
+  "α-tocopherol equivalent (mg)": 2.06,
+  "Menaquiomones (K2) (μg)": 1.11
+ },
+ {
+  "FOOD CODE": "Q003",
+  "FOOD NAME": "Lobster, brown (Thenus orientalis)",
+  "Retinol (μg)": 1.83,
+  "Cholecalciferol( D3) (μg)": 0.78,
+  "25-OH-D3 (μg)": 0.06,
+  "Tocopherols α (mg)": 1.35,
+  "α-tocopherol equivalent (mg)": 1.35,
+  "Menaquiomones (K2) (μg)": 1.06
+ },
+ {
+  "FOOD CODE": "Q004",
+  "FOOD NAME": "Lobster, king size (Thenus orientalis)",
+  "Retinol (μg)": 15.02,
+  "Cholecalciferol( D3) (μg)": 0.19,
+  "25-OH-D3 (μg)": 0.09,
+  "Tocopherols α (mg)": 0.52,
+  "α-tocopherol equivalent (mg)": 0.52,
+  "Menaquiomones (K2) (μg)": 1.25
+ },
+ {
+  "FOOD CODE": "Q005",
+  "FOOD NAME": "Mud crab (Scylla tranquebarica)",
+  "Retinol (μg)": 8.33,
+  "Cholecalciferol( D3) (μg)": 0.94,
+  "25-OH-D3 (μg)": 0.14,
+  "Tocopherols α (mg)": 2.34,
+  "α-tocopherol equivalent (mg)": 2.34,
+  "Menaquiomones (K2) (μg)": 1.03
+ },
+ {
+  "FOOD CODE": "Q006",
+  "FOOD NAME": "Oyster (Crassostrea sp.)",
+  "Retinol (μg)": 25.36,
+  "Cholecalciferol( D3) (μg)": 0.82,
+  "25-OH-D3 (μg)": 0.04,
+  "Tocopherols α (mg)": 1.11,
+  "α-tocopherol equivalent (mg)": 1.11,
+  "Menaquiomones (K2) (μg)": 1.72
+ },
+ {
+  "FOOD CODE": "Q007",
+  "FOOD NAME": "Tiger prawns, brown (Solenocera crassicornis)",
+  "Retinol (μg)": 1.24,
+  "Cholecalciferol( D3) (μg)": 1.18,
+  "25-OH-D3 (μg)": 0.35,
+  "Tocopherols α (mg)": 3.04,
+  "α-tocopherol equivalent (mg)": 3.04,
+  "Menaquiomones (K2) (μg)": 297
+ },
+ {
+  "FOOD CODE": "Q008",
+  "FOOD NAME": "Tiger Prawns, orange (Penaeus monodon)",
+  "Retinol (μg)": 6.55,
+  "Cholecalciferol( D3) (μg)": 1.62,
+  "25-OH-D3 (μg)": 0.63,
+  "Tocopherols α (mg)": 2.87,
+  "α-tocopherol equivalent (mg)": 2.87,
+  "Menaquiomones (K2) (μg)": 2.32
+ },
+ {
+  "FOOD CODE": "R001",
+  "FOOD NAME": "Clam, green shell (Perna viridis)",
+  "Retinol (μg)": 29.04,
+  "Cholecalciferol( D3) (μg)": 0.86,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 2.7,
+  "α-tocopherol equivalent (mg)": 2.7,
+  "Menaquiomones (K2) (μg)": 1.48
+ },
+ {
+  "FOOD CODE": "R002",
+  "FOOD NAME": "Clam, white shell, ribbed (Meretrix meretrix)",
+  "Retinol (μg)": 8.5,
+  "Cholecalciferol( D3) (μg)": 2.08,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 1.21,
+  "α-tocopherol equivalent (mg)": 1.21,
+  "Menaquiomones (K2) (μg)": 1.53
+ },
+ {
+  "FOOD CODE": "R003",
+  "FOOD NAME": "Octopus (Octopus vulgaris)",
+  "Retinol (μg)": 28,
+  "Cholecalciferol( D3) (μg)": 0.43,
+  "25-OH-D3 (μg)": 0.24,
+  "Tocopherols α (mg)": 0.66,
+  "α-tocopherol equivalent (mg)": 0.66,
+  "Menaquiomones (K2) (μg)": 0.84
+ },
+ {
+  "FOOD CODE": "R004",
+  "FOOD NAME": "Squid, black (Loligo sp.)",
+  "Retinol (μg)": 2.55,
+  "Cholecalciferol( D3) (μg)": 0.57,
+  "25-OH-D3 (μg)": 0.32,
+  "Tocopherols α (mg)": 0.68,
+  "α-tocopherol equivalent (mg)": 0.68,
+  "Menaquiomones (K2) (μg)": 1.14
+ },
+ {
+  "FOOD CODE": "R005",
+  "FOOD NAME": "Squid, hard shell (Sepia pharaonis)",
+  "Retinol (μg)": 1.93,
+  "Cholecalciferol( D3) (μg)": 0.78,
+  "25-OH-D3 (μg)": 0.22,
+  "Tocopherols α (mg)": 0.55,
+  "α-tocopherol equivalent (mg)": 0.55,
+  "Menaquiomones (K2) (μg)": 2.26
+ },
+ {
+  "FOOD CODE": "R006",
+  "FOOD NAME": "Squid, red (Loligo duvauceli)",
+  "Retinol (μg)": 4.72,
+  "Cholecalciferol( D3) (μg)": 1.05,
+  "25-OH-D3 (μg)": 0.18,
+  "Tocopherols α (mg)": 0.47,
+  "α-tocopherol equivalent (mg)": 0.47,
+  "Menaquiomones (K2) (μg)": 1.14
+ },
+ {
+  "FOOD CODE": "R007",
+  "FOOD NAME": "Squid, white, small (Uroteuthis duvauceli)",
+  "Retinol (μg)": 8.55,
+  "Cholecalciferol( D3) (μg)": 0.55,
+  "25-OH-D3 (μg)": 0.16,
+  "Tocopherols α (mg)": 0.66,
+  "α-tocopherol equivalent (mg)": 0.66,
+  "Menaquiomones (K2) (μg)": 1.84
+ },
+ {
+  "FOOD CODE": "S001",
+  "FOOD NAME": "Cat fish (Tandanus tandanus)",
+  "Retinol (μg)": 13.59,
+  "Cholecalciferol( D3) (μg)": 1.37,
+  "25-OH-D3 (μg)": 0.11,
+  "Tocopherols α (mg)": 0.38,
+  "α-tocopherol equivalent (mg)": 0.38,
+  "Menaquiomones (K2) (μg)": 0.96
+ },
+ {
+  "FOOD CODE": "S002",
+  "FOOD NAME": "Catla (Catla catla)",
+  "Retinol (μg)": 4.32,
+  "Cholecalciferol( D3) (μg)": 1.9,
+  "25-OH-D3 (μg)": 0.16,
+  "Tocopherols α (mg)": 2.35,
+  "α-tocopherol equivalent (mg)": 2.35,
+  "Menaquiomones (K2) (μg)": 1.12
+ },
+ {
+  "FOOD CODE": "S003",
+  "FOOD NAME": "Freshwater Eel (Anguilla anguilla)",
+  "Retinol (μg)": 866,
+  "Cholecalciferol( D3) (μg)": 3.81,
+  "25-OH-D3 (μg)": 0.57,
+  "Tocopherols α (mg)": 1.8,
+  "α-tocopherol equivalent (mg)": 1.8,
+  "Menaquiomones (K2) (μg)": 1.23
+ },
+ {
+  "FOOD CODE": "S004",
+  "FOOD NAME": "Gold fish (Carassius auratus)",
+  "Retinol (μg)": 22.95,
+  "Cholecalciferol( D3) (μg)": 0.21,
+  "25-OH-D3 (μg)": 0.07,
+  "Tocopherols α (mg)": 2.1,
+  "α-tocopherol equivalent (mg)": 2.1,
+  "Menaquiomones (K2) (μg)": 1.26
+ },
+ {
+  "FOOD CODE": "S005",
+  "FOOD NAME": "Pangas (Pangasianodon hypophthalmus)",
+  "Retinol (μg)": 14.59,
+  "Cholecalciferol( D3) (μg)": 0.2,
+  "25-OH-D3 (μg)": 0.08,
+  "Tocopherols α (mg)": 2.8,
+  "α-tocopherol equivalent (mg)": 2.8,
+  "Menaquiomones (K2) (μg)": 0.92
+ },
+ {
+  "FOOD CODE": "S006",
+  "FOOD NAME": "Rohu (Labeo rohita)",
+  "Retinol (μg)": 3.87,
+  "Cholecalciferol( D3) (μg)": 0.84,
+  "25-OH-D3 (μg)": 0.17,
+  "Tocopherols α (mg)": 2.4,
+  "α-tocopherol equivalent (mg)": 2.4,
+  "Menaquiomones (K2) (μg)": 1.03
+ },
+ {
+  "FOOD CODE": "S007",
+  "FOOD NAME": "Crab (Pachygrapsus sp.)",
+  "Retinol (μg)": 12.55,
+  "Cholecalciferol( D3) (μg)": 1.2,
+  "25-OH-D3 (μg)": 0.17,
+  "Tocopherols α (mg)": 4.85,
+  "α-tocopherol equivalent (mg)": 4.85,
+  "Menaquiomones (K2) (μg)": 0.91
+ },
+ {
+  "FOOD CODE": "S008",
+  "FOOD NAME": "Prawns, big (Macrobrachium rosenbergii)",
+  "Retinol (μg)": 3.56,
+  "Cholecalciferol( D3) (μg)": 0.35,
+  "25-OH-D3 (μg)": 0.1,
+  "Tocopherols α (mg)": 2.85,
+  "Menaquiomones (K2) (μg)": 0.84
+ },
+ {
+  "FOOD CODE": "S009",
+  "FOOD NAME": "Prawns, small (Macrobrachium sp.)",
+  "Retinol (μg)": 2.78,
+  "Cholecalciferol( D3) (μg)": 0.95,
+  "25-OH-D3 (μg)": 0.15,
+  "Tocopherols α (mg)": 1.75,
+  "α-tocopherol equivalent (mg)": 1.75,
+  "Menaquiomones (K2) (μg)": 0.8
+ },
+ {
+  "FOOD CODE": "S010",
+  "FOOD NAME": "Tiger prawns (Macrobrachium sp.)",
+  "Retinol (μg)": 0.55,
+  "Cholecalciferol( D3) (μg)": 1.34,
+  "25-OH-D3 (μg)": 0.27,
+  "Tocopherols α (mg)": 1.65,
+  "α-tocopherol equivalent (mg)": 1.65,
+  "Menaquiomones (K2) (μg)": 1.02
+ },
+ {
+  "FOOD CODE": "T001",
+  "FOOD NAME": "Coconut oil"
+ },
+ {
+  "FOOD CODE": "T002",
+  "FOOD NAME": "Corn oil"
+ },
+ {
+  "FOOD CODE": "T003",
+  "FOOD NAME": "Cotton seed oil"
+ },
+ {
+  "FOOD CODE": "T004",
+  "FOOD NAME": "Gingelly oil"
+ },
+ {
+  "FOOD CODE": "T005",
+  "FOOD NAME": "Groundnut oil"
+ },
+ {
+  "FOOD CODE": "T006",
+  "FOOD NAME": "Mustard oil"
+ },
+ {
+  "FOOD CODE": "T007",
+  "FOOD NAME": "Palm oil"
+ },
+ {
+  "FOOD CODE": "T008",
+  "FOOD NAME": "Rice bran oil"
+ },
+ {
+  "FOOD CODE": "T009",
+  "FOOD NAME": "Safflower oil"
+ },
+ {
+  "FOOD CODE": "T010",
+  "FOOD NAME": "Safflower oil (blended)"
+ },
+ {
+  "FOOD CODE": "T011",
+  "FOOD NAME": "Soyabean oil"
+ },
+ {
+  "FOOD CODE": "T012",
+  "FOOD NAME": "Sunflower oil"
+ },
+ {
+  "FOOD CODE": "T013",
+  "FOOD NAME": "Ghee"
+ },
+ {
+  "FOOD CODE": "T014",
+  "FOOD NAME": "Vanaspati"
+ }
+]
+}
