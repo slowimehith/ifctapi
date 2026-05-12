@@ -49,7 +49,9 @@ const FOOD_GROUPS = {
 };
 
 function readJson(fileName) {
-  const filePath = path.join(DATA_DIR, fileName);
+  const filePath = fs.existsSync(path.join(DATA_DIR, fileName))
+    ? path.join(DATA_DIR, fileName)
+    : path.join(process.cwd(), fileName);
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
